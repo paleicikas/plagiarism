@@ -1,0 +1,2281 @@
+Dynamics of Female Labor Force Participation and Welfare with Multiple Social 
+Reference Groups 
+ 
+ 
+Mihaela Pintea* 
+ 
+ 
+Abstract 
+ 
+ 
+ 
+I develop a model with status concerns to analyze how different economic factors affect female 
+labor participation and welfare, as well as average household incomes and wages. Reductions in 
+the price of domestic goods and increases in female wages have positive effects on female 
+participation. Increases in male wages have different effects on female participation depending on 
+whether they affect female wages or not. Events that lead to increases in female participation are 
+usually associated with decreases in the welfare of stay-at-home wives but are not necessarily 
+associated with increases in welfare of working wives. Allowing for part-time work can lead to an 
+increase in overall female labor force participation, but some women that would have worked fulltime end up working part-time. If female wages are endogenous, an increase in male wages leads 
+to an increase in the female participation rate even if it is not associated with a decrease in the 
+gender wage gap. The positive feedback of increased female participation on their wages can lead 
+to hysteresis of dual equilibria of high and low female labor force participation and a discontinuous 
+transition between these equilibria. 
+ 
+ 
+ 
+JEL classification: D62; E24; J16 
+Keywords: female labor force participation; relative income; gender wage gap 
+ 
+ 
+ 
+* Department of Economics, Florida International University, E-mail: pinteam@fiu.edu 
+ 
+
+1 
+ 
+1. Introduction 
+Women's labor force participation increased dramatically over the second half of the 20th 
+century. The economic literature has put forward various explanations for this phenomenon, 
+explanations that are mostly associated with developments that by objective measures lead to 
+increases in female welfare (Blau 1998). Recent literature on female labor force participation has 
+focused on cultural changes as an engine of increased participation (Fernandez 2013, Escriche 
+2007, Vendrik 2003, Fortin 2008). As more women participate in the labor force, the expectations 
+regarding women's role in society adjust and it becomes easier for the subsequent generations of 
+women to join the labor force. By changing the culture that kept married women at home, women 
+were given a wider set of options, allowing them to choose the lifestyle that maximizes their 
+welfare. Surprisingly then, Stevenson and Wolfers (2009) found that women's happiness has 
+declined both absolutely and relative to men during this time. I argue that the "paradox of declining 
+female happiness" can be explained by status concerns with respect to multiple reference groups, 
+in a similar fashion to how "the Easterlin paradox" was justified by relative income concerns 
+(Clark, Frijters and Shields 2008). 
+To this end, I incorporate status concerns at household and individual level in a model where 
+female labor force participation is affected by gender wage gap and the price of "home goods", 
+external factors that were shown to have contributed to the increase in labor participation of 
+married women throughout the second half of the 20th century1. My focus therefore is on how 
+these factors affect married women's decision to join the labor force, the average wage and 
+household income in the economy, as well as the welfare of both stay-at-home and working 
+wives. The results are consistent with the studies that found that decreases in the price of "home 
+goods" relative to female wages and increase in women's wages (decreases in gender wage gaps) 
+ 
+1 Attanasio, Low and Sanchez-Marcos (2008) focus on labor participation of women belonging to different 
+cohorts during the 20th century and show that decreases in child care costs combined with increases in female wages 
+play an important role in explaining the increase in participation rates. Ferrrero, Martinez and Iza (2004) argue that 
+recent skill-biased technological change led to an increase in skill premium and a relative decrease in the market 
+value of child caring, which they credit with leading to increased participation rates for women. Jones, Manuelli and 
+McGratan (2015) analyze the effects that the decrease in the wage-gender gap, as well as technological improvement 
+in the production of non-market goods had on average hours worked by women of and conclude that reduction in 
+wage-gender gap is the most compelling explanation for the observed increase in female participation. Cardia and 
+Gomme (2018) study the implications of a calibrated version of a life cycle model. They find that increases in the 
+relative wages received by females explain most of the observed changes in labor supply, especially before 1980. 
+ 
+
+2 
+ 
+led to increased female participation. Due to the introduction of status concerns, the effects on 
+women's welfare however differ from those typically found in this literature. 
+The model allows for heterogeneity in women's preference for home production and women's 
+concerns for social status both at household and individual level, and thus potential feelings of 
+envy due to wage gaps between women in the labor force and the men with whom they work. 
+Women who work experience increased welfare because of the income that they receive. They are 
+also subject to decreases in welfare, however, because they must outsource their home production 
+and compete with the men that are already in the workforce2. 
+Reductions in the price of "home goods" and increases in female wages have positive 
+effects on the female participation rate. Increases in male wages have different effects on female 
+participation depending on whether male wages affect female wages. If female wage is an 
+independent variable, an increase in male wages decreases the female participation rate. 
+Alternatively, I assume that female wage is a positive function of male wage and past female 
+participation rates3. The results change such that an increase in male wages leads to an increase 
+in the female participation rate even if it is not associated with a decrease in the gender wage 
+gap. The positive feedback of increased female participation on their wages can lead to 
+hysteresis of dual equilibria of high and low female labor force participation and a discontinuous 
+transition between these equilibria. The dynamic portion of the model and the hysteresis 
+associated with it is especially relevant in the context of women entering different occupations at 
+different rates based on historical employment patterns. 
+Most economic models predict that an increase in female labor supply due to positive events 
+in women's lives, such as increased female wages and decreased price of consumption goods, 
+would be associated with increased welfare for working women. Incorporating status concerns at 
+both individual and household level, I find that these events not only are associated with decreases 
+in the welfare of stay-at-home wives but also do not necessarily lead to increases in the welfare of 
+ 
+2 Women that work might also experience decrease in welfare due to the double burden of work and household 
+chores, but the model allows to combine the two roles in a way that does not increase the amount of work. I assume 
+that women are either working outside the home and buying the home goods from the market or staying at home, 
+and working to produce the home goods themselves. In Section 3.3. I allow for women to combine the two roles by 
+working outside the home on a part-time basis and spending the rest of the working hours at home producing the 
+home goods. There is no labor-leisure choice in the model, as women provide a fixed amount of labor either at home 
+or outside the home. 
+3 I make these assumptions because technological advances in the marketplace affect the demand for labor in 
+general, and wages are influenced by the historical trajectory of different categories of workers. 
+
+3 
+ 
+working wives. Additionally, I show that status concerns at the household level, not at the 
+individual level, are the main factor that can lead to a decrease in the happiness of the average 
+working woman. 
+If part-time work is available to women, overall female labor force participation increases, but 
+some women that would have worked full-time end up working part-time. The effect on the 
+average household income is ambiguous, and therefore the welfare effect on working and stay-athome women is ambiguous as well. 
+In the next section I review the related literature on status concerns with respect to different 
+reference groups and the gender wage gap as a function of female participation. In Section 3, I 
+present the model using both exogenous and endogenous female wages, and I develop my 
+propositions. Section 3 also includes a description of possible multiple equilibria and hysteresis 
+effects. Section 4 concludes the paper. 
+ 
+2. Related literature 
+2.1 Status concerns in relation to different reference groups 
+The economic literature confirming the importance of income comparisons in the utility 
+function is quite extensive and keeps growing. Using individual level panel data, Luttmer (2005) 
+and Ferrer-i-Carbonell (2005) show that individuals are happier the larger their income is in 
+comparison with the income of their reference group and that higher earnings of neighbors are 
+associated with lower levels of self-reported happiness. Dynan and Ravina (2007) find that 
+people's happiness is positively related to how well they are doing relative to the average in their 
+geographic area. Frank (2007) provides a plethora of anecdotal evidence regarding the effects of 
+status concerns on individual behavior. 
+The implications of the "keeping up with the Joneses" models are generally used in a genderneutral fashion to explain saving, consumption, and labor supply decisions at intensive margins at 
+the individual level4. Particularly relevant to my research, some authors use these relative income 
+concerns to explain the labor force participation decisions of married women. Neumark and 
+ 
+4 Abel (1990) and Gali (1994) are concerned with the effects of preference interdependence on asset pricing, Caroll, 
+Overland and Weil (2000), Liu and Turnovsky (2005) are concerned with their effects on capital accumulation, 
+savings and growth, Alvarez-Cuadrado and Long (2012), Garcia-Penalosa and Turnovsky (2008) with their effects 
+on income inequality. Cooper et al (2001) develop a growth model in which agents can consume both "normal 
+goods" that confer direct utility and "status goods" that confer utility at the expense of others. They show that as the 
+economy grows, more resources are transferred to production of status goods which leads to negative utility growth. 
+
+4 
+ 
+Postlewaite (1998) develop a neoclassical model that incorporates relative income concerns into 
+households' utility functions to explain women's employment decisions. They show that these 
+decisions are affected by the incomes of other women with whom relative income comparisons 
+might be important, such as sisters and sisters-in-law (e.g., married women are 16 to 25 percent 
+more likely to have outside employment if their sister's husbands earn more than their own 
+husbands). Park (2010) suggests that married women's employment decisions are influenced by 
+their household's relative income. He shows that married women are more likely to be in the labor 
+force when their husbands' relative income is low, and, in particular, married women who worked 
+previously are more likely to stay in the labor market when their husband's relative income is low. 
+Using data on Italian households, Del Boca and Pasqua (2003) show that the pattern of female 
+employment during 1977-1998 had the effect of reducing inequality in family incomes. 
+These studies show that concerns about relative income at the household level have an 
+important impact on women's decision to join the labor force. Their focus is the household income 
+advantage that stay-at-home wives capture when they join the labor force. Working women, 
+however, face an additional reference group once they are in the labor market. As workers, women 
+care about their status within their peers' group. Since these comparisons affect women's job 
+satisfaction and welfare, it is a reasonable assumption to make that they also affect the women's 
+decision to work outside the home or not. 
+The economic literature identifies two potential outcomes of labor market comparisons for 
+women that might earn a lower wage than their male peers. On the one hand, relatively low wages 
+might make people feel worse off because they feel that their work is not compensated at a "fair" 
+value. On the other hand, relatively low wages might make workers feel better off because they 
+interpret it as a signal of what they could achieve in their profession or work organization. Using 
+data on British workers, Clark and Oswald (1996) show that workers' reported satisfaction levels 
+are weakly correlated with their absolute wages but are significantly negatively correlated with 
+their comparison wage rates. Bygren (2004) focuses on what constitutes the reference wage that 
+affects the job satisfaction. He finds that Swedish workers primarily compare their pay with that 
+of similar others (e.g., others with the same education and work experience) in their occupation 
+and in the labor market as a whole. More importantly for this paper, his empirical analysis shows 
+that the higher the average wage of the reference groups, the lower the probability of being satisfied 
+with one's own wage. Sloane and Williams (2000) and Lévy-Garboua and Montmarquette (2004) 
+
+5 
+ 
+find that job satisfaction is negatively related to comparison wages, using data on British and 
+Canadian workers, respectively. Brown, Gardner, Oswald and Qian (2008) show that job 
+satisfaction and well-being depend on relative pay and the ordinal rank of an individual's wage 
+within a comparison group. 
+Clark, Kristensen and Westergaard-Nielsen (2009) provide evidence that in some cases 
+workers do not object if their peers earn more because they feel that those higher earnings are a 
+good indication of their own future prospects. Using Danish data, they find that job satisfaction is 
+positively correlated both with an individual's own earnings and the average earnings of other 
+workers from within the same organization. However, if the reference group is uninformative with 
+respect to one's earning potential, low relative income is likely to have a negative effect on one's 
+well-being. 
+2.2 Gender wage gap as a function of female participation 
+ I argue that female participation in the labor market can be associated with positive 
+externalities regarding female wages (i.e., increased female participation increases the return to 
+working of all women). In this section I review two lines of argument that explain why this might 
+happen. 
+One argument focuses on network theories in the labor market. Several studies (Calvo-
+Armengol and Jackson 2004, 2007; Buhai and Van der Leij 2008) have addressed the issue of the 
+effects of social networks on employment, wage inequality and occupational segregation. They 
+argue that when individuals have "an inbreeding bias," a tendency to associate more closely with 
+individuals that share the same characteristics, there is sustained inequality in wages and 
+employment rates across different groups. Calvo-Armengol and Jackson (2004) show that two 
+groups (e.g., male and female) with two different networks have different employment rates due 
+to the endogenous decision to drop out of the labor force. Arrow and Borzekowski (2004) show 
+that differences in the network connections between blacks and whites can explain about 15 
+percent of the unexplained variation in wages. 
+Given the evidence that differences in social networks have an important effect on wage 
+inequality across groups, the question remains as to whether males and females belong to different 
+labor networks. Empirical evidence shows that even though males and females share what is 
+considered the same social space (i.e., they live in the same neighborhoods and go to the same 
+schools), they do not share their networks in terms of the labor market. Berger (1995) provides 
+
+6 
+ 
+evidence that women are at a disadvantage in the labor market due to their inferior social network. 
+She shows that women used mostly female contacts in the labor market in 1982: 30 percent of the 
+women in her study used female contacts and only 17 percent of the women used male contacts. 
+As a comparison, 47 percent of the men used male contacts while only 9 percent used female 
+contacts. In general, she shows that women have lower network intensity: 56 percent of the men 
+used labor contacts and only 47 percent of the women used contacts. Fernandez and Sosa (2005) 
+use a dataset documenting the recruitment and hiring process for an entry-level job at a call center 
+of a large U.S. bank. In an environment that was mostly female-dominated, they found that 
+referrers of both genders tend to produce same-sex referrals: females referred females 75.1 percent 
+of the time and males referred females only 56.1 percent of the time. 
+Another line of argument, based on statistical discrimination theories, supports the conjecture 
+that female wages increase with female labor force participation (Phelps 1972, Lundberg and 
+Startz 1983, Coate and Loury 1993, etc.). Albanesi and Olivetti (2009) suggest that firms' 
+expectation that women spend more time in home production induces them to offer women a lower 
+wage, which consequently leads to women spending less time in the market, validating firms' 
+beliefs. Dolado, García-Peñalosa and De la Rica, (2013) and Escriche (2007) propose models of 
+self-fulfilling expectations in which gender wage gaps are the result of statistical discrimination. 
+If firms believe that women are more likely to quit when they have children, and training workers 
+for highly paid careers is expensive, they will be less likely to offer the same training opportunities 
+to women as they do to men. This in turn leads to the existence of wage gaps which further 
+discourages female participation and dynamically reinforces the mechanism that associates low 
+participation and high gender wage gaps. 
+ 
+3. The Model 
+I consider a model with discrete generations. Population is a continuum and each individual 
+lives for one period. Each household consists of two adults that remain married, and husbands 
+always work in the market and receive a fixed salary. Wives can work at home and produce "home 
+goods" or they can work in the market, in which case they receive a salary and the "home goods" 
+are purchased in the market. I assume that the level of "home goods" is constant, that it is not a 
+choice variable, and that it can be entirely produced outside the home. Household consumption is 
+made up of non-rival, public "home goods" and market goods to which both spouses have equal 
+
+7 
+ 
+access. Each generation of women decides on their labor participation at the beginning of their life 
+based on the male wage, the female wage, and the price of "home goods" prevailing at that time. 
+In Section 3.2 I analyze the labor supply decisions of women when female wages are 
+exogenous, in Section 3.3 I allow for part-time work, and in Section 3.4. I assume that the female 
+wage depends positively on the male wage and on the female participation rate in the previous 
+period. 
+ 
+ 
+3.1 
+Preferences 
+Women derive utility from consumption of "home goods," market goods and their own 
+relative standing in the society. The "home goods" (e.g., food and child care) can be produced at 
+home or can be purchased in the market if the woman works. Market goods are purchased only 
+with the husband's income if the woman stays at home, or with whatever household income is left 
+after paying for the "home goods" if the woman works. Women care about their household's 
+relative standing in the society and about their individual relative standing in the workforce if they 
+work. 
+The utility function of women is: 
+ui= (1 -γμi)α1u1(Ch,i) + α2u2(Cm,i) + α3u3 (
+Yi
+hh
+Yhh̅̅̅̅̅̅) +α4u4 (
+γYi
+ind
+Yind̅̅̅̅̅̅̅ ) 
+ 
+ 
+(1) 
+Where μi reflects woman's i disutility from not producing her own "home goods", Ch,i represents 
+consumption of "home goods", Cm,i represents consumption of market goods, Yi
+hh represents the 
+household income, Yhh̅̅̅̅̅ represents the average household income, Yi
+ind represents the woman's 
+individual income (wage), Yind̅̅̅̅̅̅ represents the average individual income, and αk, k= 1,4̅̅̅̅ are the 
+weights that reflect the importance of different components of the utility function. Finally, γ is an 
+indicator function such that γ= {1, if the woman works outside the home 
+0, if the woman stays at home
+ (2) 
+ 
+The parameters μi reflect the fact that a woman's preference for "home goods" purchased 
+in the market is heterogeneous. The "home goods" purchased in the market are generic goods; they 
+deviate from the exact specifications that the woman would have achieved if she was producing 
+the goods herself (e.g., market vs. own child care, formula vs. breastfeeding, supermarket muffins 
+vs. homemade muffins, surrogate mothers vs. pregnancy). Some women care about these 
+
+8 
+ 
+deviations more than others and thus derive less utility from the consumption of "home goods" if 
+they buy them in the market, as opposed to producing them themselves. If the woman stays at 
+home and personally produces the "home goods" she derives full utility from their consumption5. 
+I assume that all "home goods" could be purchased in the market and that consumption of 
+"home goods" is constant, and equal to Ch. The price of "home goods" is equal to p and can change 
+only exogenously (e.g., government subsidizing child care). I let the price of the market goods be 
+the numeraire. I also assume that all working wives receive an equal wage, wf, and that all 
+husbands receive an equal wage wm.6 Thus, the quantity of market goods consumed in a household 
+is Cm= wm+ γwf-pγCh. 
+The household's relative standing in the society depends on the household's implicit 
+income Yhh= wm+ γwf+ (1 -γ)pCh compared to the average household income, Yhh̅̅̅̅̅. 
+The women's relative individual standing in the workforce depends on their individual 
+income, Yind=γwf compared to the average wage, Yind̅̅̅̅̅̅. As stay-at-home wives do not belong to 
+the workforce, their relative standing in the society is not defined by it (i.e., u4(0) = 0). 
+3.1.2 Women's labor force participation decision 
+Women join the labor force if the utility from working exceeds that from staying home. 
+Let μ̃ be the cut-off for which women with μi≤μ̃ work and women with μi> μ̃ stay at home. 
+Assuming that μi~U[0,1], where U[0,1] is a uniform distribution between 0 and 1, and 
+taking μ̃ as given, the average household income is: 
+Yhh̅̅̅̅̅ = wm+ ∫ wfdμ
+μ̃
+0
++ ∫pChdμ
+1
+μ̃
+= wm+ μ̃ wf+ (1 -μ̃)pCh 
+ 
+(3) 
+All households have the husband's wage equal to wm, μ̃ is the fraction of the households that have 
+wives working and receiving a wage wf, and 1 -μ̃ is the fraction of households that have wives 
+staying at home and producing the "home goods" worth: pCh. 
+The average individual income is: 
+ 
+5 Another way of thinking about it is that women derive an intrinsic utility from producing their own home goods 
+(e.g., playing with one's children or cooking for her family). I could model this intrinsic utility, such that instead of 
+working women losing utility from not producing their home good, stay-at-home wives gain utility from producing 
+their own home goods, and the conclusions of the paper will not change. 
+6 Suppose that everyone who decides to join the labor force supplies one unit of labor inelastically. Firms use 
+Ricardian technology with constant marginal productivity. The female wage can be justified to be lower than the 
+male wage either by assuming that firms retain as surplus the difference between the marginal product of labor and 
+the female wage or by assuming that women are less productive than men (Section 2.2). 
+
+9 
+ 
+Yind ̅̅̅̅̅̅ = 
+∫wmdμ+∫wfdμ
+μ̃
+0
+1
+0
+1+μ̃
+=
+wm+μ̃wf
+1+μ̃
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+The labor force is made up of men who all work and receive a wage wm, and a fraction μ̃ of the 
+women who receive a wage wf. 
+Based on historical evidence and for the purpose of having an interesting discussion 
+regarding female participation, I assume that: 
+ 
+ wf> pCh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5a) 
+ wm≥wf. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5b) 
+ 
+Plugging (3), (4) and the budget constraints into (1), and choosing functional forms for the 
+utility function, the utility function of women can be rewritten as: 
+ui= (1 -γμi)α1Ch+ α2ln(wm+ γwf-pγCh) + α3ln(
+wm+γwf+(1-γ)pCh
+wm+μ̃ wf+(1-μ̃)pCh) + α4ln((1 -
+γ) + γ
+wf(1+μ̃)
+wm+μ̃wf) (1') 
+Given the log utility function, the third term is always positive for working women as 
+wf>pCh and thus household status considerations work in their favor. For stay-at-home wives, on 
+the contrary the third term is always negative and household status consideration works against 
+them. The last term is always negative or at the most equal to zero, for working women, 
+because wf≤wm, and thus individual status considerations work against the women who choose 
+to work. As stay-at-home wives are not part of the workforce, their relative standing in the society 
+is not defined by it, which is reflected by the last term of the utility function ln(1) = 0. 7 
+I define the function f(μi) as the difference between the utility when staying home and the 
+utility when working of the woman with taste μi, where μ̃ needs to be determined. 
+f(μi) = μiα1Ch-α2ln(
+wm+wf-pCh
+wm
+) -α3ln(
+wm+wf
+wm+pCh) -α4ln(
+wf(1+μ̃)
+wm+μ̃wf) 
+ 
+(6a) 
+The cut-off μ̃ that gives us the fraction of women that are in the labor force is the value of μi, 
+such that f(μ̃)=0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6b) 
+ 
+A woman whose preference for producing her own home goods is given by μ̃ is indifferent 
+between working and staying at home. If f(μi)>0, a woman whose preference for producing her 
+ 
+7 The utility function is structured so that stay-at-home women compare their status with working women, but not 
+with working men. 
+
+10 
+ 
+own home goods is given by μi will prefer to stay at home rather than work, and therefore μ̃ < μi. 
+If f(μi)<0 a woman whose preference for producing her own home good is given by μi will prefer 
+to work than stay at home, and thus μ̃ > μi. Depending on the parameter values of Ch, p, wm, wf 
+there could be zero, one or two solutions for μ̃. Under some mild conditions8 a uniquely 
+economically interesting solution for μ̃ can be derived (see Fig.1 and Appendix). 
+ 
+3.2 
+Exogenous female wages 
+Impact on female labor force participation 
+Proposition 1: The share of women who work (μ̃) increases with a reduction in the price of "home 
+goods", p ( 
+∂μ̃
+∂p< 0), a decrease in male wage, wm ( 
+∂μ̃
+∂wm< 0), and an increase in the female wage, 
+wf, (
+∂μ̃
+∂wf> 0). 
+All proofs are contained in the appendix. A decrease in the price of "home goods" will 
+make women more likely to work because they pay less to acquire the "home goods" from the 
+market, and it also improves their household income relative to that of the stay-at-home wives. 
+A decrease in the male wage leads to an increase in female labor participation for several 
+reasons. Firstly, all households suffer a loss in income when the male wage declines, causing a 
+decrease in the consumption of market goods, but because the household income of working wives 
+is higher, their utility loss is lower. Secondly, because the male wage represents a smaller 
+proportion of household income when wives work outside the home, working wives' household 
+position improves relative to that of households with stay-at-home wives. And finally, working 
+women's relative wage increases as male wages decrease, and female wages remain constant. 
+An increase in female wages makes women more likely to join the labor force because they 
+expect to obtain greater utility when they can consume more market goods, their household income 
+increases relative to that of the stay-at-home wives and their individual income increases relative 
+to that of their male colleagues. 
+ 
+8 The stability condition is α1Ch> α4
+wm-wf
+wm. Intuitively, this condition is satisfied if gender wage difference and 
+the importance that women put on their relative position in the working force are not prohibitively high so that 
+nobody joins the labor force, and the quantity and the importance of home goods in terms of welfare are high 
+enough so that at least some women stay at home. 
+
+11 
+ 
+Corollary 1: Female participation is more sensitive to changes in female wages than to changes 
+in male wages. 
+|
+∂μ̃
+∂wm| < |
+∂μ̃
+∂wf|. 
+Lemma 1: The share of women who work (μ̃) increases if relative household income concerns 
+become more important for welfare, (
+∂μ̃
+∂α3 > 0) and if relative individual wage concerns become 
+less important(
+∂μ̃
+∂α4 < 0). 
+ 
+Different types of relative concerns have different effects on female participation. An 
+increase in the importance of relative household position makes women more likely to work 
+because the household status consideration always works in the favor of women who choose to 
+work. An increase in the importance of relative individual position makes women less likely to 
+work as individual status considerations always work against the women who choose to work. 
+ 
+Impact on Income 
+Proposition 2: A decrease in price of "home goods", p has a negative effect on the average wage 
+( 
+∂Yind ̅̅̅̅̅̅̅
+∂p > 0), and ambiguous effects on the average household income (
+∂ Yhh̅̅̅̅̅̅ 
+∂p
+<> 0). An increase 
+in wm has a positive effect on the average wage (
+∂Yind ̅̅̅̅̅̅̅
+∂ wm > 0), and ambiguous effects on average 
+household income (
+∂ Yhh̅̅̅̅̅̅ 
+∂ wm<> 0) . Finally, an increase in wf has ambiguous effects on the average 
+wage (
+∂Yind ̅̅̅̅̅̅̅
+ ∂ wf<> 0) and a positive effect on the average household income ( 
+∂ Yhh̅̅̅̅̅̅ 
+∂ wf> 0). 
+A decrease in p leads to an increase in female participation (Proposition 1). The average 
+income of the household where the wife stays at home decreases. Depending on how many women 
+join the labor force and the extent of their additional income (i.e., the difference between gained 
+wages and the value of the "home goods" that they now purchase), the overall effect on the average 
+household income could be either positive or negative. Additionally, as more women enter the 
+labor force, the average wage in the economy decreases. 
+An increase in wm leads to an increase in the income of each household. However, the 
+same increase also leads to a decrease in female participation (Proposition 1) and thus there is an 
+income loss for each household in which the wife switches to produce "home goods" whose value 
+
+12 
+ 
+is less than the wage she had received in the workplace. Additionally, as fewer women remain in 
+the labor force and the male wage increases, the average wage in the economy increases. 
+An increase in wf leads to an increase in the income of each household with working 
+women. It also leads to increased female participation (Proposition 1), and thus brings additional 
+income due to the difference between the female wage and the value of the "home goods." As 
+more women enter the labor force the average wage should decrease. Given that the wages of the 
+women who were already working increased, however, the overall effect on the average wage in 
+the economy is ambiguous. 
+As long as there is an interior solution for the fraction of women working (i.e., μ̃ ∈(0,1)) 
+I define the "perennial" working woman as the woman who would work regardless of whether the 
+shock studied occur (i.e., μi= 0). Similarly, I define the "perennial" stay-at-home wife as the 
+woman who would stay at home regardless of whether the shock studied occurred (i.e., μi= 1). 
+Thus, all the results that refer to the "perennial" woman, either working or stay-at-home, refer to 
+cases when there exist interior solutions for μ̃ both before and after the economic shock.9 I discuss 
+the limiting cases, when μ̃ = 0 or μ̃ = 1, when they offer interesting insights. 
+ 
+Impact on Welfare 
+I analyze the welfare effects of different economic shocks, both at the individual level and 
+at averages across the economy. One major factor that affects the welfare of the "average" working 
+women is the selection of women into the labor force. Because women have heterogeneous and 
+time-invariant preferences for producing their own "home goods," changes in the proportion and 
+thus the composition of the women that are in the labor force have a significant impact on the 
+average welfare. Thus, if more women drop out of the labor force, the effect on the welfare of the 
+"average" working wife is more positive or less negative than the effect on the "perennial" working 
+wife. If more women join the labor force, the effect on the welfare of the "average" working wife 
+is more negative or less positive than on the "perennial" working wife. 
+Lemma 2: The average welfare of stay-at-home wives is equal to each stay-at-home wife's 
+welfare, and the average welfare of working wives depends on the fraction of women that work 
+(μ̃). 
+ 
+9 Because women in the model only live for one period, the "perennial" working or stay-at-home woman refers to 
+women who share the same characteristics, μi, not to the same woman per se. 
+
+13 
+ 
+Lemma 3: If all women work ( μ̃ = 1) the change in welfare of each working woman is identical 
+to the change in average welfare of working women. 
+Proposition 3: A decrease in the price of "home goods" ( p) has a negative effect on the welfare 
+of the stay-at-home wife and an ambiguous effect on the welfare of working wives 
+The decrease in stay-at-home wives' welfare is related strictly to their household's relative 
+standing. The value of the goods they produce declines, which in turn reduces both the absolute 
+and relative value of their household and, as more women join the labor force, their relative 
+household income deteriorates even more. 
+As the price of "home goods" decreases, the working wives can buy more market goods. 
+Since the value produced by the stay-at-home wives decreases, working women's relative 
+household standing improves. If participation rates remained constant, the working women would 
+be unambiguously better off. However, as more women join the labor force the average household 
+income in the economy might increase, and thus their relative position might deteriorate. As more 
+women enter the labor force, the average wage in the economy decreases, and their relative wage 
+improves. 
+Compared to the welfare of the "perennial" working woman, additional compositional 
+effects are considered when examining the welfare of the average woman. The women who join 
+the labor force as a consequence of the decrease in the price of "home goods" are women who 
+suffer a stronger disutility from not producing their own "home goods." Overall these combined 
+effects imply that the average working woman at a time when the price of "home goods" has 
+decreased, who, I must emphasize, is different from the average working woman when p was 
+higher, may be worse off as a consequence of a decrease in p under a wider set of parameters. 
+Using Lemma 3, it is apparent that if all women work both before and after the shock (μ̃ =
+1) a decrease in the price of "home goods" has a consistently positive effect on the average utility 
+of working wives. 
+Stevenson and Wolfers (2009) argue that the decrease they observe in women's happiness, 
+which is contemporaneous with increased female participation rates, might be explained by 
+women's exposure to new reference groups when they enter the labor force. Proposition 3 shows, 
+however, that status concerns at the household level, not at the individual level, are the fundamental 
+factor that might lead to a decrease in the happiness of the average working woman. If this status 
+concern is not present, stay-at-home wives' utility would remain constant when the price of "home 
+
+14 
+ 
+goods" changes because their utility would depend only on the level of goods that they produce, 
+not their price. In this case an increase in women's participation in the context of a decrease in the 
+price of "home goods" would be possible only if working women's utility were higher than the 
+utility of wives who stayed at home, thus a higher utility than what they experienced before, when 
+the price of "home goods" was higher. 
+Proposition 4: An increase in the male wage ( wm) has a positive effect on the welfare of the stayat-home wife and an ambiguous effect on the welfare of the working wives. 
+Stay-at-home wives enjoy an increase in welfare because they have access to more market 
+goods when their husbands' wages are higher. Stay-at-home wives' relative household position, 
+and thus their welfare, improves for two reasons: their husband's income represents a bigger share 
+of their household worth and, as female participation decreases (Proposition 1), the average 
+household income becomes closer to their household income. 
+Working wives enjoy more market goods when their husbands' wages increase, but 
+working women's relative status as individual workers deteriorates as the gender gap widens and 
+there are fewer women in the work force, which pushes the average wage up. The effect on 
+working women's relative household position is ambiguous: on one hand, their husbands' incomes 
+represent a smaller share of their household worth and their household status deteriorates, but on 
+the other hand, as fewer women work, their household income is proportionally higher than the 
+average in the economy. 
+The women who drop out of the labor force as a consequence of an increase in the male 
+wage are those who suffer a stronger disutility from not producing their own "home goods." Thus, 
+the average working woman is better off than the "perennial" working woman if male wages 
+increase. 
+Proposition 5: An increase in the female wage has a negative effect on the welfare of the stay-athome wife and ambiguous effects on the welfare of the working wife. 
+The decrease in stay-at-home wives' welfare is related strictly to their relative household 
+standing. The increased wages that working women earn diminish the relative household worth of 
+stay-at-home wives and, as more women join the labor force, stay-at-home wives' relative 
+household standing decreases even more. 
+As the female wages increase, working wives can buy more market goods. Working 
+women's individual standing improves as the gender wage gap narrows, and the increased female 
+
+15 
+ 
+participation rate brings the average wage in the economy closer to their own wage. The effect on 
+working women's relative household income is ambiguous. Their absolute household income 
+increases as their wage increases, but as more women join the labor force the average household 
+income in the economy increases as well, and thus their relative position might deteriorate. Even 
+though most factors indicate that an increase in the female wage would improve the welfare of the 
+"perennial" working woman, the overall effect on welfare is surprisingly ambiguous. 
+Women who join the labor force as a consequence of the increase in the female wage are 
+women who suffer a stronger disutility from not producing their own "home goods", and thus the 
+effect on the welfare on average working women is even more likely to be negative. 
+If all women already work (i.e., μ̃ = 1), an increase in wf has, however, an unambiguously 
+positive effect on the welfare of the working wife. 
+ 
+3.3. Part-time work 
+In this section I allow for the possibility of part-time work, so that women can spend λ time 
+producing the home good and 1 -λ working for a wage outside the home. I derive the utility 
+function for women who work part-time, substituting for the household implicit income and 
+quantity of market goods consumed in a household where the woman works part-time10. 
+ 
+ui= λα1Ch+ (1 -λ)(1 -μi)α1Ch+ α2 ln(wm+ (1 -λ)(wf-pCh)) +
+α3ln(
+wm+λpCh+(1-λ)wf
+Yhh̅̅̅̅̅̅
+) + α4 ln (
+wf(1+μ̃pt)
+wm+μ̃ptwf) 
+ 
+ 
+ 
+ 
+ 
+(7) 
+ 
+Similarly to (6a), I define the function g(μi) as the difference between the utility when 
+staying home and the utility when working part-time of the woman with taste μi, where μ̃pt needs 
+to be determined. 
+g(μi) = μi(1 -λ)α1Ch-α2ln(
+wm+(1-λ)(wf-pCh)
+wm
+) -α3ln(
+wm+λpCh+(1-λ)wf
+wm+pCh
+) -
+α4 ln (
+wf(1+μ̃pt)
+wm+μ̃ptwf) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(8.a) 
+ 
+10 I assume that women who work part-time do not pay any penalty in terms of wage benefits, thus their individual 
+worker status is identical to that of women that work full-time, as they compare their wages based on wage per unit 
+of time worked. 
+
+16 
+ 
+The cut-off μ̃pt that gives us the fraction of women that would be in the labor force part-time, 
+if full-time were not available is the value of μi, such that g(μ̃pt)=0.11 
+ 
+ 
+(8.b) 
+From Section 3.1, μ̃ is the fraction of women that would work full-time if part-time positions 
+were not available. 
+If both part-time and full-time work are available in the economy, since women who work on 
+a part-time basis consume less of the market goods, and their household status is lower, their 
+preference for producing their own home goods is always higher than that of women that work 
+full-time μi
+pt> μi
+ft. In this case, there are several potential equilibria: female labor force 
+participation is zero ( μ̃ = 0, μ̃pt= 0), women take only full-time positions if μ̃pt≤μ̃, (where 
+μ̃ > 0, μ̃pt≥0) or they take both full-time and part-time positions. In the third scenario μ̃pt> μ̃, 
+and overall female labor force participation is given by μ̃pt. Using (7) and (1') I can derive μ̃ft, 
+such that a woman whose preference for producing her own home goods is given by μ̃ft is 
+indifferent between working part-time or full-time. 
+μ̃ft=
+1
+λα1Ch(α2ln(
+wm+wf-pCh
+wm+(1-λ)(wf-pCh)) + α3ln(
+wm+wf
+wm+λpCh+(1-λ)wf)) 
+ 
+(9) 
+Women who choose to work full-time have μi≤μ̃ft, and women that have μ̃ft< μi≤μ̃pt 
+work part-time. If μ̃ft< μ̃, overall female labor force participation increases thanks to the 
+availability of part-time work, but some women that would have worked full-time end up working 
+part-time. This result is consistent with the findings of Blau and Kahn (2013), which show that the 
+possibility of part-time jobs can facilitate the labor force entry of less career-oriented women, but 
+it could also encourage women who would otherwise have a stronger labor force commitment to 
+take part-time jobs. 
+The availability of part-time work affects the welfare of women in an ambiguous fashion. 
+Focusing on the case where there is an increase in overall female participation associated with a 
+decrease in the women working full-time, the welfare of women is affected through the change in 
+their household status, due to the change in average household income Yhh̅̅̅̅̅ = wm+ μ̃ftwf+
+ 
+11 Depending on the parameter values of Ch, p, wm, wf and λ there could be zero, one or two solutions for μ̃pt. 
+If there exists a stable interior solution such that f(μ̃pt) = 0, the stability condition is derived as 
+(1 -λ)α1Ch> α4
+wm-wf
+wm. 
+ 
+
+17 
+ 
+(μ̃pt-μ̃ft)[λpCh+ (1 -λ)wf] + (1 -μ̃pt)pCh. The decrease in full-time female employment 
+leads to a decrease in average household income, whereas the increase in overall female 
+employment leads to an increase in average household income. Given the ambiguous effects on 
+the average household income, the effect of the availability of part-time work on the welfare of 
+either working or stay-at-home women is ambiguous as well. 
+The analyses in Section 3.2 and 3.3 were made assuming that female wages are exogenous. In 
+Section 3.4, I assume that female wages are endogenous. 
+ 
+3.4 
+Endogenous female wages 
+In this section, I assume that female wage is a function of the male wage and the past female 
+labor force participation rate. I make this assumption because technological advances in the 
+marketplace would affect the demand for labor in general, be it male or female. I assume that 
+female and male labor are perfect substitutes. However, given the different historical trajectories 
+in the labor market, women are at a disadvantage in obtaining the same jobs that men do, and thus 
+are paid a lower salary. If all women were in the labor market, then female and male wages would 
+be identical. To capture these effects, I also introduce time transcripts in the female wage equation: 
+wf,t= θwm+ (1 -θ)μ̃t-1
+βwm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(10) 
+ 
+Where β can be greater than, less than, or equal to one. The three different cases will have 
+different implications on the hysteresis associated with married women's entrance into or exit from 
+the labor market. 
+In steady state μ̃t-1 = μ̃t, and equilibrium wage and female participation (ŵf, μ̂) can be 
+derived using (6b) and (10). The slope as given by (10) is 
+dwf,t
+Ld
+dμ̃t-1 = β(1 -θ)μ̃t-1
+β-1wm> 0 and its 
+curvature depends on β so that: 
+d2wf,t
+Ld
+dμ̃t-1
+2
+= β(β-1)(1 -θ)μ̃t-1
+β-2wm≤(>)0 if β≤(>)1. Given 
+that the female wage as given by both (6b) and (10) is upward-sloping in μ̃t (see also Fig 2a, b and 
+c), there exists at most one stable solution for (ŵf, μ̂) under some mild stability conditions (see 
+Appendix). If the starting point is a disequilibrium such that wf,t as given by (10) is higher than 
+wf,t as given by (6b), a higher wf,t leads to an increase in μ̃t (Proposition 1), which leads to an 
+increase in wf,t (Eq. 7), and after several iterations equilibrium is reached. If the starting point is 
+a disequilibrium such that wf,t as given by (10) is lower than wf,t as given by (6b), the lower wf,t 
+
+18 
+ 
+leads to a decrease in μ̃t (Proposition 1), which leads to a decrease in wf,t (10), and after several 
+iterations equilibrium is reached. 
+ 
+3.4.1 Dynamics and hysteresis 
+I first analyze the dynamic effects that a decrease in the price of "home goods" p has on 
+female participation, μ̂ and the female wage, ŵf. A reduction in the price of "home goods" p, 
+encourages women to join the labor force (Proposition 1). The increase in the share of women who 
+work leads to an increase in female wages, which also has a positive effect on labor participation. 
+Thus, the adjustment to higher levels of female participation and wages takes place monotonically. 
+Secondly, I analyze the dynamic effects that an increase in the male wage, wm has on 
+female participation, μ̂ and wage, ŵf. The increase in the male wage leads to an increase in the 
+female wage, which positively affects the female participation rate. The increase in female 
+participation in subsequent generations leads to even more increases in female wages, which 
+encourages even more women to work. This dynamic process diffuses throughout several 
+generations of women and will lead eventually to a new steady-state equilibrium where female 
+wages and labor force participation are higher than before. 
+Due to the existence of two possible equilibria, one stable and one unstable, the entrance 
+and exit trajectories in the labor force as a consequence of changes in male wage and the price of 
+"home goods" might not be symmetrical. The shape of the labor demand function, whether it is a 
+strictly convex or concave function of past female participation, which is given by the values of β 
+in relationship to one, affects the type of hysteresis that could arise. The following sections analyze 
+each case in detail. 
+Hysteresis when β >1 
+If there are two solutions for μ̂ in the interval [0,1] the stable one is the smaller one (Fig. 
+2a). In this case, hysteresis is likely if the economy experiences full female participation. 
+Fig. 3a, b, c and d are graphical representations of different cases of hysteresis when β>
+1. Starting from an interior solution equilibrium, changes in any of the exogenous variables lead 
+to the expected variation in the endogenous variables (Proposition 6). There exist certain 
+thresholds wm
+0 and p0 such that if wm< wm
+0 and respectively p
+> p0 women's participation is 
+equal to zero, μ̂
+= 0 and ŵf= θwm. However, if the economy starts from an equilibrium with 
+full female participation, μ̂ = 1 there are two cases: (1) full participation is irreversible and (2) 
+
+19 
+ 
+full participation is reversible as long as there exist wm
+∗ and respectively p* at which the system 
+has only one stable and no unstable equilibrium for μ̂ ∈[0,1]. In case (2) as long as wm> wm
+∗ 
+(p<p*) female participation is 100 percent and only once wm drops below wm
+∗ or in the case of 
+the price of "home goods" p rising above p* women's participation will strongly decrease to an 
+equilibrium at a much lower participation rate. 
+Fig. 3a, b, c and d show that for the same value of wm (p) between wm
+∗ (p∗∗) and wm 
+∗∗ (p∗) 
+there is full female participation or not depending on the history. Within these intervals, the same 
+variation in the male wage (the price of "home goods") can have therefore dramatically different 
+effects on female participation and wages. 
+Hysteresis when β≤1 
+If there are two solutions for μ̂ in the interval [0,1] the stable one is the larger one (Fig. 
+2b and c). In this case, hysteresis is likely if the economy starts from zero female participation. 
+Fig. 4a, b, c and d are the graphical representations of different cases of hysteresis when 
+β≤1. Starting from an interior solution equilibrium, changes in any of the exogenous variables 
+lead to the expected variation in the endogenous variables (Proposition 6). There exist certain 
+thresholds wm
+1 and p1 such that if wm> wm
+1 and respectively p< p1 there is full female 
+participation, μ̂ = 1 and ŵf= wm. However, starting from an equilibrium in which female 
+participation is null μ̂ = 0 there are two cases that can follow: (1) null participation rate is 
+immutable and (2) the null participation rate is not permanent, as long as there exist wm
+∗ and 
+respectively p* at which the system has only one stable and no unstable equilibrium for μ̂ ∈[0,1]. 
+In case (2) as long as wm< wm
+∗ (p>p*) there is no female participation, μ̂ = 0, but if wm≥wm
+∗ 
+(p≤p*) female participation jumps to the equilibrium level that is implied by the parameters of 
+the model and has no historical influence. 
+Fig. 4a, b, c and d show that for the same value of wm (p) between wm
+∗∗ (p∗) and wm
+∗ (p∗∗) 
+there is female participation or not depending on the starting equilibrium point. Within these 
+intervals the same variation in the male wage (price of "home goods") can have dramatically 
+different effects on female participation and wages. 
+ 
+3.4.2 Occupations 
+The dynamic portion of the model and the hysteresis associated with it is especially 
+relevant in the context of women entering different occupations. 
+
+20 
+ 
+Let's consider two different occupations: due to historical reasons, female participation is 
+positive in Occupation 1, μ̂1 > 0, and female participation is null in Occupation 2, μ̂2 = 0. If p∈
+(p∗, p∗∗), the interval that allows for multiple equilibria, a decrease in p would lead to increased 
+participation in Occupation 1, but it would have no effect on female participation in Occupation 2. 
+Similarly, if wm∈(wm
+∗∗, wm
+∗ ), positive shocks to wm lead to increases in labor participation in 
+Occupation 1, but no changes in female participation in Occupation 2. 
+Once wm≥wm
+∗ (p≤p∗), female participation in Occupation 2 reacts to shocks to wm and 
+p in a similar manner to Occupation 1 (see also Fig 3a,b,c). 
+Factors that lead to increased female labor force participation would thus channel women 
+first in the occupations in which they were historically working, leading to a decrease in gender 
+wage gap in those occupations. The female participation and wage gaps in the male dominated 
+occupations might take longer to be affected. Shocks that lead to increased overall female 
+participation can thus lead to no changes in female participation and wages in male dominated 
+professions, concurrent with a small reduction in overall gender gap. Productivity shocks that 
+affect disproportionately male dominated occupations might even lead to increased female 
+participation concurrent with an increase in the overall gender gap. 
+Blau and Kahn (2017) show that 49% of the wage gap can be explained by occupational 
+differences between men and women. They find that even though during 1980-2010 women 
+upgraded their occupations, which lead to a narrowing of the gender wage gap, 
+disproportionately increased returns to male dominated occupations had the opposite effect. 
+Blau, Brummund, and Liu (2013) develop an occupational segregation index and show that there 
+was a decrease in segregation from 1970 to 2009, but also that the occupational difference 
+between women and men remains large. The hysteresis effects derived in this section provide a 
+plausible explanation for why women have not entered occupations in a proportional manner12, 
+and why the gender wage gap is more persistent than aggregate models would predict. 
+ 
+ 
+ 
+12 History dependent path is not the only way to generate different occupational choices for men and women. Erosa, 
+Fuster, Kambourov, and Rogerson (2017) develop a model of occupational choice and labor supply and find that 
+women are disproportionately represented in occupations with low mean hours and wages. In their model the gender 
+asymmetry in market outcomes such as occupational choice and gender wage gap is caused by the gender difference 
+in time allocated to home production. 
+
+21 
+ 
+3.4.3 Comparative statics results for interior solutions 
+Impact on female labor force participation 
+Proposition 6: A reduction in the price of "home goods" (p) leads to an increase in the share of 
+women who work ( 
+∂μ̂ 
+∂p≤0), as well as the female wage ( 
+∂ŵf
+∂p≤0) and a decrease in the gender 
+wage gap (
+∂(ŵf-wm)
+∂p
+≤0) . An increase in the male wage, wm leads to an increase in female 
+participation (
+∂μ̂ 
+∂wm≥0), an increase in the female wage (
+∂ŵf
+∂wm≥0), and ambiguous effects on the 
+gender wage gap (
+∂(ŵf-wm)
+∂wm
+<> 0) . 
+A decrease in the price of "home goods" leads to an increase in the share of women who 
+work (Proposition 1) and given (10) to an increase in the female wage in equilibrium. As male 
+wages remain constant, the gender gap decreases. 
+An increase in the male wage instantaneously leads to an increase in the female wage, 
+which would encourage women to join the labor force (Proposition 1). Simultaneously, the 
+increase in the male wage, by increasing the utility of stay-at-home wives relative to working 
+wives, discourages women from joining the labor force (Proposition 1). In this scenario, with the 
+conditions attached to the existence of a stable equilibrium, the first effect on female participation 
+always dominates. 
+What is interesting about these results is that a change in male wages has the opposite effect 
+on female participation than it did when female wages were exogenous. Male wages are directly 
+affecting female wages and participation in the endogenous model, and female wages are 
+subsequently affecting women's participation. This indirect effect on participation turns out to be 
+more important than the direct one if a stable equilibrium is to be reached. Intuitively, this result 
+is due to the fact that abstracting from the feedback effect that participation has on female wages, 
+female participation is much more sensitive to changes in female wages than to changes in male 
+wages (Corollary 1). 
+Lemma 4: The share of women who work (μ̂) and the female wage (ŵf) both increase if relative 
+household concerns become more important for welfare (
+∂μ̂ 
+∂α3 > 0; 
+∂ŵf
+∂α3 > 0) and if relative 
+individual wage concerns become less important (
+∂μ̂ 
+∂α4 < 0; 
+∂ŵf
+∂α4 < 0). 
+
+22 
+ 
+An increase in the importance of relative household position makes women more likely to 
+work, whereas an increase in the importance of relative individual position makes women less 
+likely to work (Lemma 1). Relative concerns affect female wage only through their effect on labor 
+participation. 
+Impact on Income 
+Proposition 7: A decrease in p has an ambiguous effect on average household income (
+∂ Yhh̅̅̅̅̅̅ 
+∂p
+<>
+0) and the average wage ( 
+∂Yind ̅̅̅̅̅̅̅
+∂p <> 0). An increase in wm has a positive effect on average 
+household income ( 
+∂ Yhh̅̅̅̅̅̅ 
+∂ wm> 0 ) and the average wage ( 
+∂Yind ̅̅̅̅̅̅̅
+∂ wm > 0). 
+ 
+What is remarkable compared to Proposition 2 is that an increase in wm, given that it is 
+associated with an increase in ŵf and μ̂, has a clear positive effect on average household income, 
+as opposed to an effect on the average individual income only. Also contrasting with Proposition 
+2, a decrease in p, by increasing female participation, affects ŵf positively, and these two effects 
+combined lead to an ambiguous effect on the average individual wage. 
+Impact on Welfare 
+Proposition 8 A decrease in the price of "home goods" (p) has a negative effect on the welfare of 
+the stay-at-home wife and an ambiguous effect on the welfare of the working wife. 
+The decrease in welfare enjoyed by stay-at-home wives as a consequence of a reduction in 
+the price of "home goods" is related strictly to their household relative standing. Incorporating the 
+fact that the female wage also increases, the reduction in welfare is more significant than if female 
+wages were exogenous. 
+Similarly, the effect on the welfare of working women is complicated by the endogeneity 
+of the female wage. An increase in female wages as a result of increased participation introduces 
+additional sources of ambiguity with respect to the effect on women's welfare, as Proposition 4 
+indicates. The main source of negativity in working women's welfare comes from relative 
+concerns at household level. As participation increases, the woman that was working even before 
+the shock will face a decline in her household relative income, which might counteract all the 
+positive effects brought by her improved individual standing and her household's increased ability 
+to buy market goods. 
+
+23 
+ 
+The additional compositional effects brought about by increased labor participation would 
+tend to lower the welfare of the average working woman compared to the "perennial" one. 
+If all women work (μ̂ = 1) a decrease in p has an unambiguously positive effect on the 
+welfare of the working wife as in Proposition 3, as neither female participation nor female wages 
+change. 
+Proposition 9: An increase in the male wage (wm) has an ambiguous effect on the welfare of both 
+the stay-at-home and working wife. 
+An increase in male wages leads to an improvement in stay-at-home wives' ability to buy 
+market goods and improve their relative status (Proposition 4). Because this change in the male 
+wage leads to an increase in the female wage as well (Proposition 6), which has a negative effect 
+on the welfare of stay-at-home wives (Proposition 5), the overall welfare effect is ambiguous. 
+ 
+4. Conclusions 
+Female labor participation increased dramatically over the second half of the 20th century in 
+most industrialized countries. Some of the factors that led to this development, by most objective 
+criteria, should have also led to increases in women's welfare. Yet Stevenson and Wolfers (2009) 
+show that during this time, women's happiness levels declined, and this trend can be found across 
+demographic groups and industrialized countries. 
+In this paper, I use relative status concerns at both household and individual level to explain 
+how decreases in the price of "home goods" relative to female wages and increase in women's 
+wages (decreases in gender wage gaps) that contributed to increased labor participation of married 
+women affected female welfare, as well as average household income and wage in the economy. 
+An increase in female wages will always be associated with an increase in the average household 
+income, but not necessarily with an increase in the average wage in the economy depending on the 
+elasticity of female participation with respect to their wages. An increase in male wages leads to 
+an increase in the average wage in the economy, but not necessarily of the average household 
+income depending on the relationship between female and male wages. 
+Endogenizing female wage and expressing it as a positive function of male wage and past 
+female participation rates leads to multiple equilibria. Depending on the curvature of the female 
+wage as a function of past participation rate, hysteresis appears in association with married 
+women's entrance into or exit from the labor market. Women not entering occupations in a 
+
+24 
+ 
+proportional manner, as predicted by the hysteresis effect in the model, is a key component of 
+occupational differences and wage gaps between men and women. 
+I analyze the welfare effects of different economic shocks, at the individual level and averages 
+across the economy for both the stay-at-home and working wives. One major factor that affects 
+the welfare of the "average" working women is compositional. Because women have 
+heterogeneous and time-invariant preferences for producing their own "home goods," changes in 
+the proportion and thus the composition of the women that are in the labor force have a significant 
+impact on the average welfare. Thus, if more women drop out of the labor force, the effect on the 
+welfare of the "average" working wife is more positive or less negative than the effect on the 
+"perennial" working wife. If more women join the labor force, the effect on the welfare of the 
+"average" working wife is more negative or less positive than on the "perennial" working wife. 
+Availability of part-time work leads to increased female labor force participation, but some women 
+that would have worked full-time end up working part-time. The welfare effect of this availability 
+is ambiguous. 
+A reduction in the price of "home goods" decreases the welfare of the stay-at-home wives and 
+has an ambiguous effect on the welfare of the working wives, depending on how much they care 
+about their household's relative income. If female wages are independent from male wages, an 
+increase in female wages has positive effects and a decrease in male wages has ambiguous effects 
+on the welfare of working wives, even though in both scenarios female participation rates increase. 
+The welfare of stay-at-home wives is affected negatively. If female wage, however, is endogenous, 
+a decrease in the male wage is associated with a decrease in the female wage and participation 
+rate, and the overall welfare effects on both the stay-at-home and working wives are ambiguous. 
+The different experiments performed in the paper show that factors leading to increased female 
+participation are usually associated with decreases in the welfare of stay-at-home wives, but 
+surprisingly are not always associated with increases in the welfare of working wives. Thus, 
+policies designed to increase female participation would not necessarily lead to an increase in the 
+working women's welfare, even if they would enjoy higher wages associated with higher 
+participation. 
+ 
+ 
+ 
+
+25 
+ 
+References 
+ 
+ 
+Abel, A., 1990. Asset Prices under Habit Formation and Catching Up With the Joneses. American 
+Economic Review 80, 38-42. 
+Albanesi, S., Olivetti, C., 2009. Home Production, Market Production and the Gender Wage Gap: 
+Incentives and Expectations. Review of Economic Dynamics 12(1), 80-107. 
+Alvarez-Cuadrado, F., Long, N.V., 2012. Envy and Inequality. The Scandinavian Journal of 
+Economics 114(3), 949-973. 
+Arrow, K. J., Borzekowski, R., 2004. Limited Network Connections and the Distribution of 
+Wages. Board of Governors of the Federal Reserve System (U.S.), Finance and Economics 
+Discussion Series. 
+Attanasio, O., Low, H., Sanchez-Marcos, V., 2008. Explaining Changes in Female Labor Supply 
+in a Life-Cycle Model. American Economic Review 98(4), 1517-52. 
+Baker, M., Gruber, J., Milligan, K., (2008). Universal Child Care, Maternal Labor Supply, and 
+Family Well‐Being. Journal of Political Economy 116(4), 709-745. 
+Berger, J., 1995. Were You Referred by a Man or a Woman? Gender of Contacts and Labor Market 
+Outcomes. Working Paper no. 353. Princeton University. 
+Blau, F., 1998, Trends in the Well-Being of American Women, 1970-1995. Journal of Economic 
+Literature. 36(1), 112-165. 
+Blau, F., Brummund, P., Liu, A., 2013. Trends in Occupational Segregation by Gender 1970-
+2009: Adjusting for the Impact of Changes in the Occupational Coding System, 
+Demography. 50(2), 471-492 
+Blau, F., Kahn, L.M. 2013. Female Labor Supply: Why Is the United States Falling Behind? 
+American Economic Review: Papers & Proceedings 2013, 103(3), 251-256 
+Blau, F., Kahn, L.M. 2017. The Gender Wage Gap: Extent, Trends, and Sources, Journal of 
+Economic Literature 55(3), 789-865 
+Brown, G.D.A., Gardner, J., Oswald, A.J., Qian, J., 2008. Does Wage Rank Affect Employees' 
+Well-being? Industrial Relations 47, 355-389. 
+Bygren, M., 2004. Pay Reference Standards and Pay Satisfaction: What Do Workers Evaluate 
+Their Pay Against? Social Science Research 33, 206-224. 
+Buhai, S. I., Van der Leij, M. J., 2008. A Social Network Analysis of Occupational Segregation. 
+Tinbergen Institute Discussion Papers 06-016/1. 
+Calvo-Armengol, A., Jackson, M.O., 2004. The Effects of Social Networks on Employment and 
+Inequality. American Economic Review 94 (3), 426-454. 
+Calvo-Armengol, A., Jackson, M.O., 2007. Networks in Labor Markets: Wage and Employment 
+Dynamics and Inequality. Journal of Economic Theory, 132, 27-46. 
+Cardia, E., Gomme, P., 2018. Market Work, Housework and Childcare: A Time Use Approach. 
+Review of Economic Dynamics, 29(1), 1-14. 
+Carroll, C.D., Overland, J., Weil, D.N., 2000. Saving and Growth with Habit Formation. American 
+Economic Review 90, 341-355. 
+Clark, A. E., Oswald, A. J., 1996. Satisfaction and Comparison Income. Journal of Public 
+Economics 61(3), 359-381. 
+Clark, A. E., Frijters, P., Shields, M. A., 2008. Relative Income, Happiness, and Utility: An 
+Explanation for the Easterlin Paradox and Other Puzzles. Journal of Economic Literature 
+46(1), 95-144. 
+
+26 
+ 
+Clark, A. E., Kristensen, N., Westergaard-Nielsen, N., 2009. Job Satisfaction and Co-Worker 
+Wages: Status or Signal?. The Economic Journal 119(536), 430 - 447. 
+Coate, S., Loury, G., 1993. Will Affirmative-Action Policies Eliminate Negative Stereotypes?. 
+American Economic Review 83(5), 1220-40. 
+Cooper, B., García-Peñalosa, C., Funk P., 2001. Status Effects and Negative Utility Growth. The 
+Economic Journal 111, 642-665. 
+Del Boca, D., Pasqua, S., 2003. Employment Patterns of Husbands and Wives and Family Income 
+Distribution in Italy (1977-1998). Review of Income and Wealth 49(2), 221-245. 
+Dolado, J. J., García-Peñalosa, C., De la Rica, S., 2013. On Gender Gaps and Self-fulfilling 
+Expectations: Theory, Policies and Some Empirical Evidence. Economic Inquiry 51(3), 
+1829-1848 
+Dynan, K. E., Ravina, E., 2007. Increasing Income Inequality, External Habits, and Self-Reported 
+Happiness. American Economic Review 97 (2), 226-231. 
+Erosa, E., Fuster L., Kambourov, G., Rogerson, R., 2017. Hours, Occupations, and Gender 
+Differences in Labor Market Outcomes. NBER Working Papers 23636, National Bureau 
+of Economic Research, Inc. 
+Escriche, L., 2007. Persistence of Occupational Segregation: The Role of Intergenerational 
+Transmission of Preferences. The Economic Journal, 111, 837-857. 
+Fernandez, R., 2013. Culture as Learning: The Evolution of Female Labor Force Participation over 
+a Century. American Economic Review 103(1), 472-500 
+Fernandez, R., Sosa, M. L., 2005. Gendering the Job: Networks and Recruitment at a Call Center. 
+American Journal of Sociology 111 (3), 859-904. 
+Ferrer-i-Carbonell, A., 2005. Income and Well-being: An Empirical Analysis of the Comparison 
+Income Effect. Journal of Public Economics 89, 997- 1019. 
+Ferrero Martinez, D., Iza, A., 2004. Skill Premium Effects on Fertility and Female Labor Force 
+Supply. Journal of Population Economics 17, 1-16. 
+Fortin, N., 2015. Gender Role Attitudes and Women's Labor Market Participation: Opting-Out, 
+AIDS, and the Persistent Appeal of Housewifery. Annals of Economics and Statistics 117-
+118, 379-401 
+Frank, R.H., 2007. Falling Behind: How Income Inequality Harms the Middle Class, Berkeley: 
+University of California Press. 
+Gali, J., 1994. Keeping Up with the Joneses: Consumption Externalities, Portfolio Choice, and 
+Asset Prices. Journal of Money, Credit, and Banking 26 (1), 1-8. 
+Garcia-Penalosa, C., Turnovsky, S.J., 2008. Consumption Externalities: A Representative 
+Consumer Model when Agents are Heterogeneous. Economic Theory 37(3), 439-467. 
+Jones, L., Manuelli, R. and McGrattan, E., 2015. Why Are Married Women Working So Much? 
+Journal of Demographic Economics 81(1), 75-114 
+Lévy-Garboua, L., Montmarquette, C., 2004. Reported Job Satisfaction: What Does It Mean? 
+Journal of Socio-Economics 33, 135-151. 
+Liu, W-F, Turnovsky, S.J., 2005. Consumption Externalities, Production Externalities, and Longrun Macroeconomic Efficiency. Journal of Public Economics 89, 1097-1129. 
+Lundberg, S.J., Startz, R., 1983. Private Discrimination and Social Intervention in Competitive 
+Labor Markets. American Economic Review 73 (3), 340-347. 
+Luttmer, E., 2005. Neighbors as Negatives: Relative Earnings and Well-Being. Quarterly Journal 
+of Economics 120(3), 963-1002. 
+
+27 
+ 
+Neumark, D., Postlewaite, A., 1998. Relative Income Concerns and the Rise in Married Women's 
+Employment. Journal of Public Economics 70, 157-183. 
+Park, Y., 2010. The Second Paycheck to Keep Up with the Joneses: Relative Income Concerns 
+and Labor Market Decisions of Married Women. Eastern Economic Journal 36, 255-276. 
+Phelps, E. S., 1972. The Statistical Theory of Racism and Sexism. American Economic Review 
+62(4), 659-661. 
+Sloane, P.J., Williams, H., 2000. Job Satisfaction, Comparison Earnings, and Gender. Labour 
+14(3), 473-502. 
+Stevenson, B., Wolfers, J., 2009. The Paradox of Declining Female Happiness, American 
+Economic Journal: Economic Policy 1(2), 190-225. 
+Vendrik, M., 2003. Dynamics of a Household Norm in Female Labour Supply. Journal of 
+Economic Dynamics and Control 27(5), 823-842. 
+ 
+ 
+ 
+
+28 
+ 
+Figures 
+Fig. 1 
+ 
+Fig. 2.a 
+ 
+ 
+ 
+ 
+Fig. 2.b 
+ 
+ 
+Fig. 2.c 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+i
+f(i)
+
+ 
+29 
+ 
+Fig. 3.a 
+ 
+ 
+ 
+ 
+Fig 3.b. 
+ 
+ 
+ 
+Fig. 3.c. 
+ 
+ 
+ 
+ 
+ 
+Fig 3.d 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Price of "home good"
+Female participation ^7
+Exit with hysteresis (- > 1)
+Exit from ^7 = 1 !
+Entry/Exit from ^7 < 1 !
+p*
+p0
+p**
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+Price of "home good"
+Ratio wf=wm
+Exit with hysteresis (- > 1)
+Exit from ^7 = 1 !
+Entry/Exit from ^7 < 1 !
+p*
+p0
+p**
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Male wage, wm
+Female participation ^7
+Exit with hysteresis (- > 1)
+A Exit from ^7 = 1
+Entry/Exit from ^7 < 1 !
+wm
+*
+wm
+0
+wm
+**
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+Male wage, wm
+Ratio wf=wm
+Exit with hysteresis (- > 1)
+A Exit from ^7 = 1
+Entry/Exit from ^7 < 1 !
+wm
+*
+wm
+0
+wm
+**
+
+ 
+30 
+ 
+Fig. 4.a 
+ 
+ 
+ 
+ 
+Fig. 4.b
+ 
+ 
+ 
+Fig. 4.c 
+ 
+ 
+ 
+ 
+Fig. 4.d 
+ 
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Price of "home good"
+Female participation ^7
+Entry with hysteresis (- <= 1)
+Entry/Exit from ^7 > 0 !
+Entry from ^7 = 0 !
+p*
+p1
+p**
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+Price of "home good"
+Ratio wf=wm
+Entry with hysteresis (- <= 1)
+Entry/Exit from ^7 > 0 !
+Entry from ^7 = 0 !
+p*
+p1
+p**
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Male wage, wm
+Female participation ^7
+Entry with hysteresis (- <= 1)
+Entry/Exit from ^7 > 0 !
+Entry from ^7 = 0 !
+wm
+*
+wm
+1
+wm
+**
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+Male wage, wm
+Ratio wf=wm
+Entry with hysteresis (- <= 1)
+Entry/Exit from ^7 > 0 !
+Entry from ^7 = 0 !
+wm
+*
+wm
+1
+wm
+**
+
+31 
+ 
+Appendix 
+ 
+Stability condition for μ̃ 
+From (6a) I define the function f(μi) as the difference between the utility when staying 
+home and the utility when working of the woman with taste μi. 
+Thus, if there exists a stable interior solution such that f(μ̃) = 0, then f(μ̃ -ε) < 0 and 
+f(μ̃ + ε) > 0. The stability condition in this case is (f'(μ) > 0|μ= μ̃), thus α1Ch-
+α4
+wm-wf
+(wm+μ̃wf)(1+μ̃) > 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1A) 
+ 
+Let g(μ̃) = α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃). Given that g'(μ̃) = α4(wm-wf)
+wm+wf+2μ̃wf
+((wm+μ̃wf)(1+μ̃))
+2 > 0 , 
+Since μ̃ ∈[0 1], g(μ̃) > 0 iff g(0) > 0 and therefore α1Ch> α4
+wm-wf
+wm. Intuitively, this stability 
+condition tells us that there exist a stable unique equilibrium for female labor force participation if 
+gender wage difference, and the importance that women put on their relative position in the 
+working force are not prohibitively high relative to the quantity and the importance of home good 
+in the utility function. 
+Proof of Proposition 1 
+Applying the implicit equation theory for (6b), using (5a) and (5b), and imposing the stability 
+condition (1A): 
+dμ̃
+dp=
+- Ch(α2
+wm
+wm+wf-pCh
++α3
+1
+wm+pCh
+)
+α1Ch-α4
+wm,t-wf,t
+(wm+μ̃wf)(1+μ̃)
+< 0 
+ 
+ 
+ 
+ 
+ 
+ 
+(2A.a) 
+dμ̃
+dwm= -
+α2
+wf-pCh
+wm(wm+wf-pCh)+α3
+wf-pCh
+(wm+wf)(wm+pCh)+α4
+1
+(wm+μ̃wf)
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+< 0 
+ 
+ 
+ 
+(2A.b) 
+dμ̃
+dwf=
+α2
+wm+wf-pCh
++
+α3
+(wm+wf)+α4
+wm
+wf
+1
+(wm+μ̃wf)
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+> 0 
+ 
+ 
+ 
+ 
+ 
+(2A.c) 
+Proof of Corollary 1 
+Direct consequence of (5a), (5b) applied to (2A.b) and (2A.c) 
+Proof of Lemma 1 
+Applying the implicit equation theory for (6b), using (5a) and (5b), and imposing the stability 
+condition (1A): 
+
+32 
+ 
+∂μ̃
+∂α3 =
+ln(
+wm+wf
+wm+pCh
+)
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2A.d) 
+∂μ̃
+∂α4 =
+ln(
+wf(1+μ̃)
+wm+μ̃wf)
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+< 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2A.e) 
+Proof of Proposition 2 
+Using (3) and (2A.a): 
+ 
+∂ Yhh̅̅̅̅̅̅̅ 
+∂p
+=
+dμ̃
+dp( wf-pCh) + (1 -μ̃)Ch<> 0 
+ 
+ 
+ 
+ 
+ 
+(3A.a) 
+Using (4) and (2Aa): 
+∂Yind ̅̅̅̅̅̅̅
+∂p =
+∂μ̃
+∂p( wf- wm)
+(1+μ̃ )2
+> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3A.b) 
+Using (3) and (2A.b.): 
+∂ Yhh̅̅̅̅̅̅̅ 
+∂ wm=
+∂μ̃
+∂wm( wf-pCh) + 1 <> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+(3A.c) 
+Using (4) and (2Ab): 
+∂Yind ̅̅̅̅̅̅̅
+∂ wm =
+∂μ̃
+∂wm( wf- wm)+1+μ̃
+(1+μ̃ )2
+> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3A.d) 
+Using (3) and (2Ac): 
+∂ Yhh̅̅̅̅̅̅̅ 
+∂ wf=
+∂μ̃
+∂wf( wf-pCh) + μ̃ > 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3A.e) 
+Using (4) and (2Ac): 
+∂Yind ̅̅̅̅̅̅̅
+∂ wf =
+∂μ̃
+∂wf( wf- wm)+μ̃
+(1+μ̃ )2
+<> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3A.f) 
+Proof of Lemma 2 
+As stay-at-home wives produce their own "home goods" using (1') it is inferred that their welfare 
+is equal such that: 
+Average Welfare s̅ = Welfare s̅ 
+ 
+As working wives buy their "home" good and have heterogeneous preferences for producing it 
+themselves, using (1') and (6) their average welfare can be written as: 
+
+33 
+ 
+Average Welfare w̅ = α1Ch(1 -
+μ̃
+2) +α2ln(wm+ wf-pCh) +
+α3ln(
+wm+wf
+wm+μ̃wf+(1-μ̃)pCh) +α4ln(
+wf(1+μ̃)
+wm+μ̃wf) 
+Proof of Lemma 3 
+dAverage Welfare w̅
+dx
+=
+dα1Ch
+dx
++ 
+dα2ln(wm+wf-pCh)
+dx
++ 
+dα3ln(
+wm+wf
+wm+μ̃wf+(1-μ̃)pCh
+)
+dx
++
+dα4ln(
+wf(1+μ̃)
+wm+μ̃wf)
+dx
+-α1Ch
+1
+2
+dμ̃
+dx=
+d Welfare w̅(μi)
+dx
+ for any μi if μ̃
+= 1 and thus 
+dμ̃
+dx= 0 
+Given that Ch is exogenous, 
+dCh
+dx= 0. 
+Proof of Proposition 3 
+Using (1'), (5a), and (2Aa): 
+d Welfare s̅
+dp
+=
+α3
+(wm+μ̃wf+(1-μ̃)pCh) [Ch
+wm(1+μ̃ )+wfμ̃ +pCh
+(wm+pCh)
+-
+dμ̃
+dp(wf-pCh)] > 0 
+Using (1'), (5a), (5b) and (2Aa): 
+dWelfare w̅
+dp
+= -
+α2Ch
+(wm+wf-pCh) -
+α3(1-μ̃ )Ch
+wm+μ̃wf+(1-μ̃)pCh-
+dμ̃
+dp[
+α3(wf-pCh)
+wm+μ̃wf+(1-μ̃)pCh-
+α4(wm-wf)
+(wm+μ̃ wf)(1+μ̃ )] <
+> 0 
+ 
+If 
+dμ̃
+dp= 0 then 
+dWelfare w̅
+dp
+< 0 
+Using Lemma 3, assumptions (5a) and (5b), and (2Aa): 
+ 
+ 
+ 
+dAverage Welfare w̅
+dp
+= -α2
+Ch
+wm+wf-pCh-α3
+(1-μ̃ )Ch
+wm+μ̃wf+(1-μ̃)pCh-
+dμ̃
+dp[
+1
+2 α1Ch+α3
+wf-pCh
+wm+μ̃wf+(1-μ̃)pCh-α4
+wm-wf
+(wm+μ̃ wf)(1+μ̃ )] <> 0 
+ 
+If 
+dμ̃
+dp= 0 then 
+dAverage Welfare w̅
+dp
+< 0. 
+Proof of Proposition 4 
+Using (1'), (5a) and (2Ab): 
+d Welfare s̅
+dwm
+=
+α2
+wm+
+α3
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) [(μ̃
+-
+dμ̃
+dwm) (wf-pCh)] > 0 
+Using (1'), (5a), (5b) and (2Ab): 
+dWelfare w̅
+dwm
+=
+α2
+wm+wf-pCh-
+α3(wf-pCh)(1-μ̃ )
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) -
+α4(1+μ̃ )
+(wm+μ̃ wf)(1+μ̃ ) -
+dμ̃
+dwm[
+α3(wf-pCh)(wm+wf)
+(wm+wf)(wm+μ̃wf+(1-μ̃)pCh) -
+α4(wm-wf)
+(wm+μ̃ wf)(1+μ̃ )] <> 0 
+
+34 
+ 
+Using Lemma 2, (5a), (5b) and (2Ab): 
+d Average Welfare w̅
+dwm
+=
+α2
+wm+wf-pCh-
+α3(wf-pCh)(1-μ̃ )
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) -
+α4(1+μ̃ )
+(wm+μ̃ wf)(1+μ̃ ) -
+dμ̃
+dwm[
+1
+2 α1Ch+
+α3(wf-pCh)(wm+wf)
+(wm+wf)(wm+μ̃wf+(1-μ̃)pCh) -
+α4(wm-wf)
+(wm+μ̃ wf)(1+μ̃ )] <> 0 
+Proof of Proposition 5 
+Using (1'), (5a) and (2Ac): 
+d Welfare s̅
+dwf
+= -
+α3[μ̃ +
+dμ̃
+dwf(wf-pCh)]
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) < 0 
+ 
+Using (1'), (5a), (5b) and (2Ac): 
+dWelfare w̅
+dwf
+=
+α2
+wm+wf-pCh+
+α3(wm+pCh)(1-μ̃ )
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) +
+α4(wm-μ̃ wf)
+(wm+μ̃ wf)wf+
+dμ̃
+dwf[-
+α3(wf-pCh)
+wm+μ̃wf+(1-μ̃)pCh+
+α4(wm-wf)
+(wm+μ̃ wf)(1+μ̃ )] <> 0 
+If 
+dμ̃
+dwf= 0 then 
+dWelfare w̅
+dwf
+> 0. 
+Using Lemma 2: 
+d Average Welfare w̅
+dwf
+=
+α2
+wm+wf-pCh+
+α3(wm+pCh)(1-μ̃ )
+(wm+pCh)(wm+μ̃wf+(1-μ̃)pCh) +
+α4(wm-μ̃ wf)
+(wm,t+μ̃ wf)wf+
+dμ̃
+dwf[-
+1
+2 α1Ch-
+α3(wf-pCh)
+wm+μ̃wf+(1-μ̃)pCh+
+α4(wm-wf)
+(wm+μ̃ wf)(1+μ̃ )] <> 0 
+If 
+dμ̃
+dwf= 0 then 
+d Average Welfare w̅
+dwf
+> 0. 
+Stability condition for μ̂t 
+Using (10) I derive the slope of wf,t as a function of μ̃t-1 as: 
+dwf,t
+dμ̃t-1 = β(1 -θ)μ̃t-1
+β-1wm≥0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4A.a) 
+And thus 
+d2wf,t
+dμ̃t-1
+2
+= β(β-1)(1 -θ)μ̃t-1
+β-2wm≤(>)0 iff β≤(>)1 
+ 
+ 
+ 
+(4A.b) 
+In steady state μ̃t-1 = μ̃t 
+I rewrite (2Ac) to derive the slope: 
+dwf
+dμ̃ =
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+(
+α2
+wm+wf-pCh
++
+α3
+(wm+wf)+α4
+wm
+wf
+1
+(wm+μ̃wf))
+≥0 
+ 
+ 
+ 
+ 
+ 
+(4A.c) 
+
+35 
+ 
+and thus 
+d2wf
+dμ̃2 =
+α4
+(wm-wf)((wm+wf+2μ̃wf))
+[(wm+μtwf)(1+μ̃)]
+2
+(
+α2
+wm+wf-pCh
++
+α3
+(wm+wf)+α4
+wm
+wf
+1
+(wm+μ̃wf))
++
+(α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃))
+α4wm
+(wm+μ̃wf)2
+[(
+α2
+wm+wf-pCh
++
+α3
+(wm+wf)+α4
+wm
+wf
+1
+(wm+μ̃wf))]
+2>0 (4A.d) 
+If there exist an interior solution for μ̂t the stability condition for it is that 
+β(1 -θ)μ̃t
+β-1wm <
+α1Ch-α4
+wm-wf
+(wm+μ̃wf)(1+μ̃)
+(
+α2
+wm+wf-pCh
++
+α3
+(wm+wf)+α4
+wm
+wf
+1
+(wm+μ̃wf))
+ 
+ 
+ 
+ 
+ 
+(4A.e) 
+ 
+Proof of Proposition 6 
+Plug (10) into (6b) to determine (μ̂, ŵf ) as well as the partial derivatives that reflect the effect that 
+changes in the exogenous parameters wm and p have on female labor force participation and 
+female wages 
+ Ddμ̂ = dwm[α2
+pCh
+wm(1+θ+(1-θ)μ̂β)-pCh
++ α3
+pCh
+wm(wm+pCh)] -dp[α2
+Ch
+wm(1+θ+(1-θ)μ̂β)-pCh
++
+α3
+Ch
+wm+pCh] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5A.a) 
+where 
+D= α1Ch-α2
+wmβ(1-θ)μ̂β-1
+wm(1+θ+(1-θ)μ̂β)-pCh
+-α3
+β(1-θ)μ̂β-1
+1+θ+(1-θ)μ̂β-α4 [
+1-θ-(1-θ)μ̂β
+(1+(μ̂θ+(1-θ)μ̂β)(1+μ̂) +
+β(1-θ)μ̂β-1
+(θ+(1-θ)μ̂β)(1+μ̂(θ+(1-θ)μ̂β)] ≥0 
+ 
+Using (5Aa) and (4Ae) it is thus shown that if a stable interior solution exists 
+ 
+dμ̂t
+dwm≥0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5A.b) 
+and 
+dμ̂t
+dp≤0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5A.c) 
+Using (10), (5Ab) and (5Ac): 
+dŵf
+dwm= θ+ (1 -θ)μ̂β+ β(1 -θ)μ̂β-1 dμ̂t
+dwm> 0 
+ 
+ 
+ 
+ 
+ 
+(6A.a) 
+dŵf
+dp= β(1 -θ)μ̂ β-1 dμ̂
+dp≤0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6A.b) 
+d(ŵf-wm)
+dwm
+= θ+ (1 -θ)μ̂β+ β(1 -θ)μ̂β-1 dμ̂
+dwm-1 >< 0 
+ 
+ 
+ 
+(6A.c) 
+
+36 
+ 
+ 
+Proof of Lemma 4 
+dμ̂
+dα3
+= 1
+Dln (
+wm(1 + θ+ (1 -θ)μ̂β)
+wm+ pCh
+) > 0 
+dμ̂
+dα4
+= 1
+Dln (
+(θ+ (1 -θ)μ̂β)(1 + μ̂ )
+1+ μ̂ (θ+ (1 -θ)μ̂β)
+) < 0 
+dŵf
+dα3
+= β(1 -θ)μ̂ β-1 dμ̂
+dα3
+> 0 
+dŵf
+dα4
+= β(1 -θ)μ̂ β-1 dμ̂ 
+dα4
+< 0 
+Proof of Proposition 7 
+Using (3), (5Ac), (6Ab) and assumptions (5a) and (5b): 
+ 
+d Yhh̅̅̅̅̅̅̅ 
+dp
+=
+dμ̂ 
+dp(ŵf-pCh) + μ̂ 
+dŵf
+dp+ (1 -μ̂ )Ch<> 0 
+ 
+ 
+ 
+ 
+(7A.a) 
+Using (4), (5Ac), (6Ab) and assumptions (5a) and (5b): 
+dYind ̅̅̅̅̅̅̅
+dp =
+dμ̂ 
+dp(ŵf- wm)+(1-μ̂ )μ̂ 
+dŵf
+dp
+(1+μ̂ )2
+<> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+(7A.b) 
+Using (3), (5Ab), (6Aa) and assumptions (5a) and (5b): 
+d Yhh̅̅̅̅̅̅̅ 
+d wm= 1 +
+dμ̂
+dwm(ŵf-pCh) + μ̂ 
+dŵf
+dwm> 0 
+ 
+ 
+ 
+ 
+ 
+(7A.c) 
+Using (4), (5Ab), (6Aa) and assumptions (5a) and (5b): 
+dYind ̅̅̅̅̅̅̅
+d wm =
+dμ̂ 
+dwm(ŵf- wm)+(.
+dŵf
+dwm+1)(1+μ̂ )
+(1+μ̂ )2
+> 0 
+ 
+ 
+ 
+ 
+ 
+ 
+(7A.d) 
+Proof of Proposition 8 
+Using (1'), (5a), (5Ac) and (6Ab): 
+d Welfare s̅
+dp
+=
+α3[μ̂ Ch 
+wm+ŵf
+wm+pCh
+-dμ̂ 
+dp(ŵf-pCh)-
+dŵf
+dpμ̂ ]
+wm+μ̂ŵf+(1-μ̂ )pCh
+> 0 
+Using (1'), (5a), (5b), (5Ac) and (6Ab) it can be proven that: 
+
+37 
+ 
+dWelfare w̅
+dp
+=
+α2(
+dŵf
+dp-Ch)
+wm+ŵf-pCh+
+α3[-(1-μ̂ )Ch-dμ̂ 
+dp(ŵf-pCh)+
+dŵf
+dp
+(1-μ̂ )(wm+pCh
+wm+ŵf
+]
+wm+μ̂ŵf+(1-μ̂ )pCh
++
+α4
+dμ̂ 
+dpŵf(wm-ŵf)+
+dŵf
+dpwm(1+μ̂ )
+ŵf(wm+μ̂ŵf)(1+μ̂ )
+<> 0 
+dAverage Welfare w̅
+dp
+= -
+dμ̂ 
+dp
+1
+2 α1Ch+
+α2(
+dŵf
+dp-Ch)
+wm+ŵf-pCh+
+α3[-(1-μ̂ )Ch-dμ̂ 
+dp(ŵf-pCh)+
+dŵf
+dp
+(1-μ̂ )(wm+pCh
+wm+ŵf
+]
+wm+μ̂ŵf+(1-μ̂ )pCh
++ α4
+dμ̂ 
+dpŵf(wm-ŵf)+
+dŵf
+dpwm(1+μ̂ )
+ŵf(wm+μ̂ŵf)(1+μ̂ )
+<> 0 
+ 
+ 
+Proof of Proposition 9 
+ Using (1'), (5a), (5Ab) and (6Aa): 
+d Welfare s̅
+dwm
+=
+α2
+wm+
+α3μ̂ (ŵf-pCh)
+(wm+pCh)(wm+μ̂ŵf+(1-μ̂ )pCh) -
+α3
+wm+μ̂ŵf+(1-μ̂ )pCh[
+dμ̂ 
+dwm(ŵf-pCh) +
+μ̂ 
+dŵf
+dwm] <> 0 
+Using (1'), (5a), (5b), (5Ab) and (6Aa): 
+ 
+dWelfare w̅
+dwm
+=
+α2(1+
+dŵf
+dwm)
+wm+ŵf-pCh+
+α3(1-μ̂ )[
+dŵf
+dwm(wm+pCh)-(ŵf-pCh)]
+(wm+ŵf)(wm+μ̂ŵf+(1-μ̂ )pCh)
++
+α4[(1+μ̂ )(
+dŵf
+dwmwm-ŵf)+ dμ̂ 
+dwm(wm-ŵf)]ŵf
+ŵf(wm+μ̂ŵf)(1+μ̂ )
+<> 0 
+dAverageWelfare w̅
+dwm
+= -
+dμ̂ 
+dwm
+1
+2 α1Ch+
+α2(1+
+dŵf
+dwm)
+wm+ŵf-pCh+
+α3(1-μ̂ )[
+dŵf
+dwm(wm+pCh)-(ŵf-pCh)]
+(wm+ŵf)(wm+μ̂ŵf+(1-μ̂ )pCh)
++
+α4[(1+μ̂ )(
+dŵf
+dwmwm-ŵf)+ dμ̂ 
+dwm(wm-ŵf)]ŵf
+ŵf(wm+μ̂ŵf)(1+μ̂ )
+<> 0

@@ -5,13 +5,10 @@
 __pycache__/
 *.pyc
 
-# Caches and temporary files (large, reproducible)
-work/*.sqlite
-work/*.sqlite-*
+# Temporary filesystem artifacts
 **/.fuse_hidden*
 
-# Full texts of third-party sources and PDFs (copyright)
-work/sources/
+# Local suspected-source files and PDFs
 local_sources/*
 !local_sources/README.txt
 *.pdf

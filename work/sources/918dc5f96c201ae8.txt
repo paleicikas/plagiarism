@@ -1,0 +1,30 @@
+Rigorously trained & tested. Clinically validated. Peer-reviewed.
+Canvas Dx has been developed over years of testing and clinical validation with results published in peer-reviewed journals.
+AI & Machine Learning that Supports Early Diagnosis
+Canvas Dx is the first and only FDA authorized diagnostic system that gives more clinicians the ability to diagnose or rule out autism in children ages 1.5 to 6 years1. Learn about the key milestones of our product development, from foundational research to clinical validation, post-FDA authorization algorithmic optimization and real-world performance. Find summaries of all our major peer-reviewed scientific publications and journals.
+ Early Stage Development 
+ Foundational research began at Harvard Medical School's Center for Biomedical Informatics, where Cognoa's founder, Dr. Dennis Wall PhD, was on faculty. Early research focused on addressing the crisis of late diagnosis for children with autism2 and exploring machine learning as a foundation for an accurate, efficient, objective, and user-friendly diagnostic solution. In this early work, machine learning approaches were applied to derive maximally predictive autism behavioral features using archived electronic patient record data from thousands of children with diverse conditions, presentations, and comorbidities. Six peer reviewed scientific publications3-8 analyzed score data from 11,298 individuals with varying autism presentations, and 1,356 individuals without autism. Performance metrics for an initial set of eight unique machine learning autism classifiers were derived, tested, and published.3-5,8 
+ Independent Validation of Classifiers 
+ The accuracy of the two best performing autism classifiers (ADTree7 and ADTree8) were then independently validated against medical record autism score data not previously used in training, testing or classifier construction. Results were published in peer reviewed scientific journals:5,7 
+ Prospective Validation Studies Begin 
+ Prospective validation studies of the evolving device inputs and algorithm are conducted and published in peer reviewed scientific journals.6, 10-12 
+ Evolution into Canvas Dx: The First FDA Authorized Diagnostic System for Autism 
+ Building on the foundational work, Cognoa's research scientists refined the device inputs and algorithm to arrive at the product that was validated in the pivotal study and authorized by the FDA on June 2, 2021, then commercialized under the brand name Canvas Dx.1 
+ Real-World Integration 
+ The goal of this study was to measure Canvas Dx performance in real-world settings through analysis of early post-market authorization prescription and output data. 
+References
+ - Gordon-Lipkin, E., Foster, J. & Peacock, G. Whittling down the wait time: exploring models to minimize the delay from initial concern to diagnosis and treatment of autism spectrum disorder. Pediatr. Clin. 63, 851-859 (2016).
+ - Kosmicki, J. A., Sochat, V., Duda, M. & Wall, D. P. Searching for a minimal set of behaviors for autism detection through feature selection-based machine learning. Transl. Psychiatry 5, e514-e514 (2015).
+ - Levy, S., Duda, M., Haber, N. & Wall, D. P. Sparsifying machine learning models identify stable subsets of predictive features for behavioral detection of autism. Mol. Autism 8, 1-17 (2017).
+ - Wall, D. P., Dally, R., Luyster, R., Jung, J.-Y. & DeLuca, T. F. Use of artificial intelligence to shorten the behavioral diagnosis of autism. (2012).PLoS One. 2012;7(8):e43855.
+ - Duda, M., Daniels, J. & Wall, D. P. Clinical evaluation of a novel and mobile autism risk assessment. J. Autism Dev. Disord. 46, 1953-1961 (2016).
+ - Duda, M., Kosmicki, J. A. & Wall, D. P. Testing the accuracy of an observation-based classifier for rapid detection of autism risk. Transl. Psychiatry 4, e424-e424 (2014).
+ - Wall, D. P., Kosmicki, J., Deluca, T. F., Harstad, E. & Fusaro, V. A. Use of machine learning to shorten observation-based screening and diagnosis of autism. Transl. Psychiatry 2, e100-e100 (2012).
+ - Tariq, Q. et al. Mobile detection of autism through machine learning on home video: A development and prospective validation study. PLoS Med. 15, e1002705 (2018).
+ - Kanne, S. M., Carpenter, L. A. & Warren, Z. Screening in toddlers and preschoolers at risk for autism spectrum disorder: Evaluating a novel mobile‐health screening tool. Autism Res. 11, 1038-1049 (2018).
+ - Abbas, H., Garberson, F., Glover, E. & Wall, D. P. Machine learning approach for early detection of autism by combining questionnaire and home video screening. J. Am. Med. Inform. Assoc. 25, 1000-1007 (2018).
+ - Abbas, H., Garberson, F., Liu-Mayo, S., Glover, E. & Wall, D. P. Multi-modular AI approach to streamline autism diagnosis in young children. Sci. Rep. 10, 1-8 (2020).
+ - Megerian, J. T. et al. Evaluation of an Artificial Intelligence-Based Medical Device for Diagnosis of Autism Spectrum Disorder. Nat. Partn. J.- Digit. Med. (2022) doi:10.1038/s41746-022-00598-6.
+ - Brian, J. A., Zwaigenbaum, L. & Ip, A. Standards of diagnostic assessment for autism spectrum disorder. Paediatr. Child Health 24, 444-451 (2019).
+ - Wall, D. P., et al.Optimizing a de novo artificial intelligence-based medical device under a predetermined change control plan: Improved ability to detect or rule out pediatric autism,
+Intelligence-Based Medicine, Volume 8, 2023, 100102, ISSN 2666-5212.

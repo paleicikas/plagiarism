@@ -1,0 +1,1443 @@
+Stress
+From a Biological, Social, and
+Psychological Perspective
+Bachelor Degree Project in Cognitive Neuroscience
+Basic level 22.5 ECTS
+Spring term 2018
+Louise Karlsson
+Supervisor: Katharina Rischer
+ Judith Annett
+ Björn Persson
+Examiner: Oskar MacGregor 
+
+Stress - from a biological, social, and psychological perspective 
+2
+Abstract
+Over the years stress has been a term lacking one clear and specific definition. In general, the 
+term stress has been used mostly as an explanation of a response or reaction to a stressor. A 
+stressor can be of both physiological and behavioral character. The experience of stress can 
+occur both due to a real or a perceived stressor. In this literature review, the concept of stress 
+is viewed with insights from biological, psychological, and social perspectives. The stress 
+response is described biologically with the central nervous system (CNS), the brain, and the 
+hypothalamic-pituitary-adrenal (HPA) axis. Social and psychological stress are concepts 
+related to how stress is perceived by the mind and due to social surroundings which is 
+described in relation to social support, self-efficacy, the locus of control and cognitive 
+appraisal. Dealing with stress can be done through coping which refers to the individual 
+capacity to handle a stressor and has generally been divided into two categories, 
+active/passive coping and problem-focused/emotion-focused coping. Depending on the 
+individual resources to cope with a stressor and the ability to decrease the stress response 
+when needed, the long-term effects of stress can therefore vary between individuals. It has 
+been found that positive coping (known as reducing stress) can increase the anterior cingulate 
+cortex (ACC) volume and decrease anxiety and depression. The prefrontal cortex (PFC), the 
+hippocampus, and the amygdala are closely linked to the ACC and affect emotions, learning, 
+and memory related to the stress response.
+Keywords: stress, social stress, BPS model, HPA axis, coping, TSST
+
+Stress - from a biological, social, and psychological perspective 
+3
+Table of contents
+1. Introduction.............................................................................................................................4
+2. The biopsychosocial model of stress......................................................................................6
+3. Biological aspects of stress.....................................................................................................8
+3.1 The nervous system..........................................................................................................9
+3.2 The brain.........................................................................................................................10
+3.3 Hypothalamic-pituitary-adrenal axis..............................................................................12
+3.4 Sympatho-adrenal-medullary axis .................................................................................13
+3.5 Effects of biological stress ............................................................................................14
+4. Social and psychological aspects of stress ...........................................................................16
+4.1 Social support ................................................................................................................17
+4.2 Self-efficacy...................................................................................................................18
+4.3 Locus of control/Theory of planned behavior ...............................................................19
+4.4 Cognitive appraisal.........................................................................................................20
+4.5 Trier social stress test.....................................................................................................21
+5. Coping...................................................................................................................................23
+5.1 Emotion-focused coping vs. problem-focused coping...................................................23
+5.2 Active/proactive vs. passive/reactive coping.................................................................24
+5.3 Ways of coping questionnaire........................................................................................26
+5.4 The stress-coping model.................................................................................................27
+5.5 Coping and the brain .....................................................................................................29
+6. Discussion ............................................................................................................................31
+7. Conclusion ...........................................................................................................................36
+References ................................................................................................................................37
+
+Stress - from a biological, social, and psychological perspective 
+4
+1. Introduction
+Our everyday-life is filled with situations, thoughts, and feelings that can cause stress. 
+A situation, a thought or a feeling can, therefore, be called a stressor. A stressor can be a 
+challenge or a problem which forces an individual to perform in his actions. If a situation is 
+perceived as stressful or not depends on multiple factors and individual differences 
+(Aneshensel, 1992). Stressors can be of two kinds of character: major life stressors and daily 
+hassles. Major life stressors are linked to changes or disruptions connected to central areas of 
+peoples lives. This can be both choices by individuals or things that happen, e.g. the decision 
+of having a baby or the birth of a baby. Research has shown that events that are uncontrollable
+and unexpected are especially stressful. Daily hassles are small, day-to-day annoyances or 
+irritation, for example waiting in line or dealing with difficult people. Daily hassles can be 
+very stressful and the combination of many can be as effective as major life changes 
+(Gazzaniga, Heatherton, & Halpern, 2013).
+Stress is a term that we hear often and in popular terms stress can be defined as time 
+pressure. People can for example feel stressed when they do not have time to finish or 
+perform a task at a given time. The time pressure often triggers a physiological reaction which
+can be perceived as being stressed. It is important to note that stress is not equivalent to time 
+pressure in scientific terms. Stress is then a highly individual experience and is not dependent 
+on a particular event but rather on specific psychological determinants that trigger a stress 
+response (Lupien, Maheu, Tu, Fiocco, & Schramek, 2007). 
+ Over the years, the concept and operationalizing of stress has been used in a variety of
+ways. Stress is often divided into two types, eustress and distress or duress. Eustress is the 
+kind of stress related to positive events, for example preparing for a meeting that you are 
+looking forward to. Distress or duress is the kind of stress related to negative events, for 
+example by studying for an important exam that you have to pass (Gazzaniga et al., 2013).
+Research of stress can be traced far back in time and the term stress, aiming at 
+hardship or adversity, can be found as early as in the 14th century. In the 17th century, it 
+seemed to have achieved technical importance by the work of Robert Hooke - a prominent 
+physicist-biologist. Hooke was worried about man-made structures (e.g. bridges) and how 
+they had to be designed to resist forces of nature that could destroy them. He used the term 
+load when referring to the weight of a structure, stress as the area influenced by the load, and 
+strain as the deformation of the structure caused by the interplay of the load and stress. The 
+
+Stress - from a biological, social, and psychological perspective 
+5
+analysis made by Hooke influenced models of stress in the early 20th century in physiology, 
+sociology, and psychology (Lazarus, 1993b). In modern times, the theme that survived was 
+the idea of stress as an "external load or demand on a biological, social, or psychological 
+system" (Lazarus, 1993b, p. 2). 
+During World War II, interest in an emotional breakdown in response to stresses of 
+combat started to rise with a new perspective. The earlier perspective during World War I had
+been neurological rather than psychological and the term breakdown had been used as shell 
+shock. Dysfunction was thought to be results of brain damage caused by the sound of 
+exploding shells. But after World War II it became clearer that many conditions in ordinary 
+life (e.g. growing up, marriage, being ill) could produce impact comparable to those of 
+combat. This meant a growing interest in stress as a cause of human dysfunction and distress 
+(Lazarus, 1993b). 
+The term stress can be traced to more than one definition or operationalization, 
+therefore stress is a term that has been used to aim at different meanings by various people. 
+During the years, descriptions of stress have been many and varying. Oken, Chamine, and 
+Wakeland (2015) used the term stress to describe responses to stressors that can be both 
+physiological and behavioral. They also claimed that the brain is the key organ responsible for
+interpreting what is stressful to an individual. Lloyd, King, and Chenoweth, (2002) define 
+stress as an emotional and physiological reaction to a stressor. A stressor can be a demand, a 
+circumstance, or a situation which disrupts a persons inner balance and initiates the stress 
+response due to increased autonomic arousal.
+The Oxford Dictionaries defines the word stress as "Pressure or tension exerted on 
+material object", "A state of mental or emotional strain or tension resulting from adverse or 
+demanding circumstances", or "Particular emphasis or importance" ("Stress", 2017b). The 
+Cambridge dictionary defines stress as "Great worry caused by a difficult situation, or 
+something that causes this condition" ("Stress", 2017a). McEwen and Gianaros (2010) 
+describe stress as a transactional process that arises from real or perceived environmental 
+demands, which can be appraised as threatening or advantageous depending on the adaptive 
+coping resources that are available for an individual. The stress process affects the health and 
+can be labeled as "good", "tolerable" or "toxic". The label depends on the degree to which the
+individual perceives control over a given stressor and the resources and support for handling 
+the stressor. 
+This literature review aims at giving a brief overview of the concept of stress. The first
+
+Stress - from a biological, social, and psychological perspective 
+6
+focus will be to describe stress from a biological perspective and to describe what happens in 
+the brain and the body during stress. The second focus concerns the social and psychological 
+perspective of stress and how it affects the mind. Lastly, the focus will be on coping with 
+stress and how dealing with stress can affect the brain, the mind, and the body.
+This thesis will not review individual and personal differences, but it will be shortly 
+mentioned in the sections about social and psychological stress and coping. The effects of 
+personality or sex differences will not be fully described due to its complex field which fits 
+better in the field of social psychology than the field of cognitive neuroscience.
+ The review will begin with an introduction to the biopsychosocial (BPS) model of 
+stress since this model explains how biological, social, and psychological aspects interacts 
+and affects the health and well-being. The biological aspects of stress, for example the CNS 
+and the HPA axis, will be described to clarify what happens in the body and the brain during 
+stress. The second section focuses on the social and psychological aspects of stress and how 
+stress affects the mind. Concepts that are described here are self-efficacy, the locus of control,
+and cognitive appraisal. The last section focuses on coping, dealing with stress and different 
+coping strategies. This part will also explain effects of coping, stress, and its impact on the 
+brain.
+In this thesis, the term stress will be referred to as an emotional and physiological 
+reaction to a stressor. The concept of stress will therefore be viewed with insights from 
+biological, psychological, and social aspects of stress.
+2. The biopsychosocial model of stress
+In 1977, George Engel wanted to illuminate that the traditional biomedical model of 
+stress used the biological indices as the most valuable criteria to define a disease. Engel 
+(1977) meant that this could lead to those people who felt sick could do so without showing 
+biologically that they were sick and that they therefore would not be classified as being sick. 
+People that at the same time felt well but biologically showed that they were sick could 
+therefore be classified as being sick. Engel (1977) introduced the BPS model of stress, a 
+model that would also include psychological and social factors along with the biological 
+factors when looking at a disease. This model made it possible to explain why "illness" 
+conditions are experienced only by some individuals and that it might depend on the relation 
+to the personal emotional reaction, life circumstances, or somatic symptoms (Engel, 1977).
+
+Stress - from a biological, social, and psychological perspective 
+7
+Rith-Najarian, McLaughlin, Sheridan, and Nock (2014) describes the BPS model of 
+stress as a framework which links cognitive, behavioral, and physiological responses to stress 
+and performance. The BPS model of stress presents that during an acute stressor, the situation 
+is first perceived and appraised by the individual as to which personal resources the individual
+holds against which demands are needed to successfully master the situation. The appraisal 
+then influences the physiological response which in turn affects the performance of the 
+individual and how well he deals with the situation. When the stressful situation is starting to 
+end, the factors together create a stress-appraisal that contains an opinion of how stressful the 
+situation was. 
+Furthermore, Suls and Rothman (2004) state that well-being and physical health 
+evolves through biological, physiological, and social factors that interact. According to 
+Drossman (1998) the BPS model of stress can be helpful when shifting focus and looking at 
+medical conditions in a new way. By distinguishing the difference between illness and disease
+and at the same time adding psychosocial factors, the BPS model of stress can be viewed as a 
+construction for the multidisciplinary research. 
+Gazzaniga et al. (2013) describe the BPS model of stress by viewing health and illness
+as a circle. The circle is a combination of biological characteristics (e.g. genetic 
+predisposition, the brain, and the nervous system), behavioral factors (psychological factors 
+like thoughts or actions, personal lifestyle, or health beliefs), and social conditions (social 
+support, family relationships, environments, cultural influences). Thoughts and actions affect 
+the environment that we choose to interact with, the environment then affects the biological 
+underpinnings of our thoughts and actions.
+An example of how the BPS model works is when an individual often is anxious due 
+to genes (biological factor), the individual then eats comfort foods like ice cream, macaroni, 
+and cheese to reduce the feelings of anxiety (psychological factor). Consuming this kind of 
+food frequently might cause the person to gain weight and become overweight. Overweight 
+people often do not find it pleasant going to the gym though exercising can be hard and other 
+people at the gym might stare (social factor). By not going to the gym the individual risks to 
+gain even more weight which affects the body (biological factor) and the circle would then 
+repeat. All these factors would then affect feelings, emotions and bodily reactions to stress 
+(Gazzaniga et al., 2013).
+In figure 1, the BPS model of stress is illustrated as a circle around the concept of 
+stress and how biological, social, and psychological aspects together affect the experience of 
+
+Stress - from a biological, social, and psychological perspective 
+8
+stress.
+Figure 1. The BPS model, adapted and 
+ reworked from Gazzaniga et al. (2013).
+According to Borrell-Carrió, Suchman, and Epstein (2004) the BPS model of stress 
+can be used to understand how struggles like illness, suffering, and disease are affected by a 
+multi-level organization from the molecular to a societal view. The BPS model of stress is 
+practically a method for understanding a patients subjective experience as an important part of
+providing a thorough diagnosis and follow-up of the health outcome.
+3. Biological aspects of stress
+There are constantly a lot of internal processes going on to keep the human body alive.
+To explain what happens in the body, two approaches have been used. The first approach 
+gives emphasis to the purpose of the bodily process, why something happens in the body. The
+second approach gives emphasis to the underlying mechanisms as to where and how the 
+process occurs (Sherwood, 2015).
+Homeostasis is a term referring to the stability of the physiological systems that 
+maintain human life (McEwen, 2007). Homo can be translated to the same and stasis to stay 
+or stand (Sherwood, 2015). It is a complex, harmonious, and dynamic balance that affects the 
+survival of a living organism (Chrousos & Gold, 1992). The homeostatic system includes 
+blood oxygen, blood pH, and body temperature which must be maintained at short intervals 
+(McEwen, 1998). The homeostasis is constantly challenged and sometimes threatened by 
+external- or internal stressors and disturbing forces. Homeostasis is then reestablished by 
+adaptational responses. Adaptational responses consist of an extraordinary range of mental or 
+physical reactions that attempt to counteract the effects of the stressors (Chrousos & Gold, 
+1992). 
+Allostasis is a term referring to the process of changing parameters by the internal 
+milieu of an organism, this is to maintain physiological stability by matching the parameters 
+appropriate to the environmental demands (Juster, McEwen, & Lupien, 2010). The term was 
+introduced by Sterling and Eyer in 1988 to characterize how blood pressure and heart rate 
+
+Stress - from a biological, social, and psychological perspective 
+9
+vary with experiences and time of day (Sterling & Eyer, 1988). Allostasis is used as a term for
+a physiological coping mechanism, a process to keep the organism alive and functioning 
+(McEwen, 2000). Allostatic load is consequently the 'wear and tear' the body experiences due 
+to repeated allostatic responses that have been activated during stressful situations (Juster et 
+al., 2010). 
+The allostatic systems make it possible for us to respond to our physical states (e.g. 
+exercising, standing, being awake, being asleep) and to cope with hunger, danger, extremes of
+temperature, and different types of infections. When faced with a challenge like an infection, 
+a dangerous situation or a public-speaking test, the core response of the body is twofold. This 
+means that an allostatic response is turned on which begins with a complex adaptive pathway 
+and when the threat has passed the response is shut down. The sympathetic nervous system 
+(SNS) and the HPA axis are both involved in the most common allostatic responses 
+(McEwen, 1998). 
+When the allostatic systems are activated and not automatically shut down as it should,
+the system is constantly working which might be described as stress. The stress response is a 
+natural response to save humans from threats that can be dangerous. The stress response itself 
+can then be dangerous if the allostatic systems are not shut down when there is no longer an 
+existing threat (Juster et al., 2010).
+Stress can be intensively felt during a shorter period of time and can be felt less 
+intense during a longer period of time. The two types of experienced stress are generally 
+divided into acute and chronic stress. Acute stress has been related to the fight-or-flight 
+response or major life events, such as the birth of a baby, whereas chronic stress can be 
+related to a load of minor day to day stresses, such as keeping up with deadlines (McEwen, 
+1998). 
+The field of psychoneuroimmunology aims at studying the immune system of the body
+through psychological variables. Over 300 studies have demonstrated that short-term stress 
+boosts the immune system while chronic stress weakens the immune system and leaves the 
+body with less ability to deal with infections (Gazzaniga et al., 2013). 
+3.1 The nervous system
+Information from the external environment is picked up by the nervous system. The 
+nervous system is a complex network sending and receiving messages through the nerves and 
+cells in the body and the brain (Sherwood, 2015).
+
+Stress - from a biological, social, and psychological perspective 
+10
+Gazzaniga, Ivry, and Mangun (2009) describe the nervous system as two subdivisions:
+the CNS, which comprises the brain and spinal cord, and the peripheral nervous system (PNS)
+which comprises everything outside the CNS. The CNS can therefore be thought of as the 
+main controller of the nervous system. The PNS delivers sensory information to the CNS and 
+sends motor commands from the CNS to the muscles to control both the voluntary muscles of 
+the body and the smooth muscles, the heart, and the glands involuntary activities (Gazzaniga 
+et al., 2009). 
+The steroid hormone cortisol is involved in learning, memory, and emotion. It plays, 
+therefore, a key role in the CNS. It regulates both blood sugar (knowns as glucose) storage 
+and utilization in the metabolic system and regulates the maturation of a subtype of white 
+blood cells called lymphocytes and the magnitude and duration of the inflammatory responses 
+in the immune system (Miller, Chen, & Zhou, 2007). 
+A part of the PNS is the autonomic nervous system (ANS) which participates in 
+controlling the action of smooth muscles, various glands, and the heart. It is divided into two 
+branches, the SNS and the parasympathetic nervous systems (Gazzaniga et al., 2009). The 
+sympathetic system uses a neurotransmitter called norepinephrine whereas the 
+parasympathetic system uses the neurotransmitter called acetylcholine. Activation of the SNS 
+increases heart rate and prepares the body for making an action. This action is mostly known 
+as the fight-or-flight response and is released by stimulation of the adrenal glands which in 
+turn releases the stress hormone known as adrenaline. Unlike the SNS, when the 
+parasympathetic nervous system is activated, the heart rate slows down and the digestion is 
+stimulated. In general, the parasympathetic nervous system can help the body with normal 
+functions that are relevant to maintain the homeostasis of the body (Gazzaniga et al., 2009). In
+table 1, the difference between the SNS and the parasympathetic nervous system is shown.
+Sympathetic nervous system
+Parasympathetic nervous system
+Inhibits salivation
+Increases salivation
+Accelerates heart
+Slows heart
+Less rapidly breath
+More rapidly breath
+Decreases digestive functions
+Increases digestive functions
+Table 1. Characteristics of the sympathetic nervous system vs. the parasympathetic nervous system
+3.2 The brain
+The brain perceives potential threats and determines both behavioral and physiological
+responses which makes it the central organ of stress and adaptation to stressors (McEwen, 
+
+Stress - from a biological, social, and psychological perspective 
+11
+2007). The brain can usually be seen and divided into four lobes which are the frontal lobe, 
+the parietal lobe, the occipital lobe, and the temporal lobe. The frontal lobe is involved in 
+cognitive control, planning, and execution of movements. The parietal lobe is involved in 
+receiving sensory inputs about temperature, touch, 
+limbic position, and pain which is useful when 
+coordinating an action. The occipital lobe is 
+responsible for processing visual information 
+and the temporal lobe is involved in processing 
+visual, auditory, and multimodal information 
+(Gazzaniga et al., 2009).
+Figure 2. Lobes in the brain. 
+In the temporal lobe contiguous to another are called the hippocampus the amygdala is
+located, which consists of comprised distinct cell-groups. The hippocampus plays a key role 
+in processing memory (Gazzaniga et al., 2009). In a stress-related process, the amygdala 
+involves a rapid emotional and behavioral response due to a stressful event. The response is 
+based on integrating multimodal sensory inputs from thalamic, cortical, and brainstem 
+afferent relays. The central nucleus of the amygdala communicates with areas of the PFC in 
+the frontal lobe (including the ACC), the ventromedial PFC, and the orbitofrontal cortex 
+(OFC) that also is involved in stressor-related processing (Roozendaal, McEwen, & Chattarji, 
+2009). According to McEwen (2007) the amygdala supports and coordinates the changes in 
+peripheral physiological reactivity evoked by stressors, which seems to be related to adverse 
+social environments.
+The PFC is involved in higher cognitive functions (e.g. executive control and working 
+memory) and occupies the anterior portion of the frontal lobes. The PFC is active in the topdown regulation of threat-related and stress-related responses but also during copingprocesses that are mediated by subcortical limbic areas which include the hippocampus, the 
+hypothalamus, and the amygdala (Compas, 2006). A number of prefrontal areas send 
+projections to the hypothalamus (and other regions) for regulating the peripheral stress 
+response axes that are important for health, primarily the OFC, the dorsal medial PFC, and the
+ACC (McEwen & Gianaros, 2010). 
+Being exposed to various stressful experiences can reduce a number of immune 
+
+Stress - from a biological, social, and psychological perspective 
+12
+functions. Circulating levels of immunological cell classes (called lymphocytes) can be 
+diminished by stressful life experiences such as losing a job or taking an exam (Kemeny, 
+2003).
+3.3 Hypothalamic-pituitary-adrenal axis
+ One of the key mechanisms of the HPA system is to support an organism to adapt to 
+physical and psychosocial changes in the environment (Burke, Davis, Otte, & Mohr, 2005). It 
+is a discrete set of releasing-hormones that control the HPA axis. This set is located in the 
+medial parvocellular division of the hypothalamic paraventricular nucleus (PVN). These 
+hormones secrete and synthesize corticotrophin-releasing hormone (CRH) which is the 
+primary substance promoting secretion of adrenocorticotrophic hormone (ACTH). ACTH 
+travels to the anterior pituitary and is released into the systemic circulation. When ACTH is 
+bound in the adrenal cortex, steroid hormones (also known as glucocorticoids) are released 
+and synthesized (Herman, Ostrander, Mueller, & Figueiredo, 2005). This process is pictured 
+and described in figure 3. 
+ 
+Figure 3. The HPA axis. Adapted and reworked from 
+Gazzaniga et al. (2013). a.) Stress begins with a 
+stressful event, which might be an upcoming exam, 
+going to the dentist or a stack of unpaid bills. b.) This 
+stressful event is then perceived by various brain areas.
+c.) The hypothalamus (located in the center of the 
+brain) is then sending a chemical message to the d.) 
+pituitary gland (a major gland just below the brain). 
+The pituitary gland is secreting a hormone called 
+ACTH which is traveling through the bloodstream and 
+might reach the e.) adrenal glands (which can be found 
+near the kidneys). The adrenal glands secrete a steroid 
+hormone known as cortisol.
+The end-product of the HPA axis is steroid hormones (glucocorticoids), the most 
+known steroid hormone is cortisol. Steroid hormones are important in growth processes, 
+energy metabolism, immune function, neuroendocrine control, and brain functions such as 
+memory and learning processes. The HPA axis is highly sensitive to the disturbances of the 
+external environment because the glucocorticoid responses can get started by a direct 
+activation of the PVN (Herman et al., 2005). When cortisol is secreted, the amount of glucose 
+is increased in the bloodstream. Norepinephrine and epinephrine are released by the adrenal 
+glands and activates the SNS, increasing heart rate and blood pressure. The body can, due to 
+
+Stress - from a biological, social, and psychological perspective 
+13
+these activations, prepare for a response to the stressor (Gazzaniga et al., 2013). 
+When the HPA axis is chronically over-activated it elicits a domino effect on the 
+biological systems. These systems might then collapse themselves which can lead the 
+organism to be susceptible to stress-related diseases (Juster et al., 2010). The hypo-activity of 
+the HPA axis can for example be observed in patients with post-traumatic stress disorder or 
+muscle and tissue pain (also known as fibromyalgia). The HPA axis can also be seen as 
+hyperactive in association with for example a major depression or Alzheimer's disease. 
+Hyperactivity can be characterized by a higher level of corticosteroid hormones and a less 
+effective level of the PVN and the pituitary, which is generated by a feedback action (Joels, 
+Verkuyl, & van Riel, 2003).
+Joels et al. (2003) mentions one theory for this constant hyperactivity of the axis 
+saying that the hyperactivity is caused by a gradual change of neuronal inputs to the PVN that 
+might cut off the CRH-producing cells after being exposed to long-standing stress. These cells
+then receive inputs from gamma-aminobutyric acid known as GABA (Joels et al., 2003), 
+which is the inhibitory neurotransmitter manager in the CNS according to Gazzaniga et al. 
+(2009).
+3.4 Sympatho-adrenal-medullary axis 
+Since the HPA axis is generating a long-term and more chronic response, the 
+sympatho-adrenal-medullary (SAM) axis is associated with short-term and acute responses. 
+The SAM axis and the HPA axis complement each other but represent different aspects of the 
+individual response to stress. Both the HPA axis and the SAM axis are induced by the 
+hypothalamus. The sensory inputs and the feedback mechanisms of the axes oversee both the 
+level of the environmental demand and the internal state of the organism (Bitsika, Sharpley, 
+Sweeney, & McFarlane, 2014).
+The SAM axis acts fast via the SNS branch of the ANS in response to stressors, which 
+generates a neurally instigated response in target organs such as the heart or the skin. It does 
+so by a direct nerve stimulation from the hypothalamus and with support from adrenaline 
+which is produced by the adrenal medulla. The effects of the SAM axis results in an increased
+sweating of the feet and the palms, an increased heart rate, enlargement of the pupils, an 
+increase in blood flow, and an increased oxygen uptake in the lungs. When comparing the 
+HPA axis and the SAM axis, the SAM axis responds via nerves whereas the HPA axis 
+responds via hormones which makes the SAM axis faster in responding to stressors than the 
+
+Stress - from a biological, social, and psychological perspective 
+14
+HPA axis (Bitsika et al., 2014).
+3.5 Effects of biological stress 
+Stress hormones are indispensable to the normal health, but can over a long-term have 
+a negative effect on the health. Both the immune system and the body is affected and altered 
+by stress hormones. Problems such as cardiac disease, diabetes, increased blood pressure, and 
+a decline in sexual interest can also be linked to stress hormones (Gazzaniga et al., 2013).
+A stressful experience can include major life events, trauma, or abuse and can be 
+related to the home-, workplace-, or neighborhood environment. Both acute and chronic stress
+can have long-term consequences on health and the effects of chronic stress can be made 
+worse by a rich diet and the use of alcohol and tobacco but can also be reduced by moderate 
+exercise (McEwen, 1998). The ability to habituate or adjust to repeated stress determines how
+the individual perceives a situation. For many people it can be a challenge to speak in public 
+but after some training, most people become more familiar with public speaking and their 
+cortisol secretion that earlier increased when facing this challenge would no longer increase as
+much as before (McEwen, 1998).
+When the SNS and HPA axis is activated, catecholamine (hormones produced by the 
+adrenal glands) is released from nerves and the adrenal medulla which leads to a secretion of 
+corticotropin from the pituitary. The release of cortisol from the adrenal cortex is then 
+mediated by the corticotropin. When for example the danger is over or the infection is 
+contained these systems are inactivated and cortisol and catecholamine secretion return to 
+baseline levels. If the inactivation is not efficient it will be an overexposure to stress 
+hormones. An increased secretion of stress hormones over weeks, months, or years can result 
+in an allostatic load and related pathophysiologic consequences (McEwen, 1998). 
+Stress hormones can change the structure of neurons in the brain and then modulate 
+different functions. One of the most sensitive and plastic regions in the brain is the 
+hippocampus, which serves important cognitive functions connected to the memory 
+(McEwen, 1998). The hippocampus is located in the medial temporal lobe and is involved in 
+remembering and learning spatial and declarative information, it regulates visceral functions 
+(HPA axis included) and process contextual aspects of emotional events. Studies about the 
+hippocampus using animal models have revealed that repeated stress can cause a remodeling 
+of hippocampal circuitry, for example loss of spine synapses, shortening of dendrites, and 
+suppression of the neurogenesis ongoing in the dentate gyrus region of the hippocampal 
+
+Stress - from a biological, social, and psychological perspective 
+15
+formation (McEwen & Gianaros, 2010). Neurogenesis is a process when old and dying 
+neurons are replaced by new neurons in structures that are still growing (Øverli et al., 2007). 
+The hippocampus both supports aspects of memory and regulates the HPA activity 
+impairment and can be expected to have two effects: (1) Impairment of hippocampal 
+involvement in declarative, episodic, contextual, and spatial memory may lead to a weakening
+of an individuals ability to process information in new situations and in making decisions 
+regarding how to handle new challenges. (2) Impairment in regulating HPA activity and 
+turning off the stress response, which can lead to an elevated HPA activity and exacerbate 
+actions of adrenal steroids in the long-term as effects of repeated stress (McEwen & Gianaros,
+2010). 
+As a result of repeated stress, animal studies of the PFC reveal changes in neuronal 
+structure and connectivity. The medial PFC has shown a loss of synaptic connections and 
+reduced neuronal complexity while the OFC has shown a greater neuronal complexity due to 
+chronic stress (McEwen & Gianaros, 2010).
+Lehman, Rodin, McEwen, and Brinton (1991) studied the impact of chronic 
+environmental stress in a bio-breeding rat (an animal model for human autoimmune insulindependent diabetes mellitus). In a design to model chronic moderate stress, the animals 
+received a triad of stressors over a 14 week period. The animals varied with an age from 25 to
+130 days and was weighed and tested for glycosuria (secretion of glucose into the urine) two 
+times per week. Blood sampling was performed once a week. On the basis of weight loss, 2+ 
+glycosuria, and blood glucose levels of 250+ mg/dl diabetes was diagnosed. It was found that 
+in the bio-breeding rat, chronic stress increased the extent of the gene for Type 1 diabetes in 
+the phenotypic expression. 
+In summary: The biological aspects of stress describes what happens in the body 
+during stress, how it cooperates with it and how it affects the nerve system and the brain. The 
+function of the stress response is to help humans manage a challenge or a threat. The response
+is mainly activated by the HPA axis or the SAM axis in cooperation with the nerve system 
+and the brain. Stress is not harmful to the body if the stress response is shut down after the 
+challenge, but rather when the internal stress systems are still highly activated if they should 
+be at rest. This chronic activation of the stress systems can for example lead to cardiac 
+diseases, diabetes, or impaired memory.
+
+Stress - from a biological, social, and psychological perspective 
+16
+4. Social and psychological aspects of stress 
+Kemeny (2003) argues that the way an individual thinks about a specific stressful 
+situation might affect the outcome of the experience. Gianaros and Wager (2015) explain that 
+psychological stress may occur due to appraisal processes that can be experienced as a threat 
+that cannot be handled by the own ability to cope with the situation or a thought caused by the
+threat. The appraisal systems contain a part of a linking pathway between psychological stress
+and health-related physiology. 
+A psychological definition of stress has closely coupled appraised stress with loss of 
+self-esteem and feelings of helplessness (Cohen & Wills, 1985). These feelings arise due to a 
+perceived inability to cope with situations that demand an effective response. The loss of selfesteem might occur due to failure to cope appropriately, which is attributed to a persons own 
+capacity and/or stable personality traits. Self-esteem refers to the individual and the intern 
+communication that a person is valued for his own worth and despite difficulties or personal 
+faults, he is accepted. Supporting self-esteem has been termed emotional support, expressive 
+support, ventilation or close support. Informational support is when helping defining, 
+understanding, or coping with events perceived as problematic. This type of support has also 
+been named advice, appraisal support or cognitive guidance. 
+Aneshensel (1992) views social stress as an occurrence due to inevitable consequences
+of social organization. Ordinary people often experience a stressful life and the emotions that 
+follow, this might be due to that people tries to integrate into the normative structures of 
+society. Turner, Wheaton, and Lloyd (1995) argue that social stress can be seen as a "buffer" 
+because of oppositional indirect effects via resources that direct its effects and the total causal 
+effect is reduced. 
+Blanchard, McKittrick, and Blanchard's (2001) animal models of social stress involve 
+a subject animal being intermittent, chronic, or single exposed to a conspecific. In the 
+laboratory, different social stress situations are used, involving two or more animals in dyadic,
+group, or colony situations. In research with animal models, social stress has led to a variety 
+of behavioral changes, mostly involving emotionality linked behaviors like defensiveness and 
+anxiety but also social and sexual behaviors. It has been shown that chronic social stress has 
+altered the morphology of hippocampal neurons which may affect learning and memory 
+processes.
+When spending time with others in recreational activities and leisure it is known as 
+social companionship and may reduce stress by filling the need for contact with others and at 
+
+Stress - from a biological, social, and psychological perspective 
+17
+the same time distracting the person from worrying about problems and encouraging positive 
+affect moods. This can also be known as diffuse support or belongingness. At last, there is 
+instrumental support referring to financial aid, need services, and material resources that may 
+help reduce stress by a direct resolution of instrumental problems (Cohen & Wills, 1985).
+4.1 Social support 
+Social support can be closely linked to basic social needs such as affection, approval, 
+esteem, belonging, identity, and security. It can also be interpreted as being satisfied due to 
+interactions with others (Aneshensel, 1992). Social stress can according to Aneshensel (1992) 
+arise due to a lack of stable social organization surrounding the individual.
+Social bonds are important for survival for many of the social species, thus social 
+disconnection may be experienced as a fundamental survival threat (Eisenberger & Cole, 
+2012). Signaling cues that one's connections are damaged or threatened might activate a basic 
+neural alarm system, which is responsible to detect and elicit adaptive responses to 
+threatening harm or danger. The neural alarm system includes various brain areas like the 
+amygdala (in the temporal lobes), known for its role in responses related to threats, along with
+the dorsal ACC (dACC), the anterior insula, and the periaqueductal gray (PAG), known for 
+their roles in processes related to threat and pain. These regions can activate endocrine and 
+autonomic responses generating implications for health (Eisenberger & Cole, 2012). 
+Seeking social support increases positive effects and can be associated with lower 
+heart rate, lower blood pressure, lower catecholamine levels, more use of coping strategies, 
+and a better immune functioning, which seems to be linked to a reduced neuroendocrine 
+reactivity (Olff, Langeland, & Gersons, 2005).
+Several studies have found evidence for a linkage between social support and wellbeing. The benefits of social support on well-being can be seen through two different 
+processes (Cohen & Wills, 1985). One model, termed the buffering model proposes that social
+support is only related to well-being for people during stress and that the support "buffers" or 
+protects the person from the stressful event and it is a potentially pathogenic influence. In 
+comparison, another model called the main-effect model proposes that irrespective of being 
+under stress or not, social resources have a beneficial effect. Evidence for this model comes 
+from a demonstration of a statistical main-effect of support with: no Stress X Support 
+interaction. Evidence for the buffering model has been found when social support measure 
+assesses interpersonal resources, responsive to the needs elicited by stressful events. Evidence
+
+Stress - from a biological, social, and psychological perspective 
+18
+for a main-effect model was found when support measure assesses a persons degree of 
+interaction in a large community social network (Cohen & Wills, 1985). 
+In a study by Kirschbaum, Klauer, Filipp, and Hellhammer (1995) social support was 
+measured through the cortisol response to the Trier Social Stress Test (TSST) (which is 
+described later in this section). Healthy adults (N=66) received either "no support" or "social 
+support" from either an opposite-sex "stranger" or "partner". The support providers were 
+asked to show supportive behaviors during the preparation of a speech. In the "stranger" 
+condition, two male and two female graduate students of psychology were trained in theory 
+(emotional and instrumental support modes and ineffective support attempts) and applied 
+social support to the person being exposed to the stressor (public speech) 1 week before the 
+first experimental session. In the "partner" condition, the partners' task during the experiment 
+was to be as helpful as possible during the preparation of the speech. Saliva samples were 
+obtained from each subject (-3min, +10min,+20min, +30min, +40min, +50min) but showed 
+no statistical significance in the difference in baseline cortisol levels between the groups. 
+ANOVA results indicated significant results for the cortisol response for the group by sex 
+effect (F = 4.0, p = .023) suggesting that there is a difference in cortisol responses between 
+gender in the experimental groups (Kirschbaum et al., 1995). 
+4.2 Self-efficacy
+Bandura (1991) describes perceived self-efficacy as "peoples beliefs about their 
+capabilities to exercise control over their own level of functioning and over events that affect 
+their lives" (Bandura, 1991, p. 257). Perceived behavioral control, on the other hand, focuses 
+on the ability to perform a particular behavior (Ajzen, 2002). 
+Perceived self-efficacy gets influence from four major processes including cognitive, 
+motivational, affective, and selection processes. Cognitive processes refers to the human 
+behavior that is mostly performed with purposes and regulated by cognized goals. A strong 
+perceived self-efficacy makes people set higher personal goals for themselves and gives them 
+a stronger commitment to achieve their goals. People with a high sense of efficacy see success
+forward while those who doubt their efficacy see failure forward and complain about all that 
+can go wrong. Affective processes explains how a persons belief in his own capabilities affect
+how much stress and depression he experiences in threatening or difficult situations and also 
+how it affects his level of motivation, which can be seen as the emotional mediator of selfefficacy belief (Bandura, 1993). 
+
+Stress - from a biological, social, and psychological perspective 
+19
+In anxiety arousal, perceived efficacy to exercise control over stressors plays a central 
+role. Those who believe that they can manage threats do not come up with disturbing thought 
+patterns whereas people who believe they cannot handle these threats experience high anxiety 
+arousal and dwell on their coping absence. They might also think about and worry about 
+threats that rarely occur. This way of thinking leads them to distress and deteriorates their 
+level of functioning (Bandura, 1993). 
+When people who distrust their self-efficacy try to cope with threats their stress 
+mounts, their blood pressure rises, their heart rate accelerates, their stress-related hormones 
+are activated, and they suffer a reduction in immune function. When their coping efficacy has 
+been strengthened by life experiences the same thought pattern can be handled without these 
+stress reactions (Bandura, 1993). A low sense of self-efficacy can produce both depression 
+and anxiety. One route to depression is a low sense of social efficacy. The harmful effects of 
+chronic stressors can be reduced by being socially effective, by seeking out and cultivating 
+social relationships, and by using models on how to manage difficult situations. Perceived 
+self-efficacy opens up for social support, brings satisfaction to peoples lives, and leaves 
+beneficial effects on psychological well-being and functioning (Bandura, 1993). 
+4.3 Locus of control/Theory of planned behavior 
+When studying human action, the theory of planned behavior has emerged as an 
+influential and popular conceptual framework (Ajzen, 2002). According to the theory, the 
+human behavior is guided by three sorts of considerations: behavioral beliefs (beliefs about 
+consequences or attributes likely to affect the behavior), normative beliefs (beliefs about other
+people in relation to normative expectations), and control beliefs (beliefs about attending 
+factors that might reduce or enhance the performance of the behavior). Behavioral beliefs 
+produce a favorable or unfavorable attitude towards the behavior whereas normative beliefs 
+give rise to a subjective norm or perceived social pressure. Control beliefs result in perceived 
+behavioral control evaluating the ease or difficulty of performing the behavior (Ajzen, 2002).
+Many factors can affect the performance of a behavior both in a positive and a 
+negative way. Some factors (including willpower and skills) are internal to the individual 
+while other factors (such as demands or actions of other people) are external. Distinguishing 
+between internal and external causes of a behavior can be important (Ajzen, 2002). The 
+responsibility for failure or success is attributed to the actor when it is perceived as internal 
+factors (effort or ability) whereas when it is perceived as due to external factors (luck or task 
+
+Stress - from a biological, social, and psychological perspective 
+20
+difficulty) it is perceived with less responsibility (Weiner & Kukla, 1970). The internal and 
+external locus of control has many times been confused with the control or the lack of control 
+over the performance of the behavior, this confusion might be due to the concept of perceived
+locus of control (Rotter, 1966). The concept of perceived locus of control refers to that people
+differ in how they view rewards, punishments, or events in their lives caused by their 
+behavior, their actions, and by factors beyond the individual control (Rotter, 1966). 
+4.4 Cognitive appraisal
+To deal with a stressful experience and to effectively deal with a stressor humans use 
+the cognitive appraisal to link thoughts with feelings. Cognitive appraisals help to more 
+objectively think about and manage feelings (Gazzaniga et al., 2013). Appraisal systems are 
+used to distinguish and assess memories, thoughts, and situations in life based on how 
+meaningful and important they are for the individual. It has been thought that appraisals 
+associated with threats to social, physical, and personal well-being bring forth psychological 
+stress in cases where the own coping ability is exceeded (Gianaros & Wager, 2015).
+Cognitive appraisal is a process when a situation is categorized in terms of its 
+significance for well-being (Lazarus & Folkman, 1984). Though appraisal is the individuals 
+own view of the situation, it can be seen as an essentially subjective concept (Cohen & Wills, 
+1985). According to Lazarus (1993b) appraisals can be conceptualized and divided into a twopart process known as primary- and secondary appraisals. Primary appraisals are used to 
+decide whether a stimulus is benign, stressful, or irrelevant. Carver, Scheier, and Weintraub 
+(1989) describes it as the first part of the process where someone discovers the threat. 
+Secondary appraisals is the part of the process when a potential response to the threat is 
+brought into mind. Lazarus (1993b) refer this part of the process as to when someone 
+evaluates different response options to further be able to decide how to handle the threat.
+According to Frankenhaeuser and Lundberg (1985) negative appraisals of stressors 
+leads to the release of cortisol which may increase the vulnerability to depression. Cortisol is 
+not released until a situation is perceived as harmful and the cognitive ability to evaluate the 
+event is a key function in the bodily response to a threat. How extensive the neuroendocrine 
+stress response becomes depends on whether the stressor is appraised as a challenge or a 
+threat. Challenge appraisals can be associated with the fight-or-flight response-pattern, 
+distinguished as short-term increases in catecholamines and cortisol adaptation when similar 
+stressors are faced over time. The challenge response has been associated with low negative 
+
+Stress - from a biological, social, and psychological perspective 
+21
+emotion, enhanced coping ability, and a stronger cardiac activity. In comparison, threat 
+appraisals have been associated with high negative emotion, poorer coping, higher reactive 
+levels of cortisol, and an increase in peripheral vascular resistance (Frankenhaeuser & 
+Lundberg, 1985).
+Perceived behavioral control and self-efficacy are in a way quite similar, they are both 
+concerned with the perception of the ability to perform a behavior or a sequence/series of 
+behaviors (Ajzen, 2002). Discussions of control over the performance of a behavior with 
+internal locus and lack of control with external locus lie close to the concept of self-efficacy 
+and controllability. The belief of self-efficacy are reflecting internal factors whereas the 
+controllability of behavior can be dealt with external factors (Ajzen, 2002).
+4.5 Trier social stress test
+When looking at the biological aspects of stress, one of the most commonly used 
+methods has been to analyze the response of the HPA axis and the CNS when describing 
+stress reactions, though these biological responses is also activated during perceived 
+psychosocial stress. To test for psychosocial stress, the TSST was developed by Clemens 
+Kirschbaum and colleagues at the University of Trier in 1993 (Kirschbaum, Pirke, & 
+Hellhammer, 1993). 
+To study an individuals HPA axis response pattern to psychosocial stress, a laboratory 
+stress paradigm was needed to be able to test if the majority of the subjects were potent 
+enough to induce significant changes of cardiovascular and endocrine parameters (Kudielka, 
+Hellhammer, & Kirschbaum, 2007). The neurobiological stress response in humans had to be 
+induced by a reliable and valid stressor which under experimentally controlled conditions 
+would induce the stress response (Allen et al., 2017).
+The TSST and the stress protocol has been used both in healthy and clinical subjects 
+and populations, investigating variables from subjective-verbal stress reports to objective 
+behavioral and biological stress responses that include parameters of the HPA axis, the SAM 
+axis, the cardiovascular system, the immunological system, and the blood coagulation system 
+(Kudielka et al., 2007). The test is ecologically valid and based on stress induced by public 
+speaking. It integrates unpredictability and social evaluation by forcing the individual to speak
+towards an audience that will not respond and then complete a surprise arithmetic test (Allen 
+et al., 2017).
+The TSST is a performance task that consists of a brief preparation period (3 min) 
+
+Stress - from a biological, social, and psychological perspective 
+22
+following a test period. The participant has to deliver a free speech (5 min) and has to perform
+mental arithmetic (5 min) facing an audience. Before the test begins there should be a rest 
+period of at least 30-45 minutes so that effects of prior potentially stressful events or other 
+effects that might affect the measures is minimized. The participant is asked to go for a 
+personal interview with the staff managers of a company to apply for a job. The subject is told
+that after a preparation time he will introduce him/herself to the committee in a free speech to 
+convince them that he is the best applicant for the job. After the speech, the committee might 
+ask supplementary questions and later present another task. The participant is also told that his
+presentation will be taped- and video recorded for later analysis by a voice frequency analysis 
+of nonverbal behavior and video analysis (Kudielka et al., 2007).
+The committee is trained to communicate in an unresponsive and neutral manner with 
+the participant and gives no facial or verbal feedback. The preparation is done at a small table 
+in front of the committee but the written paper is not allowed to be used during the speech. 
+After the speech and questions, the committee asks the participant to serially subtract the 
+number 17 from 2023 as accurately and fast as possible. Every time the participant makes a 
+mistake one member of the committee interferes by telling the person to stop and start over at 
+2023. After the session the participant is being told the goal of the study and that there was no
+tape- and video recording during the speech (Kudielka et al., 2007).
+During the years, the TSST has been used in hundreds of studies aimed at examining 
+how the human neurobiology is influenced by acute stress. The TSST has according to Allen 
+et al. (2017) led to a procedure that is now considered a golden standard in human 
+experimental stress research and a pillar in stress laboratories worldwide though it combines 
+"the key elements of social evaluative threat and uncontrollability to produce a consistent and 
+robust physiological and psychological stress response in humans" (Allen et al., 2017, p. 115).
+In summary: Social stress is mostly expressed when feelings of belongingness are 
+lacking. How social stress takes form depends on various factors and individuality, it can for 
+example depend on how the stressor is perceived, if it can be controlled, and how it is 
+appraised. Social support can for example improve self-esteem and reduce feelings that can 
+cause social stress. One of the most commonly used methods to measure social stress is by 
+using the TSST.
+
+Stress - from a biological, social, and psychological perspective 
+23
+5. Coping
+Pearlin and Schooler (1978) conceptualizes coping as to what one does to avoid being 
+harmed by strains in life. According to Folkman and Lazarus (1985) coping is defined as 
+cognitive and behavioral efforts for mastering, tolerating, and reducing external and internal 
+conflicts and demands. Coping as a process has been defined by Lazarus (1993a) as "ongoing 
+cognitive and behavioral efforts to manage specific external and/or internal demands that are 
+appraised as taxing or exceeding the resources of the person" (Lazarus, 1993a, p. 237).
+In 1966 the main interest concerning how people cope with stress became stronger 
+when Richard Lazarus claimed that the process of stress consisted of three parts (Lazarus, 
+1966). As described in the section about cognitive appraisals, the first and second part of the 
+process was called primary- and secondary appraisals. The last part of the process was called 
+coping and referred to when the response to the threat was executed (Carver et al., 1989).
+Coping has also been defined as a constantly changing cognitive and behavioral effort 
+by a person who is trying to manage specific internal and/or external demands valued as 
+difficult or overwhelming (Folkman, Lazarus, Dunkel-Schetter, DeLongis, & Gruen, 1986). 
+Generally coping has been viewed as two major functions which can be divided into two 
+kinds of coping, the emotion-focused coping and the problem-focused coping. Emotionfocused coping refers to regulating stressful emotions whereas problem-focused coping refers 
+to altering the trouble that causes the distress. Coping can therefore be neither good nor bad 
+but rather depend on the persons efforts to manage demands (Folkman et al., 1986).
+Pearlin and Schooler (1978) states that before studying coping a distinction between 
+social resources, psychological resources, and specific coping responses must be made. They 
+refer to resources as to what people have available when developing coping characteristics 
+and not to specify what they do. Social resources are different kinds of interpersonal networks
+that people belong to and can have support from e.g. family, friends, neighbors, and coworkers. Psychological resources are referred to as personality characteristics that people use 
+to help them resist the threats of events and objects that occur in their surroundings (Pearlin &
+Schooler, 1978). Coping behavior and its efficacy can also be seen as situation-specific, 
+which indicates that a belief in personal control may sometimes be more damaging than 
+helping, particularly when the stressors cannot be controlled (Aneshensel, 1992).
+5.1 Emotion-focused coping vs. problem-focused coping
+Coping efforts have at a human level been argued as either problem-solving or 
+
+Stress - from a biological, social, and psychological perspective 
+24
+emotion-focused (Maier & Watkins, 2010). According to Lazarus (1993a) theories of coping 
+as a process have been emphasized as two major functions of coping, problem-focused coping
+and emotion-focused coping. Problem-focused coping has the function of changing the 
+troubled person-environment by acting on oneself or the environment. The function of 
+emotion-focused coping is to change the relational meaning of what is happening (attenuating 
+the stress although the actual relationship condition has not been changed) or changing the 
+way the stressful relationship is expressed (Lazarus, 1993a).
+It can be very powerful to change the relational meaning of what is happening when 
+regulating stress and emotions. A comment by someone might for example be taken as 
+demeaning. To avoid feelings of anger and potentially negative consequences, an excuse can 
+be made to explain that the person leaving the comment for example is suffering from work 
+stress, this is to bring forth empathy instead of anger so that anger does not have to be felt by 
+the person receiving the comment (Lazarus, 1993a). Lazarus (1993b) argues that coping 
+depends on if an appraisal indicates that there is something that can be done to change the 
+situation. If the appraisal indicates that something can be done problem-focused coping is 
+dominating whereas if the appraisal indicates that nothing can be done the emotion-focused 
+coping is dominating. 
+5.2 Active/proactive vs. passive/reactive coping
+When looking at different coping styles at the animal level, the terms active and 
+passive coping have generally been used (Maier & Watkins, 2010). The active strategy 
+according to Salvador and Costa (2009) is at the behavioral level characterized by the fight or 
+flight response, at a physiological level by the high basal levels of the hormones testosterone 
+and noradrenaline, and a high reactivity to the somatic nervous system which can be 
+represented by the reactivity of the blood pressure and the plasma catecholamines. The 
+passive strategy is in comparison to the active strategy characterized by a narrow social 
+activity and at the physiological level known by a parasympathetic response, a reduced level 
+of testosterone, and a greater response from the HPA axis (Salvador & Costa, 2009). 
+Koolhaas et al. (1999) have summarized the physiological and neuroendocrine differences 
+between active and passive animals, which has been adapted and can be found in table 2. 
+
+Stress - from a biological, social, and psychological perspective 
+25
+Active
+Passive
+HPA axis activity
+Low
+Normal
+HPA axis reactivity
+Low
+High
+Sympathetic reactivity
+High
+Low
+Parasympathetic reactivity
+Low
+High
+Testosterone activity
+High
+Low
+Table 2. Differences in physiology and neuroendocrinology depending on an active or passive response to a 
+stressor, adapted from Koolhaas et al. (1999). 
+Active coping strategies can be useful when the stress is escapable whereas passive 
+coping strategies can be useful when the stress is inescapable (Bandler, Keay, Floyd, & Price, 
+2000). It has been defined that the midbrain PAG is a region containing distinct neural 
+substrates, initiating passive or active emotional coping strategies. Excitation of the 
+ventrolateral PAG (vlPAG) is triggering a passive coping response which can be 
+characterized either by an arising pain or a severe hemorrhage. This suggests that spinal and 
+nucleus of the solitary tract afferents might be carrying afferent signals arising from deep 
+visceral or muscle tissue. The column of lateral PAG (lPAG) is mediating coping strategies 
+characterized by engagement with the environment and receives topographically organized 
+somatosensory afferents. Inputs like these travel through routes in the brain that for instance 
+can affect skin pain or touch, which in turn could trigger different active coping strategies 
+(Bandler et al., 2000).
+The evolutionary process of the development of the cerebral cortex called 
+encephalization results in a migration function from subcortical centers to the cortex (known 
+as corticalization) of both emotional and higher associative functions. It could be argued that 
+the greatest cortical expansion occurs within the orbital and medial PFC (OMPFC) and it is 
+well established that damage within the OMPFC alters the capacity of higher mammals to 
+cope emotionally with different situations sharply (Bandler et al., 2000).
+Bandler et al. (2000) state that accompanying with the anatomy, studies using Fosexpression as a marker of neural activation revealed that a passive emotional coping reaction 
+(usually triggered by physical stressors) evoked Fos-expression selectively within the vlPAG 
+column (Bandler et al., 2000). Fos-expression can be described as C-fos, which is a protooncogene (which is a normal gene that can become an oncogene due to increased expression 
+
+Stress - from a biological, social, and psychological perspective 
+26
+or mutation) and is expressed followed by a depolarization within some neurons (Bullitt, 
+1990). The c-fos protein can be identified by using a so-called immunohistochemical 
+technique, which is a technique using microscopy to visualize cellular components e.g. 
+proteins in tissue samples (The human protein atlas, 2017). After a peripheral stimulation, the 
+c-fos expression can be used to show neuronal activity through the neuraxis (Bullitt, 1990). 
+The word neuraxis is defined as the "axial and unpaired part of the CNS" by the Oxford 
+dictionaries ("Neuraxis", 2017). 
+Comparatively, Fos-expression was evoked within the lPAG and the vlPAG column 
+following physical stressors which initially elicited an active coping reaction, followed by a 
+period of passive coping. During active coping, consistent Fos-expression is not elicited by 
+physical stressors triggering the active coping. This lack of Fos-expression within the 
+dorsolateral PAG (dlPAG) is comparable to anatomical findings that the dlPAG does not 
+receive a direct spinal or nucleus of the solitary tract input. It has been suggested that the 
+dlPAG might be a component of a circuit triggering active emotional coping in response to 
+psychological rather than physiological stress (Bandler et al., 2000).
+5.3 Ways of coping questionnaire
+The study of coping has been viewed as essential to get an understanding of how stress
+affects people by many of the researchers studying coping. Even though it has not been easy 
+to understand or document, some researchers claim that the effects of unfavorable life-events 
+can be reduced or amplified depending on how people deal with stress. These effects can 
+affect not only emotional distresses and short-term functions but also the development of 
+mental and physical health and disorder in the long-term (Skinner, Edge, Altman, & 
+Sherwood, 2003).
+The ways of coping questionnaire (WCQ) was developed by the Berkeley Stress and 
+Coping Project in 1988. It is one of the most used techniques to calculate which kind of 
+coping strategy a person has used during a stressful encounter. It is formed as an interview or 
+a self-administered questionnaire and invites an individual to clarify the thoughts and actions 
+he is using when coping with a stressful situation. The ways of coping questionnaire consists 
+of eight factors: confronting coping, distancing, self-controlling, seeking social support, 
+accepting responsibility, escape-avoidance, planful problem solving, and positive reappraisal 
+(Lazarus, 1993a). Confrontative coping refers to when aggressive efforts are used to manage 
+the situation which can be a bit risk-taking. Distancing means to pull oneself away cognitively
+
+Stress - from a biological, social, and psychological perspective 
+27
+from the threat to decrease the importance of the situation. Self-controlling aims at taking 
+control over oneself's actions and feelings. Seeking social support refers to actively search for 
+emotional, informational, or tangible support. Accepting responsibility means to realize the 
+own participation in the problem and make an effort to solve it. Escape-avoidance is about 
+wanting to avoid or escape the problem both at a mental and a physical level. Planful problem
+solving is when efforts are made to change the situation by analytically solve the problem. 
+Positive reappraisal refers to when a person is trying to refocus the problem to a situation with
+a positive meaning, which in turn can open up for personal growth (Sandover, Jonas-Dwyer, 
+& Marr, 2015).
+ 
+The WCQ has been used in a variety of contexts to study coping strategies e.g. 
+loneliness, psychological loss, personal failure, or chronic and acute illness. The coping area 
+has been affected by the WCQ though the widespread use of the scale has led a number of 
+research studies to focus on the set of basic coping dimensions assessed by the WCQ (Parker, 
+Endler, & Bagby, 1993). The WCQ was designed as a process measure and not to assess 
+coping styles or traits. It is still possible to look for consistency across various occasions by 
+repeating the measure and then doing intraindividual analyses. Each time the measure is being
+done, the focus should be on coping processes in a specific and particularly stressful situation 
+rather than traits or coping styles (Folkman et al., 1986). 
+Sandover et al. (2015) used the WCQ to investigate what kinds of methods students 
+used to cope with problems in their everyday life. The results showed that graduate entry 
+medical students favored coping strategies such as planful problem solving whereas 
+undergraduate students seemed to prefer confrontive coping and accepting responsibility. The 
+study also showed that males seemed to prefer coping strategies such as self-controlling 
+whereas females seemed to favor planful problem solving and seeking social support. 
+5.4 The stress-coping model
+The stress-coping model is a model of a cascade of responses starting with a stressor 
+and is pictured in figure 4 (adapted from Olff et al., 2005). The first step in the model is the 
+cognitive appraisal referring to how the stressor is perceived, interpreted and evaluated, and if
+the stressor is perceived as a threat or a challenge. After this appraisal phase, the emotional, 
+behavioral, and physiological responses depend on the person and his specific coping and 
+defense strategies. A defensive coping strategy will affect the appraisal of the stressor by 
+turning the perception away by minimizing the negative affective response of the threatening 
+
+Stress - from a biological, social, and psychological perspective 
+28
+characteristics of the stressor. Defensive strategies are described by Olff et al. (2005) as an 
+emotion-focused form of stress-coping and might in the short-term be beneficial but in 
+situations where it is important to be realistic, the defensive strategies might be close to 
+dangerous. 
+In this model coping consists of problem-focused strategies where the individual 
+wants to experience control over the situation and therefore tries to actively attack the stressor
+(Olff et al., 2005). Problem-focused coping seeks to deal with the source of the stress and 
+might therefore be more effective in the long term than the defensive strategies. Emotionfocused strategies include expressing emotions and seeking social support. The 
+neuroendocrine stress response depends on if the stressor is appraised as threatening or 
+challenging. The aim of the threat response pattern is to protect the individual from an attack 
+while the challenge response pattern serves to increase energy for coping. How the stressor is 
+appraised is then associated with different profiles of endocrine and sympathetic arousal (Olff 
+et al., 2005).
+After the appraisal phase, it is through the choice of coping strategies that the 
+individual attempts to either change the stressful reality or regulate his emotional reactions. 
+The experience is then associated with signs of recovery. These responses are decisive for 
+mental and physical health outcome (Olff et al., 2005).
+Figure 4. Stress-coping model. Adapted from Olff et al. (2005). The stressor is the first step in the model. How 
+the stressor is appraised is then crucial for if it will be an emotional/behavioral response or a neuroendocrine 
+response. This response is decisive for mental and physical health. Personal, social, and cultural factors affect 
+the coping of an individual. Which coping strategies that are being used can affect either the stressor, how the 
+stressor is appraised, or the response to the stressor.
+
+Stress - from a biological, social, and psychological perspective 
+29
+5.5 Coping and the brain 
+In a study by Holz et al. (2016) they tried to find out whether there is a link between 
+coping styles, the ACC volume in the brain, and internalizing symptoms. Findings indicated 
+that positive coping (stress-reducing) styles can be associated with increased ACC volume. 
+Both anxiety and depression could be predicted by positive coping styles and ACC volume. 
+Positive coping styles were classified as stress-reducing whereas negative coping styles were 
+classified as stress-enhancing. Though the focus of the study primarily was on the positive 
+coping styles it was divided into three dimensions: 
+1.
+devaluation/defense (telling oneself that everything will be ok) 
+2. distraction (trying to distract oneself) 
+3. control (tell oneself that he can cope with this) 
+A subregion of the ACC is called the perigenual ACC (pACC) and is a region linked 
+with social processing and regulating negative emotions. This is by supporting a potential role
+in assigning resilience and risk to stress-related disorders such as anxiety and depression. 
+Important to note is that the pACC is also closely connected to other cortical and limbic areas,
+including the hippocampus and the amygdala, which makes it unlikely to induce these 
+complex neurobehavioral processes alone. An increase in ACC volume and positive coping 
+styles were also associated with decreasing depression and anxiety in females. No such 
+patterns were observed in males (Holz et al., 2016).
+In a study by Collins, Mendelsohn, Cain, and Schiller (2014) 28 healthy adults were 
+brain scanned with a technique called functional magnetic resonance imaging, which is used 
+to detect changes in the cerebral blood flow. When using one area of the brain, there will also 
+be an increase in the blood flow in that area and the brain activity can be measured. The 
+participants performed a task as they were trained in active coping. Through trial and error the
+participators learned to avoid getting mild electrical shocks by moving a virtual marker 
+between two game board sections over and over again. The brain-scanning showed that the 
+mPFC, the caudate and the amygdala were somehow involved in causing an active coping 
+behavior. By the end of the training, the synchronization between the amygdala, caudate and 
+the mPFC subregions could be predictive if individuals would achieve a successful active 
+coping performance (Collins et al., 2014). 
+Collins et al. (2014) consider it possible to manage threats through a neural circuit 
+where the amygdala, the striatum, and the mPFC is required. If these components would fail 
+
+Stress - from a biological, social, and psychological perspective 
+30
+to function together there might be underlying symptoms of anxiety, which may impair the 
+individual ability to actively cope with stress. 
+According to de Boer, Buwalda, and Koolhaas (2017) it is the individual differences in
+stress coping styles that plays an important role when it comes to fitness and health. They 
+propose that the coping style should be sorted out into several behavioral areas, for example 
+emotional reactivity, flexibility or impulse control, and harm avoidance or reward processing. 
+Each of these areas connects to selective neural circuitries. The flexibility or impulse control 
+which is part of the executive control behavior seems to be closely linked with the PFC and 
+the PFC functions. An evolutionary ancient neurotransmitter system of serotonin (which is 
+also known as 5-Hydroxytryptamine = 5-HT and can be found in the CNS) sends a close 
+innervation to the PFC (de Boer et al., 2017). 5-HT has also been found to be involved in the 
+regulation of aggression throughout the animal kingdom (Kravitz & Huber, 2003; Miczek et 
+al., 2004). 
+Walker, Masters, Dielenberg, and Day (2009) argues for the choice of when and how 
+to assess coping behavior, as a critical factor. It has been found that when assessing coping 
+during a conflict the "active" invader is affecting differences in the activation of the forebrain 
+structures which in turn regulates the HPA axis response to the stressor. When experiencing 
+social defeat the active invader also evoked smaller rises in plasma glucocorticoid responses. 
+In summary: Coping strategies can vary in their efficiency. For instance, thinking 
+positively about a situation seems to be quite effective but depends essentially on personality, 
+whereas seeking social support can be more ineffective and depends on the social context 
+(Lazarus, 1993b). How useful a coping pattern is varies with the type of stressful encounter 
+and the subjective well-being, the somatic health, or the social functioning. A specific strategy
+might not work all the time and in every situation, different strategies might therefore be 
+useful in different situations. When the individual himself cannot affect a situation (for 
+example while waiting for a grade to get announced) using the strategy of distancing can be 
+helpful to reduce the distress. In another situation, when for example an exam is upcoming, 
+distancing oneself might not have the same effect since this strategy might lead to an 
+abandoning of the effort to prepare for the exam. The distress might be reduced by distancing 
+oneself but the chances of passing the exam might be reduced too (Folkman & Lazarus, 
+1985). 
+An effective coping strategy seems to be related to areas of the brain like the ACC, the
+mPFC, the hippocampus and the amygdala. According to Holz et al. (2016) positive coping 
+
+Stress - from a biological, social, and psychological perspective 
+31
+styles reduced both anxiety and depression as there was an increase in ACC volume, even 
+though this was only found in women. 
+6. Discussion 
+The aim of the paper was to give a brief overview of the concept of stress. The focus 
+was to describe stress from a biological perspective and to describe what happens in the brain 
+and the body during stress. The focus was also to describe stress from a social and a 
+psychological perspective and to describe how stress is affecting the mind. The last part 
+focused on the concept of coping and how dealing with stress can affect the brain, the mind, 
+and the body. The discussion will contain a brief summary of the most important findings in 
+this thesis in relation to:
+•
+how biological, psychological, and social factors affect perceived stress
+•
+a comparison of the different coping strategies in relation to stress and their efficacy
+The stress response aims at helping humans survive challenges and threats, it helps to 
+perform and is therefore a response that we need to be able to survive. The main problem with
+the stress response is when it becomes chronic and is activated even when there is nothing 
+threatening us. The stress response has been shown not only to affect the body but also to 
+affect the brain. In relation to stress, involved areas of the brain seem to be mostly related to 
+the PFC, the ACC and the OFC. Being exposed to stress over a long period of time can cause 
+damage in the amygdala and in the hippocampus which can result in lesions related to fear, 
+learning, and memory.
+Most research about stress is linked to the activation of the HPA axis and it seems that 
+it is the over-activation of the HPA axis that is especially threatening to the human body. 
+When the body no longer can regulate the activation of and reset the HPA axis to its baseline, 
+the fight-or-flight response is constantly active even when there are no existing threats. The 
+SNS dominates over the parasympathetic nervous system and makes, for example, the heart 
+beat faster whereas the parasympathetic nervous system tries to slow down the physiological 
+response to be able to relax. The HPA axis is releasing a hormone called cortisol which is 
+important for many of the physiological functions in the body, e.g. increasing the blood 
+glucose level, suppressing the immune function and breaking down body tissue. If the 
+perceived stress is not removed, the effects of stress hormones (cortisol) tend to accumulate 
+(Juster et al., 2010). 
+
+Stress - from a biological, social, and psychological perspective 
+32
+The over-activation of the HPA axis has been found to depend on individual 
+differences, what kinds of differences is not always clear. Meaney (2001) states that these 
+individual differences, responsible for regulating behavioral and endocrine responses to stress,
+occur due to naturally occurring variations in maternal care. It is the mothers behavior toward 
+her offspring that in a way programs the behavioral and neuroendocrine responses to stress 
+when the offspring becomes an adult (Meaney, 2001).
+Biological, social, and psychological aspects of stress 
+Research on the term stress can be traced back to the 14th century. Thus, the concept 
+has a long history and has been discussed by several researchers over the years. Engel (1977) 
+raised the question, whether it wasn't time for a wider medical view than to just look for the 
+biomedical mechanisms when treating diseases. Since then a debate has progressed 
+concerning the question whether a BPS model is the answer to this question or not. 
+Borrell-Carrió et al. (2004) argue in the dualistic tradition that stress involves both 
+mind and body. The researchers agree that the BPS model has been helpful in expanding how 
+health and illness are viewed during the years, but also indicates problems with the model. 
+One thing they point out is that categories such as mind and body are created by us - humans. 
+It lies in our nature to understand our surroundings and to make that easier we tend to for 
+example separate concepts from each other into different categories so that we easier can 
+understand the concept. When categories are taken too literally it can prevent us from thinking
+outside the box due to boundaries that we have ourselves have come up with and that in fact 
+do not really exist. 
+Biological aspects of stress refer to the stress response in the body where the CNS 
+sending signals to the body via the brain and the SNS which in turn for example makes the 
+heart accelerates and gets the body ready for action, known as the fight-or-flight response 
+(Gazzaniga et al., 2009). The brain is active in detecting threats and is an important organ for 
+sending behavioral and physiological responses (McEwen, 2007). Areas in the brain such as 
+the PFC, the ACC, and the OFC are important for regulating the stress response and 
+maintaining health (McEwen & Gianaros, 2010). The HPA axis and the SAM axis are 
+responsible for activation of chronic and acute responses to stress, this is to activate areas in 
+the body and the brain to physically defend the stressor (Bitsika et al., 2014). 
+Psychological and social stress is described as being affected by how a threat or a 
+situation is appraised by the individual (Gianaros & Wager, 2015). Social stress seems to be 
+
+Stress - from a biological, social, and psychological perspective 
+33
+related to the social environment around the individual, which can cause stress if the 
+individual believe that he is on his own (Aneshensel, 1992). The stress might then be handled 
+by seeking social support and building social bonds (Eisenberger & Cole, 2012). 
+Psychological stress seems to be affected by the locus of control, self-efficacy, and 
+cognitive appraisal. According to Bandura (1991) self-efficacy is the belief that the individual
+can handle a stressful threat or situation on his own. With a high self-efficacy, the individual 
+sees success forward whereas an individual with a low self-efficacy sees failure forward 
+which can cause the stress to mount. Ajzen (2002) describes the locus of control as being 
+affected by willpower and skills. If the outcome of a situation depends on individual actions 
+and skills rather than luck, the individual will take more credit for managing the situation. 
+Cognitive appraisal aims at how feelings and thoughts are appraised in relation to a 
+stressor. How the stressor is apprised affects actions and behaviors to cope with the stressor 
+(Lazarus, 1993b). Cohen and Wills (1985) state that the concept of cognitive appraisal can be 
+seen as a subjective concept though it depends on the individuals own view of what is 
+classified as a stressful situation.
+Because the concept of stress has been used for many years and in various researches 
+the term stress can be used with different meanings. Looking at stress from various 
+perspectives can give a greater understanding of the relationship showing when a perspective 
+work well whereas another perspective does not work well. Someone may for example have a
+good health and a healthy body but at the same time troubles with finding good and loyal 
+friends, which might lead to that the individual are biologically fit but not psychologically 
+feeling fine.
+The phenomenon of stress is as relevant today as it was when Robert Hooke used the 
+concept in the 17th century. According to Gazzaniga et al. (2013) the interaction between 
+biological, psychological, and social factors need to be considered when looking at someones 
+health. All these aspects need to be considered to maintain a good mental and physical health. 
+Coping strategies and their efficacy
+Bandura (1991) developed the concept of self-efficacy which is about the individual 
+belief that one can manage a specific situation. Self-efficacy and self-esteem are two separate 
+concepts but both of them refer to the belief of how one will act in a given situation or action 
+and how well one will act. Schwarzer and Renner (2000) state that self-efficacy has been 
+found to be crucial in general lifestyle changes, for example changes connected to physical 
+
+Stress - from a biological, social, and psychological perspective 
+34
+exercise and social support. People with greater self-efficacy also seem to be better at making 
+a change in their lives and to stick to their new plan. 
+How someone decides to handle and cope with a situation can be seen in different 
+strategies. What kind of coping strategies an individual decides to use in different situations 
+can, therefore, be reflected in the individual self-efficacy. When being exposed to a stressor 
+an individuals beliefs that he can handle the stressor depends on his self-efficacy. The selfefficacy depend on which coping strategy is chosen and how the coping strategy is performed.
+Both the choice and the execution of the coping strategy is then affected by the individual 
+self-efficacy.
+Scherer (1982) indicates that when connecting control with emotions, a subjective 
+feeling occurs and the organism quickly must evaluate its ability to cope with a situation, but 
+this is much more complicated due to the controllability. Sometimes we are unable to control 
+a situation, for example no-one can control an earthquake. Another example when we are 
+unable to control a situation is when someone else is in control of the situation. When doing 
+research on emotional responses, Weiner, Russell, and Lerman (1979) found that different 
+emotional responses were associated with both failure and success depending on if the cause 
+of the outcome was attributed by oneself, by others, to others, or by chance. 
+Lazarus (1993a) pointed out that coping can be divided into two subgroups named 
+emotion-focused and problem-focused coping. Emotion-focused coping aims at regulating the
+emotions related to the stressor whereas problem-focused coping aims at taking care of the 
+stressor. In a situation that Scherer (1982) describes as out of control for the individual, it 
+would be hard to use problem-focused coping and therefore a better alternative would be to 
+use emotion-focused coping, whereas if a situation can be handled by the individual, problemfocused coping can be favorable. Even if the situation can be handled, emotion-focused 
+coping can in some situations be the best coping strategy to use. 
+Several factors affect how advantageous a strategy is to use in a specific situation, for 
+example the situation itself and the background to why it occurs. Individual differences and 
+personality might also affect the reaction of an individual and how he defends himself. 
+Surroundings, mood, and surrounding people can affect which strategy is chosen. To get a 
+better understanding of when and why some coping strategies seem to work better than other 
+coping strategies, future research needs to review specific strategies in specific situations and 
+be analyzed to answer questions like these.
+
+Stress - from a biological, social, and psychological perspective 
+35
+Limitations, gaps, and future research
+The stress-coping model used in this thesis is a model describing the link between 
+coping and how it affects different levels such as a stressor, mental health, and physical 
+health. Now it has past over 10 years since the model was presented for the first time and one 
+thing to keep in mind is that the model is not that widely used today. This can depend on 
+several factors, for example the research on coping is in general not that broad. The model is 
+included in this thesis because it is not a one-way model, each of the levels from the stressor 
+to mental and/or physical health can be affected by the higher levels of for example coping 
+and social support. Since stress can influence people in different ways the stress-coping model
+makes it possible to include some of the differences. 
+Cognitive appraisal aims at someones perception of a stressor. If it is perceived as a 
+threat or a challenge it can affect the individual response to the stressor. In the stress-coping 
+model, the appraisal is its own category that according to Olff et al. (2005) is decisive for the 
+out-coming behavioral/emotional response or the neuroendocrine response. This is 
+strengthening the view that how someone appraises a stressor can be an important aspect of 
+how the stressor is later handled and how the health is affected. It would be interesting if 
+future studies would look deeper at the individual differences related to perception to see if 
+the differences for example depend on evolutionary aspects, childhood, or related psychology.
+The focus of this thesis has partly been to describe the social aspects of stress and 
+coping. Personality has not been discussed in this thesis though it is closely linked to the field 
+of social psychology which was not the aim of this study to examine. For future research, it 
+would be interesting to look for personalities and individual differences that can be related to 
+stress, especially looking at social and psychological aspects. This would require a detailed 
+analysis of personality types and a mapping of numerous peoples personalities. After this 
+extensive phase, the testing of different stressors and coping strategies can be followed. 
+It would be interesting to compare biological stress with social and psychological 
+stress to see if there are similar effects in the long-term being exposed to different kinds of 
+stress. It would also be interesting to simultaneously look for biological, social, and 
+psychological effects of stress in order to distinguish how these effects of stress differ.
+In this thesis there have been findings indicating that the ACC, the hippocampus, the 
+amygdala, and the PFC play critical roles when it comes to responding to stress. There have 
+also been findings that positive coping strategies can increase the activation in at least these 
+
+Stress - from a biological, social, and psychological perspective 
+36
+areas. This increase has been linked to a decrease in anxiety and depression. For future 
+studies, these areas would be interesting to investigate further with questions like for example:
+what exactly is the individual doing when this area is increasing, what is the difference 
+between genders (if there is any), is the individual familiar with for example positive coping, 
+is there a difference if the individual has exercised positive coping earlier, or how long does 
+the increase of these areas stay? 
+Stress is a term that has been used for many years and is by many people related to a 
+personal subjective feeling. One of the hardest things when studying coping and perceived 
+stress is that it is mainly dependent on self-reflecting scales or interviews that have been done,
+for example after the coping has occurred. It seems that it has been hard to trace the exact 
+moment when stress occurs and what happens, especially in the brain. In the future it would 
+be interesting if studies of stress to a greater extent would make use of e.g. magnetic 
+resonance imaging to look for changes and development in the brain. This would then lead to 
+a greater understanding of what is happening in the brain during and after stress, and how it 
+could differ between subjects. 
+7. Conclusion 
+The main task for the stress response is to help humans manage a challenge, survive a 
+threat, and to perform at a maximum level in a stressful situation. The CNS, the brain, and the
+HPA axis are biological aspects that work together, both to activate and to shut down the 
+stress response. If the stress response is chronically activated (even when the subject is not 
+being exposed to a threat) it can lead to damage in for example the amygdala and the 
+hippocampus, which in turn can lead to diseases and impairment such as cardiac disease, 
+memory loss, or lesions related to fear and learning. The social and the psychological aspects 
+of stress relate to the mental aspects of stress, like how a stressor is appraised and if it can be 
+controlled, this can in turn be an important factor to why the level of stress is perceived 
+different by various people. Coping is a concept about how someone handles a stressful 
+situation both mentally and physically. The most used coping strategies seem to be either 
+problem-focused coping or emotion-focused coping, aiming to deal with either the stressor or 
+the relational meaning caused by the stressor. In this thesis the BPS model of stress was 
+described to illustrate how biological, psychological, and social factors all affect the health 
+both in a mental and a physical way. The BPS model of stress has been helpful in broadening 
+how health and illness has been viewed over the years by including the involvement of both 
+the mind and the body in relation to stress.
+
+Stress - from a biological, social, and psychological perspective 
+37
+References 
+Ajzen, I. (2002). Perceived behavioral control, self- efficacy, locus of control, and the theory 
+of planned Behavior. Journal of Applied Social Psychology, 32(4), 665-683. 
+doi:10.1111/j.1559-1816.2002.tb00236.x
+Allen, A. P., Kennedy, P. J., Dockray, S., Cryan, J. F., Dinan, T. G., & Clarke, G. (2017). The
+Trier Social Stress test: principles and practice. Neurobiology of Stress, 6, 113-126. 
+doi:10.1016/j.ynstr.2016.11.001 
+Aneshensel, C. S. (1992). Social stress: Theory and research. Annual Review of 
+Sociology, 18(1), 15-38. doi:10.1146/annurev.so.18.080192.000311
+Bandler, R., Keay, K. A., Floyd, N., & Price, J. (2000). Central circuits mediating patterned 
+autonomic activity during active vs. passive emotional coping. Brain Research 
+Bulletin, 53(1), 95-104. doi:10.1016/S0361-9230(00)00313-0
+Bandura, A. (1991). Social cognitive theory of self-regulation. Organizational Behavior and 
+Human Decision Processes, 50(2), 248-287. doi:10.1016/0749-5978(91)90022-L 
+Bandura, A. (1993). Perceived self-efficacy in cognitive development and 
+functioning. Educational Psychologist, 28(2), 117-148. 
+doi:10.1207/s15326985ep2802_3
+Bitsika, V., Sharpley, C. F., Sweeney, J. A., & McFarlane, J. R. (2014). HPA and SAM axis 
+responses as correlates of self-vs parental ratings of anxiety in boys with an autistic 
+disorder. Physiology & Behavior, 127, 1-7. doi:10.1016/j.physbeh.2013.12.011 
+Blanchard, R. J., McKittrick, C. R., & Blanchard, D. C. (2001). Animal models of social 
+stress: Effects on behavior and brain neurochemical systems. Physiology & Behavior, 
+73(3), 261-271. doi:10.1016/S0031-9384(01)00449-8
+de Boer, S. F., Buwalda, B., & Koolhaas, J. M. (2017). Untangling the neurobiology of 
+coping styles in rodents: Towards neural mechanisms underlying individual 
+differences in disease susceptibility. Neuroscience & Biobehavioral Reviews, 74, 401-
+422. doi:10.1016/j.neubiorev.2016.07.008 
+Borrell-Carrió, F., Suchman, A. L., & Epstein, R. M. (2004). The biopsychosocial model 25 
+years later: Principles, practice, and scientific inquiry. The Annals of Family Medicine,
+2(6), 576-582. doi:10.1370/afm.245
+
+Stress - from a biological, social, and psychological perspective 
+38
+Bullitt, E. (1990). Expression of c- fos- like protein as a marker for neuronal activity 
+following noxious stimulation in the rat. Journal of Comparative Neurology, 296(4), 
+517-530. doi:10.1002/cne.902960402
+Burke, H. M., Davis, M. C., Otte, C., & Mohr, D. C. (2005). Depression and cortisol 
+responses to psychological stress: A meta-analysis. Psychoneuroendocrinology, 30(9),
+846-856. doi:10.1016/j.psyneuen.2005.02.010 
+Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: A 
+theoretically based approach. Journal of Personality and Social Psychology, 56(2), 
+267-283. doi:10.1037/0022-3514.56.2.267
+Chrousos, G. P., & Gold, P. W. (1992). The concepts of stress and stress system disorders: 
+Overview of physical and behavioral homeostasis. Journal of the American Medical 
+Association, 267(9), 1244-1252. doi:10.1001/jama.1992.03480090092034
+Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. 
+Psychological Bulletin, 98(2), 310-357. doi:10.1037/0033-2909.98.2.310
+Collins, K. A., Mendelsohn, A., Cain, C. K., & Schiller, D. (2014). Taking action in the face 
+of threat: Neural synchronization predicts adaptive coping. Journal of Neuroscience, 
+34(44), 14733-14738. doi:10.1523/JNEUROSCI.2152-14.2014 
+Compas, B. E. (2006). Psychobiological processes of stress and coping. Annals of the New 
+York Academy of Sciences, 1094(1), 226-234. doi:10.1196/annals.1376.024
+Drossman, D. A. (1998). Gastrointestinal illness and the biopsychosocial 
+model. Psychosomatic Medicine, 60(3), 258-267. 
+doi:10.1097/00006842-199805000-00007
+Eisenberger, N. I., & Cole, S. W. (2012). Social neuroscience and health: 
+Neurophysiological mechanisms linking social ties with physical health. Nature 
+Neuroscience, 15(5), 669-674. doi:10.1038/nn.3086
+Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. 
+Science, 196(4286), 129-136. doi:10.1126/science.847460
+Folkman, S., & Lazarus, R. S. (1985). If it changes it must be a process: Study of emotion 
+and coping during three stages of a college examination. Journal of Personality and 
+Social Psychology, 48(1), 150-170. doi:10.1037/00223514.48.1.150
+
+Stress - from a biological, social, and psychological perspective 
+39
+Folkman, S., Lazarus, R. S., Dunkel-Schetter, C., DeLongis, A., & Gruen, R. J. (1986). 
+Dynamics of a stressful encounter: Cognitive appraisal, coping, and encounter 
+outcomes. Journal of Personality and Social Psychology, 50(5), 992-1003. 
+doi:10.1037/0022-3514.50.5.992
+Frankenhaeuser, M., & Lundberg, U. (1985). Sympathetic-adrenal and pituitary-adrenal 
+response to challenge. In Biological Psychiatry, Higher Nervous Activity (pp. 699-
+704). New York, NY: Springer US.
+Gazzaniga, M. S., Heatherton, T., & Halpern, D. (2013). Psychological science (4th ed.). 
+London: WW Norton & Co.
+Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2009). Cognitive neuroscience: The biology 
+of the mind (3rd ed. ). New York, NY: WW Norton & Co. 
+Gianaros, P. J., & Wager, T. D. (2015). Brain-body pathways linking psychological stress 
+and physical health. Current Directions in Psychological Science, 24(4), 313-321.
+doi:10.1177/0963721415581476
+Herman, J. P., Ostrander, M. M., Mueller, N. K., & Figueiredo, H. (2005). Limbic system 
+mechanisms of stress regulation: Hypothalamo-pituitary-adrenocortical axis. Progress
+in Neuro-Psychopharmacology and Biological Psychiatry, 29(8), 1201-1213. 
+doi:10.1016/j.pnpbp.2005.08.006
+Holz, N. E., Boecker, R., Jennen-Steinmetz, C., Buchmann, A. F., Blomeyer, D., Baumeister, 
+S., ... & Banaschewski, T. (2016). Positive coping styles and perigenual ACC volume: 
+Two related mechanisms for conferring resilience?. Social Cognitive and Affective 
+Neuroscience, 11(5), 813-820. doi:10.1093/scan/nsw005
+The Human Protein Atlas. (2017). Retreived 2017-09-01 from 
+http://www.proteinatlas.org/learn/method/immunohistochemistry
+Joels, M., Verkuyl, J. M., & van Riel, E. (2003). Hippocampal and hypothalamic function 
+after chronic stress. Annals of the New York Academy of Sciences, 1007(1), 
+367-378. doi:10.1196/annals.1286.036
+Juster, R. P., McEwen, B. S., & Lupien, S. J. (2010). Allostatic load biomarkers of chronic 
+stress and impact on health and cognition. Neuroscience & Biobehavioral Reviews, 
+35(1), 2-16. doi:10.1016/j.neubiorev.2009.10.002
+
+Stress - from a biological, social, and psychological perspective 
+40
+Kemeny, M. E. (2003). The psychobiology of stress. Current Directions in Psychological 
+Science, 12(4), 124-129. doi:10.1111/1467-8721.01246
+Kirschbaum, C., Klauer, T., Filipp, S. H., & Hellhammer, D. H. (1995). Sex-specific effects 
+of social support on cortisol and subjective responses to acute psychological stress. 
+Psychosomatic Medicine, 57(1), 23-31. doi:10.1097/00006842-199501000-00004
+ Kirschbaum, C., Pirke, K. M., & Hellhammer, D. H. (1993). The 'Trier Social Stress Test'- 
+A tool for investigating psychobiological stress responses in a laboratory 
+setting. Neuropsychobiology, 28(1-2), 76-81. doi:10.1159/000119004
+Koolhaas, J. M., Korte, S. M., De Boer, S. F., Van Der Vegt, B. J., Van Reenen, C. G., 
+Hopster, H., ... & Blokhuis, H. J. (1999). Coping styles in animals: Current status in 
+behavior and stress-physiology. Neuroscience & Biobehavioral Reviews, 23(7), 925-
+935. doi:10.1016/S0149-7634(99)00026-3
+Kravitz, E. A., & Huber, R. (2003). Aggression in invertebrates. Current Opinion in 
+Neurobiology, 13(6), 736-743. doi:10.1016/j.conb.2003.10.003
+Kudielka, B. M., Hellhammer, D. H., & Kirschbaum, C. (2007). Ten years of research with 
+the Trier Social Stress Test-revisited. In E. Harmon-Jones & P. Winkielman (Eds.), 
+Social Neuroscience: Integrating Biological and Psychological Explanations of 
+Social Behavior (pp. 56-83). New York, NY: Guilford Press.
+Lazarus, R. S. (1966). Psychological stress and the coping process. New York, NY: McGraw-
+Hill.
+Lazarus, R. S. (1993a). Coping theory and research: Past, present, and future. Psychosomatic 
+Medicine, 55(3), 234-247. doi:10.1097/00006842-199305000-00002
+Lazarus, R. S. (1993b). From psychological stress to the emotions: A history of changing 
+outlooks. Annual Review of Psychology, 44(1), 1-22. 
+doi:10.1146/annurev.ps.44.020193.000245
+Lazarus, R. S., & Folkman, S. (1984). Coping and adaptation. In W. D. Gentry (Ed.), The 
+handbook of behavioral medicine (pp. 282-325). New York, NY: Guilford.
+Lehman, C. D., Rodin, J., McEwen, B., & Brinton, R. (1991). Impact of environmental stress 
+on the expression of insulin-dependent diabetes mellitus. Behavioral Neuroscience, 
+105(2), 241-245. doi:10.1037/0735-7044.105.2.241
+
+Stress - from a biological, social, and psychological perspective 
+41
+Lloyd, C., King, R., & Chenoweth, L. (2002). Social work, stress and burnout: A review. 
+Journal of Mental Health, 11(3), 255-265. doi:10.1080/09638230020023642 
+Lupien, S. J., Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress 
+and stress hormones on human cognition: Implications for the field of brain and 
+cognition. Brain and Cognition, 65(3), 209-237. doi:10.1016/j.bandc.2007.02.007 
+Maier, S. F., & Watkins, L. R. (2010) Role of the medial prefrontal cortex in coping and 
+resilience. Brain Research, 1355, 52-60. doi:10.1016/j.brainres.2010.08.039 
+McEwen, B. S. (1998). Protective and damaging effects of stress mediators. New England 
+Journal of Medicine, 338(3), 171-179. doi:10.1056/NEJM199801153380307
+McEwen, B. S. (2000). The neurobiology of stress: From serendipity to clinical relevance. 
+Brain Research, 886. 172-189. doi:10.1016/S0006-8993(00)02950-4
+McEwen, B. S. (2007). Physiology and neurobiology of stress and adaptation: Central role 
+of the Brain. Physiological Reviews, 87(3). 873-904. doi:10.1152/physrev.00041.2006
+McEwen, B. S., & Gianaros, P. J. (2010). Central role of the brain in stress and adaptation: 
+Links to socioeconomic status, health, and disease. Annals of the New York 
+Academy of Sciences, 1186(1), 190-222. doi:10.1111/j.1749-6632.2009.05331.x
+Meaney, M. J. (2001). Maternal care, gene expression, and the transmission of individual 
+differences in stress reactivity across generations. Annual Review of 
+Neuroscience, 24(1), 1161-1192. doi:10.1146/annurev.neuro.24.1.1161
+Miczek, K. A., Faccidomo, S., de Almeida, R. M. M., Bannai, M., Fish, E. W., & Debold, 
+J. F. (2004). Escalated aggressive behavior: New pharmacotherapeutic approaches and
+opportunities. Annals of the New York Academy of Sciences, 1036(1), 336-355. 
+doi:10.1196/annals.1330.021
+Miller, G. E., Chen, E., & Zhou, E. S. (2007). If it goes up, must it come down? Chronic 
+stress and the hypothalamic-pituitary-adrenocortical axis in humans. 
+Psychological Bulletin, 133(1), 25-45. doi:10.1037/0033-2909.133.1.25 
+Neuraxis (2017). In Oxford dictionaries' online dictionary. Retrieved September 1, 2017, 
+from https://en.oxforddictionaries.com/definition/neuraxis
+Oken, B. S., Chamine, I., & Wakeland, W. (2015). A systems approach to stress, 
+stressors and resilience in humans. Behavioral Brain Research, 282, 144-154. 
+doi:10.1016/j.bbr.2014.12.047 
+Olff, M., Langeland, W., & Gersons, B. P. (2005). Effects of appraisal and coping on the 
+neuroendocrine response to extreme stress. Neuroscience & Biobehavioral Reviews, 
+29(3), 457-467. doi:10.1016/j.neubiorev.2004.12.006 
+
+Stress - from a biological, social, and psychological perspective 
+42
+Parker, J. D., Endler, N. S., & Bagby, R. M. (1993). If it changes, it might be unstable: 
+Examining the factor structure of the ways of coping questionnaire. 
+Psychological Assessment, 5(3), 361-368. doi:10.1037/1040-3590.5.3.361
+Pearlin, L. I., & Schooler, C. (1978). The structure of coping. Journal of Health and 
+Social Behavior, 19(1), 2-21. doi:10.2307/2136319
+Rith-Najarian, L. R., McLaughlin, K. A., Sheridan, M. A., & Nock, M. K. (2014). The 
+biopsychosocial model of stress in adolescence: self-awareness of performance versus 
+stress reactivity. Stress, 17(2), 193-203. doi:10.3109/10253890.2014.891102
+Roozendaal, B., McEwen, B. S., & Chattarji, S. (2009). Stress, memory and the 
+amygdala. Nature Reviews Neuroscience, 10(6), 423-433. doi:10.1038/nrn2651
+Rotter, J. B. (1966). Generalized expectancies for internal versus external control of 
+reinforcement. Psychological Monographs: General and Applied, 80(1), 1-28. 
+doi:10.1037/h0092976
+Salvador, A., & Costa, R. (2009). Coping with competition: Neuroendocrine responses and 
+cognitive variables. Neuroscience & Biobehavioral Reviews, 33(2), 160-170. 
+doi:10.1016/j.neubiorev.2008.09.005 
+Sandover, S., Jonas-Dwyer, D., & Marr, T. (2015). Graduate entry and undergraduate 
+medical students' study approaches, stress levels and ways of coping: a five year 
+longitudinal study. BioMedCentral Medical Education, 15(1), 5. 
+doi:10.1186/s12909-015-0284-7
+Scherer, K. R. (1982). Emotion as a process: Function, origin and regulation. Social Science 
+Information/Sur Les Sciences Sociales, 21(4-5), 555-570.
+doi:10.1177/053901882021004004
+Schwarzer, R., & Renner, B. (2000). Social-cognitive predictors of health behavior: Action 
+self-efficacy and coping self-efficacy. Health Psychology, 19(5), 487-495. 
+doi:10.1037/0278-6133.19.5.487
+Sherwood, L. (2015). Introduction to physiology and homeostasis. In Human Physiology: 
+from Cells to Systems (chapter 1, 9th ed.). Retrieved from 
+http://www.ufrgs.br/fisiologiacelular/site/arqs/ENSINO/artigos%20em
+%20PDF/Laurelee%20Sherwood-Human%20Physiology%20-%20Chap
+%20HOMEOSTASIS.pdf
+Skinner, E. A., Edge, K., Altman, J., & Sherwood, H. (2003). Searching for the structure of 
+coping: A review and critique of category systems for classifying ways of 
+coping. Psychological Bulletin, 129(2), 216-219. doi:10.1037/00332909.129.2.216
+
+Stress - from a biological, social, and psychological perspective 
+43
+ Sterling, P., & Eyer, J. (1988). Allostasis: A new paradigm to explain arousal pathology. In 
+S. Fisher & J. Reason (Eds.), Handbook of life stress, cognition and health (pp. 629-
+649). Oxford: John Wiley & Sons.
+Stress (2017a). In The Cambridge Dictionary online dictionary. Retrieved August 5, 2017, 
+from http://dictionary.cambridge.org/dictionary/english/stress
+Stress (2017b). In Oxford Dictionaries' online dictionary. Retrieved August 5, 2017, from 
+https://en.oxforddictionaries.com/definition/stress
+Suls, J., & Rothman, A. (2004). Evolution of the biopsychosocial model: prospects and 
+challenges for health psychology. Health Psychology, 23(2), 119. 
+doi:10.1037/0278-6133.23.2.119 
+Turner, R. J., Wheaton, B., & Lloyd, D. A. (1995). The epidemiology of social stress. 
+American Sociological Review, 60(1), 104-125. doi:10.2307/2096348
+Walker, F. R., Masters, L. M., Dielenberg, R. A., & Day, T. A. (2009). Coping with defeat: 
+Acute gluccocorticoid and forebrain responses to social defeat vary with defeat 
+episode behaviour. Neuroscience, 162(2), 244-253. 
+doi:10.1016/j.neuroscience.2009.04.041 
+Weiner, B., & Kukla, A. (1970). An attributional analysis of achievement motivation. 
+Journal of Personality and Social Psychology, 15(1), 1-20. doi:10.1037/h0029211
+Weiner, B., Russell, D., & Lerman, D. (1979). The cognition-emotion process in 
+achievement- related contexts. Journal of Personality and Social Psychology, 
+37(7), 1211-1220. doi:10.1037/0022-3514.37.7.1211
+Øverli, Ø., Sørensen, C., Pulman, K. G. T., Pottinger, T. G., Korzan, W., Summers, C. H., & 
+Nilsson, G. E. (2007). Evolutionary background for stress-coping styles: 
+Relationships between physiological, behavioral, and cognitive traits in nonmammalian vertebrates. Neuroscience & Biobehavioral Reviews, 31(3), 396-412. 
+doi:10.1016/j.neubiorev.2006.10.006

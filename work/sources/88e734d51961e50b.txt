@@ -1,0 +1,2385 @@
+Richmond Journal of Global Law & Business
+Volume 10 | Issue 1
+Article 3
+2010
+The Rule of Law: Its History and Meaning in
+Common Law, Civil Law, and Latin American
+Judicial Systems
+Nadia E. Nedzel
+Follow this and additional works at: http://scholarship.richmond.edu/global
+Part of the Comparative and Foreign Law Commons, Natural Law Commons, and the Rule of
+Law Commons
+This Article is brought to you for free and open access by the Law School Journals at UR Scholarship Repository. It has been accepted for inclusion in
+Richmond Journal of Global Law & Business by an authorized administrator of UR Scholarship Repository. For more information, please contact
+scholarshiprepository@richmond.edu.
+Recommended Citation
+Nadia E. Nedzel, The Rule of Law: Its History and Meaning in Common Law, Civil Law, and Latin American Judicial Systems, 10 Rich. J.
+Global L. & Bus. 57 (2010).
+Available at: http://scholarship.richmond.edu/global/vol10/iss1/3
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 1
+ 2-DEC-10
+15:08
+THE RULE OF LAW: ITS HISTORY AND
+MEANING IN COMMON LAW, CIVIL LAW,
+AND LATIN AMERICAN JUDICIAL SYSTEMS
+Nadia E. Nedzel, LL.M.
+Abstract: This article compares and contrasts the concept of
+the rule of law as it developed in common law and civilian legal systems, including discussion of the underlying cultural differences. It
+also examines how and why Latin American legal systems developed
+problems, and the failure of the three waves of reform efforts that attempted to ameliorate those problems. By comparing unsuccessful independent judiciary reform efforts in Venezuela to successful efforts in
+Chile, it posits that significant change can only come about when it is
+brought by consensus, when changes are implemented on a whole system in a careful, thoughtful manner, and when the change being
+brought includes a rule of law (as opposed to rule through law) component: in other words, it proves checks and balances to keep governmental power and politicization in check. The advantage in common
+law countries is based on procedural, structural, political, and cultural
+characteristics, rather than on any substantive differences in the law.
+Consequently, developing countries are best served by developing
+their own solutions to problems, such as an inefficient judicial system,
+rather than relying primarily on advice (and funding) from outside
+entities.
+TABLE OF CONTENTS
+1.
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+58
+R
+2.
+THE RULE OF LAW VERSUS THE RULE THROUGH LAW . . . . .
+62
+R
+A. Anglo-American Rule of Law . . . . . . . . . . . . . . . . . . . . . . . .
+62
+R
+B. European Rule Through Law. . . . . . . . . . . . . . . . . . . . . . . .
+64
+R
+3.
+COMMON LAW HERITAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+66
+R
+A. The Rule of Law in Seventeenth and Eighteenth Century Britain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+66
+R
+B. U.S. Founding Fathers, Constitution Drafting, and
+the Rule of Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+R
+C. The U.S. Adversarial System . . . . . . . . . . . . . . . . . . . . . . . .
+71
+R
+D. Judicial Review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+74
+R
+4.
+THE ROMANISTIC CIVILIAN HERITAGE . . . . . . . . . . . . . . . . . . . .
+77
+R
+A. Founding Generals, Not Founding Fathers . . . . . . . . . .
+77
+R
+B. Civilian Inquisitorial Procedure . . . . . . . . . . . . . . . . . . . . .
+81
+R
+5.
+PROCEDURE MORE IMPORTANT THAN SUBSTANCE . . . . . . . . .
+84
+R
+57
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 2
+ 2-DEC-10
+15:08
+58 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+6.
+PROBLEMS OF LATIN AMERICAN LEGAL AND GOVERNMEN-
+TAL DEVELOPMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+86
+R
+7.
+THE HISTORY OF LAW AND DEVELOPMENT PROGRAMS IN
+LATIN AMERICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+88
+R
+A. The First Two Rounds: "Law and Development" and
+"Administration of Justice" . . . . . . . . . . . . . . . . . . . . . . . . . .
+89
+R
+B. The Third Round: Rule of Law Reform Initiatives . . .
+91
+R
+C. Problematic Judicial Systems . . . . . . . . . . . . . . . . . . . . . . .
+92
+R
+8.
+THE CULTURAL DIVIDE BETWEEN NORTH AND SOUTH
+AMERICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+92
+R
+A. Latin American Culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+93
+R
+B. Anglo-American Protestant Culture . . . . . . . . . . . . . . . . . .
+95
+R
+C. The Protestant Ethic, Colonialism, and Values . . . . . .
+96
+R
+D. Cultural Reasons Why Reform Efforts Fail . . . . . . . . . .
+97
+R
+9.
+ATTEMPTS TO DEVELOP INDEPENDENT JUDICIAL SYSTEMS
+IN LATIN AMERICA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+98
+R
+10.
+THE LOW AND THE HIGH OF RULE OF LAW AND JUDICIAL
+REFORM IN LATIN AMERICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+99
+R
+A. Venezuela . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+99
+R
+B. Chile. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+102
+R
+11.
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+108
+R
+1.
+INTRODUCTION
+"Rule of law" is an expression both praised and ridiculed
+by adherents of opposite political philosophies, and it is a
+principle claimed as the lodestar for widely differing legal theories. As much as an ideality as an ideal, the
+words "rule of law" have served a wide range of purposes,
+stretching from political sloganeering to the protection of
+individual rights from the power of government.1
+F.A. Hayek defined the phrase the rule of law to mean that
+"government in all its actions is bound by rules fixed and announced
+beforehand-rules which make it possible to foresee with fair certainty
+how the authority will use its coercive powers in given circumstances
+and to plan one's individual affairs on the basis of this knowledge."2
+Generally, the assumption is that the rule of law safeguards freedom
+and encourages individuals' economic activity.3 Global organizations
+such as the World Bank and the International Monetary Fund have
+1 JOHN PHILLIP REID, RULE OF LAW: THE JURISPRUDENCE OF LIBERTY IN THE SEVEN-
+TEENTH AND EIGHTEENTH CENTURIES 3 (2004) (citations omitted).
+2 F.A. HAYEK, THE ROAD TO SERFDOM: TEXTS AND DOCUMENTS 112 (Bruce Caldwell
+ed., Univ. of Chi. Press 2007) (1944).
+3 See id. at 112-14.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 3
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+59
+adopted and used an incomplete version of Hayek's definition.4 Sadly,
+though the term the Rule of Law is currently used with great frequency, it is rarely used with any precision. All too often, it is reduced
+to a politicized mantra used to criticize developing countries.5 Stating
+4 See, e.g., Maria Gonzalez de Asis, Anticorruption Reform, in RULE OF LAW PRO-
+GRAMS 2. ("Nevertheless, the term 'rule of law' is used in a very ambiguous way
+leading to multiple understandings of the concept. It comprises several characteristics related to the fairness of both legal processes and judicial systems; the notion that law equally binds all actors, starting with the government; and the idea
+that courts can fairly and efficiently solve disputes among private parties and between them and the government."), available at http://info.worldbank.org/etools/
+docs/library/35977/asis_ac_rol.pdf (citations omitted). But see HAYEK, supra note
+2, at 112-23. To the extent that the international law community regards Hayek
+as endorsing only the Rechtsstaat view, they are ignoring his explicit contention
+that economic planning and any instrumental use of the law is incompatible with
+the rule of law. Id. at 113.
+5 See, e.g., Policy Toward Latin America, Hearing before the Subcomm. on the
+Western Hemisphere of the H. Comm. on Foreign Affairs, 111th Cong. 3 (statement of Eric Farnsworth, Vice President, Council of the Americas) (2009), available at 2009 WLNR 2140219 ("Even before the economic crisis hit, roughly a third
+of the region's population was living in poverty. Some governments, like those in
+Brazil, Chile, Colombia, and Peru, were making solid progress reducing poverty
+and building a stable middle class. [I]nfrastructure, and the rule of law must also
+be addressed."); Robert J. Caldwell, Op. Ed., A War We Cannot Afford to Lose, S.D.
+UNION-TRIB., May 25, 2008, available at 2008 WLNR 10116245 ("Mexican President Felipe Calder ́on has made the fight against the drug cartels and organized
+crime his top national priority, as well he should. Losing to the narco-traffickers'
+violent syndicates would risk making Mexico a failed state, with disastrous consequences for Mexico's economic development and political reforms. Simply put,
+Mexico's modernization cannot succeed without the rule of law against which the
+cartels wage unrelenting war."); Press Release, U.S. Embassy, MCC Reiterates
+U.S. Commitment to Fight Poverty (Dec. 12, 2008), available at 2008 WLNR
+24814367 ("The Millennium Challenge Corporation Board of Directors selected Colombia, Indonesia, and Zambia as new countries eligible for large-scale grand
+funding . . . These indicators measure countries' demonstrated commitment to policies that promote, among other things, political and economic freedom, investments in education and health care, control of corruption, and respect for civil
+liberties and the rule of law."); Press Release, State Department, Western Hemisphere and Caribbean: Nicaragua's Electoral Climate, (Oct. 29, 2008), available at
+2008 WLNR 20627952 ("We have noted recent developments in Nicaragua that
+call into question the credibility of the municipal elections. . . . These developments include the decertification of two opposition parties and interference with
+non-governmental organizations that are working to promote respect for human
+rights, rule of law, and economic development in Nicaragua."); Press Release, Office of the White House Press Secretary, White House Press Secretary Dana Perino Holds White House News Briefing Aboard Air Force One En Route to Peru
+(Nov. 21, 2008), available at 2008 WLNR 22283645 ("We also expect there to be a
+pretty thorough discussion concerning corruption, and the importance of combat-
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 4
+ 2-DEC-10
+15:08
+60 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+that a country needs to strengthen the rule of law typically means that
+it is subject to corruption, human rights violations, and generalized
+lawlessness.6 Moreover, even authoritarian governments that often do
+not abide by their own laws claim to support the rule of law, including
+former President Vladimir Putin of Russia, Presidents Jiang Zemin
+and Hu Jintao of China, President Robert Mugabe of Zimbabwe, Indonesian President Abdurrahman Wahid, Afghan warlord Abdul Rashid
+Dostum,7 and former Iranian President Mohammed Khatami.8
+Lest one think that Hayek's association of the rule of law, effective governance, and economic development is a mere theory without
+practical application, a comparison of the Fraser Institute's Economic
+Freedom of the World map9 with Transparency International's 2010
+Corruption Index,10 shows that the same countries dominate the top of
+both lists. The countries that appear on both lists can generally be
+described as being in one or more of three categories: either they have
+a common law heritage, or they are in northern Europe, or they are
+markedly 'westernized': Denmark, New Zealand, Singapore, Finland,
+Canada, The Netherlands, Australia, Luxembourg, Hong Kong, Ireland, Austria, Germany, Japan, the United Kingdom, Chile, the
+United States, Estonia, Slovakia, Cyprus, and the United Arab Emirates. Scholars have previously noted the prevalence of common law
+countries among this number and hypothesized about what "Englishness" or a common law regime might have to do with incorporation of
+both the rule of law and economic stability.11 According to conventional wisdom among experts in law and finance: "law fosters economic
+activity by protecting property rights. A legal system that clearly allocates and protects property rights from incursions by the state and
+other actors (a 'rule of law') precedes economic development and is a
+precondition to economic success."12
+ing corruption. Corruption represents a very significant threat to economic development; corruption has a corrosive effect on public trust, on government, and on
+the rule of law.").
+6 See generally Sean D. Murphy, Contemporary Practice of the United States Relating to International Law, 94 AM. J. INT'L L. 348 (2000).
+7 BRIAN Z. TAMANAHA, ON THE RULE OF LAW: HISTORY, POLITICS, THEORY 2 (2004).
+8 Hossein Derakhshan, Democracy's Double Standard, N.Y. TIMES, Jan. 28, 2006,
+at A2.
+9 JAMES GWARTNEY, JOSHUA HALL & ROBERT LAWSON, THE FRASER INSTITUTE,
+ECONOMIC FREEDOM OF THE WORLD: 2010 ANNUAL REPORT (2010), http://www.
+freetheworld.com/2010/reports/world/EFW2010_BOOK.pdf.
+10 TRANSPARENCY INTERNATIONAL, CORRUPTION PERCEPTIONS INDEX 2010, (2010),
+http://www.transparency.org/policy_research/surveys_indices/cpi/2010.
+11 Curtis J. Milhaupt, Beyond Legal Origin: Rethinking Law's Relationship to the
+Economy - Implications for Policy, 57 AM. J. COMP. L. 831, 834 (2009)
+12 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 5
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+61
+The conclusion emerging from a substantial body of related research in law and finance is that common law
+systems systematically provide higher quality protections than civil law-particularly French civil law-systems, resulting in more dispersed share ownership and
+larger stock markets in the common law origin countries.
+Extending the implications of this research in the early
+2000s, at least one scholar found evidence that in recent
+history, countries with common law systems have experienced faster economic growth than those belonging to
+the civil law family.13
+Recent analysis suggests that, rather than fostering economic
+and governance development by trying to graft elements of the United
+States legal system onto other countries, such efforts must be tailored
+to the specific country at issue: "[I]f solutions must be found in specificcountry contexts, rather than applied from blueprints, those who advise or finance developing countries will need more humility in their
+approaches, implying more . . . empathy with the country's perspectives, and more inquisitiveness in assessing the costs and benefits of
+different possible solutions."14 The only Latin American country that
+is highly regarded by both the Economic Freedom Index and Transparency International is Chile, which has undergone tremendous
+changes in the past thirty years. The explanation for why this is the
+case is the focus of this study.
+This article argues first that the globalized definition of the
+rule of law - i.e. the quasi-Hayekian Rechtsstaat (German) or ́etat de
+droit (French) definition is only partial. This definition fails to emphasize a substantial and significant component of the traditional common
+law concept: that the rule of law means that governmental powers are
+circumscribed and limited by both the law itself and by structural and
+procedural components that work to deter politicization and corruption. Furthermore, it is these structural and procedural components
+that help protect individual liberty and promote economic development. Next, the article argues that the advantage seen in common law
+countries is based on procedural, structural, political, and cultural
+characteristics, rather than on any substantive differences in the law.
+Consequently, developing countries are best served by developing
+their own solutions to problems such as an inefficient judicial system
+rather than relying primarily on advice (and money) given or loaned
+13 Id. at 832.
+14 Id. at 844 (quoting THE WORLD BANK, ECONOMIC GROWTH IN THE 1990S: LES-
+SONS FROM A DECADE OF REFORM 26 (2006)).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 6
+ 2-DEC-10
+15:08
+62 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+by outside entities.15 The article then provides an example of this idea
+by comparing the successful reforms to Chile's criminal justice system
+to the lack of success of similar efforts in Venezuela. Finally, the article concludes that the rule of law, with its emphasis on limited government and checks and balances, rather than Rechtsstaat, is key to
+implementing widespread, successful legal changes, and that these
+kinds of legal changes must be supported by cultural changes.
+2.
+THE RULE OF LAW VERSUS THE RULE THROUGH LAW
+A.
+Anglo-American Rule of Law
+Reduced to a bare minimum, the traditional Anglo-American
+concept of the rule of law is more properly defined as consisting of two
+interdependent components: 1) a citizen's obligation to obey the law
+(the law and order component), and 2) the government's subservience
+to the law (the limited government component).16 The law-and-order
+component, often encompassed in the "globalized" definition and referred to by authoritarian regimes, is that a government's primary
+function is to maintain order.17 The second component is indirectly
+referenced when global entities such as the World Bank tie the absence of (governmental) corruption to the rule of law.18 However, the
+second component of the Anglo-American concept is much more than
+merely the absence of governmental corruption and the principle that
+laws are to be applied equally to all. It refers to the concept that it is
+the law itself that is the ultimate sovereign, not any governmental entity - a "government of laws, and not of men."19
+Sometimes there are simply no equivalent translations from
+one language to another or from one legal system to another. The Anglo-American rule of law must be distinguished from the German conception of Rechtsstadt and the French ́etat de droit, which properly
+translated is the equivalent of "rule through law."20 The rule of law
+puts law as sovereign, above any government. The rule through law
+does not, and in fact allows an incorporation of the understanding of a
+15 See Daniel Etounga-Manguelle, Does Africa Need a Cultural Adjustment Program?, in CULTURE MATTERS: HOW VALUES SHAPE HUMAN PROGRESS 65, 65-77
+(Lawrence E. Harrison & Samuel P. Huntington eds., 2000) (arguing that Africa is
+still based on an irrational, authoritarian society and must peacefully revolutionize its culture with regard to education, politics, economics, and social life in order
+to move into modernism).
+16 See Michel Rosenfeld, The Rule of Law and the Legitimacy of Constitutional
+Democracy, 74 S. CAL. L. REV. 1307, 1335-36 (2001).
+17 Procunier v. Martinez, 416 U.S. 396, 412 (1974).
+18 Asis, supra note 4, at 4.
+19 Marbury v. Madison, 5 U.S. (1 Cranch) 137, 163 (1803).
+20 See, e.g., Rosenfeld, supra note 16, at 1329.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 7
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+63
+government as an enterprise association (i.e. an instrumentalist view)
+aimed at directing society towards some specific goal, rather than a
+non-instrumentalist, civil association aimed at minimizing interference with individual liberty.21
+Oxford legal scholar A.V. Dicey made the concept of the rule of
+law part of British jurisprudence, asserting in 1915:
+The rule of law . . . remains to this day a distinctive characteristic of the English constitution. In England no
+man can be made to suffer punishment or to pay damages for any conduct not definitely forbidden by law;
+every man's legal rights or liabilities are almost invariably determined by the ordinary Courts of the realm, and
+each man's individual rights are far less the result of our
+constitution than the basis on which that constitution is
+founded.22
+In the twentieth century, British political philosopher Michael
+Oakeshott took this definition and, through his explanation of a distinction between civil and enterprise associations, and (using civil versus enterprise association distinction) posited that the rule of law
+implies non-instrumentality: a government's proper role is that of a
+civil association of its citizenry, without any particular goal of promoting any individual, group, or program above any other.23 In contrast,
+an enterprise association, such as a business, by definition has a goal -
+producing a product and earning a profit. During times of war, a government may act as an enterprise association because its goal is to
+protect itself, but otherwise a government should act neutrally rather
+than instrumentally. Under the traditional common law understanding of the rule of law, in order to preserve this neutrality, government
+is a necessary evil, and governmental powers must constantly and consistently be checked and circumscribed.24
+Thus, as most recently expressed by Brian Tamanaha, the commonly-accepted instrumentalist view of law as a means to an end is
+21 See MICHAEL OAKESHOTT, ON HUMAN CONDUCT 119 (Oxford University Press
+1975).
+22 ALBERT VENN DICEY, INTRODUCTION TO THE STUDY OF THE LAW OF THE CONSTI-
+TUTION lv (Liberty Classics 1982) (1915).
+23 See OAKESHOTT, supra note 21, at 118-19, 149 ("The recognition of respublica
+which constitutes civil association is neither approval of the conditions it
+prescribes nor expectations about the enforcement of these conditions; it is recognizing it as a system of law.") See generally id. at 108-184 (explaining this idea in
+more detail).
+24 Rosenfeld, supra note 16, at 1336-37.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 8
+ 2-DEC-10
+15:08
+64 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+inconsistent with the rule of law.25 The non-instrumentalist conception of the law as ruler is necessary to avoid system-wide politicization
+so that a judge "believes it is possible to be bound by law and sees it as
+a solemn obligation to render legally bound and determined decisions."26 Sadly, as Dicey foresaw, the concept of the law as supreme
+has been continually eroded among common law jurisdictions since the
+latter part of the nineteenth century, and he too saw this as a dangerous trend towards politicization of the courts:
+The ancient veneration for the rule of law has in England
+suffered during the last thirty years a marked decline.
+The truth of this assertion is proved by actual legislation, by the existence among some classes of a certain
+distrust both of the law and of the judges, and by a
+marked tendency towards the use of lawless methods for
+the attainment of social or political ends.27
+This statement demonstrates Dicey's recognition that the "legal positivist" movement developed by Jeremy Bentham, John Austin,
+and others was instrumentalist in nature and inconsistent with the
+rule of law.28 The most extreme version of this detour away from the
+rule of law is undoubtedly the Critical Legal Studies movement, which
+regards law as a mere formalization of politics and class struggle.29
+This view has become so widely accepted that one legal scholar has
+even argued that the rule of law has completely disappeared in American jurisprudence.30
+B.
+European Rule Through Law
+The European conception developed out of the French Revolution's rejection of the pre-revolutionary rigid social structure and turgid legal system, its adoption of the language of rights (libert ́e, egalit ́e,
+fraternit ́e), and its focus on the development of an organized, logically-
+25 See Brian Z. Tamanaha, How an Instrumental View of Law Corrodes the Rule of
+Law, 56 DEPAUL L. REV. 469, 504 (2007).
+26 Id. See also TAMANAHA, supra note 7.
+27 DICEY, supra note 22, at lv.
+28 See TAMANAHA, supra note 7, at 57 (discussing legal positivism).
+29 See e.g., Mark V. Tushnet, Critical Legal Studies: A Political History, 100 YALE
+L.J. 1515 (1991); Roberto Mangabeira Unger, The Critical Legal Studies Movement, 96 HARV. L. REV. 561 (1983) (arguing that political interests shape the law).
+For a succinct description of the CLS movement, see GARY MINDA, POSTMODERN
+LEGAL MOVEMENTS: LAW AND JURISPRUDENCE AT CENTURY'S END 106-127 (1996).
+30 John Hasnas, The Myth of the Rule of Law, 1995 WIS. L. REV. 199 (1995).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 9
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+65
+coherent and transparent system of laws (the civil code).31 In post-
+Revolutionary France, the ́Etat l ́egal (Legal State) embodied the democratic will (volont ́e g ́en ́erale) of the nation32- as that will was expressed by legislation. This conception left no room for government
+action outside enacted law and compares to the legal positivism of the
+German Rechtsstaat.33 The Rechsstaat, however, was more complex
+and regarded government both "as the representative of the general
+will (restricting the administration to application of the enacted law)
+and as having its own particular will (based on the government's subjective right to command)."34 It was in this way that the original concept of Rechsstaat was a way of establishing the legitimacy of
+government through adherence to legislation.35 Towards the end of
+the nineteenth century, the Rechtsstaat concept changed, and "require[ed] substantive legitimacy such as, for instance, the protection of
+human rights."36 However, that view still did not incorporate the view
+that government is subservient to law,37 and when rigidly followed allowed the establishment of the Third Reich. At the same time that the
+Rechtsstaat was de-liberalized in Germany, positivism was in the ascendancy in both Germany and Great Britain.
+The closest current French equivalent, ́etat de droit (or state of
+law), is consistent with the later Rechtsstaat in that it is defined as "a.
+the situation that results, for a society, from its submission to a juridical order that excludes anarchy and private justice, or b. in a more
+exact sense, the phrase refers to the respect for rights guaranteed to
+those subjected to a state's laws that they will not be treated arbitrarily."38 The first definition restates the law-and-order component. The
+31 EDUARDO GARC ́IA DE ENTERR ́IA, LA LENGUA DE LOS DERECHOS: LA FORMACI ́ON
+DEL DERECHO P ́UBLICO EUROPEO TRAS LA REVOLUCI ́ON FRANCESA 26-42, 151-152
+(Alianza Universidad 2d ed. 1995)
+32 Mireille Hildebrandt, Justice and Police: Regulatory Offenses and the Criminal
+Law, 12 NEW CRIM. L. REV. 43, 59 (2009).
+33 Id.
+34 Id.
+35 Id.
+36 Id. at 56.
+37 F. A. HAYEK, THE CONSTITUTION OF LIBERTY 202 (1960) ("[T]here commenced a
+major reversal of intellectual trends; the conceptions of liberalism, with the
+Rechtsstaat as its main goal, were abandoned [in Germany]. It was in the 1870s
+and 1880s . . . that the new movement toward state socialism and the welfare state
+began to gather force. There was, in consequence, little willingness to implement
+the conception of limited government . . . .").
+38 GERARD CORNU, VOCABULAIRE JURIDIQUE 368 (ass'n Henri Capitant 2006)("Situation resultant, pour une soci ́et ́e, de sa soumission `a un ordre juridique excluant
+l'aranchie et law justice priv ́ee. b. En un sens plus restraint, nom que m ́erite seul un
+ordre juridique dans lequel le respect du Droit est r ́eelement garanti aux sujets de
+doit, not contre l'arbitraire.")(translation author).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 10
+ 2-DEC-10
+15:08
+66 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+second definition refers to a guarantee of civil rights, and the guarantee that laws will be applied equally. It does not indicate that it is the
+law and not the government that is sovereign, as in the traditional
+Anglo-American definition.39
+Not only is there a difference in the definition of the rule of law
+between common law and civilian tradition, but there is also a difference in the conception of how one should think about law itself.40 European civilians at one time believed, "almost as an article of faith,
+that a single, complete, coherent and logical system of law" to govern
+all legal relationships is possible, and that the human mind is capable
+of thinking it out.41 Thus, the focus of the Enlightenment Movement
+as promulgated in the Civil Codes was on legal theory: making the law
+transparent and organized, incorporating natural law and natural
+rights theories, and ensuring that order was kept and that the government applied laws equally and consistently. The focus was not on limiting government (except for separation of powers).
+3.
+COMMON LAW HERITAGE
+The historic focus of the British concept, in contrast to the civilian focus on theory, was on preserving existing practice and limiting
+governmental power. However, the development of the United States
+variant adapted and incorporated some natural law theories into the
+British concept. If the primary difference between the common law
+and the civilian conception of the rule of law is the focus on limiting
+government, then it is this characteristic of the common-law heritage
+which likely promulgates governmental stability and effectiveness.
+A.
+The Development of the Rule of Law Concept in Seventeenth and
+Eighteenth Century Britain
+The British understanding of the rule of law in the seventeenth
+and eighteenth centuries consisted of several elements, the first of
+which was the general principle that "individuals should be governed
+by law rather than by the arbitrary will of others."42 Two principles
+39 See Marbury v. Madison, 5 U.S. (1 Cranch) 137, 163 (1803).
+40 See KONRAD ZWEIGERT & HEIN K ̈OTZ, INTRODUCTION TO COMPARATIVE LAW 69
+(Tony Weir trans., Clarendon Press 3d ed. 1998) ("On the Continent the development since the reception of Roman law has been quite different, from the interpretation of Justinian's Corpus Iuris to the codification, nation by nation, of abstract
+rules.").
+41 Woodfin L. Butte, Stare Decisis, Doctrine, and Jurisprudence in Mexico and
+Elsewhere, in THE ROLE OF JUDICIAL DECISIONS AND DOCTRINE IN CIVIL LAW AND IN
+MIXED JURISDICTIONS 311, 315 (Joseph Dainow ed.,1974).
+42 Guri Ademi, Legal Intimations: Michael Oakeshott and the Rule of Law, 1993
+WIS. L. REV. 839, 844.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 11
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+67
+explain this supremacy of law concept: first, that the purpose of the
+rule of law doctrine is to "restrain the arbitrary exercise of power,"43
+and "that the rule of law by its very existence and its enforcement employs 'institutional restraints.'"44 Two such institutional restraints included the writ of habeas corpus (wherein a court has the power to
+order the government to produce the plaintiff) and a trial by jury.
+Thus, traditionally the rule of law "denies arbitrary power to the government by requiring that no person be made to suffer in body or goods
+unless by regular legal process."45 Thus, the focus of the British concept of the rule of law was on procedure and process as opposed to
+written, substantive law.
+Another element of the British understanding of the rule of law
+was certainty: that government must be conducted in accordance with
+established and performable norms, and that the "law [must] be binding on the ruled and ruler alike."46 This principle of equality before
+the law leads to the principle that the law must not ignore individuals:
+Laws, in a Free State, are the standing Defense of the
+People, by these alone they ought to be judged, and none
+enacted but such as are impartially conceived; the Peer
+should possess no Privilege destructive of the Common;
+the Layman obtain no Favour which is denied the Priest;
+nor the Necessitous excluded from the Justice which is
+granted to the Wealthy.47
+John Locke similarly stated that established laws are "not to be varied
+in particular Cases, but to have one Rule for Rich and Poor, for the
+Favorite at Court, and the Country Man at Plough."48 In addition to
+limits on governmental powers by institutional restraints and equal
+application of the law to both citizen and ruler through due process,
+the British concept of rule of law meant that "the law must be both
+publicly announced and publicly known in advance of application."49
+Civil law tradition emphasizes the latter concept through the codifica-
+43 REID, supra note 1, at 4 (quoting CONRAD RUSSELL, CAUSES OF THE ENGLISH
+CIVIL WAR 138 (1990)).
+44 Id. at 4.
+45 Ralph H. Clover, The Rule of Law in Colonial Massachusetts, 108 U. PENN. L.
+REV. 1001, 1001 (1960) (emphasis added).
+46 REID, supra note 1, at 5.
+47 JOHN SHEBBEARE, A SECOND LETTER TO THE PEOPLE OF ENGLAND ON FOREIGN
+SUBSIDIES, SUBSIDIARY ARMIES, AND THEIR CONSEQUENCES TO THIS NATION 17 (3d
+ed. 1756).
+48 JOHN LOCKE, TWO TREATISES OF GOVERNMENT: A CRITICAL EDITION WITH AN IN-
+TRODUCTION AND APPARATUS CRITICUS § 142 (Peter Laslett ed., Cambridge University Press 1967) (1690).
+49 REID, supra note 1, at 5.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 12
+ 2-DEC-10
+15:08
+68 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+tion movement, but there is traditionally less focus on the procedural
+component.
+Possibly the most "English" aspect of seventeenth and eighteenth century rule of law doctrine, in addition to the focus on due process, was the "elusive maxim that rule-of-law best promotes liberty by
+regulating and restraining state authority," and that the ordinary law
+of the land, established in the courts, protected the right to personal
+liberty and public meeting.50 Some of those restraints included the
+seventeenth century concepts of the supremacy of law and separation
+of powers: the King did not have the authority to have someone arrested without following certain procedures or the power to authorize
+anyone to break the law,51 the tasks and authorities of the rulers must
+be separated into legislative and executive, and the judiciary must be
+independent.52 It was the independent British judiciary that established personal liberty through particular cases brought before them,
+rather than any stated general principles in a written constitution.
+Thus, the source of the British rule of law concept (i.e. the unwritten
+British constitution) was the strength of law as measured by its continuity and practice over a substantial period of time, not in abstract
+theory.53
+In contrast to this grounding in practice and view of governmental powers as limited prevalent among seventeenth century British common lawyers, continental legal scholars of the time theorized
+that the "law should be nothing more than the command of the sovereign."54 Although William Sherlock restated this theory in 1684, and
+other legal British legal theorists may have concluded that the rule of
+law was a fiction, common lawyers untrained in Roman law were not
+familiar with this argument.55 In fact, Frederick William Maitland
+said that this theory of absolute monarchy "shocked mankind," mean-
+50 Id. at 6.
+51 LOCKE, supra note 48, at 421 ("For the King's Authority being given him only by
+the Law, he cannot impower anyone to act against the Law, or justifie him, by his
+Commission in so doing."). The limitations on the British king's power to arrest
+(preserved in the U.S. Constitution's Fourth Amendment) predated the Magna
+Carta; the Magna Carta only restated limitations already established under existing practice and precedent. REID, supra note 1, at 6.
+52 See Sir William Holdsworth, Book Review, 55 LAW Q. REV. 585, 587 (1939).
+53 See SIR WILLIAM HOLDSWORTH, 10 HISTORY OF ENGLISH LAW 647-49 (1938);
+Reid, supra note 1, at 8-9 (citing A.V. DICEY, INTRODUCTION TO THE STUDY OF THE
+LAW OF THE CONSTITUTION 179 (6th ed. 1902)).
+54 REID, supra note 1, at 20 (quoting GEOFFREY DE Q. WALKER, THE RULE OF LAW:
+FOUNDATION OF CONSTITUTIONAL DEMOCRACY 106 (Melbourne University Press
+1988)).
+55 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 13
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+69
+ing that it shocked common lawyers.56 Early positivist theory made
+far less of an impact on sixteenth and seventeenth-century British
+common lawyers than it would on later generations of legal scholars.
+Eighteenth century lawyers had "little opportunity to absorb the notion that the law might be the dictates of the will and pleasure of a
+person or government rather than an autonomous, learned, taught
+way of thinking about precedents, process, judicial jurisdiction, and
+immemorial custom."57
+B.
+U.S. Founding Fathers, Constitution Drafting, and the Rule of
+Law58
+Traditionally, the British conception of law was centered
+around court-made law; legislation was regarded suspiciously as an
+inroad into the common law and so interpreted narrowly.59 The principles stated in the Magna Carta, for example, were part of the unwritten British Constitution even prior to their establishment in a formal
+document.60 Because legislation was limited in scope and amount, the
+rule of law developed to a great extent out of judicial practices. The
+U.S. experience contains a similar mixture of structural checks and
+balances, though founded on a written, rather than unwritten, constitution.61 This similar mixture of structural checks and balances as
+well as a focus on the judiciary works to support limited government
+and the rule of law.62
+The U.S. Constitution was drafted in the summer of 1787 by
+representatives from twelve of the original thirteen colonies (with
+Rhode Island being the exception).63 Their mandate was simply to
+propose amendments to the existing Articles of Confederation that
+would strengthen the fledgling country: enable it to defend itself and
+pay its army. Instead, in a hot, closed room in the Pennsylvania State
+House, the Philadelphia Convention drafted an entirely new constitution. At the time of this drafting, the delegates were experienced in
+56 Id. at 21 (citing F.W. MAITLAND, THE CONSTITUTIONAL HISTORY OF ENGLAND: A
+COURSE OF LECTURES DELIVERED 101 (Cambridge University Press 1908)).
+57 Id.
+58 See generally HAYEK, supra note 30, at 176-196 (discussing the American
+contribution to the development of the rule of law).
+59 SIR FREDERICK POLLOCK & FREDERIC WILLIAM MAITLAND, 1 THE HISTORY OF EN-
+GLISH LAW BEFORE THE TIME OF EDWARD I XXV (Little, Brown 2d ed. 1899).
+60 Id.
+61 For a discussion of the U.S. system of checks and balances, see THE FEDERALIST
+No. 51 (James Madison).
+62 Id.
+63 See generally RICHARD BEEMAN, PLAIN HONEST MEN (2009); CATHERINE
+DRINKER BOWEN, MIRACLE AT PHILAELPHIA: THE STORY OF THE CONSTITUTIONAL
+CONVENTION (1986).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 14
+ 2-DEC-10
+15:08
+70 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+constitution drafting - each state had a constitution, some of the states
+had drafted more than one constitution, and a number of the delegates
+had participated in the drafting of their state constitutions. No fewer
+than five plans were debated at the Philadelphia Convention, the primary focus being on how to balance federal legislative power and state
+representation and reach a consensus. Concerns described in the Federalist Papers and the Antifederalist criticisms included worry that
+the federal government would become too strong and would promulgate too much legislation. Having experienced the effects of poorlypromulgated state legislation and corrupt state governments, delegates to the Convention wanted to make it difficult for the federal legislature to pass laws. They also wanted to limit executive power so as
+to avoid what they regarded as the tyranny they believed they had
+experienced under British rule. As a result, they wanted to draft a
+structure that would require the three branches of government to police themselves and each other. In keeping with the mandate of the
+Declaration of Independence, they believed that government's power is
+premised on the consent of the governed and that individual rights are
+primary and inalienable:
+We hold these truths to be self-evident, that all men are
+created equal, that they are endowed by their Creator
+with certain unalienable Rights, that among these are
+Life, Liberty and the pursuit of Happiness. - That to
+secure these rights, Governments are instituted among
+Men, deriving their just powers from the consent of the
+governed, - That whenever any Form of Government
+becomes destructive of these ends, it is the Right of the
+People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem
+most likely to effect their Safety and Happiness.64
+These are essentially the same Enlightenment and Natural
+Law values that inspired the French Revolution, and in fact, France's
+first Constitution65 was patterned after the U.S. Constitution. Thus,
+both systems adopted governments with three co-equal branches - a
+legislative, an executive, and a judicial branch - and each branch apparently serves similar functions (the legislative branch promulgates
+laws, the executive enforces them, and the judiciary adjudges dis-
+64 U.S. DECLARATION OF INDEPENDENCE para. 2 (U.S. 1776).
+65 The current constitution is France's fifth. The Constitution of the Fifth Republic was passed by a public referendum in 1962, having been put forth by Charles
+de Gaulle, who was President at the time. E.g., Fifth Republic, Britannica Online
+Encyclopedia, available at http://www.britannica.com/EBchecked/topic/206499/
+Fifth-Republic.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 15
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+71
+putes).66 Concerning the rule of law itself, as opposed to the structure
+of government, the Americanized version is probably most famously
+stated by Lon Fuller: the law should consist of (1) general rules that
+are (2) publicly promulgated; (3) prospective; (4) understandable; (5)
+non-contradictory; (6) possible to comply with; (7) stable; and (8) administered as announced.67 This explanation, however, seems to relate primarily to legislated law, which has become regarded as
+primary law in any legal system. The rule of law, however, goes beyond the mechanics of government set forth in a Constitution, and it
+goes beyond legislative law. Judicial guarantees form a significant
+part of the common law conception of the rule of law.
+C.
+The U.S. Adversarial System
+In addition to adopting some components of Natural Law theory, the Founding Fathers largely adopted the same adversarial judicial system and substantive law that they had inherited from Great
+Britain, having faith in its systematic transparency and accountability. In common law tradition, the primary source of law is law derived
+from judicial opinions. The British, since the twelfth century, have
+kept records of judicial opinions under the doctrine of stare decisis -
+that factually similar cases should be decided similarly.68 Given a
+two- or three-level court system, trial judges are therefore accountable
+for their decisions: they need to justify them in written opinions which
+are then published and subject to reversal by a higher court.69 These
+published opinions are then studied by later courts, attorneys, and law
+66 1791 CONST. art. III (Fr.); THE FEDERALIST No. 47 (James Madison). Accumulating political power in a single branch is "the very definition of tyranny," and
+separation of powers is an "essential precaution in favor of liberty." Id. The Constitution thus divides governmental power among three branches, each with separate spheres of authority. The powers were not divided "strictly but rather
+overlapped and comingled them to create a revolutionary system of checks and
+balances." Heather P. Scribner, A Fundamental Misconception of Separation of
+Powers: Boumediene v. Bush, 14 TEX. REV. L. & POL. 90, 94 n. 24 (2009). For
+example, the "power to wage war was traditionally a function of the Executive
+Branch alone, but the Framers divided [it] between the Executive and Legislative
+Branches, in order to better serve the people." Id. For a discussion of the Federalist Papers, the U.S. separation of powers, and checks and balances innovations,
+see id. at 94-97.
+67 LON L. FULLER, THE MORALITY OF LAW 38-91 (Yale University Press 1964).
+68 See DANIEL HENRY CHAMBERLAIN, THE DOCTRINE OF STARE DECISIS: ITS REA-
+SONS AND ITS EXTENT 6-7 (1885).
+69 See Gilbert S. Merritt, Judges on Judging: The Decision Making Process in Federal Courts of Appeals, 51 OHIO ST. L.J. 1385, 1392-94 (1990).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 16
+ 2-DEC-10
+15:08
+72 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+students in a continuing effort to state principles derived from practice, not vague theory.70
+A primary difference between common law and civilian legal
+system has been that civilian jurisdictions in general limit the authoritativeness of judicial decisions.71 Traditionally, civilian jurisdictions
+regard stare decisis as having led to contradictory and non-transparent legal doctrine. The importance of jurisprudence varies widely from
+civilian jurisdiction to jurisdiction, but in general, judicial opinions are
+not written in such detail or published as consistently as in common
+law jurisdictions.72
+In addition to stare decisis and substantive common law, the
+Founding Fathers incorporated the rights of habeas corpus,73 mandamus, adversarial procedure, and the jury into the Constitution.74 All of
+these act as checks on governmental powers - a fact sadly unrecognized in much policy analysis of the U.S. government. A writ of habeas
+corpus gives the court the power to order the government (specifically
+the executive branch) to deliver up a person who was unjustifiably incarcerated. A writ of mandamus similarly is an order "issued by a superior court to compel a lower court or a government officer to perform
+mandatory or purely ministerial duties correctly."75
+In the United States, a court's docket is set by a clerk of court,
+who assigns cases to judges randomly in an effort to protect the system
+against corruption. Judges have little or no control over these assignments. Judges are required to recuse themselves if they have a conflict of interest with a party in the matter before them,76 and litigants
+faced with a judge whose fairness they can find some colorable reason
+to challenge are quick to demand such recusal. Similarly, the court's
+budgetary matters are controlled by an independent agency, and not
+under the control of the judges themselves.
+Under common law adversarial procedure, in both civil and
+criminal trials, one party is pitted against the other, and the judge acts
+as an umpire until he or the jury reaches the final decision.77 The
+70 See id.
+71 See Wayne L. Barnes, Contemplating a Civil Law Paradigm for a Future International Commercial Code, 65 LA. L. REV. 677, 723-25 (2005).
+72 Id.
+73 U.S. CONST. art. I, § 9.
+74 U.S. CONST. amend. VI.
+75 BLACK'S LAW DICTIONARY (8th ed. 2004).
+76 28 U.S.C. § 455(a) (2010) ("Any justice, judge, or magistrate [magistrate judge]
+of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.").
+77 Gerald Walpin, Law and Truth: Panel III: Truth, the Jury, and the Adversarial
+System: America's Adversarial and Jury Systems: More Likely to Do Justice, 26
+HARV. J.L. & PUB. POL'Y 175, 177 (2003).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 17
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+73
+judge and jury sit on a raised platform, while the adversaries stand at
+a lower level to argue their cases. Thus, in a criminal trial, neither the
+defense nor the prosecution appears to be favored by the court. Similarly, in a civil trial, both the plaintiff and the defendant stand before
+the court while presenting their cases. In both instances, the trial
+takes place orally, in one sitting.78 The jury is free to act as a check on
+the government or on big business, so that an individual litigant has
+the reassurance that he is being judged by his peers, that the court is
+not corrupted or biased against him, and that his arguments will be
+fairly heard by those who will put common sense and fairness ahead of
+fancy legal arguments or the power of either politics or money.
+In criminal trials, the presumption is that the accused is innocent until proven guilty beyond a reasonable doubt.79 The jury's mandate is to determine whether or not the factual evidence presented by
+the prosecutor, as offset by the rebuttal evidence presented by the defense, proves guilt to that requisite level. Once sequestered, a jury's
+deliberations are secret and protected. Thus, even if a jury suspects
+that the defendant is in fact guilty, if it believes the government's actions were unjustifiable, it can acquit the defendant and that decision
+will be upheld and cannot be appealed. This premise of "jury nullification" is commonly understood as the reason O.J. Simpson was acquitted of killing his ex-wife and her friend - the jury was so offended by
+perceived racism in the Los Angeles police department that it refused
+to find him guilty.80
+As with criminal trials, the jury in a civil trial acts as a check
+on the power of big government or big business. The United States is
+the only country that still maintains a jury in civil trials.81 The perception of the rest of the world may be that legal arguments are too complex for ordinary people to understand them. However, as one
+prominent American judge recently said:
+The [civil] jury system is one of the best parts of our legal
+system. It is the preeminent opportunity for the average
+citizen to interact and understand the court. While the
+general public understands the legislative and executive
+branches, the judiciary and the jury system is mystical to
+them. They are generally petrified when called to serve
+78 See Merritt, supra note 69, at 1386.
+79 Coffin v. United States, 156 U.S. 432, 453-459 (1895) (discussing the presumption of innocence and reasonable doubt).
+80 See generally W. William Hodes, Reform: The Lawyers: Lord Brougham,The
+Dream Team, and Jury Nullification of the Third Kind, 67 U. COLO. L. REV. 1075
+(1996).
+81 See, e.g., Gordon Van Kessel, Adversary Excesses in the American Criminal
+Trial, 67 NOTRE DAME L. REV. 403, 406 (1992).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 18
+ 2-DEC-10
+15:08
+74 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+on a jury. However, once they have served, citizens enjoy
+a newfound respect for the system. And the litigants
+gain respect for the system as well because their case
+was not decided by a judge, but by their peers. Concerning a jury's ability to understand a case, there is no case
+so complicated that it cannot be explained by capable attorneys and judges. Wonderful things can be done with
+modern technology and creative presentations. Jurors
+are smarter than they are often given credit for, and can
+cut to the chase. They may not be able to articulate legal
+nuances, but more often than not they get to the right
+decision even in the most complicated cases.82
+Though they generally try hard to follow the law and decide a
+case fairly, jury decisions in civil matters often favor "the little guy."
+For example, a jury imposed an incredibly large civil damages penalty
+against McDonald's when it decided that the multinational enterprise
+had behaved callously in dealing with a little old lady who had been
+burned by its superheated coffee.83 Similarly, class action suits provide a way in which small complainants can combine to bring their
+complaints against huge companies before a jury, as with the tobacco
+actions. Even judges in the United States to tend to favor an individual faced in court with an overwhelmingly powerful adversary. The
+effects of such litigation may not always be beneficial for society in
+general. Nevertheless, civil juries act as a check against both a powerful governmental entity and powerful, moneyed entities in the United
+States and thus they contribute significantly to the rule of law.
+D.
+Judicial Review
+Much scholarship has been devoted to the role that judicial review plays in the U.S. system of checks and balances. As a result,
+many civilian jurisdictions (perhaps under the impression that judicial
+review is the primary limitation on legislative power in the United
+82 Nadia E. Nedzel, Interview with Judge Carl E. Stewart of the United States
+Fifth Circuit Court of Appeals, AROUND THE BAR, Mar. 2009, at 11.
+83 Liebeck v. McDonald's Restaurants P.T.S., Inc., No. CV-93-02419, 1995 WL
+360309, at *1 (N.M. Dist. Aug. 18, 1994); see also Kevin G. Cain, And Now the Rest
+of the Story . . . The McDonald's Coffee Lawsuit, 11 J. CONSUMER & COM. L. 14, 17-
+18 (2007), (explaining the facts of the case that led the jury to award punitive
+damages of $2.7 million, calculated on its understanding that this amount represented about two days worth of McDonald's coffee revenues). McDonald's knew its
+superheated coffee was dangerous, knew that about 700 customers had been seriously burned by it, but concluded that the number of hot coffee burns were "statistically insignificant" as compared to coffee sales, and deliberately refused to either
+turn down the heat or warn customers. Id. at 16-17.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 19
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+75
+States) have created courts whose job it is to determine whether a particular statute is or is not in keeping with the pertinent constitution.84
+Judicial review is one of the checks and balances that has become the
+hallmark of the American legal system, and while it is important, it is
+only one of a number of institutional mechanisms that obliges governments in the U.S. to "police" themselves.
+Judicial review, however, is not part of the U.S. Constitution.
+Instead, it is a doctrine that (in keeping with common law tradition)
+developed out of Marbury v. Madison.85 This case was the result of a
+political battle between out-going President John Adams (of the Federalist Party) and the newly elected Thomas Jefferson (from the Democratic Republican Party).86
+The Constitution established only one federal court - the Supreme Court.87 The Judiciary Act of 1789 gave the Supreme Court
+original jurisdiction to hear writs of mandamus88 and added district
+and circuit courts.89 Twelve years later, Adams wanted to stymie the
+incoming Democratic Congress.90 Consequently, in the first courtpacking plan in U.S. history, lame-duck Adams and the Federalistcontrolled Congress passed the Judiciary Act of 1801 creating a number of new federal courts (ten new district courts, three new circuit
+courts, a number of new justice-of-the-peace positions).91 The 1801
+Act also added additional judges to each circuit, giving the President
+the authority to appoint Federal judges and justices of the peace.92 After appointing all of these new judges (so quickly that they were
+termed "Midnight Judges"),93 Adams asked Secretary of State John
+Marshall (who had been recently appointed Chief Justice of the Su-
+84 David S. Law, A Theory of Judicial Power and Judicial Review, 97 GEO. L.J.
+723, 747-751 (2009) (discussing why courts are efficient monitors of government).
+85 Marbury v. Madison, 5 U.S. (Cranch 1) 137 (1803).
+86 The story behind Marbury v. Madison is well known. See John F. Preis, Constitutional Enforcement by Proxy, 995 VA. L. REV. 1663, 1693-94 (2009); see also Major Kevin W. Landtroop, Book Review: The Great Decision, 2009 ARMY LAW. 53, 53
+(2009) (discussing the political maneuvering that led to the dispute); Law, supra
+note 78 (discussing the role of judicial review in supporting the rule of law);
+Scribner, supra note 59, at 97-101 (discussing Marshall's understanding of the
+separation of powers as well as his political maneuvering in reasoning through the
+decision).
+87 U.S. CONST. art. III, § 1.
+88 Judiciary Act of 1789, 1 Stat. 73, § 13.
+89 Id. at §§ 2-3.
+90 See James ́Etienne Viator, Marbury & History: What Do We Really Know About
+What Really Happened?, 37 REVUE JURIDIQUE THEMIS 329, 338 (2003).
+91 Id. For an especially well-told and careful accounting of the political story behind Marbury, see id. at 335-43.
+92 Id. at 338.
+93 Id. at 338-339.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 20
+ 2-DEC-10
+15:08
+76 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+preme Court, but had yet to ascend to the bench) to deliver the appointments.94 Marshall did not have enough time to deliver all of the
+appointments prior to Jefferson's swearing in, and incoming President
+Jefferson ordered the new Secretary of State, James Madison, (a Democrat) not to deliver the remainder.95
+President Adams had appointed William Marbury, an ardent
+Federalist, as Justice of the Peace for the District of Columbia.96 Marbury petitioned the Supreme Court for an original writ of mandamus
+to force Madison deliver his appointment.97 John Marshall was now
+Chief Justice and was facing threats of impeachment by the now Democratic Congress should the Supreme Court decide the "wrong" way.
+The Court denied Marbury's petition, holding that the Judiciary Act of
+1789 was unconstitutional insofar as it expanded the Supreme Court's
+jurisdiction to include original jurisdiction over writs of mandamus.98
+Consequently, although the Supreme Court held that Marbury was
+due his appointment because he had a "vested" right in it, there was
+nothing the Supreme Court could do about it.99 In the meantime, the
+new Congress reversed the Judiciary Act of 1801 with its own Judiciary Act of 1802.100
+Thus, in a masterful piece of political maneuvering - and some
+quirky legalistic reasoning - Chief Justice John Marshall founded the
+premise for judicial review.101 Marbury v. Madison held that the Supreme Court is obligated to make sure that statutes passed by Congress that deal with judicial powers are within the limitations set by
+the Constitution, if the constitutionality of the statute is questioned in
+a court case. The language used, however, has since been interpreted
+94 Id. at 339.
+95 Preis, supra note 87, at 1693.
+96 Id.
+97 Id.
+98 In Marbury, Justice Marshall set forth a straight-forward three-step ruling: 1)
+the delivery of Marbury's commission was merely incidental to the appointment
+which had vested when signed by President Adams and sealed by (then) Secretary
+of State Marshall, and therefore President Jefferson's Secretary of State (James
+Madison) was not legally warranted to withhold it. Marbury v. Madison, 5 U.S.
+(Cranch 1) 137, 157-62 (1803). 2) It was the duty of a government of laws to supply
+remedies for violated rights, such as Marbury's right to his commission. Id. at
+162-168. 3) However, the requested mandamus was not an appropriate legal remedy because the statute Marbury relied on (the Judiciary Act of 1789) impermissibly enlarged the Supreme Court's Original Jurisdiction in violation of Article III of
+the U.S. Constitution. Id. at 179-80; see also Viator, supra note 91, at 343-45.
+99 Marbury, 5 U.S. (Cranch 1) 137.
+100 Viator, supra note 90, at 341.
+101 Id. at 345-46 (stating that Marshall's opinion was "among the craftiest in constitutional history").
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 21
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+77
+as a broad power to determine the constitutionality of any statute
+brought before it.102 That being said, however, judicial review is in
+practice used only rarely to limit legislative and executive powers. The
+underlying basis of the U.S. legal system is still that the three
+branches of government share equal powers.103 A court must defer to
+legislative and executive discretion unless the statute's constitutionality is directly called into question and there is no other basis on which
+to make the decision brought before it. Consequently, judicial review
+may not be nearly as important or powerful a check on governmental
+powers as it has been touted to be.104 It acts in concert with other
+mechanisms, including the ones mentioned previously, to limit governmental powers, whether legislative, executive, or judicial.
+The previous discussion of the political tale behind Marbury v.
+Madison shows the extent to which procedure and practice can overcome and balance out the pressures of politicization, where the rule of
+law is regarded as supreme, over and above all governmental power.
+Marshall, though appointed by Adams, nevertheless articulated a decision that undoubtedly went against both his personal wishes and the
+wishes of the person who nominated him to his office. This decision,
+grounded in a fierce political battle, has since become one of the
+hallmarks of the U.S. tradition of an independent judiciary.
+4.
+THE ROMANISTIC105 CIVILIAN HERITAGE
+A.
+Founding Generals, Not Founding Fathers
+As stated by Chilean economist Jose Pi ̃nera, the United States
+had Founding Fathers, but Latin America had Founding Generals.106
+His statement was more true than even he thought: the Civilian Tradi-
+102 See David E. Marion, Judicial Faithfulness or Wandering Indulgence? Original
+Intentions and the History of Marbury v. Madison, 57 ALA. L. REV. 1041 (2006)
+(discussing the interpretation and use of Marbury by the Supreme Court).
+103 But see generally Scribner, supra note 66 (acknowledging the traditional sharing of powers among the three branches and criticizing recent U.S. Supreme Court
+for overstepping Constitutional limits of power and failing to maintain the separation of powers).
+104 But see generally FULLER, supra note 67 (arguing that judicial review is instrumental in preserving separation of powers and governmental overreaching).
+105 Most methods of categorizing legal systems involve some inaccuracy and are
+therefore of limited value.
+See
+ZWEIGERT & K ̈OTZ, supra note 40, at 63-68.
+However, based on historical development, the systems of the European continent
+can be divided into a Germanic family (Germany, Austria, Switzerland, etc.) and a
+Romanistic family (including "France and all the systems which adopted the
+French Civil Code, along with Spain Portugal, and South America"). Id. at 68-69.
+Consequently, it is mostly the Romanistic family that is being discussed in this
+article using this categorization method.
+106 Jose Pinera, Latin America: A Way Out, 22 CATO J. 409, 410 (2003).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 22
+ 2-DEC-10
+15:08
+78 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+tion in its modern form began with General Napoleon Bonaparte's
+Projet.
+Although Napoleon was responsible for the first Civil Code, the
+foundational basis of the Civilian tradition is the Corpus Juris Civilis
+compiled by Roman Emperor Justinian I between 529 and 534 A.D.
+and known as Justinian's Digest.107 Lost for centuries, it was rediscovered in Northern Italy and gradually replaced or supplemented oral
+legal traditions throughout Europe. It was separate and apart from
+Church or canon law, and was first taught at the University of
+Bologna in the eleventh century, from there it spread to other universities where it was taught through the High Middle Ages. An underlying premise of Roman Law is the concept of the ruler as being above
+the law. However, beginning with Henry II and his disagreement with
+Thomas Beckett, England rejected Roman law and abstract rules, relying instead on judge-made law.108
+In the Age of Reason (the seventeenth and eighteenth centuries), a "new secular natural law" theory arose that was based partly
+on demands for individual rights and partly on a theory that law could
+be organized and reasoned using methods comparable to Euclidean geometry.109 Secular natural law assumed that the prince's power to legislate was limited, and hence first questioned and then rejected the
+"dogma of absolute sovereignty."110 Rousseau further theorized that
+strict separation of powers was needed in order to limit government
+and protect individual rights.111 Montesquieu, on whose reasoning the
+U.S. Constitution was based, also advocated for the separation of powers, but not as didactically as Rousseau.112 The growth of these ideas-
+and the excesses and inefficiency of Louis XVI's reign- led to the
+French Revolution.113
+The European conception developed out of the French Revolution's rejection of the pre-revolutionary rigid social structure and turgid legal system, out of its adoption of the language of rights (libert ́e,
+107 See ZWEIGERT & K ̈OTZ, supra note 40, at 75.
+108 Id. at 69. NADIA NEDZEL, LEGAL REASONING, RESEARCH, AND WRITING FOR IN-
+TERNATIONAL GRADUATE STUDENTS 13 (Aspen Publishers 2004).
+109 John Henry Merryman, The Italian Style I: Doctrine, 18 STAN. L. REV. 39, 53-
+54 (1965).
+110 Id.
+111 Aside from his separation of power theory, Rousseau's understanding of the
+etat de droit further shows not only that it is not the same as the rule of law because it does not recognize the necessity to limit government, but also that this
+conception can lead to tyranny. See BENJAMIN CONSTANT, POLITICAL WRITINGS
+106-107 n.1 (Biancamaria Fontana ed. & trans., 1988).
+112 See generally CHARLES DE SECONDAT, BARON DE MONTESQUIEU, THE SPIRIT OF
+THE LAWS (Anne M. Cohler et al. eds., 1989).
+113 See, e.g., id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 23
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+79
+egalit ́e, fraternit ́e), and out of the Revolution's focus on the development of an organized, logically-coherent and transparent system of
+laws (the civil code).114 Once France was stabilized under his Empire,
+Napoleon undertook to replace the rejected pre-revolutionary law by
+appointing an expert commission to draft the Civil Code.115 Using
+natural law theories as well as principles developed from Justinian's
+Digest, the Commission led by Jean-Etienne-Marie Portalis drafted
+the Code Napol ́eon in the second half of 1801.116 Napoleon himself
+attended 57 of the commission's 102 meetings.117 Although the draft
+was completed at the end of 1801, the Code was not published until
+March 31, 1804.118
+The Civil Code contains a typically Napoleonic mix of liberalism and conservatism, although most of the basic revolutionary
+gains-equality before the law, freedom of religion and the abolition of
+feudalism-were consolidated within its laws.119 Property rights, including the rights of those who had purchased previously state-owned
+property were made absolute.120 Additionally, Napoleon intended that
+the Code be written in such a way that it could easily be read by the
+common man.121 The result was a Code that was (and remains) elegant in its brevity and simplicity, transparent, comprehensible, accessible, well-written, logical, and consistent. Once published, the Code
+was promulgated throughout the Empire. General Napoleon Bonaparte considered the Civil Code to be the most significant of his
+achievements: "It is not in winning 40 battles that my real glory lies,
+for all those victories will be eclipsed by Waterloo. But my Code civil
+will not be forgotten, it will live forever."122
+In pre-revolutionary France, the judiciary had been the object
+of much hatred because judicial office was akin to a property right that
+could be bought, sold, or inherited, and because, as a result judicial
+decisions tended to be arbitrary, and judges refused to be subject to the
+law. Thus, the French thinking of the time was that strict separation
+of powers was needed, as it was necessary to take lawmaking power
+away from judges completely and lodge it in a representative legisla-
+114 EDUARDO GARC ́IA DE ENTERR ́IA, LA LENGUA DE LOS DERECHOS, LA FORMACI ́ON
+DEL DERECHO P ́UBLICO EUROPEO TRAS LA REVOLUCI ́ON FRANCESA 26-42, 151-152
+(Alianza Universidad 2d ed. 1995)
+115 ZWEIGERT & K ̈OTZ, supra note 40, at 82.
+116 See id. at 82-89.
+117 Id. at 83.
+118 Id.
+119 Id. at 86-87.
+120 Id.
+121 Id. at 83.
+122 Id. at 84.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 24
+ 2-DEC-10
+15:08
+80 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+ture in order to prevent the recurrence of these abuses.123 The judicial
+function had to be restricted to mere mechanical application of the
+law.124 Consequently, the dominant thinking was that the legislative
+text of each article of the Code, if literally studied, should provide the
+answer to every problem that might arise concerning it. Normative
+standards as stated in a Civil Code were to be stated "with such clarity
+and over so broad a range of issues that their application to individual
+cases would require no creative activity on the part of the judge."125
+Thus, the function of the judge was to find and apply the applicable
+provision and it would be wrong for him to go outside the Code to look
+for aid in selection and application.
+After the Civil Code's rise in France, similar natural-law based
+Codes were adopted worldwide to such an extent that ninety percent of
+all countries can now be called civilian or "code-based." These countries traditionally minimize judge-made law in keeping with this civilian tradition. The most influential civil codes have been the French,
+the German, and the Swiss codes. Louisiana's Code, based on the language of the French Civil Code, but incorporating legal principles of
+then existent Spanish colonial law, was adopted in 1808 when Louisiana's citizens made it known to Thomas Jefferson that they would not
+accept common law (though they did accept common law procedure).126 Andre Bello used both the French Civil Code and Louisiana's
+Civil Code (similarly combined with indigenous elements of Spanish
+law) in drafting the Chilean Civil Code of 1855, and it was later
+adopted as a whole in El Salvador, Ecuador, Venezuela, Nicaragua,
+Colombia, and Honduras.127 Bello's Code also influenced the codes of
+Uruguay, Mexico, Guatemala, Costa Rica, and Paraguay.128 The 1896
+Civil Code of Germany (the Bergerliches Gesetzbuch or BGB) was built
+on the same principles, but incorporated Pandectist thinking, resulting in a much denser, longer code.129 The BGB (and through it the
+123 See id. at 89.
+124 Id.
+125 Mirjan Damaska, Structures of Authority and Comparative Criminal Procedure, 84 YALE L.J. 480, 494 (1975).
+126 ZWEIGERT & K ̈OTZ, supra note 40, at 116.
+127 M.C. Mirow, Borrowing Private Law in Latin America: Andres Bello's Use of
+the Code Napoleon in Drafting the Chilean Civil Code, 61 LA. L. REV. 291, 291
+(2001); see also ZWEIGERT & K ̈OTZ, supra note 40, at 114 (discussing Bello's drafting of the Chilean Code, drawing on Roman legal tradition, the French Code, Las
+Siete Partidas (Spanish colonial law), and Savigny's thinking).
+128 Id.; M.C. Mirow, Individual Experience in Legal Change: Exploring a Neglected
+Factor in Nineteenth-Century Latin American Codification, 11 SW. J.L. AND TRADE
+AM. 301 (2005); M.C. Mirow, The Code Napol ́eon: Buried but Ruling in Latin
+America, 33 DENV. J. INT'L L. & POL'Y 179, 184 (2005).
+129 See ZWEIGERT & K ̈OTZ, supra note 40, at 144-45.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 25
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+81
+French Civil Code) inspired codes in Brazil and Argentina as well as
+codes in Greece, Italy, Portugal, Austria, Hungary, Switzerland, the
+USSR, and even China and Japan.130 Turkey adopted the Swiss Code
+wholesale in 1926.131
+B.
+Civilian Inquisitorial Procedure
+Civilian criminal procedure differs from common law procedure
+just as civilian legal theory differs from common law theory. In fact,
+the procedural differences are likely more significant with regard to
+the rule of law than the substantive differences. Inquisitorial procedure developed out of the administrative (or "police") powers exercised
+by feudal and Renaissance kings.132 In keeping with Roman tradition,
+the king's police power was based on his authority to command his
+subjects and seemed to be outside the realm of law. Over time, power
+became more centralized, rulers dispatched officials to exercise their
+control, and gradually a stratified bureaucracy emerged.133 In parts of
+Europe "where feudal fragmentation caused disruptions, the emerging
+central rule became associated with order and stability . . . [which led
+to] the concept of absolutist monarchy."134 The absolutist monarchies
+prevalent in the eighteenth century were called "police states precisely
+for this reason: even enlightened despotism depended on the good intentions of a monarch . . . who could decide unilaterally about the fate
+of his subjects."135
+Even after the French Revolution destroyed the old order, people who opposed absolutism still believed in a strong central rule.136
+The theory justifying a strong central rule as embodied in inquisitorial
+procedure under ́etat l ́egal was that the government was acting
+"within the realm of its positive freedom to further the welfare of its
+subjects" when it was exercising its police powers.137 However, while
+criminal courts had jurisdiction over the contraventions de police,
+judges had to "apply the volont ́e g ́enerale as embodied in enacted
+law."138 Because of this traditional view of the judiciary as a mere
+mechanical function, judicial opinions do not have precedential value
+in civilian jurisdictions and are generally still not published, except
+perhaps in extremely summary "note" form.
+130 See id. at 154-56.
+131 Id. at 178.
+132 See Hildebrandt, supra note 32, at 53.
+133 Damaska, supra note 125, at 540.
+134 Id. at 540.
+135 Hildebrandt, supra note 32, at 53.
+136 Damaska, supra note 125, at 540.
+137 Hildebrandt, supra note 32, at 59.
+138 Id. at 60.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 26
+ 2-DEC-10
+15:08
+82 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+Although civilian jurisdictions have since modified their criminal procedure in a wide variety of ways, there are several key differences that remain between inquisitorial procedure and adversarial
+procedure. Most obviously, in addition to the fact that civilian jurisdictions generally have not adopted either the practice or the theory of
+stare decisis,139 since the civilian criminal process developed out of the
+executive's police power, it was traditionally envisioned in civilian jurisdictions as an active state investigation, not as a contest between
+parties.140 In the inquisitorial system, truth must be determined by
+gathering all available evidence.141 In contrast, in an adversarial system, truth is a "determination of which opposed position [is] more
+likely to be correct[;] . . . -[it is] a matter of plausibility, mature judgment, and of balancing two versions of a given event against each
+other."142 Commentators have remarked that the U.S. adversarial
+system may be better suited to protect civil liberties under normal circumstances, but that the French inquisitorial system is better suited
+in times of crisis,143 such as war, when a country must act as an enterprise association.
+Under inquisitorial procedure prior to the nineteenth century,
+a single magistrate had immense power: he supervised pretrial investigation, conducted the hearings at which the evidence was examined,
+and determined the outcome.144 The full concentration of procedural
+authority in the hands of only one official appears even more shocking
+when viewed from a modern perspective. This is because the inquisitorial investigating judge "decided on his own initiative what cases to
+process and possessed full authority to determine any issue which in
+his opinion required examination."145 Thus, a judge's role combined
+prosecutorial, defense, and adjudicative functions.146
+In the nineteenth century after the enactment of the French
+Code d'instruction criminelle in 1808, prosecution and investigation
+were separated into a private state pretrial investigation run by a
+prosecutor and the public trial phase, conducted by a judge.147 After
+139 Damaska, supra note 125, at 497.
+140 Stewart Field, Fair Trials and Procedural Tradition in Europe, 29 OXFORD J.
+LEGAL STUD. 365, 368 (2009).
+141 Sharon Finegan, Pro Se Criminal Trials and the Merging of Inquisitorial and
+Adversarial Systems of Justice, 58 CATH. U. L. REV. 445, 464 (2009).
+142 Id.
+143 See Antoine Garapon, The Oak and the Reed: Counter-Terrorism Mechanisms
+in France and the United States of America, 27 CARDOZO L. REV. 2041 (2006).
+144 See Field, supra note 141, at 377 (indicating that historians generally agree to
+this accounting of European legal history).
+145 Damaska supra note 125, at 534-35.
+146 Id. at 535.
+147 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 27
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+83
+1808, the inquisitorial judge "could proceed only on the motion of a
+prosecutor, and the subject of his inquiries was limited to the offenses
+listed in the prosecutors charge."148
+Generally, in most modern civilian inquisitorial procedures, a
+prosecutor has little or no discretion and must press charges as part of
+his or her official duty,149 and there are a number of regulations guiding the decision of whether to invoke the criminal process, such as directions as to the point at which property damage becomes minimal.
+The extensive internal regulations "reflect the civilian emphasis on
+consistency and uniformity of decisions" and thorough review by
+superiors150 - i.e. the equal enforcement component of Rechtsstaat.
+For the same reasons, all official matters must be documented and the
+documentation must follow precise rules.151 Thus, a French judge has
+a "dossier" with the relevant facts of the case.152 Documents and reports drafted by officials are highly formalized; exposition must be succinct and summaries made whenever possible. Even the style of
+writing is standardized, often becoming arid, impersonal, and clich ́eridden.153
+The judge's role in a civilian criminal procedure is very different from a common law judge's role. Although the nineteenth century
+vision of decision-making as an automatic process of norm application
+has been recognized as a rationalist illusion, it has remained as a regulating ideal. Judges have a much more active role, and are not the
+mere neutral arbitrators and umpires they are in common law jurisdictions.154 The judge must amass the evidence and ensure that it
+establishes guilt or innocence.155 Thus, the inquisitorial judge must
+take the initiative in calling and questioning witnesses.156 Further,
+the judge often questions the accused and "can demand further inquiry
+by calling and questioning additional witnesses or requiring further
+investigation."157
+Nevertheless, inquisitorial judges are still expected to act as
+civil servants, using "professional craftsmanship."158 When there is no
+applicable legislated or regulatory law and "independent action becomes unavoidable, it must be exercised sparingly, with extreme mod-
+148 Id.
+149 Id. at 503.
+150 Id. at 504.
+151 Id. at 506.
+152 Finegan, supra note 141, at 467.
+153 Id.
+154 Id. at 452.
+155 Id. at 466.
+156 Id.
+157 Id. at 466-67.
+158 Damaska, supra note 125, at 507.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 28
+ 2-DEC-10
+15:08
+84 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+eration and preferably at the apex of the hierarchy."159 This
+independent action "should never be influenced by political, ethical, or
+similar extrinsic values."160 The most dreaded consequence of exercising such independence is not the fear of judicial legislation, but the
+fear that such decision-making would cause legal uncertainty and the
+resulting chaotic law would gradually be politicized.161 A common law
+practitioner would counter that this fear is misplaced: by having to
+ground decisions on established law, and because all decisions are in
+the public domain, common law judicial decisions are less likely to be
+politicized rather than more.
+Because they focus on ascertaining one truth by assembling all
+available evidence, civilian judges are not significantly restrained by
+strict evidentiary rules as are common law judges. A finder of fact in
+the French inquisitorial system is permitted to consider all relevant
+information, regardless of its reliability, and to determine which facts
+should be given greater weight.162
+Another significant difference between the French inquisitorial
+system and the U.S. adversarial system is the ability of a defendant to
+speak in his own defense and be proactive in the proceedings against
+him: he may even be invited by the judge to respond to certain witness
+testimony.163 Thus, a defendant is able to testify directly to the judge
+without being under oath.164 Under U.S. law, the only way a defendant can speak directly to the judge is by being placed under oath and
+testifying on his own behalf.165 Furthermore, he must respond only to
+questioning by the attorneys. Although he can speak for himself, a
+defendant subject to a French inquisitorial trial cannot represent himself, and must be represented by counsel - in contrast to the U.S.
+constitutional right to represent oneself.166
+5.
+PROCEDURE MORE IMPORTANT THAN SUBSTANCE
+Both common law and the civilian legal systems have honorable traditions. Countries looking to adopt new law have tended to
+gravitate to the civilian tradition because of its logic, clarity, and organization. Common law is typically regarded (with some justification) as quirky, disorganized, and incoherent - though flexible.
+159 Id. at 507-08.
+160 Id. at 508.
+161 Id.
+162 Finegan, supra note 141, at 468.
+163 Id. at 468-69.
+164 Id. at 469.
+165 Id.
+166 Id. at 470.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 29
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+85
+Because of its basis in stare decisis, substantive common law is difficult to adopt. Written civil law is easier.
+One aspect of the common law tradition that may be experiencing more widespread acceptance is procedural - the adversarial tradition and recognition of jurisprudence as a source of law. In a number
+of civilian countries, jurisprudence has long been a source of law,
+though it is usually persuasive rather than mandatory. For example,
+in Mexico, if the Supreme Court decides the same issue five times the
+same way, then that principle has the force of a statute.167 In Switzerland, as part of the canton tradition, attorneys must be aware of judicial decisions and consider jurisprudence before advising their clients
+(i.e. highly persuasive authority).168 Argentina has adopted a system
+of precedent in an effort to reduce the number of appeals.169 In Louisiana and other bi-jural jurisdictions, jurisprudence is often de facto law,
+rather than de jure.170
+On an international level, article seven of the U.N. Convention
+on Contracts for the International Sale of Goods requires that jurisprudence be interpreted in a manner consistent with good faith and
+consistency on an international level.171 Consequently, an entire
+database of international decisions is kept by Pace University as well
+as the UNIDROIT Library in Rome.172 It has been theorized that there
+is an international trend developing toward the adoption of precedent
+for four reasons: 1) while jurists from different legal systems may disagree about legal theory, they often agree on the result in an individual
+case; 2) a system of precedent adds stability and predictability because
+there is some assurance that like cases will be decided similarly; 3)
+efficiency is maximized because similar cases will no longer lend themselves to multiple appeals; and 4) judges can more easily be held accountable for their decisions.
+As demonstrated below, some Latin American legal systems
+are adopting other facets of common law procedure, in particular, the
+adversarial stance, the judge as arbitrator, and the presumption of innocence, as well as some recognition of precedent. They are also attempting to strengthen the independence of the judicial branch by
+167 Ken Gormley, Symposium, Judicial Review in the Americas: Comments on the
+United States and Mexico, 45 DUQ. L. REV. 393, 404 (2007).
+168 See, e.g., Fridolin M.R. Walther, Features - Introduction to the Swiss Legal
+System: A Guide for Foreign Researchers (2000), http://www.llrx.com/features/
+swiss.htm#.
+169 See ZWEIGERT & K ̈OTZ, supra note 40, at 114; Mirow, supra note 127, at 291.
+170 See generally VERNON VALENTINE PALMER, LOUISIANA: MICROCOSM OF A MIXED
+JURISDICTION (1999).
+171 See, e.g., U.N. Convention on Contracts for the International Sale of Goods,
+U.N. Doc. S/1984/98-9, A/CONF 97/19 (Apr. 11, 1980).
+172 UNIDROIT Library Homepage, http://library.unidroit.org/English/main.htm.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 30
+ 2-DEC-10
+15:08
+86 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+incorporating checks and balances inspired by U.S. court procedure
+and other sources. Thus, they are attempting to strengthen the common law version of the rule of law.
+6.
+PROBLEMS OF LATIN AMERICAN LEGAL AND GOVERNMENTAL
+DEVELOPMENT
+The Spanish Hapsburg monarchs built colonial states in the
+sixteenth century and originally did not need an army because the
+political system was "flexible and stable."173 They governed through
+the Council of the Indies, which used a procedure that was "cumbersome . . . [but] ensured that all interested parties had a chance to participate and that decisions were made strategically."174 Two main
+governance principles were employed at the local level: 1) "officials
+could selectively ignore royal edicts that would [harm] local interests"
+and 2) officials' jurisdiction "overlapped so that ambition could check
+ambition."175 The "administration was a 'government of judges, where
+nearly every appointed official exercised some sort of judicial authority, . . . . [and] [t]he legal system served as a constant venue of negotiation between distinct groups and individuals.'"176 Informal alliances
+"based on ties of kinship and interest between local elites and royal
+bureaucrats" reduced the monarchy's ability to pursue policies that
+would conflict with and check the oligarchy.177 Thus, Latin American
+colonial government under the Hapsburgs involved an institution of at
+least a modicum of checks and balances.
+This changed, however, when the Bourbons took power in
+1713.178 The Bourbons regarded the Hapsburg rule as corrupt and
+detrimental to economic growth.179 Consequently, they overhauled
+the legal system by delineating jurisdictions so that there was no overlap of power and no conflict with royal policy.180 The Bourbon reforms
+led to the creation of a "salaried fiscal bureaucracy" which improved
+revenue collection and to a military to fend off foreign incursions.181
+These reforms also resulted in an administrative, professional bureaucracy and created an absolutist state and a standing army.182
+173 Miguel Schor, Constitutionalism Through the Looking Glass of Latin America,
+41 TEX. INT'L L.J. 1, 19 (2006).
+174 Id.
+175 Id.
+176 Id. (quoting CHARLES R. CUTTER, THE LEGAL CULTURE OF NEW SPAIN, 1700-
+1810 31 (1995).
+177 Id.
+178 Id. at 19-20.
+179 Id. at 20.
+180 Id.
+181 Id.
+182 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 31
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+87
+Then, at the end of the eighteenth and beginning of the nineteenth centuries, European monarchies were replaced by republics,
+and a legal system arose in which citizens enjoyed equal rights.183
+These reforms, however, did not fully reach Latin America.184 Constitutions were written and civil codes adopted, but these new institutions did not transform society.185 Power remained in the hands of the
+elites, protected by the military which had grown and was used to protect against internal unrest led by the poor.186
+In the late nineteenth and early twentieth century, with modernization and the drive to industrialize, oligarchies were overturned
+by communist revolutions led by charismatic leaders such as Allende,
+who created central governments managing vast bureaucratic organizations that controlled "virtually all aspects of the economy."187 They
+in turn would be replaced by military coup and charismatic fascist
+leaders who took the same approach.188 The framers of constitutions
+in this era "sought to centralize power in the hands of the president in
+an attempt to steer a path between tyranny and anarchy."189 Consequently, they allocated excessive power to the presidents, but shortened term limits to help prevent military coups, leading to two
+unintended consequences.190 First, by shortening term limits, it became difficult to reach the consensus needed to address pressing social
+problems.191 Presidents fearing coups and unrest would frequently
+strengthen their power by giving cronies strategic positions.192 Additionally, presidents feared losing their positions and were willing to
+bend or break election rules to prevent their replacement.193 These
+changes resulted in "societ[ies] in which businesses sought favors in
+the political arena rather than compet[ing] in the market."194 Because
+the bureaucracy settled economic disputes, there was "no need for an
+impartial judiciary to settle disputes between private litigants . . .
+183 Id.
+184 Id.
+185 See id. at 20.
+186 Id. at 21.
+187 See id. at 20-22.
+188 See id. at 34 n.223.
+189 Id. at 29.
+190 Id. at 19.
+191 Id.
+192 Id. at 28-29.
+193 Id.
+194 Id. at 22.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 32
+ 2-DEC-10
+15:08
+88 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+[and] the judiciary became a rich source of patronage for the
+executive."195
+While the elites were competing to obtain privileges from the
+overly bureaucratic state, many of the rural poor migrated to Latin
+American cities.196 Because the legal systems were overly complex
+and hostile to their interests, they were forced to live in the "black"
+sector of the economy, in which they had to "build homes on land they
+did not own and engage in . . . trades for which they lacked proper
+legal authorization."197 This governmental dysfunction created the
+shantytowns that surround Latin America's cities.198 Then, in the late
+1980s, these overly-centralized Latin American states collapsed, just
+as did the overly-centralized Soviet Union, because they failed to promote development.199 The resulting batch of democracies, however,
+still maintained their authoritarian legacy, bureaucracies, weak judiciary, and lack of the institutionalized checks and balances. In other
+words, they still lacked the rule of law.
+7.
+THE HISTORY OF LAW AND DEVELOPMENT PROGRAMS IN LATIN
+AMERICA
+"[I]n Peru, . . . we have very good laws, but one is missing: a law
+that says that all the other laws should be complied-with."200
+Latin American countries vary widely in terms of governmental stability, economic development, and other factors. What they
+share, however, are legal systems that are civilian in nature and heritage, and they share common legal roots as either Spanish or Portuguese former colonies. Though some countries such as Chile are now
+making progress in terms of economic development and stability,201
+over the past century a number of Latin American countries remained
+politically unstable, alternating between military and communist rule,
+suffering from economic stagnation or even financial collapse. Their
+legal systems continue to be described as weak and outdated, failing to
+195 Id. at 22. See generally Joseph R. Thome, Heading South but Looking North:
+Globalization and Law Reform in Latin America, 2000 WIS. L. REV. 691 (2000)
+(analyzing the historical role of the Latin American judiciary).
+196 Schor, supra note 173, at 22.
+197 Id. See also HERNANDO DE SOTO, THE OTHER PATH: THE INVISIBLE REVOLUTION
+IN THE THIRD WORLD 10-13 (June Abbott trans., Harper & Row 1989).
+198 Schor, supra note 173, at 22.
+199 Id.
+200 Id. at 24 (quoting Nichol`as de Pi ́erola, President of Peru, 1895-1899 in Domingo Garcia Belaunde, Constitutional Processes in Latin America, in CONTEMPO-
+RARY CONSTITUTIONAL CHALLENGES 28 (C ́esar Landa & Julio Fa ́undez eds., 1996)).
+201 See generally Meredith Fensom, Judicial Reform In the Americas: The Case of
+Chile 80-100 (2004) (unpublished Master's thesis, University of Florida), available
+at http://etd.fcla.edu/UF/UFE0006263/fensom_m.pdf.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 33
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+89
+promulgate either component of the rule of law.202 Most recently, Venezuela and Bolivia are in a communist rule cycle, while Honduras is
+(as of this writing) under a military regime, having ousted its leftistoriented president for his attempt to circumvent term limits by calling
+an unconstitutional referendum that would extend his presidency.203
+In contrast, Chile has been stable, despite the fact that the presidency
+changed from right to left after Pinochet left office in 1989 and remained left-oriented until 2009 when conservative Sebasti ́an Pi ̃nera
+was elected. These changes occurred without any military intervention, communist take-over, or questionable elections - in this case, Pinochet's authoritarian regime apparently really did set the stage for a
+successful republic.204
+A.
+The First Two Rounds: "Law and Development" and
+"Administration of Justice"
+Outside agencies from North America and Western European
+have attempted to "promote legal reform and development in Latin
+202 See Jorge L. Esquirol, Writing the Law of Latin America, 40 GEO. WASH. INT'L
+L. REV. 693, 706, 731 (2009).
+203 See SUSAN KAUFMAN PURCELL, FOREIGN POLICY RESEARCH INST. A SNAPSHOT
+OF LATIN AMERICA TODAY 1-3 (2010), available at http://www.fpri.org/enotes/2010
+02.purcell.snapshotlatinamerica.html. However, it should be noted that the democratic institutions of Honduras asked for military intervention because the president had been attempting to circumvent constitutional term limits by demanding
+a referendum to change the limitation - a referendum ruled unconstitutional by
+the Honduran Supreme Court. Thus, terming Honduras' situation a "military regime" is probably an overstatement. Id. at 4 ("[T]he [Honduran] military acted at
+the request of Honduras' democratic institutions. The State Department did not
+give the matter sufficient thought and responded to the removal of President
+Zelaya in a knee-jerk manner. And President Obama decided to follow the lead of
+the Latin American governments for a variety of reasons - such as their fear that
+Venezuela would interfere in the internal affairs of their countries and cause
+trouble. He condemned the 'traditional military coup' in Honduras and pressed for
+the reinstatement of the deposed president who had provoked the crisis by his
+unconstitutional efforts to prolong his presidency. By focusing only on the behavior of the Honduran military, without considering all that led up to its decision to
+remove President Zelaya, the Obama administration missed an opportunity to mobilize democratic Latin America against the threat posed by President Chavez's
+behavior in the region.")
+204 In fact, one of the Pinochet junta's first acts was to impose the rule of law (i.e.
+it limited its own acts). Robert Barro, Dictatorship and the Rule of Law: Rules and
+Military Power in Pinochet's Chile, in JOSE MARIA MARAVALL AND ADAM PRZEWOR-
+SKI, DEMOCRACY AND THE RULE OF LAW 188, 196-97, 211 (Cambridge Univ. Press
+2003). This is likely a substantial reason underlying Chile's stability, current economic success, and success in reforming its criminal justice system.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 34
+ 2-DEC-10
+15:08
+90 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+America" since the 1960s and before.205 These reform efforts in Latin
+America have been grouped in three bands. In the 1960s and 70s, U.S.
+academics formulated a "law and development movement," proposing
+that developing countries adopt a U.S.-style legal system, beginning
+with the adoption of U.S.-style law school teaching methodology and a
+"public safety programme."206 The next band, in the 1980s, was intended to be smaller in scope, and was termed the "Administration of
+Justice" program.207 Then, in the 1990s, a third "rule of law" band
+developed after the collapse of communism.208
+The 1960s and 70s law and development projects were unsuccessful in Latin America for a number of reasons: they faced emerging
+communist/socialist revolutionary movements, met with resistance
+from the existing legal culture, ignored the economic and political impacts on the elite classes, and were "ethnocentric," ignoring and dismissing the civilian heritage.209 However, the initial underlying
+assumptions about the requirements of modern society remain influential. It was thought that in order to develop, a culture needs to
+demonstrate: 1) "openness to new experience, both with people and
+with new ways of doing things"; 2) "increasing independence from the
+authority of traditional figures like parents and priests and a shift of
+allegiance" to governmental and other leaders; 3) "belief in the efficacy
+of science and medicine"; 4) "ambition for oneself and one's children to
+achieve high occupational and educational goals"; 5) a concern for being on time and planning affairs in advance; 6) "strong interest in . . .
+civic and community affairs"; and 7) energetically keeping up with the
+"news of national and international import."210
+The second initiative began in the mid-1980s after Congress
+began criticizing human rights abuses in El Salvador.211 The Kissinger Commission on Central America recommended that Congress
+address the issue by funding the "Administration of Justice Programme."212 Under this approach, large grants were awarded to
+205 INST. OF LATIN AM. STUDIES, RULE OF LAW IN LATIN AMERICA: THE INTERNA-
+TIONAL PROMOTION OF JUDICIAL REFORM 18-20 (Pilar Domingo & Rachel Sieder
+eds., 2001).
+206 Id.
+207 Id.
+208 Id.
+209 Id. at 19.
+210 John K.M. Ohnesorge, Developing Development Theory: Law and Development
+Orthodoxies and the Northeast Asian Experience, 28 U. PENN. J. INT'L. ECON. L.
+219, 233-34 (2007) (citing Alex Inkeles, Making Men Modern: On the Causes and
+Consequences of Individual Change in Six Developing Countries, 71 AM. J. SOC.
+208, 210 (1969)).
+211 INST. OF LATIN AM. STUDIES, supra note 205, at 20.
+212 Id. at 20-21.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 35
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+91
+Washington-based consulting agencies in reliance on advisors from
+Latin America.213 The projects avoided legal education and law drafting, but attempted to view reform of the justice sector as a systematic
+enterprise requiring inclusion of all actors within the system.214
+Again, these programs were later regarded as ineffective, especially
+given the large amount of funds expended as compared to the minimal
+changes that were effected.
+B.
+The Third Round: Rule of Law Reform Initiatives
+In the 1990s, a third round of now globalized reform initiatives
+began with the collapse of Communism in Europe and focused on the
+rule of law. Right-leaning, conservative pundits initially posited that
+the rule of law was needed to encourage investment and hence economic development; more recently left-leaning pundits have posited
+that the rule of law is necessary to stop or prevent human rights
+abuses before economic development can begin. Whatever the political
+justification, the focus has been on the development of "independent"
+judicial systems.
+This newest "rule of law" approach purportedly focuses on "governance" rather than simply improving governments - it emphasizes
+participation of both the public and private sector in adhering to established laws, privatization of government assets, peaceful transition
+from authoritarian rule, a system of democratically-elected governments setting forth clear, publicly known laws applicable to everyone,
+and it attempts to downplay ethnocentricity. As discussed at the beginning of this article, this round of reform uses the term rule of law in
+the sense of Rechsstaat to mean effective government.
+This approach has been supported not just by U.S. AID, but
+also by entities such as the World Bank, the World Trade Organization, and the International Monetary Fund. It acknowledges cultural
+differences to the extent that it posits that "the main obstacle to
+achievement of the rule of law, . . . is the lack of political will of local
+leaders to subject themselves to the scrutiny of an independent court
+system."215 A multiplicity of international agencies addressed themselves to advising Latin American and other developing countries on
+how to develop an "independent" court system. Though the jury is still
+out on a number of countries, this third round of reform initiatives is
+already facing criticism similar to that of the first two rounds as being
+largely an enormous waste of time and money.216
+213 Id.
+214 Id. at 21-22.
+215 Id. at 25.
+216 WILLIAM C. PRILLAMAN, THE JUDICIARY AND DEMOCRATIC DECAY IN LATIN
+AMERICA: DECLINING CONFIDENCE IN THE RULE OF LAW (Praeger Publishers 2000).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 36
+ 2-DEC-10
+15:08
+92 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+C.
+Problematic Judicial Systems
+U.S. AID describes rule-of-law problems with Latin American
+judicial systems thusly:
+Societies can be greatly weakened by judicial systems in
+which certain citizens are above the law, while others are
+victimized by unfair processes or inadequate access to
+justice. Without much-needed judicial reforms, many of
+the region's courts would continue to operate under antiquated laws adopted from former colonial regimes.
+Under corrupt or inefficient justice systems, the poor and
+other disenfranchised are granted less access to justice,
+court proceedings are long and unproductive, and delays
+can disable the court system. Defendants may spend
+years in jail before even going to trial, while gross offenders of human rights too often escape punishment.217
+The crime and corruption that result from an ineffective criminal justice system can be costly.218 According to a corruption and
+crime study by Center for Strategic and International Studies, a corrupt justice system can "slow economic development, undermine the
+strength and credibility of democratic institutions, and erode the social
+capital necessary for development."219 World Bank economists estimate that Latin America's average per capita income would be 25%
+higher if it had a crime rate comparable to that of rest of the world.220
+Consequently, although there is certainly room for improvement in
+North American criminal justice systems, Central and South American systems face more international criticism.
+8.
+THE CULTURAL DIVIDE BETWEEN NORTH AND SOUTH AMERICA
+"The central conservative truth is that it is culture, not politics,
+that determines the success of a society. The central liberal truth is that
+politics can change a culture and save it from itself."221
+As the first two bands of reform efforts demonstrated, one cannot simply change either an entire legal system or portions of it without addressing the underlying cultural ethic - whether one refers to
+the micro-culture of the legal system itself, or the culture and expecta-
+217 USAID PROMOTES THE RULE OF LAW IN LATIN AMERICA AND CARIBBEAN DEMOC-
+RACIES 1, available at http://www.usaid.gov/locations/latin_america_caribbean/pdf/
+dg_ruleoflaw.pdf [hereinafter USAID].
+218 Id.
+219 Id.
+220 Id.
+221 Samuel P. Huntington, Foreword: Cultures Count, in CULTURE MATTERS, supra
+note 15, at xiii, xiv (quoting Daniel Patrick Moynihan).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 37
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+93
+tions of the local society. The reasons cited for failure of the first band
+of reform efforts included lack of respect and understanding on the
+part of reformers for civilian legal systems, and the resulting ineffectiveness of the legal transplants they tried to incorporate from other
+(often U.S.) jurisdictions. Borrowing ideas from other legal systems
+can be effective, but those ideas have to be tailored to the local system,
+adapted to it, and adopted by it: they cannot be simply incorporated
+wholesale. The most extreme example of legal transplantation was
+Turkey's 1926 adoption of the entire Swiss Civil Code into Turkey,
+which originally caused a number of problems, including the instant
+legal dissolution of a number of Islamic marriages and the resulting
+delegitimizing of the children of those marriages.222
+The second band of reform efforts in Latin America, like the
+first, failed because, in trying to incorporate lessons learned from the
+first round, it attempted to change only small portions of an existing
+legal system without taking into account existing political and cultural
+entities. Professors comfortable with training future lawyers in an existing system were not comfortable with learning another, as-yet-nonexistent system; judges did not want to give up prosecutorial power
+they had for decades, nor did they want to lose political capital and
+protection they had accrued over time. Furthermore, they had no experience and no reason to believe that the new systems would actually
+work. Once you have become a vested professional, changing the rules
+of the game and learning an entirely new way of doing things is not
+something that most people will welcome. And these are only the superficial differences - underlying cultural differences make the whole
+enterprise even more difficult.
+A.
+Latin-American Culture
+In contrast with the focus on individualism, independence, liberty of trade and rule of law, the Spanish belief systems traditionally
+supported personalized exchange, kinship ties, and status systems.
+Furthermore, the Bourbon centralized government decision-making
+did not "provide incentives for anonymous exchange," and this system
+222 See Arzu Oguz, The Role of Comparative Law in the Development of Turkish
+Civil Law, 17 PACE INT'L L. REV. 373, 381-85 (2005)(discussing some of the
+problems that came with the shift to the Swiss Civil Code). These problems were
+apparently dealt with by allowing a loose translation. Ruth A. Miller, The Ottoman and Islamic Substratum of Turkey's Swiss Civil Code, 11 J. ISLAMIC STUD.
+335, 335-361 (2000) (stating that the subsequent loose translation allowed for a
+better fit between the code and the society to which it was applied). The most
+serious, immediate problem caused by the wholesale adoption was most likely that
+it instantaneously delegitimized large numbers of children who had been regarded
+as legitimate under the pre-existing Islamic system. ZWIEGERT & K ̈OTZ, supra
+note 40, at 184-85.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 38
+ 2-DEC-10
+15:08
+94 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+was reproduced in Latin America with even "more perverse results"
+than in the original European countries.223 Catholicism, similarly,
+has preserved an absolutist, centralized approach based on traditional
+hierarchical structure.
+While not accompanied by genocide in the recent past, Latin
+America's failures (including bloody civil wars and coup d'etats) similarly have been attributed to a statist, feudalistic culture valuing loyalty to a small group rather than honesty in governmental offices.
+[I]n . . . much of Latin America, social capital resides
+largely in large families and a rather narrow circle of
+personal friends. Not only do people distrust those
+outside their circle of trust, but they feel that a lower
+standard of moral behavior applies outside their kinship
+group. This, in turn, generates destructive norms that
+tolerate corruption. In such societies, public and corporate officials are not concerned with their reputations
+outside their immediate group, and group members put
+in positions of trust feel "entitled to steal" on behalf of
+their families.224
+Frequently, "savage capitalism" is blamed for the poverty of
+the half of all Latin Americans who "survive in shacks with dirt floors
+and tin roofs."225 Instead of being in the hands of entrepreneurs committed to risk and innovation, a large part of the capital in Latin
+America is controlled by cautious speculators who prefer to invest
+their money in real estate. These are not modern capitalists, but
+rather landowners in the feudal tradition.226 Even more to blame is
+the "mercantilist businessman who seeks his fortune through political
+influence rather than market competition . . . [and] shares his profits
+with corrupt politicians in a vicious circle that produces both increasing profits and increasing corruption."227
+Consequently, part of the problem in Latin America that has
+led to both corruption and the lack of the rule of law (meaning lack of
+respect on the part of both citizenry and government) is a feudalistic
+culture that regards a government position as a fiefdom and an official's first duty as being to award friends and family. Bureaucracies
+grew under both military and socialist governments. The "desire
+223 ́Erica Gorga, Culture and Corporate Law Reform: A Case Study of Brazil, 27
+U. PA. J. INT'L ECON. L. 803, 868-69 (2006).
+224 JONATHAN R. MACEY, CORPORATE GOVERNANCE: PROMISES KEPT, PROMISES
+BROKEN 41 (2008) (citations omitted).
+225 Carlos Alberto Montaner, Culture and the Behavior of Elites in Latin America,
+in CULTURE MATTERS, supra note 15, at 56, 60.
+226 Id.
+227 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 39
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+95
+among the elites to develop and transform [Latin America,] which they
+believed to be backward, led to the adoption of constitutions and laws
+that provided significant power to the central state. The cure for underdevelopment was oligarchy and dictatorship today, a more inclusive republican government tomorrow."228 The constitutions were not
+a failed attempt to establish republican government, but a successful
+attempt to preserve traditional Romano-Hispanic absolutism using
+liberal forms.229 Although liberal forms were used, there was no attempt to establish checks and balances because of distrust due to lack
+of experience in how they work, and the fear that they would detract
+from the power of the central state.
+B.
+Anglo-American Protestant Culture
+In contrast to the Latin American hierarchical culture, one
+characteristic that contributes to the rule of law in the United States is
+the Protestant ethic that still undergirds society. As the Federalists
+indicated, a principled, virtuous polity is necessary for good government. The Anglo-Protestant culture values individuality and personal
+responsibility. It also focuses on covenant - whether that means a
+Covenant between God and Man, the marriage covenant, the consent
+theory of government, or the basic understanding that one should keep
+one's word and perform what one promised to do. Furthermore, the
+Anglo-American culture is still very concerned that judicial decisions
+should be grounded in law established by practice (not theory), and
+thus judges should be held accountable for their decisions such that
+future decisions will be consistent with them. For example, Justice
+Scalia wrote that a judge should stick "close to the facts, not relying
+upon overarching generalizations, and thereby leaving considerable
+room for future judges . . . . [This concern] is thought to be the genius
+of the common law system."230
+Similarly, the faith in covenant is balanced by a practical understanding of the corruptible nature of man and government officials
+in particular.231 The average American still regards government as a
+necessary evil. Furthermore, Americans are a litigious society. This
+means that they generally are not willing to accept an act by another
+that they feel unjustifiably infringes on their liberty or welfare. The
+228 Schor, supra note 173, at 17.
+229 Glen Dealy, Prolegomena on the Spanish American Political Tradition, 48
+HISP. AM. HIST. REV. 37, 51-52, 58 (1968).
+230 Antonin Scalia, The Rule of Law as a Law of Rules, 56 U. CHI. L. REV. 1175,
+1177 (1989).
+231 See e.g., SIR JOHN EMERICH EDWARD DALBERG-ACTON, ESSAYS ON FREEDOM AND
+POWER 364 (Beacon Press 1949) ("Power tends to corrupt and absolute power corrupts absolutely.").
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 40
+ 2-DEC-10
+15:08
+96 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+American judicial system may be effective in part because citizens use
+it so often and can be counted upon to object vociferously and publically when they feel they have been treated unfairly, whether by an
+fellow citizen or by the system.
+C.
+The Protestant Ethic, Colonialism, and Values
+As discussed previously, Western Protestant countries remain
+at the top of indices for economic development, absence of corruption,
+and the rule of law. The Protestant ethic, as studied by Max Weber,
+values "hard work, honesty, seriousness, and the thrifty use of money
+and time," which promote business and capital accumulation.232 Two
+additional values may help account for the prominence of the Protestant culture: the emphasis on literacy and the importance given to
+time.233 The emphasis on education and literacy for both girls and
+boys, was a result of Bible-reading and led to higher literacy from generation to generation.234 The making and buying of clocks and
+watches (most clock-makers were Protestants), and the use of them to
+measure time was stressed far more in Britain and Holland than in
+Catholic countries.235 Parental styles reflect still other values, including individualism, autonomy, self-reliance, and self-expression. The
+statistical result has been that countries with a greater percentage of
+Protestants and a British colonial history are associated with low
+levels of national corruption and a strong GDP.236
+The lack of the rule of law and poor economic development in
+struggling countries are habitually blamed on colonialism by both
+Protestant and Catholic European countries. However, as one African
+scholar posits: "[W]e can no longer reasonably blame the colonial powers for our condition. Several decades have passed during which we
+have been in substantial control of our own destiny. Yet today Africa is
+more dependent than ever on rich countries. . . ."237
+Authoritarianism permeates Africa's families, villages, schools,
+and churches. Traditional African education prepares children for integration into their tribal community, but offers few incentives for chil-
+232 David Landes, Culture Makes Almost All the Difference, in CULTURE MATTERS,
+supra note 15, at 10, 11.
+233 Id. at 12.
+234 Id.
+235 Id.
+236 Seymour Martin Lipset & Gabriel Salman Menz, Corruption, Culture, and
+Markets, in CULTURE MATTERS, supra note 15, at 112, 116; see also Mariano
+Grondona, A Cultural Typology of Economic Development, in CULTURE MATTERS,
+supra note 15, at 44, 47-53.
+237 Etounga-Manguelle, supra note 15, at 66.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 41
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+97
+dren to surpass their parents' success.238 A static view of life
+permeates the culture. Changes in social standing are not accepted,
+and those who are dominant hold the power.239 Thus, coup d'etat is
+the only path to power for those born subservient.240 Indeed, the community accepts, naturally, "the servitude imposed by the strong man
+of the moment."241 In Africa, this feudalistic view of life has led to
+genocide, civil war, and rampant crime.242 Latin America has not experienced genocide recently, or not to the same extent, but many of the
+problems faced by governmental reform efforts stem from a similar
+feudalistic view of society.
+D.
+Cultural Reasons Why Reform Efforts Fail
+While multinational and U.S. agencies have expended much effort and money to strengthen the rule of law through changing governance in developing countries, as a general rule (to which there are
+exceptions), those problems have proven to be intractable. Most often,
+the changes fail to make a long-term difference because the underlying
+culture has not changed its feudalistic values. In the United States,
+anthropologists and sociologists have ignored the cultural explanations for the difficulties faced by Afro-Americans.243 This may be because reactionary right-wing public figures previously attributed
+social problems to "values," thereby enabling them to free themselves
+of any responsibility for ameliorating the problems, and because of the
+liberal mantra that "cultural explanations amount to blaming the victim."244 In the humanities and liberal circles, culture is a "symbolic
+system to be interpreted, understood, discussed, delineated, respected,
+and celebrated as the distinctive product of a particular group of people, of equal worth with all other such products."245 However, those in
+these circles believe that culture "should never be used to explain anything about the people who produced it."246 The tragedy of this view is
+that it is both unrealistic and fatalistic: any study of history will reveal
+the extent to which cultures evolve over time as a result of contact
+with other cultures, internal criticism, and other factors.247
+238 Id. at 76.
+239 Id. at 70.
+240 Id.
+241 Id.
+242 Id. at 74.
+243 Orlando Patterson, Taking Culture Seriously: A Framework and an Afro-
+American Illustration, in CULTURE MATTERS, supra note 15, at 202, 204.
+244 Id.
+245 Id. at 202.
+246 Id.
+247 See also Nicholas Capaldi, Philosophical Amnesia, in CONCEPTIONS OF PHILOS-
+OPHY, 93, 102-03 & n.32 (Anthony O'Hear ed., 2009)
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 42
+ 2-DEC-10
+15:08
+98 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+Cultural relativists insist on respect for the values of other
+groups, and while some of this respect may be well deserved, a blanket
+of it can smother the kind of careful and objective self-criticism that
+can lead to change. Attorneys avoid any mention of culture because of
+the same simplistic politicization of the problem and because of the
+current relativistic view that law should avoid the imposition of moral
+values on a society. This view was inherited from the positivist views
+developed by Jeremy Bentham, adopted by Oliver Wendell Holmes,
+and since spread through law schools both in the United States and
+abroad.248 Furthermore, because these views are widespread throughout the developed world, it is taboo for those international entities that
+advise developing countries about how to change their governments to
+discuss cultural values and cultural change, and it would also be
+overtly patronizing. These same views may account for the fact that
+little study has been made of how a culture can effect a goal-directed
+change in values and acceptable behavior without adopting the kinds
+of propaganda used by the Nazi regime or Lenin's use of agitatsiya
+propaganda (agitprop) to win the support of intellectuals and workers
+for the Communist Revolution.
+9.
+ATTEMPTS TO DEVELOP INDEPENDENT JUDICIAL SYSTEMS IN LATIN
+AMERICA
+Judicial reform efforts in Latin America typically try to transition toward a more adversarial and oral style and away from the often
+laborious and paper-based trial procedures inherited from colonial Civilian regimes. Instead of panels of judges working to investigate
+every detail of a case and presenting all arguments through paperbased trials which could often take years, reformers have sought that
+courts in Latin America and the Caribbean begin to hear oral arguments from attorneys on both sides, with the judges acting
+impartially.
+Sensitive to the cultural difficulties prior reform efforts faced,
+as well as the problems created by legal transplants, international organizations have nevertheless invested large sums of money in rule of
+[The] [s]ocial world is the interaction of self-directed individuals.
+Social knowledge and understanding do not consist of the discovery of absolute (timeless and contextless) standards external to
+humanity but involve, instead, the clarification of standards implicit within the human mind and/or social practice. . . . No culture dictates its own future. Human beings are always free to
+accept, reject, or redeploy their inheritance.
+Id.
+248 See generally Albert W. Alschuler, From Blackstone to Holmes: The Revolt
+Against Natural Law, 36 PEPP. L. REV. 491 (2008-09).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 43
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+99
+law efforts to develop independent judiciaries in the expectation that it
+will improve local economy and protect human rights.
+10.
+THE LOW AND THE HIGH OF RULE OF LAW AND JUDICIAL REFORM
+IN LATIN AMERICA
+There is a tendency to think of Latin America as split between
+leftist and rightist governments, but commentators now argue this is
+not a good way to understand the current state of affairs of Latin
+America.249 With the exception of the Cuban government, most governments are democratically elected in relatively free and honest elections.250 The major difference, however, is whether or not Latin -
+American democratically-elected presidents act democratically or
+whether they behave "like authoritarians who use the democratic
+rules of the game to destroy democracy."251 Under this analysis, Presidents Luiz In`acio Lula da Silva of Brazil and Tabar ́e V`azquez of Uruguay (left-of-center), along with Presidents Alvaro Uribe of Colombia,
+Felipe Calder ́on of Mexico, and Sebastian Pi ̃nera of Chile (right of
+center) may differ on policy priorities, but they all behave democratically in implementing their policies.252 In contrast, elected
+authoritarians, such as Presidents Hugo Ch`avez of Venezuela, Evo
+Morales of Bolivia, and Daniel Ortega of Nicaragua, try to "centralize
+both political and economic power in their own hands, to the detriment
+of their countries' democratic institutions."253 The behavior of these
+elected authoritarians therefore also weaken the rule of law.254
+A.
+Venezuela
+When he took office in December 1998, President Ch`avez immediately rewrote the constitution so as to weaken the other two governmental branches and the two-party system.255 The new
+constitution expanded presidential powers, lengthened the presidency
+to six years, and weakened the bicameral National Assembly by
+changing it to a unicameral legislature.256 Though the 2000 constitution added a two-term limit to the presidency, a 2007 revision (passed
+249 PURCELL, supra note 203, at 1-2.
+250 Id. at 2.
+251 Id.
+252 Id.
+253 Id.
+254 Id.
+255 Larry Rohter, In Latin America, the Strongman Stirs in His Grave, N.Y.
+TIMES, Dec. 20, 1998, at D4.
+256 Mario J. Garcia-Serra, Comment, The "Enabling Law": The Demise of the Separation of Powers in Hugo Chavez's Venezuela, 32 U. MIAMI INTER-AM. L. REV. 265,
+276 (2001).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 44
+ 2-DEC-10
+15:08
+100 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+by the now-unicameral National Assembly) eliminated presidential
+term limits, gave the presidency expropriation powers, and limited
+central bank autonomy.257 Though these changes were defeated by
+referendum, a subsequent referendum on February 15, 2009 allowed
+Ch`avez to eliminate presidential term limits and thus run for re-election indefinitely.258
+In addition, he has ended the autonomy of the Venezuelan Supreme Court and gone so far as to arrest judges with whom he disapproves.259 He has closed media outlets which are critical of him,260 and
+he also has subjected a number of journalists who criticized his actions
+to imprisonment.261 Despite the fact that middle- and upper-class
+Venezuelans despise him for nationalizing some of their lands and industries and have made numerous attempts to oust him, he remains
+popular with the poor people of Venezuela because of his charisma and
+his socialist programs including clinics, social programs, and construction projects.
+257 See Harout Jack Samra, Central Bank Autonomy in Latin America: A Survey
+and Case Studies, 13 CHAP. L. REV. 63, 64 (2010).
+258 Simon Romero, Ch`avez Decisively Wins Bid to End Term Limits, N.Y. TIMES,
+Feb. 16, 2009, at A1.
+259 Simon Romero, Ch`avez Quells Challenges with Arrests of His Critics, N.Y.
+Times, April 3, 2010, at A6.
+260 Simon Romero, Ch`avez Looks at His Critics in the Media and Sees the Enemy,
+N.Y. Times, June 1, 2007, at A6.
+261 Rogelio Perez Perdomo, Una evaluacion de la reforma judicial en Venezuela
+(2006), available at http://www.cejamericas.org/portal/index.php/es/biblioteca/
+biblioteca-virtual/doc_details/1895-una-evaluacion-de-la-reforma-judicial-en-vene
+zuela. ("El estrecho control politico sobre los jueces es necesario porque la repression pol ́ıtica se hace v ́ıa systema judicial. En el momento en que se escrib ́ıa este
+trabajo, cinco periodistas conocidos estaban en prisi ́on, en fuga o sometidos a
+proceso penal. Dos alcaldes do oposici ́on de Caracas estaban sometidos a juicio y se
+iniciaron averiguaciones contra el Gobernador del EstadoZulia. El General Us ́on
+fue condenado a seis a ̃nos de prisi ́on por explicar en television el funcionamiento
+de un lanzallamas y se ̃nalar que las graves quemaduras que causaron la muerte o
+graves lesions a soldados sometidos a castigo en celda disciplinarian han podido
+ser causadas con ese instrument." ("It's necessary to maintain close control over
+the judicial system in order to maintain political repression. At the time of this
+writing, five well-known journalists are in prison, in flight, or under prosecution.
+Two opposition leaders from Caracos were under scrutiny, and inquiries against
+the Governor of Zulia state are underway. General Us ́on has been condemned to
+six years of prison for explaining on television how a flam-thrower operates and
+indicating that the burns that caused death and serious injury to a number of
+soldiers in military prison could have been caused by such a flame-thrower." (trans
+author)).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 45
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+101
+In the mid-1990s, the World Bank supplied considerable funds
+($35 million)262 and consultative expertise to reform Venezuelan
+courts. Before reform, the judicial system was "marked by inefficiency,
+widespread corruption, very low levels of resources, and the heavy influence of the country's two leading political parties."263 Efforts were
+made to improve the quality and efficiency of the judicial system.
+These included the institution of a system of justices of the peace to
+reach out to underserved communities, as well as a new penal code in
+1998, which established an adversarial system with district attorneys,
+oral procedures, open trials, and plea bargaining.264However, President Ch`avez's 1999 constitution abolished the Judicial Council (Consejo de la Judicatura) that had "governed the recruitment, training,
+and discipline of judges, as well as the Supreme Court itself, replacing
+them with a Supreme Tribunal of Justice that combined both functions."265 He then packed that body with 32 members named by a simple majority vote of the National Assembly, which is predominantly
+Ch`avez loyalists.266 The most significant recent change in the judicial
+system is its submission to Ch`avez's political interest. The Supreme
+Tribunal has conducted several purges of lower court judges whose decisions were counter to Chavez's positions.267 Consequently, the
+courts remain both corrupt and lacking in independence, and so corruption continues to be widespread.268
+While the World Bank's reforms led to some successes in terms
+of better infrastructure, technology advancements, and efficiency in
+resolving cases in areas such as labor law, its criminal prosecution record, especially in the face of increasing homicides, kidnappings, and
+robbery, has been poor.269 Additionally, only the decisions of the Supreme Tribunal are publicized, so there is little data with which to
+analyze the system.270 Consequently, "many of the negative aspects of
+Venezuela's traditionally corrupt and ineffective judicial system have
+persisted."271 The judiciary is even more politicized and subordinate
+262 Id.
+263 PETER DESHAZO & JUAN ENRIQUE VARGAS, JUDICIAL REFORM
+IN LATIN
+AMERICA: AN ASSESSMENT, CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES
+POLICY PAPERS ON THE AMERICAS, VOL. XVII, STUDY 2, 10 (2006), available at http://
+csis.org/files/media/csis/pubs/0609_latin_judicial_reform.pdf.
+264 Id.
+265 Id.
+266 Id.
+267 Id.
+268 Id.
+269 Id. See also Simon Romero, Venezuela, More Deadly Than Iraq, Wonders Why,
+N.Y. TIMES, Aug. 23, 2010, at A1.
+270 DESHAZO & VARGAS, supra note 263, at 10.
+271 Id.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 46
+ 2-DEC-10
+15:08
+102 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+to the executive branch than previously. By 2004, the World Bank
+stated that its attempt to reform the Venezuelan judicial system had
+concluded.272 Consequently, Ch`avez has significantly undermined
+whatever rule of law existed in Venezuela's judicial system prior to his
+coming to power, as well as undermined whatever improvements
+might have been made by the World Bank's investments.
+B.
+Chile
+The reforms Chile has made to its criminal justice system are
+in marked contrast to Venzuela's deterioration. Moreover, those reforms have been self-funded - Chile has invested in excess of $500 million.273 Prior to 1997, under the inquisitorial system Chile inherited
+and adapted from colonial Spain, a Chilean criminal trial had no prosecutor and a single judge was responsible for the entire proceeding,
+leaving little possibility for defense counsel to intervene.274 In the
+first part of the trial, a secret pre-trial phase, the judge directed the
+investigation, determined if a crime had been committed, and charged
+the defendant with the particular crime or crimes.275 In the second
+part of the procedure, the public trial, the judge disclosed all of the
+evidence, found the defendant guilty or innocent, and sentenced the
+defendant.276 The entire procedure was written, giving defendant
+counsel little or no role in the procedure, but the primary problem was
+the concentration in one person of the power to investigate, accuse,
+and decide.277
+By the 1990s, there were a number of perceived problems with
+this system, including (among others) biased judges, ineffective investigation, substantial judicial delay, lack of transparency and lack of
+protection for defendants who had no access to their own files, lack of
+delegation of functions between the police and court clerks, lack of control over the police,278 and, of course, the problem of the concentration
+of power. Because of a public and political consensus that Chile's criminal legal system was ineffective at both deterring criminal activity
+and protecting human rights (i.e. it was ineffective at both Hayekian
+rule of law components), in 1997 Chile's Congress enacted a constitu-
+272 Id. at 9.
+273 James M. Cooper, Proyecto Acceso: Using Popular Culture to Build the Rule of
+Law in Latin America, 5 RUTGERS J.L. & PUB. POL'Y 378, 383-84 (2008)
+274 Carlos Rodrigo de la Barra Cousino, Adversarial vs. Inquisitorial Systems: The
+Rule of Law and Prospects for Criminal Procedure Reform in Chile, 5 SW. J. L. &
+TRADE AM. 323, 325 (1998).
+275 Id.
+276 Id.
+277 E-mail from Alejandro Silva, Associate Dean and Associate Professor of Law,
+Universidad de los Andes, to Nadia E. Nedzel (Jan. 2010) (on file with author).
+278 De la Barra Cousino, supra note 274, at 325.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 47
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+103
+tional amendment intended to make widespread and substantial
+changes to the criminal justice system.279
+Chile adopted an adversarial procedure, creating a public prosecutor's office charged with investigating and prosecuting crimes, a
+public defender's office with discovery power,280 and it changed the
+role of the judge to that of an umpire and arbitrator.281 Trials under
+the new system are more oral in character and encourage free and
+open debate and clear and logical presentations from each attorney.282
+Congress's act created two types of judges: Guarantee Judges (Jueces
+de Garantia), whose role is to guarantee due process by reviewing the
+evidence brought by the prosecution.283 They are also empowered to
+take guilty pleas and preside over trials.284 If the pre-trial procedures
+overseen by the Guarantee Judge do not result in a resolution, then a
+three-judge panel (Tribunal Oral en lo Penal) resolves remaining cases
+by overseeing more extensive oral trials.285 All parties have access to
+the files, and trials are open to the public and recorded on CD.286
+Thus, the institutional changes were designed to incorporate built-in
+checks and balances as well as transparency in an effort to deter corruption, increase efficiency, promote equal application of the law and
+fairness, and strengthen independence. The institutional changes
+were meant to strengthen the rule of law in the common law sense of
+buttressing limits on government and reducing the effects of
+politicization.
+The real genius of the Chilean reformation to its criminal justice system, however, lies in the thoughtful way in which it was implemented. To ensure that the changes would have lasting effect, the
+legal culture needed to be changed, as did Chilean society's expectations of the criminal legal system. Furthermore, Chilean policy makers recognized the problems of legal transplants, so the changes
+needed to work with the existing civilian system and needed to be
+carefully incorporated into the legal system. Consequently, for the
+first several years, Spanish-speaking U.S. instructors educated those
+who would later train and direct the institutions involved. In recruiting personnel, the focus was on finding young, ambitious people who
+279 See id. at 327.
+280 Id. at 328, 356.
+281 Rafael Blanco et al., Reform to the Criminal Justice System in Chile: Evaluation and Challenges; 2 LOY. U. CHI. INT'L L. REV. 253, 255-259 (2005).
+282 Id. at 256.
+283 Id.
+284 Id.
+285 Comment on draft of article by Luis Alejandro Silva Irarr ́azaval, Profesor y
+Director de Estudios de la Facultad de Derecho, Universidad de los Andes, Santiago, Chile (Mar. 22, 2010) (on file with author).
+286 Id. at 262.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 48
+ 2-DEC-10
+15:08
+104 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+were not already ingrained in existing systems and practice. Chileans
+trained defense attorneys, prosecutors, judges, and court clerks "to
+avoid the charges of judicial imperialism."287 Prosecutors, defense attorneys, and judges then gained preliminary experience through simulated trials so that they could adjust to their new roles.288
+After the training was completed, rather than trying to incorporate all of these changes throughout the entire country simultaneously (a method that has proven to be unsuccessful since the first band
+of "legal reform" efforts), Chile began the process with pilot programs
+in two regions in order to test the new process in a controlled environment and address problems as they arose.289 In keeping with the incremental approach, the new system applied only prospectively to new
+cases, not cases that had already been filed under the old system.290
+Efforts were also made to sensitize and educate the citizenry, using a
+highly inclusive and participatory process including the creation of a
+study center linked to the coalition of political parties that crafted the
+reform.
+Furthermore, knowing that training the legal sector in the new
+model of criminal procedure was necessary but not sufficient in sustaining reform efforts, Chile recognized that the general public needed
+to know about the reform and needed to support it and the tremendous
+expenditure of public resources.291 Polls in 2002 and 2003 showed
+that few Chileans were aware of the reform of Chilean criminal procedure.292 Over sixty-eight percent of those surveyed believed that the
+government cared little about justice.293 The government needed to
+explain principles such as the presumption of innocence, how to get
+representation by a new Public Defender, and it needed to impart confidence in the general public about the transformation. Consequently,
+the Chilean government's publicity campaign included a film on comparative justice and an animated series, Superheroes Legales, about
+lawyers who "transform into superheroes defending the innocent, providing access to justice, and building the rule of law."294
+The changes to Chile's criminal justice system have apparently
+brought significant improvement to transparency, speed, due process,
+impartiality, and professionalism.295 All phases of trials are open to
+287 Cooper, supra note 273, at 383.
+288 Blanco et al., supra note 281, at 259.
+289 Id.
+290 Id. at 260.
+291 Cooper, supra note 273, at 383-84.
+292 Id. at 384.
+293 Id.
+294 Id. at 398-401.
+295 Blanco et al., supra note 281, at 263.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 49
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+105
+the public.296 The average duration of prosecutions under the inquisitional system was 3.5 years, but ranges from 1.3 to 10.4 months under
+the new system.297 Previously, there was no direct contact between
+the judge and the victim. Under the new system, the same judge often
+hears the entire case from beginning to end, eliminating the corrupt
+actuaries and bailiffs who previously acted as intermediaries between
+the parties and the judge.298 By providing a judge who has no part in
+the prosecution, oral trial, immediate access, and a speedy trial, the
+new system helps protect the defendant's due process rights including
+the presumption of innocence, the right to a speedy trial, the right to a
+quality defense, the right to confront witnesses and evidence, and the
+right to an impartial and honest judge.299
+The new system further provides support to victims in the form
+of public ministry officials who accompany victims and witnesses to
+court, provide psychological support, and provide protection from retribution through panic buttons, cell phones, police protection, and witness protection programs.300 Finally, the retooling of Chile's criminal
+justice program in the pilot programs has led to a higher level of professionalism among police and forensic scientists301- though more
+may be needed to further improve the police force.302 Nevertheless, it
+is now regarded as one of the least corrupt criminal justice systems in
+Latin America.303 Thus, the Chilean criminal justice system has become more effective at both punishing criminals and protecting the
+296 Id.
+297 Id.
+298 Id. at 263-64.
+299 Id.
+300 Id.
+301 Id. Accord Fensom, supra note 203, at 97. See also VERA INST. OF JUSTICE,
+DEVELOPING INDICATORS TO MEASURE THE RULE OF LAW: A GLOBAL APPROACH (July
+2008), available at http://www.vera.org/download?file=1807/Developing%2BIndica
+tors%2Bto%2BMeasure%2Bthe%2BRule%2Bof%2BLaw%2B%2528Online%2Bver
+sion%25292.pdf (indicating that the public is aware that the law now guarantees
+defense in criminal matters, that the government does not use arrests to suppress
+rival political groups, that most of the population does not believe they could bribe
+their way out of a ticket, and that police are promoted on the basis of merit); Lydia
+Brashear Tiede, unpublished whitepaper, Chile's Experiment in Criminal Law Reform: Conversion from an Inquisitorial to Adversarial System 2001-2005,
+presented at the annual meeting of the MPSA Annual National Conference, Hilton
+Chicago (April 03, 2008), available at allacademic.com/meta/p266078_index.html.
+(agreeing that reforms have been efficacious, but posits that police reform is
+needed to get full benefit of the changes).
+302 Tiede supra note 301, at 22.
+303 JORGE CORREA SUTIL, SEMINARIO EN LATINOAM ́ERICA DE TEOR ́IA CONSTITU-
+CIONAL Y POLIT ́ICA: ACCESS TO JUSTICE AND JUDICIAL REFORMS IN LATIN AMERICA,
+ANY HOPE OF EQUALITY? 7 (1999).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 50
+ 2-DEC-10
+15:08
+106 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+rights of those accused (i.e., it has strengthened the rule through law).
+However, it has also improved the rule of law in that it has implemented a system with greater transparency and governmental accountability: public, oral proceedings and two systems of judges
+provide transparency and accountability, and adversarial agencies
+(prosecutors and public defenders) add an additional check on governmental powers.304 While U.S. advisors were used, and the new system
+borrows ideas from the U.S., the system adopted is uniquely adapted
+to Chile by Chile ̃nos.305
+The changes to Chile's criminal judicial system have not yet
+fully been processed, and given preexisting legal culture, there is always a possibility that the system could return to something more
+closely approximating its pre-reformation state.306 One commentator
+has indicated that although the reforms to the criminal justice system
+may be helpful, there is no provision to prevent another military takeover.307 Given the existing stability of the Chilean government and
+electoral process, however, this is highly unlikely to occur.308 Nevertheless, the preliminary results of the holistic changes made to Chile's
+criminal justice system have been promising.309
+Chilean concerns included a worry that the new due process
+rights granted to the accused would make it too difficult to prosecute
+criminals effectively, but the improvement in trial speed and efficiency
+has apparently overridden that concern.310 Chile has worked hard to
+change its entire criminal justice system in a manner similar to the
+U.S. adversarial model, while still maintaining civilian elements (such
+as a 3-judge panel for trials of first instance) and it is doing so with
+apparent success because the change was carefully thought-through,
+was implemented incrementally, was made by a political coalition of
+both sides motivated to make changes,311 and because attention was
+given to how to best approach changing both the underlying professional culture and the public perception of what to expect from a criminal justice system. Since the successful implementation of the
+revisions to the criminal justice system, similar changes have been
+made to judicial proceedings in labor and family law. The change to
+oral proceedings in labor-related cases has proven to be successful, but
+304 Id.
+305 Id.
+306 Id.
+307 Id.
+308 Id.
+309 Id.
+310 Id.
+311 See generally MICHAEL J. TREBILCOCK & RONALD J. DANIELS, RULE OF LAW RE-
+FORM AND DEVELOPMENT: CHARTING THE FRAGILE PATH OF PROGRESS 157 (2008)
+(discussing Chile's successful judicial reform).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 51
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+107
+there have been some problems with regard to family law proceedings.
+As of this writing, efforts are being made to reform civil procedure
+along the same lines.312
+Despite the quasi-fatalistic, overly respectful views of cultural
+heritage shared by intellectuals, policy-makers, and pundits; non-productive cultural habits and views can be changed, but it takes a combination of both legal and popular insistence, as illustrated by the
+process of U.S. segregation in the 1960s.313 There are certain legal
+prerequisites that must be addressed (an independent judiciary with
+an adversarial component, functioning governmental agencies), but
+there is little point in changing the legal infrastructure without also
+addressing cultural issues - something attorneys and pundits all too
+often regard as a taboo subject.314
+There are, however, success stories. Chile is one, and the U.S.
+in some ways is itself another. Although slavery was abolished in the
+U.S. in 1865, the feudalistic culture of slavery clearly was not.315 That
+culture remains a causal factor of Afro-American problems in the U.S.
+However, significant progress has been made since the Civil Rights
+movement of the 1960s. There is now a significant African-American
+middle class represented in all sectors and professions, though not yet
+in numbers large enough to indicate that all vestiges of the culture of
+slavery have disappeared. The President of the United States is himself African-American. The change began when Congress passed legislation barring segregation - legislation enforced by the federal
+government in the face of violence.316 The U.S. Supreme Court had
+similarly declared segregated public schools to be unconstitutional,
+but no significant changes were actually made until after the Congressional legislation was passed.317 In this instance, all three branches of
+the U.S. federal government acted as a check against feudalistic state
+governments, (though before and since there have been instances
+where the state governments acted as a check against an over-powerful U.S. federal government). Thus, there were significant legal
+changes, but they would have meant nothing without widespread
+changes in the public's attitude. While anti-black racism was accepted
+312 Alejandro Silva, supra n. 277.
+313 Id.
+314 Id.
+315 Patterson, supra note 243, at 213.
+316 See generally Gerald N. Rosenberg, The Hollow Hope: Can Courts Bring About
+Social Change (1991) (arguing that it was the Civil Rights Act of 1964 that
+brought about social change in the U.S., not just the U.S. Supreme Court in Brown
+v. Board of Education, 347 U.S. 483 (1954)).
+317 See, e.g., Michael W. Combs & Gwendolyn M. Combs, Revisiting Brown v.
+Board of Education: A Cultural, Historical-Legal and Political Perspective, 47
+HOW. L.J. 627 (2004).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 52
+ 2-DEC-10
+15:08
+108 RICHMOND JOURNAL OF GLOBAL LAW & BUSINESS [Vol. 10:1
+among certain sectors of white America before the Civil Rights movement, residual racists are now generally treated by U.S. culture with
+the contempt they so richly deserve. In the United States and Chile,
+changes in the legal system and a resultant strengthening of the rule
+of law were initiated by a legal and political consensus and then furthered along by a change in cultural expectations.
+Tragically, Venezuela, because of its authoritarian/feudalistic
+leadership, remains trapped in the past, without the rule of law. In
+contrast, Chile has developed into a stabile, productive economy, and
+other developing countries can do the same. The focus must be on
+making changes that will ensure procedural fairness as well as adopting positive cultural values. Above all, however, the ultimate focus
+must be on building institutions that will limit government and force it
+to police itself.
+11.
+CONCLUSION
+The rule of law means more than equal application of the laws
+and maintaining order. It is a requirement that there be institutional
+checks and balances built into government to prevent tyranny and
+counteract politicization. Even Plato knew that democracies are unstable and prone to a "race to the bottom."318 In addition to the stability provided by a republican structure of government, some
+mechanisms such as separation of powers (Montesquieu/U.S version),
+a bicameral legislative body, and judicial independence help, but there
+must be other mechanisms as well to encourage transparency and public accountability. The checks and balances utilized in the U.S. and
+the United Kingdom go beyond those listed in the U.S. Constitution or
+the judicial review power developed initially by the U.S. Supreme
+Court in Marbury v. Madison to include the jury system, other elements of the unwritten British constitution, and the principle of stare
+decisis itself. The mere implementation of such mechanisms, however,
+is not enough if not embraced by both the legal culture and the overall
+society of a developing country.
+It is the common law definition of the rule of law, in the sense
+that the law is above the government, coupled with shared cultural
+values, that has led to the continuing stability and economic prosperity experienced by countries such as the U.S., Canada, Australia, and
+the United Kingdom itself. The underlying bulwark of the Anglo-
+American rule of law is that the law is pre-eminent and government is
+a civil association that follows strict, transparent procedures to prevent favoritism and instrumentalism. Furthermore, the structure of
+government itself must take into account the fallibility of human be-
+318 E.g., Arthur J. Jacobson, Origins of the Game Theory of Law and the Limits of
+Harmony in Plato's Laws, 20 CARDOZO L. REV. 1335 (1999).
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 53
+ 2-DEC-10
+15:08
+2010]
+THE RULE OF LAW
+109
+ings as political animals and harness it in such a way that governmental powers are necessarily constrained. For both developed and
+developing countries, the advantages of the rule of law can only be realized through changes in procedural, structural, political, and cultural characteristics, rather than through mere substantive changes in
+the law.
+
+\\server05\productn\R\RGL\10-1\RGL102.txt
+unknown
+Seq: 54
+ 2-DEC-10
+15:08

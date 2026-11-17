@@ -1,0 +1,127 @@
+Degrees of freedom (statistics)
+In statistics, the number of degrees of freedom is the number of values in the final calculation of a statistic that are free to vary.[1]
+Estimates of statistical parameters can be based upon different amounts of information or data. The number of independent pieces of information that go into the estimate of a parameter is called the degrees of freedom. In general, the degrees of freedom of an estimate of a parameter are equal to the number of independent scores that go into the estimate minus the number of parameters used as intermediate steps in the estimation of the parameter itself. For example, if the variance is to be estimated from a random sample of independent scores, then the degrees of freedom is equal to the number of independent scores (N) minus the number of parameters estimated as intermediate steps (one, namely, the sample mean) and is therefore equal to .[2]
+Mathematically, degrees of freedom is the number of dimensions of the domain of a random vector, or essentially the number of "free" components (how many components need to be known before the vector is fully determined).
+The term is most often used in the context of linear models (linear regression, analysis of variance), where certain random vectors are constrained to lie in linear subspaces, and the number of degrees of freedom is the dimension of the subspace. The degrees of freedom are also commonly associated with the squared lengths (or "sum of squares" of the coordinates) of such vectors, and the parameters of chi-squared and other distributions that arise in associated statistical testing problems.
+While introductory textbooks may introduce degrees of freedom as distribution parameters or through hypothesis testing, it is the underlying geometry that defines degrees of freedom, and is critical to a proper understanding of the concept.
+History
+[edit]
+Although the basic concept of degrees of freedom was recognized as early as 1821 in the work of German astronomer and mathematician Carl Friedrich Gauss,[3] its modern definition and usage was first elaborated by English statistician William Sealy Gosset in his 1908 Biometrika article "The Probable Error of a Mean", published under the pen name "Student".[4] While Gosset did not actually use the term 'degrees of freedom', he explained the concept in the course of developing what became known as Student's t-distribution. The term itself was popularized by English statistician and biologist Ronald Fisher, beginning with his 1922 work on chi squares.[5]
+Notation
+[edit]
+In equations, the typical symbol for degrees of freedom is ν (lowercase Greek letter nu). In text and tables, the abbreviation "d.f." is commonly used. R. A. Fisher used n to symbolize degrees of freedom but modern usage typically reserves n for sample size. When reporting the results of statistical tests, the degrees of freedom are typically noted beside the test statistic as either subscript or in parentheses.[6]
+Of random vectors
+[edit]
+Geometrically, the degrees of freedom can be interpreted as the dimension of certain vector subspaces. As a starting point, suppose that we have a sample of independent normally distributed observations,
+This can be represented as an n-dimensional random vector:
+Since this random vector can lie anywhere in n-dimensional space, it has n degrees of freedom.
+Now, let be the sample mean. The random vector can be decomposed as the sum of the sample mean plus a vector of residuals:
+The first vector on the right-hand side is constrained to be a multiple of the vector of 1's, and the only free quantity is . It therefore has 1 degree of freedom.
+The second vector is constrained by the relation . The first n - 1 components of this vector can be anything. However, once the first n - 1 components are known, the nth component is deduced from the constraint of summing up to zero. For instance, let , and then has to be . Therefore, this vector has n - 1 degrees of freedom.
+Mathematically, the first vector is the oblique projection of the data vector onto the subspace spanned by the vector of 1's. The 1 degree of freedom is the dimension of this subspace. The second residual vector is the least-squares projection onto the (n - 1)-dimensional orthogonal complement of this subspace, and has n - 1 degrees of freedom.
+In statistical testing applications, often one is not directly interested in the component vectors, but rather in their squared lengths. In the example above, the residual sum-of-squares is
+If the data points are normally distributed with mean 0 and variance , then the residual sum of squares has a scaled chi-squared distribution (scaled by the factor ), with n - 1 degrees of freedom. The degrees-of-freedom, here a parameter of the distribution, can still be interpreted as the dimension of an underlying vector subspace.
+Likewise, the one-sample t-test statistic,
+follows a Student's t distribution with n - 1 degrees of freedom when the hypothesized mean is correct. Again, the degrees-of-freedom arises from the residual vector in the denominator.
+In linear models
+[edit]
+The demonstration of the t and chi-squared distributions for one-sample problems above is the simplest example where degrees-of-freedom arise. However, similar geometry and vector decompositions underlie much of the theory of linear models, including linear regression and analysis of variance. An explicit example based on comparison of three means is presented here; the geometry of linear models is discussed in more complete detail by Christensen (2002).[7]
+Suppose independent observations are made for three populations, , and . The restriction to three groups and equal sample sizes simplifies notation, but the ideas are easily generalized.
+The observations can be decomposed as
+where are the means of the individual samples, and is the mean of all 3n observations. In vector notation this decomposition can be written as
+The observation vector, on the left-hand side, has 3n degrees of freedom. On the right-hand side, the first vector has one degree of freedom (or dimension) for the overall mean. The second vector depends on three random variables, , and . However, these must sum to 0 and so are constrained; the vector therefore must lie in a 2-dimensional subspace, and has 2 degrees of freedom. The remaining 3n - 3 degrees of freedom are in the residual vector (made up of n - 1 degrees of freedom within each of the populations).
+Of residuals
+[edit]
+Consider an example of bivariate regression: where xi are fixed, but ei and hence Yi are random. Let and be the least-squares estimates of a and b. Then the residuals
+are constrained to lie within the space defined by the two equations
+Of the original degrees of freedom, two d.f.s are consumed by these two equations while the remaining n - 2 degrees of freedom are associated with residuals.
+Generalising this to multiple regression involving slopes and covariates and the intercept (or equivalently taking for all i), the least squares estimation will produce normal equations. Thus the estimated parameters consume degrees of freedom, leaving n - p degrees of freedom for residuals.
+In analysis of variance (ANOVA)
+[edit]
+In statistical testing problems, one usually is not interested in the component vectors themselves, but rather in their squared lengths, or Sum of Squares. The degrees of freedom associated with a sum-of-squares is the degrees-of-freedom of the corresponding component vectors.
+The three-population example above is an example of one-way Analysis of Variance. The model, or treatment, sum-of-squares is the squared length of the second vector,
+with 2 degrees of freedom. The residual, or error, sum-of-squares is
+with 3(n-1) degrees of freedom. Of course, introductory books on ANOVA usually state formulae without showing the vectors, but it is this underlying geometry that gives rise to SS formulae, and shows how to unambiguously determine the degrees of freedom in any given situation.
+Under the null hypothesis of no difference between population means (and assuming that standard ANOVA regularity assumptions are satisfied) the sums of squares have scaled chi-squared distributions, with the corresponding degrees of freedom. The F-test statistic is the ratio, after scaling by the degrees of freedom. If there is no difference between population means this ratio follows an F-distribution with 2 and 3n - 3 degrees of freedom.
+In some complicated settings, such as unbalanced split-plot designs, the sums-of-squares no longer have scaled chi-squared distributions. Comparison of sum-of-squares with degrees-of-freedom is no longer meaningful, and software may report certain fractional 'degrees of freedom' in these cases. Such numbers have no genuine degrees-of-freedom interpretation, but are simply providing an approximate chi-squared distribution for the corresponding sum-of-squares. The details of such approximations are beyond the scope of this page.
+In probability distributions
+[edit]
+Several commonly encountered statistical distributions (Student's t, chi-squared, F) have parameters that are commonly referred to as degrees of freedom. This terminology simply reflects that in many applications where these distributions occur, the parameter corresponds to the degrees of freedom of an underlying random vector, as in the preceding ANOVA example. Another simple example is: if are independent normal random variables, the statistic
+follows a chi-squared distribution with n - 1 degrees of freedom. Here, the degrees of freedom arises from the residual sum-of-squares in the numerator, and in turn the n - 1 degrees of freedom of the underlying residual vector .
+In the application of these distributions to linear models, the degrees of freedom parameters can take only integer values. The underlying families of distributions allow fractional values for the degrees-of-freedom parameters, which can arise in more sophisticated uses. One set of examples is problems where chi-squared approximations based on effective degrees of freedom are used. In other applications, such as modelling heavy-tailed data, a t or F-distribution may be used as an empirical model. In these cases, there is no particular degrees of freedom interpretation to the distribution parameters, even though the terminology may continue to be used.
+In non-standard regression
+[edit]
+Many non-standard regression methods, including regularized least squares (e.g., ridge regression), linear smoothers, smoothing splines, and semiparametric regression, are not based on ordinary least squares projections, but rather on regularized (generalized and/or penalized) least-squares, and so degrees of freedom defined in terms of dimensionality is generally not useful for these procedures. However, these procedures are still linear in the observations, and the fitted values of the regression can be expressed in the form
+where is the vector of fitted values at each of the original covariate values from the fitted model, y is the original vector of responses, and H is the hat matrix, which is the projection matrix for the linear subspace of regressors, or, more generally, the smoother matrix.
+For statistical inference, sums-of-squares can still be formed: the model sum-of-squares is ; the residual sum-of-squares is . However, because H does not correspond to an ordinary least-squares fit (i.e. is not an orthogonal projection), these sums-of-squares no longer have (scaled, non-central) chi-squared distributions, and dimensionally defined degrees-of-freedom are not useful.
+The effective degrees of freedom of the fit can be defined in various ways to implement goodness-of-fit tests, cross-validation, and other statistical inference procedures. Here one can distinguish between regression effective degrees of freedom and residual effective degrees of freedom.
+Regression effective degrees of freedom
+[edit]
+For the regression effective degrees of freedom, appropriate definitions can include the trace of the hat matrix,[8] tr(H), the trace of the quadratic form of the hat matrix, tr(H'H), the form tr(2H - H H'), or the Satterthwaite approximation, tr(H'H)2/tr(H'HH'H).[9] In the case of linear regression, the hat matrix H is X(X 'X)-1X ', and all these definitions reduce to the usual degrees of freedom. Notice that
+the regression (not residual) degrees of freedom in linear models are "the sum of the sensitivities of the fitted values with respect to the observed response values",[10] i.e. the sum of leverage scores.
+One way to help to conceptualize this is to consider a simple smoothing matrix like a Gaussian blur, used to mitigate data noise. In contrast to a simple linear or polynomial fit, computing the effective degrees of freedom of the smoothing function is not straightforward. In these cases, it is important to estimate the Degrees of Freedom permitted by the matrix so that the residual degrees of freedom can then be used to estimate statistical tests such as .
+Residual effective degrees of freedom
+[edit]
+There are corresponding definitions of residual effective degrees-of-freedom (redf), with H replaced by I - H. For example, if the goal is to estimate error variance, the redf would be defined as tr((I - H)'(I - H)), and the unbiased estimate is (with ),
+The last approximation above[12] reduces the computational cost from O(n2) to only O(n). In general the numerator would be the objective function being minimized; e.g., if the hat matrix includes an observation covariance matrix, Σ, then becomes .
+General
+[edit]
+Note that unlike in the original case, non-integer degrees of freedom are allowed, though the value must usually still be constrained between 0 and n.[15]
+Consider, as an example, the k-nearest neighbour smoother, which is the average of the k nearest measured values to the given point. Then, at each of the n measured points, the weight of the original value on the linear combination that makes up the predicted value is just 1/k. Thus, the trace of the hat matrix is n/k. Thus the smooth costs n/k effective degrees of freedom.
+As another example, consider the existence of nearly duplicated observations. Naive application of classical formula, n - p, would lead to over-estimation of the residuals degree of freedom, as if each observation were independent. More realistically, though, the hat matrix H = X(X ' Σ-1 X)-1X ' Σ-1 would involve an observation covariance matrix Σ indicating the non-zero correlation among observations.
+The more general formulation of effective degree of freedom would result in a more realistic estimate for, e.g., the error variance σ2, which in its turn scales the unknown parameters' a posteriori standard deviation; the degree of freedom will also affect the expansion factor necessary to produce an error ellipse for a given confidence level.
+Other formulations
+[edit]
+Similar concepts are the equivalent degrees of freedom in non-parametric regression,[16] the degree of freedom of signal in atmospheric studies,[17][18] and the non-integer degree of freedom in geodesy.[19][20]
+The residual sum-of-squares has a generalized chi-squared distribution, and the theory associated with this distribution[21] provides an alternative route to the answers provided above.[further explanation needed]
+In structural equation models
+[edit]
+When the results of structural equation models (SEM) are presented, they generally include one or more indices of overall model fit, the most common of which is a statistic. This forms the basis for other indices that are commonly reported. Although it is these other statistics that are most commonly interpreted, the degrees of freedom of the χ2 are essential to understanding model fit as well as the nature of the model itself.
+Degrees of freedom in SEM are computed as a difference between the number of unique pieces of information that are used as input into the analysis, sometimes called knowns, and the number of parameters that are uniquely estimated, sometimes called unknowns. In the most common SEM analysis, that of covariance structures (i.e. the mean structure is not being modeled), this is the number of non-redundant elements of the covariance matrix being modeled. If there are observed variables in the model, there are such elements (with the remaining off-diagonal elements being copies across the diagonal). For example, in a one-factor confirmatory factor analysis with 4 items, there are knowns (the six unique covariances among the four items and the four item variances) and 8 unknowns (4 factor loadings and 4 error variances) resulting in 2 remaining degrees of freedom.
+It has been shown that degrees of freedom can be used by readers of papers that contain SEMs to determine if the authors of those papers are in fact reporting the correct model fit statistics. In the organizational sciences, for example, nearly half of papers published in top journals report degrees of freedom that are inconsistent with the models described in those papers, leaving the reader to wonder which models were actually tested.[22]
+In survey statistics
+[edit]
+When data are collected using a complex survey sampling design, the (lower bound of) degrees of freedom of the sampling design is usually given as (number of primary sampling units) - (number of strata). This is based on the common estimate of variance for a two-stage sampling design without replacement: for a survey sample with strata, primary sampling units (PSUs) sampled in the -th stratum at the rate , and observation units sampled from the -th PSU in stratum , the variance of the estimated population total
+is [23]
+There, in the summation over PSUs, the stratum means are estimated and subtracted. Hence, consistent with the geometric considerations presented above, the degrees of freedom is .
+More accurate approximations of the degrees of freedom in complex survey designs correct for skewness of the variables [24], effective sample sizes[25] and clustering of predictors in the linear models [26].
+See also
+[edit]
+References
+[edit]
+- ↑ "Degrees of Freedom". Glossary of Statistical Terms. Animated Software. Retrieved 2008-08-21.
+- ↑ Lane, David M. "Degrees of Freedom". HyperStat Online. Statistics Solutions. Retrieved 2008-08-21.
+- ↑ Walker, H. M. (April 1940). "Degrees of Freedom" (PDF). Journal of Educational Psychology. 31 (4): 253-269. doi:10.1037/h0054588.
+- ↑ Student (March 1908). "The Probable Error of a Mean". Biometrika. 6 (1): 1-25. doi:10.2307/2331554. JSTOR 2331554.
+- ↑ Fisher, R. A. (January 1922). "On the Interpretation of χ2 from Contingency Tables, and the Calculation of P". Journal of the Royal Statistical Society. 85 (1): 87-94. doi:10.2307/2340521. JSTOR 2340521.
+- ↑ Cichoń, Mariusz (2020-06-01). "Reporting statistical methods and outcome of statistical analyses in research articles". Pharmacological Reports. 72 (3): 481-485. doi:10.1007/s43440-020-00110-5. ISSN 2299-5684. PMID 32542585.
+- ↑ Christensen, Ronald (2002). Plane Answers to Complex Questions: The Theory of Linear Models (Third ed.). New York: Springer. ISBN 0-387-95361-2.
+- ↑ Trevor Hastie, Robert Tibshirani, Jerome H. Friedman (2009), The elements of statistical learning: data mining, inference, and prediction, 2nd ed., 746 p. ISBN 978-0-387-84857-0, doi:10.1007/978-0-387-84858-7, (eq.(5.16))
+- ↑ Fox, J. (2000). Nonparametric Simple Regression: Smoothing Scatterplots. Quantitative Applications in the Social Sciences. Vol. 130. SAGE Publications. p. 58. ISBN 978-0-7619-1585-0. Retrieved 2020-08-28.
+- ↑ Ye, J. (1998), "On Measuring and Correcting the Effects of Data Mining and Model Selection", Journal of the American Statistical Association, 93 (441), 120-131. JSTOR 2669609 (eq.(7))
+- ↑ Catherine Loader (1999), Local regression and likelihood, ISBN 978-0-387-98775-0, doi:10.1007/b98858, (eq.(2.18), p. 30)
+- 1 2 Trevor Hastie, Robert Tibshirani (1990), Generalized additive models, CRC Press, (p. 54) and (eq.(B.1), p. 305))
+- ↑ Simon N. Wood (2006), Generalized additive models: an introduction with R, CRC Press, (eq.(4,14), p. 172)
+- ↑ David Ruppert, M. P. Wand, R. J. Carroll (2003), Semiparametric Regression, Cambridge University Press (eq.(3.28), p. 82)
+- ↑ James S. Hodges (2014), Richly Parameterized Linear Models, CRC Press.
+- ↑ Peter J. Green, B. W. Silverman (1994), Nonparametric regression and generalized linear models: a roughness penalty approach, CRC Press (eq.(3.15), p. 37)
+- ↑ Clive D. Rodgers (2000), Inverse methods for atmospheric sounding: theory and practice, World Scientific (eq.(2.56), p. 31)
+- ↑ Adrian Doicu, Thomas Trautmann, Franz Schreier (2010), Numerical Regularization for Atmospheric Inverse Problems, Springer (eq.(4.26), p. 114)
+- ↑ D. Dong, T. A. Herring and R. W. King (1997), Estimating regional deformation from a combination of space and terrestrial geodetic data, J. Geodesy, 72 (4), 200-214, doi:10.1007/s001900050161 (eq.(27), p. 205)
+- ↑ H. Theil (1963), "On the Use of Incomplete Prior Information in Regression Analysis", Journal of the American Statistical Association, 58 (302), 401-414 JSTOR 2283275 (eq.(5.19)-(5.20))
+- ↑ Jones, D.A. (1983) "Statistical analysis of empirical models fitted by optimisation", Biometrika, 70 (1), 67-88
+- ↑ Cortina, J. M., Green, J. P., Keeler, K. R., & Vandenberg, R. J. (2017). Degrees of freedom in SEM: Are we testing the models that we claim to test?. Organizational Research Methods, 20(3), 350-378.
+- ↑ "Variance estimation for survey data" (PDF). Retrieved 2024-04-01.
+- ↑ Valliant, Richard; Rust, Keith (2010). "Degrees of freedom approximations and rules-of-thumb". Journal of Official Statistics: 585-602.
+- ↑ Potthoff, Richard F.; Woodbury, Max A.; Manton, Kenneth G. (1990). ""Equivalent Sample Size" and "Equivalent Degrees of Freedom" Refinements for Inference Using Survey Weights under Superpopulation Models". Journal of the American Statistical Association. 87 (418). The American Statistical Association: 383-396. doi:10.1080/01621459.1992.10475218. Retrieved 2026-04-01.
+- ↑ Bell, Robert M.; McCaffrey, Daniel F. (December 2002). "Bias Reduction in Standard Errors for Linear Regression with Multi-Stage Samples" (PDF). Survey Methodology. 28 (2). Statistics Canada: 169-181. Retrieved 2024-04-01.
+Further reading
+[edit]
+- Bowers, David (1982). Statistics for Economists. London: Macmillan. pp. 175-178. ISBN 0-333-30110-2.
+- Eisenhauer, J. G. (2008). "Degrees of Freedom". Teaching Statistics. 30 (3): 75-78. doi:10.1111/j.1467-9639.2008.00324.x. S2CID 121982952.
+- Good, I. J. (1973). "What Are Degrees of Freedom?". The American Statistician. 27 (5): 227-228. doi:10.1080/00031305.1973.10479042. JSTOR 3087407.
+- Walker, H. W. (1940). "Degrees of Freedom". Journal of Educational Psychology. 31 (4): 253-269. doi:10.1037/h0054588. Transcription by C Olsen with errata
+External links
+[edit]
+- Yu, Chong-ho (1997) Illustrating degrees of freedom in terms of sample size and dimensionality
+- Dallal, GE. (2003) Degrees of Freedom

@@ -1,0 +1,86 @@
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Center for Substance Abuse Treatment. A Guide to Substance Abuse Services for Primary Care Clinicians. Rockville (MD): Substance Abuse and Mental Health Services Administration (US); 1997. (Treatment Improvement Protocol (TIP) Series, No. 24.)
+CAGE Questionnaire
+- Have you ever felt you should cut down on your drinking?
+- Have people annoyed you by criticizing your drinking?
+- Have you ever felt bad or guilty about your drinking?
+- Have you ever had a drink first thing in the morning to steady your nerves or to get rid of a hangover (eye opener)?
+Scoring: Item responses on the CAGE are scored 0 for "no" and 1 for "yes" answers, with a higher score an indication of alcohol problems. A total score of 2 or greater is considered clinically significant.
+Source: Ewing, 1984.
+- As mentioned above, the normal cutoff for the CAGE is two positive answers. However, the Consensus Panel recommends that primary care clinicians lower the threshold to one positive answer to cast a wider net and identify more patients who may have substance use disorders.
+- A number of other screening tools also are available. Appendix C includes some of the most widely used options to the AUDIT and the CAGE, including the Michigan Alcoholism Screening Test (MAST) (Selzer, 1971) and the Short MAST (SMAST) (Selzer et al., 1975).
+The CAGE Questions Adapted to Include Drugs (CAGE-AID)
+- Have you felt you ought to cut down on your drinking or drug use?
+- Have people annoyed you by criticizing your drinking or drug use?
+- Have you felt bad or guilty about your drinking or drug use?
+- Have you ever had a drink or used drugs first thing in the morning to steady your nerves or to get rid of a hangover (eye-opener)?
+- Source: Reprinted with permission from the Wisconsin Medical Journal. Brown, R.L., and Rounds, L.A. Conjoint screening questionnaires for alcohol and drug abuse. Wisconsin Medical Journal 94:135-140, 1995.
+TWEAK Test
+| T | Tolerance: How many drinks can you hold? | 
+| W | Have close friends or relatives worried or complained about your drinking in the past year? | 
+| E | Eye-opener: Do you sometimes take a drink in the morning when you first get up? | 
+| A | Amnesia: Has a friend or family member ever told you about things you said or did while you were drinking that you could not remember? | 
+| K (C) | Do you sometimes feel the need to cut down on your drinking? | 
+| Scoring: A 7-point scale is used to score the test. The "tolerance" question scores 2 points if a woman reports she can hold more than five drinks without falling asleep or passing out. A positive response to the "worry" question scores 2 points, and a positive response to the last three questions scores 1 point each. A total score of 2 or more indicates the woman is likely to be a risk drinker. | | 
+| Source: Russell, 1994. | | 
+Sample Alcohol Withdrawal Medication Orders
+- Chlordiazepoxide 25-50 mg p.o. q. 1 h p.r.n. tremulousness, increasing blood pressure, increased pulse rate, or severe diaphoresis x 5 days.
+- If patient is vomiting, hold chlordiazepoxide and give instead lorazepam 2 mg IM q. 1 h. p.r.n. tremulousness, increasing blood pressure, or diaphoresis.
+- Ambien 10 mg at h.s. p.r.n. insomnia. May repeat x 1 during night, x 5 days.
+- Thiamine 100 mg q.d.
+- Multivitamin q.d.
+- Folic acid 1 mg q.d.
+- Maalox two tablespoons q. 2 h. p.r.n.
+- Temperature, pulse, and blood pressure q. 4 h. while awake.
+- Confine patient to unit until detoxification completed.
+Symptoms of Opioid Withdrawal
+| Grade 1 | Grade 2 | Grade 3 | 
+| Yawning | Mydriasis (dilated pupils) | Insomnia | 
+| Sweating | Piloerection (goose bumps) | Increased pulse | 
+| Lacrimation (tearing) | Muscle twitching | Increased respiratory rate | 
+| Rhinorrhea (runny nose) | Anorexia | Elevated blood pressure Abdominal cramps Vomiting Diarrhea Weakness | 
+Sample Opiate Withdrawal Medication Orders
+- Apply Clonidine #2 Transdermal Therapeutic System (TTS) patch now.
+- Clonidine 0.1 mg q. 4 h. x 2 days. Hold clonidine dose if patient becomes dizzy upon standing or if sleeping soundly.
+- Darvocet-N 100 mg every 4 hours if needed for pain x 5 days (maximum of 1,200 mg in 24-hour period).
+- Imodium 2 mg after each loose stool x 5 days.
+- Chlordiazepoxide 25 mg p.o. q. 6 h. p.r.n. for agitation or extreme irritability.
+- Ambien 10 mg p.o. at h.s. (may repeat x one p.r.n. during the night.
+Figure 1-1 Alcohol Use Among Primary Care Patients Over the Age of 18
+Figure 1-2 Risk Factors for Alcohol and Other Drug Abuse
+Figure 1-3 Relationship Between Alcohol Use and Alcohol Problems
+Figure 1-4 Past Month Illicit Drug Use, 1995
+Figure 3-1 Interview Approaches that Account for the Patient's Readiness for Behavioral Change
+Figure 4-1 Key Elements for Inclusion in Assessment
+Figure 4-2: DSM-IV Diagnostic Criteria for Substance Abuse
+The DSM-IV defines the diagnostic criteria for substance abuse as a maladaptive pattern of substance use leading to clinically significant impairment or distress, as manifested by one or more of the following, occurring within a 12-month period:
+- Recurrent substance use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated absences or poor work performance related to substance use; substance-related absences, suspensions, or expulsions from school; neglect of children or household).
+- Recurrent substance use in situations in which it is physically hazardous (e.g., driving an automobile or operating a machine when impaired by substance use).
+- Recurrent substance-related legal problems (e.g., arrests for substance-related disorderly conduct).
+- Continued substance use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of the substance (e.g., arguments with spouse about consequences of intoxication, physical fights).
+Source: Reprinted with permission from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition Copyright 1994, American Psychiatric Association. http://www.appi.org
+Figure 4-3: DSM-IV Diagnostic Criteria for Substance Dependence
+The DSM-IV defines the diagnostic criteria for substance dependence as a maladaptive pattern of substance use, leading to clinically significant impairment or distress, as manifested by three or more of the following, occurring at any time in the same 12-month period:
+- Tolerance, as defined by either of the following:
+ - The need for markedly increased amounts of the substance to achieve intoxication or desired effect.
+ - Markedly diminished effect with continued use of the same amount of the substance
+- Withdrawal, as manifested by either of the following:
+ - The characteristic withdrawal syndrome for the substance
+ - The same (or closely related) substance is taken to relieve or avoid withdrawal symptoms
+- Taking the substance often in larger amounts or over a longer period than was intended.
+- A persistent desire or unsuccessful efforts to cut down or control substance use.
+- Spending a great deal of time in activities necessary to obtain or use the substance or to recover from its effects.
+- Giving up social, occupational, or recreational activities because of substance abuse.
+- Continuing the substance use with the knowledge that it is causing or exacerbating a persistent or recurrent physical or psychological problem.
+Source: Reprinted with permission from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition Copyright 1994, American Psychiatric Association. http://www.appi.org
+Figure 6-1: Training Module
+Hour 1: The first hour is a didactic session focused on screening, assessment, brief intervention, and referral for alcohol use that includes role-playing and practice-reinforcing strategies. Participants are sent out at the end to practice their new skills in "real-world" settings by using the CAGE questionnaire, for example, and by counseling and referring patients as needed.
+Hour 2: Participants debrief and discuss how they used or did not use their skills and knowledge. Trainers address any problems encountered and lead role plays on problem situations. At the end, participants again are instructed to apply new knowledge and skills in their practice settings.
+Hour 3: In this session, discussion focuses on ways to implement changes in participants' primary care settings to support alcohol and drug screening and assessment. Particular barriers are identified as well as key persons to include in change strategies.
+Hour 4: This primarily didactic session on pharmacotherapy of alcohol use disorders focuses on withdrawal, use of disulfiram and naltrexone, and antidepressants and anxiolytics. The session includes case presentations and peer discussion.
+Hour 5: This primarily didactic session on illicit drugs describes effects of various drugs of abuse and treatments for drug use disorders. The session includes case presentations and peer discussion.
+Hour 6: This primarily didactic session, including case presentations and peer discussion, focuses on abuse of prescription drugs and on polypharmacy among elderly persons.
+- Tables and Figures* - A Guide to Substance Abuse Services for Primary Care Clini...Tables and Figures* - A Guide to Substance Abuse Services for Primary Care Clinicians
+Your browsing activity is empty.
+Activity recording is turned off.
+See more...

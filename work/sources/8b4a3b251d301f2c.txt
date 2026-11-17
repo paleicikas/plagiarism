@@ -1,0 +1,1310 @@
+The use of animals in vaccine testing for humans
+Contents
+Page
+Executive summary
+i - iv
+1
+Introduction
+1
+2
+Quality control of human vaccines
+2
+3
+Animal suffering in vaccines testing
+3
+3.1
+Numbers and species
+3
+3.2
+Examples of animal suffering
+4
+4
+Strategies for eliminating animal suffering
+5
+4.1
+Replacement strategies
+6
+4.2
+Approaches to reduction
+6
+4.3
+Refinement
+7
+5
+The development and acceptance of alternative methods
+8
+6
+Specific concerns and recommendations
+9
+6.1
+Lack of information on animal use
+9
+6.2
+Slow rate of development and acceptance of alternative methods
+9
+6.3
+Unnecessary duplication of testing
+11
+6.4
+Lack of global harmonisation of testing requirements
+13
+7
+Bibliography
+14
+Appendix 1:
+Members and contributors of evidence
+15
+Appendix 2:
+Vaccine testing; EU system and legislative requirements
+17
+Appendix 3:
+The role of European organisations in the development of alternatives
+20
+Appendix 4:
+Regulation of animal procedures in the UK
+22
+
+i
+The use of animals in vaccine testing for humans
+Executive summary
+The use of animals in vaccines testing merits special attention for two main reasons; the degree of animal
+suffering entailed in some of the established test methods, and the large number of animals subjected to these
+procedures as a result of testing each individual batch of vaccine produced.
+A working party was established by the Associate Parliamentary Group for Animal Welfare (APGAW), initially
+with a very broad remit to report on the use of animals in the development and testing of vaccines for humans and
+animals, and on measures necessary to improve practice. The working party's members have different views on
+the broader issue of animal testing, but saw potential for finding common ground on this issue. The report focuses
+on that common ground, and discussion of the objectives of the different groups on the broader issues has been
+separated to Appendix 1.
+APGAW is a long standing cross-party parliamentary group which aims to promote and further the cause of
+animal welfare. The group's perspective, from an ethical point of view, is to improve the welfare of animals
+involved in vaccine testing. The group recognises the enormous benefits which have been, and continue to be,
+afforded to human and animal health by the development and use of vaccines. This report examines the use of
+animals in vaccine testing and suggests ways in which progress towards replacing, reducing or refining their use
+can be facilitated without detriment to the availability of safe and effective vaccines. 
+It was recognised that animals are used to develop and test both human and veterinary vaccines. The working
+party was also conscious that animal experiments are a feature of all stages of vaccine development, including
+basic research on disease processes, the use of animal 'models' of human diseases to test candidate vaccines,
+preclinical safety testing, and quality control. In view of the diversity and complexity of this area of animal use, it
+was agreed that the focus of attention should be on those animal tests that were used in the quality control of
+vaccines for human use, simply to make the investigation more manageable. We hope that the findings of this
+limited study will be applicable, in some measure, to other aspects of vaccine research and development and that
+the areas omitted from this investigation will be investigated at a later date. 
+As a first step, the working party attempted to assess how many animals were used to test human vaccines, and
+how much suffering was caused by the tests employed. Because of the controversy surrounding the testing of any
+product on animals, it is perhaps understandable that information is sparse in this area. However, the working
+party was struck by the lack of relevant official statistics applicable to either the UK or the EU. Statistical data are
+not yet currently separated out so as to provide specific information on the use of animals in vaccine tests.
+Because of the lack of published statistical information in this area of testing, the working party found it difficult
+to place anywhere near a precise figure of the numbers of animals involved. 
+ 
+The working party therefore makes the following recommendation.
+Recommendation 1
+The Home Office should change the way in which animal procedures are recorded by licensees so that
+the numbers and species used for the quality control testing of vaccines, for human and veterinary use,
+can be readily identified. A description of the severity bands into which these procedures fall is also
+essential. The relevant UK authorities should also urge the European Commission to collect and report
+data subdivided in a similar manner.
+
+ii
+The group is aware that the Animal Procedures Committee (APC) has recently conducted a consultation on the
+presentation, format and content of the annual statistics and is currently preparing its report for the Home Office.
+The group recommends that this is forwarded to the APC as part of their enquiry.
+One of the reasons given for the lack of data is that due to the controversy surrounding the use of animals in all
+types of product testing, organisations involved in animal testing are reluctant to make detailed information
+publicly available. Indeed, the publicly-funded National Institute for Biological Standards and Control (NIBSC)
+was initially reluctant to participate in our inquiries at all, though we are grateful to them and to the other bodies
+who supplied evidence that they did in fact take part. Also, we were unable to obtain clear information on NHS
+vaccine procurement policies, and any specific requirements relating to testing that may be written into
+NHS contracts. 
+It is clear that the animal suffering involved in vaccine testing varies greatly according to the nature of specific
+tests used for different vaccines. However, some methods entail a considerable degree of animal suffering. In
+particular, a number of procedures for testing the efficacy of vaccines involve the deliberate exposure of animals,
+with or without prior vaccination, to a disease-causing organism or microbial toxin. Some of the animals in these
+'challenge tests' suffer very serious effects, and may die from infection or the effects of toxin action. Some safety
+tests on vaccines are also of very high concern, such as the test for neurovirulence of oral polio vaccine, in which
+primates suffer neurological symptoms, including paralysis. Alternative methods of testing are urgently needed to
+stop animals suffering in tests of this kind. Indeed, there is also a need for more reliable and consistent tests, and
+alternative methods can and should be superior to the testing methods on animals that are currently in use. 
+The working party heard evidence that progress has been made in the development and use of non-animal test
+methods, and methods that reduce either the number of animals needed or the suffering involved in specific
+vaccine tests. In this regard, we acknowledge the invaluable work of organisations such as the European Centre
+for the Validation of Alternative Methods, Official Medicines Control Laboratories and the European Directorate
+for the Quality of Medicines, vaccine manufacturers and individual scientists.
+A number of current trends in vaccine technology are encouraging from the point of view of phasing out animal
+tests. Improvements in manufacturing practice and the development of more reliable methods of chemical
+analysis are tending to reduce the need for biological quality control testing. Newer vaccines are being produced
+by advanced methods that give more precisely defined and reproducible end products.
+Nevertheless, the group believes that, worldwide, in Europe and in the UK, not enough work is being directed
+towards the development of alternatives to animal testing, and that progress in implementing alternatives in
+vaccine testing is too slow. In this respect, the group agrees with the recommendation in the House of Lords
+report on the use of animals in scientific procedures1 that greater steps should be taken to promote the adoption of
+replacements and incorporation of refinements into test guidelines. The group also agrees with the House of
+Lords Committee that a clear lead needs to be taken on this from a nominated department in government. 
+The group welcomes as a first step the recent announcement by the government of the establishment of a national
+centre for the Replacement, Refinement and Reduction (the Three Rs) of animals in research but feels that there
+is still insufficient financial and material effort being put into the development of alternatives and until this
+occurs, the issues raised in this report will continue to need to be addressed. It is our view that currently, there is
+little or no championing in the UK of the need to investigate, fund and develop alternative methods of testing
+vaccines. The working party therefore makes the following recommendations.
+Recommendation 2 
+A UK government minister be given the specific responsibility to make the case for investigating,
+developing and funding alternative methods of testing vaccines wherever necessary - ambitious targets
+with realistic dates need to be provided with the required funding. Recognising that industry is keen to
+adopt in vitro tests once they have been approved, the UK government should make specific efforts to
+expedite the development, validation and regulatory acceptance of alternative methods for the testing
+of vaccines. 
+
+iii
+Recommendation 3 
+Within Europe, the European Pharmacopoeia (EP), the European Directorate for the Quality of Medicines
+(EDQM) and the European Centre for the Validation of Alternative Methods (ECVAM) should jointly
+develop a rolling programme for the identification and validation of non-animal alternatives to replace
+the existing animal tests as defined within the EP. It is important that the UK government should press
+for ECVAM to play a greater role in such development and validation. Again, specific targets need to be
+agreed with the required funding.
+Recommendation 4 
+The development of newer, more chemically defined vaccines (that by their nature require less animal
+testing) should be encouraged and promoted in the light of the targets foreseen in Recommendations 2
+and 3. Such a move could mean a substantial reduction in the number of animals needed to be used for
+testing vaccines.
+On a more specific point, the working party makes the following recommendation.
+Recommendation 5
+The European Pharmacopoeia should consider, and publish, the current progress of (and plans for) the
+replacement of the primate model for polio vaccine safety testing with the transgenic mouse model at
+least as a temporary refinement measure on the route to a viable non-animal alternative. 
+Monographs of the EP are updated regularly, but the procedure for revision is extremely complex and timeconsuming. We make the following recommendations.
+Recommendation 6 
+The European Pharmacopoeia Commission should review its procedures for the update, publication and
+ratification of monographs with a view to accelerating the incorporation and acceptance of alternative
+methods, and the deletion of obsolete animal tests.
+Recommendation 7
+The UK government, through the Home Office or the interdepartmental group on the Three Rs, should
+work closely with UK representatives to promote the consideration of all types of alternative procedure
+(replacement, reduction and refinement alternatives) within the EP.
+A major concern about vaccine quality control is the requirement that each individual batch of vaccine is tested
+before use, and that the tests are often conducted more than once on each batch. In the EU, the programme of
+batch testing is set up as part of the marketing authorisation for a particular product. The test methods for
+products of a particular type are published as monographs in the European Pharmacopoeia and thereby become
+the legally required test methods. Batch testing is conducted by the manufacturer, but before a batch can be
+marketed, it requires a batch release certificate from an EU Official Medicines Control Laboratory (OMCL)
+which may test the batch again.
+The need for batch testing arises from the biological nature of vaccines, at least the older ones that are produced
+from whole micro-organisms. Chemical medicines (drugs) can be manufactured consistently to a high level of
+purity. Once the chemical has been thoroughly tested, subsequent batches of the drug, provided they are pure, can
+be assumed to be safe. Biological products, such as inactivated viruses and bacterial toxins, are much more
+variable in composition and strength, and it is difficult to ensure the purity of the active component, even if its
+exact composition is known. Therefore, each final batch of vaccine must be tested for safety and effectiveness.
+The working party discussed at length the question of whether the batch testing of vaccines led to unnecessary
+duplication or repetition of testing on animals. There was clear evidence that tests were repeated, but there were
+conflicting opinions on whether all of this repetition was justified or necessary. Two main factors appear to
+drive repetition. 
+
+iv
+The first is the inherent unreliability of the animal tests, which are subject to biological variability. The need to
+repeat unsatisfactory tests may be scientifically justified. As there is variability of animal tests in the context of
+biological vaccines, this points to the urgent need to replace these variable tests with more precise and
+reproducible alternative methods. The second important factor is one of trust in the competence of laboratories in
+different countries. Mutual confidence in, and acceptance of test results from all EU laboratories is key to
+avoiding duplication of testing on animals. We heard evidence that trust had been slow to develop and may still
+be incomplete. We therefore make the following recommendations.
+Recommendation 8
+The UK government should take all necessary steps to encourage and support the development of a
+uniform and high standard of vaccine testing in OMCLs throughout the EU, thereby promoting the
+mutual acceptance of data and vaccine batch release certificates.
+In the UK, tests on animals are conducted under the authority of the Animals (Scientific Procedures) Act (1986)
+which is administered by the Animals Scientific Procedures Division (ASPD) of the Home Office. In licensing
+animal procedures, including vaccine testing, it is the responsibility of the ASPD to ensure that all available
+alternatives are used, and that tests are not carried out unnecessarily. The working party was not convinced that
+the mechanisms in place are adequate to prevent unnecessary repeat testing of vaccine batches.
+Recommendation 9
+The Home Office should review its current practices in relation to the licensing of vaccine testing on
+animals, with a view to ensuring that both the scientific necessity and legal basis for repeat testing is
+examined for each vaccine batch tested. The procedures adopted and evidence for their efficacy
+should be made publicly available.
+On the question of whether vaccines are re-tested in the UK before use in vaccination programmes in the UK in
+spite of having been tested at an OMCL elsewhere in the EU, we were assured by the Medicines Control Agency
+that only one batch release certificate is required, and by the Department of Health that they do not transgress the
+EU Directive prohibiting such a practice. 
+In view of the lack of transparency of the operation of the ASPA in this context, and the lack of specific evidence
+of duplication, we are only able to make the following general recommendation.
+Recommendation 10
+The UK government should take every possible precaution to ensure that procurement policies and
+practices do not lead to duplication of animal testing, even inadvertently. There needs to be much
+greater transparency in the way that government departments operate in procurement (including
+making standard NHS contracts publicly available).
+Finally, the working party heard evidence that unnecessary animal testing might be caused by a lack of
+harmonisation between European standards and those employed elsewhere in the world, for example in
+Japan or the United States. Such a lack of compatibility was of concern and therefore, we would make the
+following recommendation.
+Recommendation 11
+The UK government should be proactive in attempts to harmonise various national and international
+regulations in the testing of vaccines. We believe that UK representatives should use the
+recommendations of the Paul Ehrlich Institute report as the basis for such efforts. 
+
+1
+1. 
+Introduction
+The use of animals in vaccines testing merits special attention for two main reasons; the degree of animal
+suffering entailed in some of the experimental procedures used, and the large number of animals subjected to
+these procedures as a result of the need to test each individual batch of vaccine produced.
+A working party was established by the Associate Parliamentary Group for Animal Welfare (APGAW) with the
+following remit: 'To report on the use of animals in the development and testing of vaccines for humans and
+animals. To review recommendations made in previous studies and the effectiveness of their implementation as
+the basis for reporting on the measures necessary to improve practice.' 
+It was soon realised, however, that this remit encompassed an extremely large, varied and complex field. The
+working party was conscious that animal experiments are a feature of all stages of vaccine development, from
+basic research on disease processes, through the use of animal 'models' of human diseases to test candidate
+vaccines, to preclinical safety testing and quality control. It was also aware that a large proportion of the animal
+use in vaccine research and testing is for the development and quality control of vaccines for veterinary, rather
+than human use. However, to make the investigation more manageable in terms of the number of organisations
+and authorities involved, and the number of different test methods currently in use, the specific area of quality
+control of vaccines for human use was chosen for this investigation. It is hoped that the findings of this limited
+study will be applicable, in some measure, to other aspects of vaccine research and development and that the
+areas omitted from this investigation will be investigated at a later date. 
+The working party recognises the enormous benefits which have been, and continue to be, afforded to human
+health by the development and use of vaccines, and accepts that the thorough and scientifically sound testing of
+vaccines is essential. The working party also recognises that non-animal alternatives being developed can be
+superior to those tested on animals. In addition, some of the methods currently used to test the safety and
+effectiveness of vaccines entail a considerable degree of animal suffering. For example, a number of procedures
+for finding out how well a batch of vaccine protects against a specific disease involve the deliberate exposure of
+animals, with or without prior vaccination, to a disease-causing organism or microbial toxin. Some of the animals
+in these 'challenge tests' suffer very serious effects, and may die from infection or the effects of toxin action.
+Also, some safety tests are of very high concern, such as the test for neurovirulence of oral polio vaccine, in
+which primates suffer neurological symptoms, including paralysis. Alternative methods of testing are urgently
+needed to stop animals suffering in tests of this kind. Full use should be made of existing alternative methods of
+testing and a high political priority should be given to developing additional ones 
+The second major concern about vaccine quality control is the requirement that each individual batch of vaccine
+is tested before use, and that the tests are often conducted more than once on each batch. The need for batch
+testing arises from the biological nature of vaccines, at least the older ones. Chemical medicines (drugs) can be
+manufactured consistently to a high level of purity. Once the chemical has been thoroughly tested, subsequent
+batches of the drug, provided they are pure, can be assumed to be safe. Biological products on the other hand,
+such as inactivated viruses and bacterial toxins, are much more variable in composition and strength, and it is
+difficult to ensure the purity of the active component, even if its exact composition is known. Therefore, each
+final batch of vaccine must be tested for safety and effectiveness.
+There are a number of reasons why batch tests are repeated, which will be discussed in detail below, but as a
+minimum, the manufacturer will test the vaccine and the results will be checked by an official laboratory. Batch
+testing and repetition both contribute to the use of large numbers of animals in vaccine testing. The current
+system of quality control of vaccines needs to be reviewed with a view to speeding the replacement of animal
+tests with humane alternative methods.
+
+2
+In contrast to the testing of chemicals, there are no test methods which are common to all vaccines. Each has its
+own set of specific tests, differing in animal species and numbers used, timing of treatment and endpoint. This
+has important consequences for attempts to develop alternative methods that can replace, reduce or refine the use
+of animals in vaccines testing. An alternative test may be applicable to one aspect of the testing of one vaccine,
+but may not be directly applicable to other vaccines or other aspects of testing the same vaccine. Each step
+forward requires careful consideration of complex technical aspects of each test, research on potential new
+methods, and validation of the new technique. In some cases, the effort required is not considered by some as
+worthwhile for the relatively small number of animals used in a particular test, or because the future of the
+vaccine is in doubt due to the emergence of improved products
+A number of current trends in vaccine technology are encouraging from the point of view of phasing out animal
+tests. Improvements in manufacturing practice and the development of more reliable methods of chemical
+analysis are tending to reduce the need for biological quality control testing. Newer vaccines are being produced
+by advanced methods that give more precisely defined and reproducible end products. 
+The primary purpose of this report is to draw attention to the use of large numbers of animals for the safety and
+efficacy testing of vaccines for human use, and the suffering caused to the animals in the course of this testing. It
+highlights the dearth of accurate information on animal use for vaccine testing, and recommends that strenuous
+attempts are made to make such information publicly available.
+The working party found much evidence that progress is being made in the development and use of non-animal
+test methods, and methods that reduce either the number of animals needed or the suffering involved in specific
+vaccine tests. However, it concluded that greater progress could be made and discusses how this can be
+facilitated. In this respect it arrives at similar conclusions to other committees that commented on the use of
+alternatives during the lifetime of the APGAW working party, such as the House of Lords Select Committee on
+animals in scientific procedures1and the Animal Procedures Committee that reported on use of primates under the
+Animals (Scientific Procedures) Act2. In particular, greater steps should be taken to promote the adoption of
+replacements and incorporation of refinements into test guidelines and a clear lead needs to be taken on this from
+a nominated department in government. 
+Detailed investigation of testing policies showed that animal tests on individual batches of vaccine are often
+repeated. The reasons for this apparent duplication are discussed, and the necessity for repeat testing is
+questioned. Recommendations are made to improve international harmonisation of testing requirements and to
+prevent possible unnecessary and unacceptable duplication of animal testing.
+2. 
+Quality control of human vaccines
+Before a vaccine may be marketed in the EU, a marketing authorisation (licence) must be obtained for the
+product. The arrangements for the quality control of each vaccine are incorporated into the conditions of the
+marketing authorisation, and the methods to be used are codified in monographs of the European and/or relevant
+national pharmacopoeia. The frequency and extent of batch testing are variable, depending on the nature of the
+vaccine and the manufacturing process, but testing done by the manufacturer is checked by at least one Official
+Medicines Control Laboratory (OMCL), which issues a batch release certificate for approved batches.
+The legal background, the organisations involved in granting licences, and the process of batch release are
+described in more detail in Appendix 2.
+
+3
+3. 
+Animal suffering in vaccines testing
+3.1
+Numbers and species
+The working party was unable to obtain accurate estimates of the numbers of animals used in vaccines
+testing. Overall, the annual statistics compiled by the UK Home Office (Statistics of Scientific
+Procedures on Living Animals) are probably the most accurate and reliable in Europe. However, the
+form filled in by those carrying out procedures on animals (annual returns) does not include separate
+categories for procedures involved in vaccine testing. The Home Office was therefore unable to
+provide an accurate estimate of the number of animals used in vaccine testing in the UK. They told us
+that the number of procedures carried out on animals for vaccine quality control in the UK appeared to
+fluctuate significantly year on year but was probably less than 35,000 per annum. A number of
+contributors commented on the fact that vaccine production in the UK had decreased substantially in
+recent years, and that testing in the UK may now be a relatively small component of overall EU testing. 
+As in the UK, statistics on laboratory animal use in the EU do not separately record animals used in
+vaccine testing. Coenraad Hendriksen estimated that 1.5 million animals are used for developing and
+testing biologicals in the EU every year, and that much larger numbers are used in countries outside the
+EU, particularly developing countries. He has also reported4 that 152,132 animals were used for the
+development, production and testing of 'biologicals' in Holland in 1997. Of these, 60 per cent (91,279)
+were used for developing and testing vaccines. Quality control testing used 80 per cent of this number
+(73,023 animals). However, it should be remembered that these estimates include animals used for both
+human and veterinary vaccine testing. 
+An analysis of the number of animals used by manufacturers for tests prescribed by the European
+Pharmacopoeia for products for human use released in Germany between 1991 and 1993, is available
+in the report of the Paul Ehrlich Institute (K Weissler & U Hechler)5. The data are summarised in Table
+1 below. Although these data are over ten years old, unfortunately the working party found no more upto-date data for this area during its research, underlining the problems of data availability.
+These indicate that during that period, 21,000 animals per annum were used for batch release in
+Germany alone.
+Species
+Number
+Table 1
+Monkey
+412
+Mouse
+41,938
+Guinea pig
+16,739
+Rabbit
+4,079
+Total
+63,978
+Number of animals of each species used by
+manufacturers for tests prescribed by the European
+Pharmacopoeia for batch release of biological
+produces for human use, Germany 1991-1993 
+(from data of Weisser and Hachler, 1997)
+
+4
+3.2
+Examples of animal suffering
+The animal suffering involved in vaccines testing varies greatly according to the nature of the specific
+tests used for different vaccines, although some of the vaccines tests are some of the most severe
+procedures licensed in the UK. It is clear that some tests entail considerable pain, suffering and distress
+and Dr Coenraad Hendriksen has estimated that about 17 per cent of all animal tests on vaccines lead to
+high levels of pain and distress for the animals involved6 .
+Table 2 (overleaf), shows a list of tests used for the quality control of vaccines for human use, including
+only those tests involving severe suffering to at least some of the animals used, taken from data in
+reference 5. 
+Three specific tests are described in more detail below.
+3.2.1
+Oral polio myelitis neurovirulence test
+A defined dose of both the test and reference preparations are injected into the lumbar region of the
+central nervous system of monkeys. The monkeys are observed for 17-22 days and then killed and
+examined histologically. For type 1 and type 2 virus, not fewer than eleven monkeys, and for type 3,
+not fewer than eighteen monkeys, must show specific neuronal lesions of poliovirus. According to the
+European Pharmacopoeia (EP) monograph, this test must be carried out at least three times in at least
+80 monkeys during the production of the trivalent bulk (combination of types1, 2 and 3). In practice,
+70-94 monkeys (mostly macaques) are used to produce each final trivalent bulk. When clinical
+symptoms, including paralysis, are present they cause considerable distress to some of the animals
+during the observation period.
+3.2.2
+Tetanus potency test
+Tetanus vaccine can be tested for potency in either mice or guinea pigs. In the standard method, the
+test vaccine is compared with a reference vaccine, using three dilutions of each, and one control group
+of untreated animals. Weissler and Hechler5 found that between 66 and 108 animals were normally
+used in each test. The animals are injected with the vaccine subcutaneously and four weeks later
+receive a single dose of tetanus toxin. This dose may either be a lethal or a paralytic dose. A proportion
+of the animals (depending on the dose and efficacy of the vaccine) will suffer paralysis and death. It is
+clear that both paralytic and lethal doses cause severe suffering. 
+3.2.3
+Diphtheria (absorbed) potency test
+Guinea pigs are used for testing, and are challenged with toxin four weeks after immunisation. The EP
+permits the use of both lethal and non-lethal toxin challenge, the endpoints being death or skin
+inflammation respectively. At least three dilutions each of the test vaccine and a reference vaccine are
+used, together with one untreated control group. A minimum of 70 animals is used to test each vaccine
+batch and both methods cause severe pain and distress. There is no agreement on whether the lethal or
+non-lethal methods cause greater suffering. 
+
+5
+Table 2
+List of animal tests for vaccines for human use, selected and ranked for severity 
+of animal suffering involved (from data of Weisser and Hechler, 1997).
+Vaccine
+Test
+Species
+Severity1
+Number2
+Poliomyelitis (oral
+Neurovirulence
+Monkey
+5
+412
+Rabies
+Potency (identification)
+Mouse
+4
+7,930
+Pertussis 
+Potency
+Mouse
+4
+11,871
+BCG
+Dermal reactivity
+Guinea pig
+4
+560
+Tuberculin
+Sensitisation
+Guinea pig
+4
+42
+Tuberculin
+Potency (identification)
+Guinea pig
+4
+1,323
+Tetanus
+Potency
+Mouse or guinea pig
+4
+14,687
+Tetanus
+Absence of toxin
+Guinea pig
+1-4
+878
+Tetanus
+Specific toxicity
+Guinea pig
+1-4
+687
+Tetanus
+Irreversibility
+Mouse or guinea pig
+1-4
+1,197
+Diphtheria (adsorbed)
+Potency
+Guinea pig
+1-4
+8,713
+Diphtheria (adsorbed)
+Absence of toxin
+Guinea pig
+1-4
+339
+Diphtheria (adsorbed)
+Specific toxicity
+Guinea pig
+1-4
+383
+Diphtheria (adsorbed)
+Irreversibility
+Guinea pig
+1-4
+800
+1 5 = severe suffering of 7-30 days' duration
+4 = severe suffering of 1-7 days' duration
+3 = severe suffering of less than 1 day's duration
+2 = moderate suffering
+1 = slight suffering
+1-4 varies between test or control groups of animals
+2 Number of animals used for each test in Germany from 1991-1993
+4. 
+Strategies for eliminating animal suffering
+Replacement of animal tests for vaccine testing with humane alternatives, not involving the use of animals, is
+generally agreed to be the ultimate objective of everyone involved. However, the development of reliable nonanimal test methods is hampered by an incomplete understanding of the detailed biological processes involved in
+immunisation and the complex interactions that occur in a living body. Achieving the goal of replacing animals in
+many types of vaccine testing, for example with cell culture or computer-based methods, will require significant
+advances in scientific knowledge and techniques, and progress in replacement of animal tests tends to be difficult
+and slow. 
+A completely new approach to quality control, based on good manufacturing practice and chemical analysis of
+the product may offer the most promise for ultimately avoiding the need to test on animals. In the meantime,
+experience has shown that it is possible to achieve significant reductions in the number of animals used in each
+test, and to decrease the pain and suffering involved by refinement of the test procedures. The other obstacles to
+the development and implementation of alternatives include lack of funding and coordination of effort, and the
+time taken to develop alternatives (see section 5).
+
+6
+4.1
+Replacement strategies
+The reason why vaccines, unlike chemical pharmaceuticals, require quality control testing on a batchwise basis is that they are complex, biological products that may vary in subtle but significant ways.
+Careful control of the manufacturing process can reduce variability, and progress with good
+manufacturing practice can reduce the need for batch testing10. A variety of sensitive analytical
+techniques can now be used to characterise even the most complex products. Identification of a set of
+critical physico-chemical properties that determine the safety and efficacy of vaccines may eventually
+replace animal testing9.
+4.1.1
+Good manufacturing practice and chemical analysis
+The reason why vaccines, unlike chemical pharmaceuticals, require quality control testing on a batchwise basis is that they are complex, biological products that may vary in subtle but significant ways.
+Careful control of the manufacturing process can reduce variability, and progress with good
+manufacturing practice can reduce the need for batch testing10. A variety of sensitive analytical
+techniques can now be used to characterise even the most complex products. Identification of a set of
+critical physico-chemical properties that determine the safety and efficacy of vaccines may eventually
+replace animal testing 9.
+4.1.2
+In vitro tests
+A number of in vitro techniques have been suggested for detecting the presence of residual toxicity in
+vaccines prepared by inactivating bacterial toxins. For example, a cell culture method can be used in
+place of tests for the presence of residual toxins in diphtheria vaccines. Unfortunately the use of the
+test is limited because the cells are sensitive to the toxicity of some other common components of the
+vaccine, apart from the diphtheria toxin. Increased knowledge of the exact mechanism by which toxins
+cause their effects may lead to the development of sensitive biochemical methods of toxin detection.
+Cell culture methods based on the fever reaction in cultured human cells are currently being validated
+for the detection of fever-inducing contaminants (pyrogens) in vaccines and other drugs. These
+methods will replace a widely used test in rabbits, which was partially replaced previously by use of
+blood from the horseshoe crab Limulus.
+In vitro methods are also being investigated for the determination of vaccine potency. However, these
+methods are in an early phase of development.
+4.2
+Approaches to reduction
+4.2.1
+Good statistical design
+Various studies, notably that of Weissler and Hechler5, have shown that the number of animals used in
+certain tests is greater than necessary for achieving the objectives of the test. All tests should be
+designed on sound statistical principles to minimise the number of animals used. 
+4.2.2
+Harmonisation of test requirements
+Differences in test procedures between countries and trading blocks gives rise to unnecessary repeat
+testing if a vaccine is to be marketed in a number of countries. This is especially true between the EU
+and USA. Harmonisation of test requirements eliminates this form of duplication. The minister
+responsible should press for progress on this in the International Conference on Hamonisation.
+Harmonisation of test requirements and acceptance of test results between the USA and EU would help
+to eliminate this form of duplication.
+
+7
+4.2.3
+Use of serological techniques
+Some challenge tests for vaccine potency can be replaced with serological methods in which the
+presence of specific antibodies in the blood of immunised animals are used as a proxy for
+demonstrating protection against challenge by the relevant pathogen. The success of this approach
+depends upon identifying the antibodies that are critical to the induced immunity to disease. A variety
+of antibodies may be produced in response to immunisation, some of them irrelevant to immunity to
+subsequent challenge and some required to work in combination. The use of serological methods
+reduces the number of animals required, but is perhaps more important as a refinement because
+animals are not infected with the pathogen.
+ 
+A major success of this approach has been the development and validation of serological methods for
+the potency testing of tetanus vaccines. In 2003, after many years of work by many organisations, the
+European Centre for the Validation of Alternative Methods issued a statement on the successful
+validation of the ELISA test and Toxin Binding Inhibition (ToBI) tests, for batch potency testing of
+tetanus vaccines for human use. These methods are now in the process of being accepted by the
+European Pharmacopoeia.
+4.2.4
+Rationalising testing requirements
+The prompt deletion of obsolete or redundant tests from the testing requirements is a high priority for
+avoiding unnecessary animal use. Tests for 'abnormal toxicity', which were general tests for adverse
+effects of vaccines, have been criticised since the 1980's. An enquiry into their value, started in 1994,
+resulted in the decision to delete them from most monographs of the European Pharmacopoeia some
+years later.
+ The 1997 report of the Paul-Ehrlich-Institute5 was highly influential in driving changes to the way in
+which vaccines are monitored during the manufacturing process, and the specific tests required. Two
+types of animal test previously required for toxicity testing of finished diphtheria and tetanus vaccines
+have been eliminated, and substantial reductions in the number of animals used per batch have been
+achieved by modifications to five other tests on diphtheria, tetanus and pertussis vaccines.
+4.3
+Refinement
+4.3.1
+Use of humane endpoints
+Many of the vaccine potency tests involve immunisation followed by challenge with an infective
+organism. Animals may suffer considerably before they die. By developing methods of detecting
+infection or toxicity early (humane endpoints), it is possible to limit the extent to which animals suffer
+before they are humanely killed. Some progress has been made in incorporating humane endpoints into
+EP monographs, but in many cases research and validation is needed before they can be used12.
+4.3.2
+Use of rodents instead of primates
+Efforts to replace the use of primates with mice, for testing the neurovirulence of oral polio vaccine,
+can be seen as an example of refinement if the substitution of one animal by another is seen as an
+initial first step. Collaborative studies involving GlaxoSmithKline, and led by the World Health
+Organisation (WHO), have examined the use of transgenic mice instead of primates. These methods
+have been validated but still require regulatory acceptance (Dragunsky et al13), an example of the
+delays imposed by the process rather than the science.
+
+8
+5. 
+The development and acceptance of alternative methods
+Many organisations and individuals are involved in the process of identifying, developing, validating and gaining
+regulatory acceptance of alternative methods. Details of some of the most important organisations are given
+in Appendix 3.
+New techniques and ideas often come from academic research, and are taken up and developed for use in
+vaccines testing by scientists in industry, OMCLs or other laboratories. Before an alternative method can be
+considered for inclusion in the EP, it must be validated. The process of validation differs for replacement,
+reduction and refinement alternatives but the most stringent requirements are for replacement methods. The exact
+details of the procedure must be worked out, its practicability and reproducibility must be demonstrated by trials
+in a number of laboratories, and its accuracy and reliability must be tested by comparing results between the new
+and old method. The EP must consider alternatives carefully and consult widely before they can be incorporated
+into monographs. 
+An indication of the time it has taken so far to achieve acceptance of the serological method for the potency
+testing of tetanus vaccine is given by Table 3, which shows that the paperwork after validation took almost as
+many years as the validation itself. This delay prolongs the use of outdated tests whilst the procedure is followed.
+Table 3
+Time taken for acceptance of serological method for potency testing of tetanus vaccines
+(adapted from Hendriksen6 ).
+Process
+Date
+(Years elapsed)
+Test development
+1986
+(0)
+In-house validation
+1989
+(3)
+Pre-validation (test optimisation, SOPs, technology transfer)
+1996
+(10)
+Formal validation
+1996
+(10)
+Submission of proposal for revision of monograph
+2001
+(15)
+Priority setting
+2001
+(15)
+Draft revision of monograph
+2002
+(16)
+Publication in Pharmeurope
+2002
+(16)
+Analysis of comments
+2003
+(17)
+Acceptance by Ph.Eur. Commission
+2004
+(18)
+Implementation by National Control Authority
+2004+
+(18?)
+The principal centre for test validation in the EU is the European Centre for the Validation of Alternative
+Methods (ECVAM). Dr Coenraad Hendriksen told us that there is no formal relationship between ECVAM and
+the EP: the principal role of ECVAM is research, particularly in the field of validation, whereas the EP drafts
+guidelines for the release of routinely produced biologicals and pharmaceuticals. ECVAM and the European
+Directorate for the Quality of Medicines (EDQM) have collaborated on the validation of new methods and might
+collaborate in the future. However, Dr Hendriksen believed that there were mixed feelings about this
+collaboration, the EP fearing that ECVAM might interfere with their policy on biologicals. ECVAM, on their
+part, felt that they provided funds for validation without receiving appropriate credit for the results. The working
+party was concerned on the lack of a formal relationship on the development of alternatives.
+
+9
+As indicated in the previous section, the working party found evidence that there has been substantial progress in
+the development of alternatives over the last decade. There was also evidence of increasing awareness of the need
+to apply the Three Rs (Reduction, Refinement and Replacement) to vaccines testing (for example in the
+Biological Standardisation Programme of the EDQM), and some evidence of increasing cooperation between the
+relevant organisations. Nevertheless, a number of individuals expressed frustration with the slow rate of progress,
+the lack of financial support, and poor coordination in certain areas.
+6. 
+Specific concerns and recommendations
+6.1
+Lack of information on animal use
+Although a number of detailed analyses of the use of animals in vaccine testing were available to the
+working party, these related to specific countries and time periods. In general, only very rough
+estimates were available for the overall numbers of animals used in the UK, Europe or the world. The
+value of statistics on animal use is that they provide an accurate indication of the size of the problem,
+and therefore the urgency with which solutions should be sought. A detailed breakdown of the
+proportion of those animals that were used for specific purposes would help focus efforts even more on
+priority targets for application of the Three Rs, and give a basis for monitoring the success of
+replacement or minimisation strategies. Whilst the precise degree of animal suffering that their use in
+testing involves may not always be easy to estimate, we do need an assessment of suffering available in
+the public domain to inform public debate. 
+Although it is not straightforward to balance the relative importance of numbers and suffering, it is
+necessary to so for the purpose of identifying priorities for replacement, reduction and refinement, as
+Weissler and Hechler did in 19975.
+The Home Office statistics of animal use subdivide procedures for toxicological testing, both by
+purpose (type of product; substances used in agriculture; pharmaceutical safety/efficacy evaluation etc.)
+and by type of test or procedure. Although 20 categories of test or procedure are individually identified,
+the great majority are tests used for chemicals and only pyrogenicity is readily recognisable as a test
+used in vaccine quality control. It is not even clear whether vaccine quality control is classified as
+toxicology. 
+So creation of separate categories for these tests would be of great value, particularly if the EC could be
+persuaded to adopt a similar categorisation in the EU statistics.
+The working party therefore makes the following recommendation.
+Recommendation 1
+The Home Office should change the way in which animal procedures are recorded by
+licensees so that the numbers and species used for the quality control testing of vaccines, for
+human and veterinary use, can be readily identified. A description of the severity bands into
+which these procedures fall is also essential. The relevant UK authorities should also urge the
+European Commission to collect and report data subdivided in a similar manner.
+6.2
+Slow rate of development and acceptance of alternative methods
+Overall, the working party believes that, worldwide, in Europe and in the UK, not enough work is
+being directed towards the development of alternatives to animal testing. It is our view that currently,
+there is little or no championing in the UK of the need to investigate, fund and develop alternative
+methods of testing vaccines. We therefore make the following recommendations.
+
+10
+Recommendation 2
+A UK government minister be given the specific responsibility to make the case for
+investigating, developing and funding alternative methods of testing vaccines wherever
+necessary - ambitious targets with realistic dates need to be provided with the required
+funding. Recognising that industry is keen to adopt in vitro tests once they have been
+approved, the UK government should make specific efforts to expedite the development,
+validation and regulatory acceptance of alternative methods for the testing of vaccines. 
+Recommendation 3
+Within Europe, the European Pharmacopoeia (EP), the European Directorate for the Quality of
+Medicines (EDQM) and the European Centre for the Validation of Alternative Methods (ECVAM)
+should jointly develop a rolling programme for the identification and validation of non-animal
+alternatives to replace the existing animal tests as defined within the EP. It is important that
+the UK government should press for ECVAM to play a greater role in such development and
+validation. Again, specific targets need to be agreed with the required funding.
+Recommendation 4
+The development of newer, more chemically defined vaccines (that by their nature require
+less animal testing) should be encouraged and promoted in the light of the targets foreseen in
+Recommendations 2 and 3. Such a move could mean a substantial reduction in the number of
+animals needed to be used for testing vaccines.
+On a more specific point, the working party makes the following recommendation. 
+Recommendation 5
+The European Pharmacopoeia should consider, and publish, the current progress of (and
+plans for) the replacement of the primate model for polio vaccine safety testing with the
+transgenic mouse model at least as a temporary refinement measure on the route to a viable
+non-animal alternative.
+(We anticipate in any case the disappearance of live polio vaccine in Europe in the fairly near future.)
+According to the EDQM, the monographs of the EP are updated regularly, either systematically or in
+response to 'requests from a public health authority or of an industrialist, if necessary through a
+representative association'. The procedure for revision is extremely complex and time-consuming,
+including discussion of the draft monograph within a group of experts, a public survey (four to six
+months), adoption by the European Pharmacopoeia Commission, and proposal of a date for common
+entry into force, which is ratified by a resolution of the Public Health Committee (PA) of the Council
+of Europe. We make the following recommendations.
+Recommendation 6
+The European Pharmacopoeia Commission should review its procedures for the update,
+publication and ratification of monographs with a view to accelerating the incorporation and
+acceptance of alternative methods, and the deletion of obsolete animal tests.
+Recommendation 7
+The UK government, through the Home Office or the interdepartmental group on the Three Rs,
+should work closely with UK representatives to promote the consideration of all types of
+alternative procedure (replacement, reduction and refinement alternatives) within the EP.
+
+11
+6.3
+Unnecessary duplication of testing
+The working party heard conflicting evidence about the degree of duplication or repetition of testing on
+specific batches of vaccines, and its necessity.
+The animal test methods used for vaccine quality control are inherently variable in response and often
+yield unsatisfactory results. This is generally regarded as unsurprising, variability in response being an
+accepted property of biological systems. There would appear to be differences of opinion on what
+constitutes a satisfactory result in some animal tests, and batches may be re-tested if results do not meet
+certain specifications. For example, the PEI study5 found that 36 per cent of diphtheria vaccine potency
+tests were repeated (Germany 1991-3), largely due to failure to meet the statistical requirements laid
+down in EP or WHO guidelines (eg requirement for parallel response curves for potency of test and
+reference vaccines). Obviously, a test which fails catastrophically, for example due to a dosing error,
+would need to be repeated. On the other hand, insistence on overly stringent criteria for a valid result
+would lead to essentially unnecessary repetition. Repeat testing may also be carried out to ensure that
+prolonged storage of a vaccine batch has not caused a diminution of its efficacy or safety.
+Duplication appears to be required by the EU batch release procedure, where vaccine batches are tested
+at an OMCL, even though the same tests may have been carried out satisfactorily by the manufacturer.
+Duplication may in practise take place under the EU batch release procedure (Article 114 of Directive
+2001/83: see Appendix 2). This is because OCML may review samples from a batch even though the
+same tests may have been carried out satisfactorily by the manufacturer. Up to three tests can be carried
+out on vaccines purchased outside the UK for use by the NHS within the UK (by the manufacturer,
+non-UK OMCL and the UK OMCL for the NHS).
+ The justification for this practice is that governments have the onerous responsibility to ensure the
+safety and efficacy of vaccines, particularly if they are used in public health immunisation programmes.
+The animal tests used for vaccines show the inherent variability of biological tests and the results of a
+single test cannot be relied upon.
+However, an OMCL is not allowed to retest a batch if it has already been tested by another OMCL.
+Each member state must recognise the validity of batch-testing results carried out by the OMCLs of
+other member states. This is the principle of mutual recognition. Serious concern was raised about
+duplication of testing at more than one OMCL, particularly in the UK. A number of contributors said
+that they had evidence that some vaccine batches were tested three times, by the manufacturer, by an
+OMCL outside the UK, and again at the UK OMCL.
+Batch testing at an OMCL is mandated by Art. 114 of Directive 2001/83/EC, (see Appendix 2), but
+makes it clear that any batch should only be tested in one OMCL in the EU. This was confirmed as the
+policy of the Medicinces Control Agency (MCA), in their evidence; a batch release certificate from one
+OMCL was sufficient. Milne et al., after referring to the requirement for mutual recognition of batch
+release certificates in Directive 2001/83/EC, Art 114, go on to say 'This however, does not preclude
+any member state from performing post-market testing on any batch as it sees fit.'. Thus, in the opinion
+of EDQM, the strictures of the Directive apply only to the batch release process, and member state
+governments, and presumably any purchaser of a vaccine, are not constrained from re-testing a product
+for their own reasons. 
+There remained doubts as to whether testing was in fact duplicated by batches being submitted to more
+than one OMCL on occasion. The National Institute for Biological Standards and Control (NIBSC)
+agreed that it was possible that OMCLs in different countries might test the same batch if a
+manufacturer submitted samples to more than one OMCL. At present the NIBSC are sometimes
+required by the NHS to conduct further testing even if it has been tested at another OMCL. We heard
+from Dr Coenraad Hendriksen that a batch tested by one OMCL in a member state should not be
+retested in another and the group was concerned that the UK appeared to be following a different policy
+in this area.
+
+12
+It can be inferred from an article published by staff of the EDQM that mutual confidence in the
+technical competence of OMCLs in different countries is a crucial factor in achieving mutual
+recognition of batch release certificates. Doubts about competence may have led to duplication of
+testing in the past. The network has been in existence for ten years and duplication of testing at OMCLs
+should be a thing of the past.
+The EP told us that when the OMCL network first invited vaccine manufacturers to its annual
+meetings, there were many complaints about duplicate testing. Recently, these complaints had stopped,
+suggesting that there is not now a significant amount of duplicate testing. The view of NIBSC was that
+trust within the OMCL network was the most important factor in preventing duplication. The NIBSC
+regarded a quality assurance scheme as essential and were the first OMCL in Europe to become
+accredited. A scheme developed by the EDQM is now helping to build trust throughout Europe.
+However, there are strong indications that the UK still carries out batch-testing, possibly in breach of
+Article 114. Dr Jon Richmond, the then chief inspector (animal procedures) told the group that he was
+aware that "there is some replication or retesting of [vaccines] that [have] had some testing done
+overseas". He said that this was for scientific reasons that he was not at liberty to disclose. Again this
+highlights the lack of public information in this area. 
+In the light of the improvement in standards across Europe, the practice of sometimes retesting batches
+that have already been tested in other European OMCLs should be discontinued. We therefore make
+the following recommendation.
+Recommendation 8
+The UK government should take all necessary steps to encourage and support the
+development of a uniform and high standard of vaccine testing in OMCLs throughout the EU,
+thereby promoting the mutual acceptance of data and vaccine batch release certificates.
+In the UK, the Animals (Scientific Procedures) Act (ASPA) should prevent unnecessary testing on
+animals for vaccines (see Appendix 4). However, there were two aspects of licensing of vaccines
+testing on animals that were of concern to the working party. Firstly, it is not clear what constitutes an
+acceptable scientific justification for re-testing a batch of vaccine. As already noted, Home Office
+representatives said that the batches were re-tested for unspecified reasons and they gave no examples
+of what was acceptable as a scientific justification for re-testing a vaccine on animals. Secondly, the
+licences are product specific, not vaccine batch specific, making it difficult to prevent duplication of
+testing of particular batches of vaccine. However, we were informed by the Home Office that
+procedures are in place to prevent unnecessary testing. 
+The group was left with the clear impression that the Home Office inspectors are not in a position to
+ensure that batches are not unnecessarily re-tested in contravention of community Directives. Project
+licences are granted for five years, and, as already noted, are not batch-specific. It appeared to the
+group from the evidence of the Home Office representatives that, if another UK governmental agency
+(whether the NIBSC or the NHS) requires batches approved by another OMCL be retested, this would
+happen under a project licence. Indeed the representatives were unclear about the correct legal position.
+It would be clearly unacceptable if the UK were to breach the Directive. We therefore make the
+following recommendation.
+Recommendation 9
+The Home Office should review its current practices in relation to the licensing of vaccine
+testing on animals, with a view to ensuring that both the scientific necessity and legal basis
+for repeat testing is examined for each vaccine batch tested. The procedures adopted and
+evidence for their efficacy should be made publicly available.
+
+13
+In summary, there are many reasons why animal tests on vaccines might be repeated or duplicated. At
+one end of the spectrum, there are valid scientific reasons for repeating a test, such a technical error or
+inadequacy caused by biological variability. At the other end of the spectrum, there are reasons related
+to confidence and trust, liability, legal requirements or even bureaucracy and nationalism. In between,
+there is the possibility that scientific reasons, of varying credibility, are used as a more acceptable
+justification for duplicate testing than some of the other reasons suggested. 
+In the UK it appears, from what the group was told that a standard, NHS contract (covering at least
+some vaccines) requires some re-testing of batches in the UK where they have been already tested by
+another OMCL. The group asked the Department of Health for a specimen contract but this was not
+provided so we cannot confirm this. We were assured by the MCA that only one batch release
+certificate is required, and by the Department of Health that they do not transgress the EU Directive
+prohibiting such a practice. 
+In view of the lack of transparency of the operation of the ASPA in this context, and the lack of specific
+evidence of duplication, we are only able to make the following general recommendation.
+Recommendation 10
+The UK government should take every possible precaution to ensure that procurement
+policies and practices do not lead to duplication of animal testing, even inadvertently. There
+needs to be much greater transparency in the way that government departments operate in
+procurement (including making standard NHS contracts publicly available).
+6.4
+Lack of global harmonisation of testing requirements
+In taking evidence, the working party encountered a lack of harmonisation between European standards
+and those employed elsewhere in the world, for example in Japan or the United States. Such a lack of
+compatibility was of concern because it may result in unnecessary animal use to comply with different
+testing requirements. Therefore, we would make the following recommendation.
+Recommendation 11 
+The UK government should be proactive in attempts to harmonise various national and
+international regulations in the testing of vaccines. We believe that UK representatives should
+use the recommendations of the Paul Ehrlich Institute report as the basis for such efforts. 
+
+14
+7. 
+Bibliography
+(1)
+House of Lords Select Committee on Animals in Scientific Procedures, Report 16 July 2002, 
+The Stationery Office.
+(2)
+Animal Procedures Committee: The Use of Primates Under the Animals (Scientific Procedures) Act
+(1986) - Analysis of Current Trends with Particular Reference to Regulatory Toxicology. 
+Published by Home Office, Communication Directorate, March 2003.
+(3)
+Home Office: Statistics of Scientific Procedures on Living Animals, Great Britain (separately Northern
+Ireland), published annually and available through The Stationery Office.
+(4)
+Replacement, Reduction and Refinement and biologicals: about facts, fiction and frustrations. 
+Hendriksen, CFM , in Progress in the Reduction, Refinement and Replacement of Animal
+Experimentation. Balls, M, van Zeller & Halder, MF (Eds), Elsevier Science BV, 2000, pp 51-63.
+(5)
+Animal Welfare Aspects in the Quality Control of Immunobiologicals: A critical evaluation of the
+animal tests in Pharmacopoeial Monographs. 
+ Weissler, K & Hechler, U, FRAME, 1997.
+(6)
+Presentation to AllChemE Seminar, European Parliament, Brussels, May 7, 2003. Hendriksen, CFM.
+Currently available at www.allchemeseminars.org/downloads/ 07-05-03/EuropeanParliament1.pdf.
+(7)
+Advancing Science and Elimination of the Use of Laboratory Animals for Development and Control 
+of Vaccines and Hormones: Developments in Biologicals. 
+Vol 111, Ed. F Brown,C Hendriksen, D Sesardic & K Cussler. Karger, Basel, Switzerland, 2002.
+(8)
+Alternatives to Animal Testing in the Quality Control of Immunologicals: Current Status and Future
+Prospects. Hendriksen et al. ECVAM Workshop Report 4, ATLA 22, 420-434,1994.
+(9)
+Reduction of animal use in human vaccine quality control: opportunities and problems. 
+Metz B, Hendriksen CF, Jiskoot W, Kersten GF. Vaccine 2002 Jun 7 20:19-20 2411-30
+(10)
+Validation of Alternative Methods for the Potency Testing of Vaccines. 
+(Hendriksen et al). ECVAM Workshop Report 31, ATLA 26, 747-761, 1998.
+(11)
+The EU/EEA OMCL Network for Official Control Authority Batch Release of Biologicals for Human Use.
+Milne, C, Buchheit, KH & Spieser, JM Regulatory Affairs Journal, June 2002, p477-483.
+(12)
+Refinement of Vaccine Potency Testing with the Use of Humane Endpoints.
+CFM Hendriksen and Björn Steen, ILAR Journal V41(2) 2000.
+(13)
+Transgenic mice as an alternative to monkeys for neurovirulence testing of live oral polio vaccine:
+validation by a WHO collaborative study. Dragunsky E, Nomura T, Karpinski K, Furesz J, Woods D J,
+Pervikov Y, Abe S, Kurata T, Vanloocke O, Karganova G, Tuffs R, Heath A, Ivshina A, Levenbrook I.
+Bulletin of the World Health Organisation: 81(4): 251-260. 2003.
+
+15
+Appendix 1:
+Members and contributors of evidence
+Members of the working party
+Nick Palmer MP, Chairman.
+Niall Duffy, Royal Society for the Prevention of Cruelty to Animals (RSPCA), Secretary.
+Krys Bottrill, Fund for the Replacement of Animals in Medical Experiments (FRAME).
+Ian Furminger, Association of British Pharmaceutical Industries (ABPI).
+Barry Phillips, RSPCA Research Animals Department.
+Michelle Thew, British Union for the Abolition of Vivisection (BUAV), 
+David Thomas (BUAV) for two meetings.
+ 
+David Whittaker, British Veterinary Association.
+Organisations giving evidence
+Representatives of the following organisations gave oral evidence to the working party.
+National Institute for Biological Standards and Control (NIBSC).
+National Institute of Public Health and the Environment (RIVM), the Netherlands/Netherlands Centre
+for Alternatives to Animal Use (NCA).
+European Pharmacopoeia Commission/ European Directorate for the Quality of Medicines.
+GlaxoSmithKline plc.
+Medicines Control Agency (MCA).
+Home Office: Animal Procedures and Coroners Unit/Animals (Scientific Procedures) Inspectorate.
+Written evidence was also submitted by Aventis Pasteur MSD.
+Members' policy statements
+British Union for the Abolition of Vivisection (BUAV)
+The BUAV opposes all animal experiments. We believe animals are entitled to respect and compassion which
+animal experiments deny them. The BUAV campaigns peacefully for effective, lasting change by challenging
+attitudes and actions towards animals worldwide. 
+British Veterinary Association (BVA)
+The BVA believes that the use of animals in experiments is a justifiable use by man, but that this use has to be
+controlled, and that the health and welfare of the animals involved must be a prime consideration at all times. 
+The BVA recognises that experiments on animals have brought - and will continue to bring - significant benefits
+for man and animals not only by improving health and welfare but also through the advancement of scientific
+knowledge. The BVA believes that the veterinary profession has a duty to care for experimental animals and
+must continue to be actively involved in safeguarding their health and welfare.
+The BVA supports the Animals (Scientific Procedures) Act 1986, which replaced the Cruelty to Animals Act
+1876 with a more rigorous system of controls on scientific work on living animals. The BVA believes that the
+1986 Act has done much to improve the health and welfare of animals involved in experimentation. 
+
+16
+The BVA continues to support the Three Rs:
+• 
+refinement of scientific techniques
+• 
+reduction in the number of animals used
+• 
+replacement of animal experimentation with alternative methods
+In addition, BVA supports a further three Rs:
+• 
+respect for animals
+• 
+recognition of suffering
+• 
+relief of pain
+For further advice please contact the BVA. The BVA is constantly updating its policies.
+Fund for the Replacement of Animals in Medical Experiments (FRAME)
+Our long-term goal is the total elimination of laboratory animal use, through the development, validation and
+acceptance of replacement alternative methods. Until this goal is reached, we also support efforts to reduce the
+numbers of animals used through better science and better experimental design, and to refine procedures so that
+the suffering of any animals necessarily used is minimised. FRAME seeks to promote a moderate, but
+nonetheless determined, approach, by encouraging a realistic consideration of the ethical and scientific issues
+involved and the widest possible adoption of the Three Rs.
+Royal Society for the Prevention of Cruelty to Animals (RSPCA)
+The prime objectives of the RSPCA are to promote kindness and prevent or suppress cruelty to animals. With
+respect to laboratory animals, the RSPCA is opposed to all experiments or procedures that cause them pain,
+suffering, distress or lasting harm.
+The Society takes a constructive, practical approach, supporting and promoting the development and adoption of
+techniques that will result in the replacement of animals with humane alternatives; a reduction in the number of
+animals used; and refinement of experiments to reduce suffering and improve welfare. As long as animals
+continue to be used, the RSPCA believes that every possible effort should be made to prevent suffering at every
+stage of the animals' lives, ie not just during experiments, but also as a result of their acquisition, husbandry
+and care.
+Association of the British Pharmaceutical Industry (ABPI) 
+The ABPI is the trade association that brings together more than 80 pharmaceutical companies in the UK which
+together discover, develop, manufacture and supply more than 80 per cent of the medicines prescribed through
+the NHS. 
+All new prescription medicines are developed with the help of information from animal studies. The UK
+pharmaceutical industry is committed to the principles of the Three Rs of animal research (replacement,
+refinement and reduction) and works at the forefront in the development of non-animal methods.
+The pharmaceutical industry fully accepts its responsibility to use as few animals as possible, conduct the
+research in a humane way and to look after the animals properly at all times. Animal studies remain an essential
+part of the process that brings new medicines to patients.
+Important gaps in our biological knowledge mean that methods such as cell culture and computer simulation still
+give a limited picture of what happens in the whole living body. Most of the effects of medicines that cannot yet
+be predicted from these methods can be seen in well designed and interpreted animal studies. 
+Given this, it would be immoral to go straight from non-animal investigations into the human testing stages. It
+would also be illegal. All new medicines go through extensive clinical trials in people, but only once there is
+sufficient information to indicate it is safe to do so. 
+
+17
+Appendix 2:
+Vaccine testing - EU system 
+and legislative requirements
+Product licensing
+Before a vaccine may be placed on the market, the product must be licensed. There are two routes for licensing in
+the EU; the centralised procedure, through the European Medicines Evaluation Agency, and a national/mutual
+recognition procedure through the competent authority of one member state. The centralised procedure is
+compulsory for vaccines produced using recombinant technology, but vaccines produced by conventional
+methods may be licensed by either route. Using the centralised procedure, the licence will be recognised
+throughout the EU, but if a product is licensed in an individual member state, a process of mutual recognition has
+to be gone through to license the product in other member states.
+Legal basis
+In the EU, the basis for the control of all medicinal products for human use, including vaccines, is Directive
+2001/83/EC on the Community code relating to medicinal products for human use. In the UK, the licensing of
+vaccines is covered by The Medicines for Human Use (Marketing Authorisations. etc.) Regulations 1994, as
+amended, pursuant to the Medicines Act 1968.
+Annex 1 of Directive 2001/83/EC; Analytical, Pharmacological and Clinical Standards and Protocols in respect
+of the Testing of Medicinal Products, states that, for starting materials, 'The monographs of the European
+Pharmacopoeia shall be applicable to all substances appearing in it', and for control tests on the finished product,
+'The provisions of the monographs for pharmaceutical forms, immunosera, vaccines and radiopharmaceutical
+preparations of the European Pharmacopoeia, or failing this, in the national pharmacopoeia of a Member
+State, shall be applicable to all products defined therein.' The key role of the European Pharmacopoeia
+(EP) in determining which methods are used to test vaccines was first given legal status in 1975, in
+Directive 75/318/EEC.
+The overriding principle, set out in the introduction to Part 2 of Annex 1 to the 2001 Directive (Chemical,
+pharmaceutical and biological testing of medicinal products) is that 'all test procedures shall correspond to the
+state of scientific progress at the time and shall be validated procedures...'. The introduction to the Annex as a
+whole says that member states must ensure that all tests on animals are carried out in accordance with EC
+Directive 86/609. This Directive incorporates the Three Rs principle - an animal must not be used where a
+non-animal method, or another animal method involving the use of fewer animals or less suffering, would
+produce equivalent information. It was recognised in evidence given to the group that there is often a
+considerable time-lag between the development of a technique and its inclusion in the EP. 
+In the UK, the responsibility for the licensing of medicines lies with the Medicines and Healthcare products
+Regulatory Agency (MHRA), an executive agency of the Department of Health. The Agency was previously the
+Medicines Control Agency (MCA).
+Lot release
+Lot release is the process of reviewing each individual lot or batch of a licensed product before giving approval
+for its release onto the market and is carried out for vaccines and other biological drugs. It involves the review of
+the manufacturer's production data and quality control test results by the national regulatory authority, and may or
+may not include laboratory testing by the relevant Official Medicines Control Laboratory. The requirements for
+information, the format of the data, and the type and number of samples to be submitted for lot release are
+established during the licensing evaluation and are included as a condition of the licence.
+
+18
+Legal basis
+Batch testing is allowed by Art. 114 of Directive 2001/83/EC.
+Where it considers it necessary in the interests of public health, a member state may require the holder of an
+authorisation to submit samples from each batch of the bulk and/or the medicinal product for examination by a
+state laboratory designated for that purpose before release onto the market unless, in the case of a batch
+manufactured in another member state, the competent authority of that member state has previously examined the
+batch in question and declared it to be in conformity with the approved specifications.
+This applies to marketing:
+• 
+live vaccines
+• 
+immunological medicinal products used in the primary immunisation of infants or other groups at risk
+• 
+immunological medicinal products used in public health immunisation programmes
+• 
+new immunological medicinal products or immunological medicinal products manufactured using new or
+altered kinds of technology or new for a particular manufacturer, during a transitional period normally
+specified in the marketing authorisation.
+European Official Medicines Control Laboratories (OMCLs)
+The European Directorate for the Quality of Medicines (EDQM; see below) coordinates a network of OMCLs in
+European countries. These laboratories are responsible, inter alia, for the lot release of vaccines. The National
+Institute for Biological Standards and Control (NIBSC) is the OMCL for the UK. NIBSC has performed this
+function for many years and currently evaluates around 1,800 batches of biological products annually. In addition
+to official batch testing, some biological medicines that are not covered by formal batch release schemes are also
+monitored by NIBSC to check their quality. Testing of products already released onto the market may also be
+carried out when particular problems arise, such as failure of correct storage conditions or adverse reactions in
+patients.
+NIBSC is managed by the National Biological Standards Board (NBSB). The Board was established by the
+Biological Standards Act of 1975, with functions specified in the NBSB Functions Order of 1976.
+Methods of testing
+For established vaccines, the methods of testing for efficacy and safety are laid down in monographs published
+by the European or national pharmacopoeias. These methods must be used for quality control. For new vaccines,
+appropriate test methods are normally established during the development phase leading up to licensing, and
+monographs are elaborated for future use with the vaccine.
+European Pharmacopoeia (EP)
+The European Pharmacopoeia Commission was inaugurated in 1964 through a convention of the Council of
+Europe (European treaty series No 50). By virtue of Article 1 of the Convention, the contracting parties undertake
+'progressively to elaborate a pharmacopoeia which shall be common to all countries concerned and which shall
+be entitled 'European Pharmacopoeia'; to take the necessary measures to ensure that the monographs or
+European standards which constitute the European Pharmacopoeia shall become the official standards
+applicable within their respective countries'. 
+The Protocol to the Convention on the Elaboration of a European Pharmacopoeia of 16 November 1989 prepared
+the way for the European Community to become a full member by modifying certain provisions of the
+Convention and establishing the respective areas in which the Commission of the European Communities and its
+member states can act (European treaty series No 134).
+
+19
+The EP contains monographs for licensed vaccines. The monographs contain detailed specifications for the safety
+and efficacy testing of each vaccine. If a licensing request is made for a vaccine that is already on the market in
+Europe, the testing must comply with the EP monograph.
+European Directorate for the Quality of Medicines (EDQM)
+In 1994, the EP Secretariat took on new responsibilities in setting up a European network of laboratories involved
+in the quality control of medicines for human and veterinary use. Consequently, the Secretariat changed its name
+to the European Directorate for the Quality of Medicines (EDQM) to cover this expanded role. The EDQM is part
+of the administrative structure of the Council of Europe and has, as one of its major responsibilities, the
+Biological Standards Programme, assigned to EDQM Division 4. The goals of this programme are stated as:
+• 
+elaboration of European reference substances and working standards for biologicals
+• 
+standardisation of test methods for the quality control of biologicals
+• 
+elaboration of alternative methods for the quality control of biologicals to apply the Three Rs concept
+(Refine, Reduce, Replace animal experiments)
+• 
+contribution to the international harmonisation in the field of biologicals.
+The World Health Organisation (WHO)
+The WHO has published production and control requirements for most currently available vaccines in their
+technical report series documents. The monographs of the EP are generally in line with WHO guidelines, but the
+WHO must take account of circumstances in developing countries, and is therefore more cautious about making
+changes that might cause technical difficulties in some parts of the world.
+
+20
+Appendix 3:
+The role of European organisations 
+in the development of alternatives
+The European Centre for the Validation of Alternative Methods (ECVAM) 
+ECVAM was established in 1991, as part of the Joint Research Centre, a Directorate General of the European
+Commission. ECVAM has a central role in the validation of alternative methods and generally reports the results
+of validation studies to DG Environment (chemical testing) or DG Enterprise (vaccine testing). However, where
+methods of vaccine testing are involved, ECVAM has worked in close cooperation with the European Directorate
+for the Quality of Medicines (EDQM) and OMCLs (see below), and has influenced the European Pharmacopoeia
+(EP) to modify monographs.
+At one of the first meetings of the ECVAM Scientific Advisory Committee, it was decided that the
+implementation of the Three Rs in the development, production and quality control of biologicals should be one
+of ECVAM's priorities. Contributions, both financially and scientifically, have been made by ECVAM in the
+form of organising workshops, sponsoring training courses, producing manuals and reports, supporting
+conferences, and organising and funding validation studies on a number of alternative methods. Completed
+studies include validation of a number of serological methods for the batch potency testing of human tetanus and
+rabies vaccines, assessment of the relevance of the target animal safety test for veterinary vaccines, and the use of
+humane endpoints in challenge tests.
+An ECVAM workshop was held in 1994, entitled Alternatives to Animal Testing in the Quality Control of
+Immunologicals: Current Status and Future Prospects. The report of this workshop8 made a number of
+recommendations to the EP, the World Health Organisation (WHO) and others, including the implementation of
+guidelines for the humane treatment and care of animals used in the production and quality control of vaccines.
+This report was influential in the deletion of the abnormal toxicity test, reducing animal use in the EU by about
+25,000 per year.
+In response to one of the recommendations of this report, ECVAM supported the establishment of a working
+group on Humane Endpoints for Lethal Parameters (HELP), based at RIVM (Netherlands). Studies have shown
+that challenge tests may be terminated early, on the basis of clinical signs of disease, avoiding the severe pain and
+suffering involved in allowing animals to die. A general statement that humane endpoints should be used in these
+tests has been incorporated into the EP monograph Vaccines for Human Use.
+The report also recommended that animal tests for abnormal toxicity (intended to detect toxic contaminants)
+should be deleted from a number of vaccine monographs. This was done in 1997, and is estimated to have saved
+35,000 animals per year in Europe.
+Validation of Alternative Methods for the Potency Testing of Vaccines was the subject of a workshop in 1998.
+The report10 is concerned mainly with the method and process of validation of alternative methods. It is pointed
+out that vaccine quality control is essentially a means of ensuring consistency of production, and that in vitro
+tests, introduced alongside the established animal tests, could gradually replace them to a large extent without the
+need for extensive, independent validation studies. Involving control authorities in the process of validation is
+identified as a key factor. Finally, it is recommended that a task force should be set up to draft guidelines for the
+validation of alternative methods for the potency testing of vaccines.
+Cooperation between ECVAM, EDQM and the EP has been fruitful in the development, validation and
+acceptance of serological techniques for a number of vaccines. These methods could reduce the numbers
+of animals used in Europe by about 50,000 and substantially reduce the amount of suffering involved in
+challenge tests.
+
+21
+European Directorate for the Quality of Medicines (EDQM)
+According to the EDQM, the European Pharmacopoeia Commission has 'elaborated a policy of replacing the use of
+animals in quality control testing of medicines, in parallel with the application of the corresponding Convention
+of the Council of Europe. A sizeable programme of work has been set to apply the Three Rs concept (refine,
+reduce, replace). To this end, the Council of Europe, represented by the EDQM, and the Commission of the European
+Communities are now working on an extensive standardisation programme to set up collaborative studies to:
+• 
+evaluate, develop and improve the standardisation of test methods for biologicals
+• 
+prepare European working standards
+• 
+apply the Three Rs concept to replace the use of laboratory animals
+• 
+foster the international harmonisation of test methods for biologicals in close collaboration with the WHO
+and the other main partners whenever possible.
+Peter Castle, European Director for the Quality of Medicines, told us that the European Pharmacopoeia
+Commission feels that it has a duty to follow the rules of the European Convention on Animal Protection
+(ETS123) and that it has made a great deal of progress in applying the Three Rs in Pharmacopoeia tests during
+the last 15 years. He explained that the EP is not involved in basic research and does not have the funds to
+support research, but the EP can identify areas where work is needed and encourage others to investigate new
+methods. They have more involvement in the later stages of test validation when they need to ensure that all the
+relevant laboratories are able to employ the new tests. An exception to this rule was the development and
+validation of serological tests for tetanus vaccine, where the EP became involved at an early stage, working with
+ECVAM. Validation of these tests was extremely expensive (estimated at possibly a million Euros) and the
+funding came from ECVAM. 
+Official Medicines Control Laboratories (OMCLs)
+In the UK, the National Institute for Biological Standards and Control (NIBSC) conducts a considerable amount
+of research on vaccine test methods and has been actively pursuing the Three Rs in the quality control of
+biological products for human use. NIBSC has taken part in a number of validation programmes with ECVAM
+and other OMCLs. The extent of the involvement of NIBSC in the development and validation of non-animal
+methods can be judged by their contribution to the International Association of Bioethics conference held in
+November 20017. Members of NIBSC presented or were co-authors of five scientific papers, and 10 poster
+presentations on alternatives in vaccine testing. The subjects covered included alternative methods for the quality
+control of tetanus, diphtheria, polio, pertussis, and rabies vaccines.
+RIVM, the Dutch OMCL, has also been very active in the development and validation of alternative methods.
+Dr Hendriksen said that RIVM had an institutional centre for Three Rs activities which acts as a focal point and
+has been successful in initiating a number of successful projects.
+The Paul-Ehrlich-Institute (PEI) in Germany has also made a substantial contribution to the Three Rs in vaccine
+testing. An extensive study of the animal methods included the German and European Pharmacopoeias,
+supported by the German Federal Ministry of Education, Science, Research and Technology, was published with
+the help of ECVAM5. Each method was critically assessed and recommendations were made in each case for the
+implementation of the Three Rs. The report was circulated to a large number of regulatory laboratories and
+bodies, industry, scientists and animal welfare groups, and is used by WHO in their training programmes. It led to
+the submission of 'requests for revision' to the EP and, ultimately a number of significant changes saving
+thousands of guinea pigs and mice.
+Industry
+Vaccine manufacturers have also been involved in the development of alternative test methods. An example was
+provided by GlaxoSmithKline who described their attempts to replace the use of non-human primates in the
+neurovirulence test for oral polio vaccine. The group recognises that there has been progress by industry in
+developing newer vaccines such as the Hepatitis B, Acellular Pertussis and conjugate vaccines for H. influenzae
+and meningococcal type C. These vaccines are more chemically defined than the older vaccines and require
+limited animal testing.
+
+22
+Appendix 4:
+Regulation of animal procedures in the UK
+In the UK, animal procedures used for the quality control of vaccines are regulated in the same way as all other
+scientific procedures that may cause animals pain, suffering, distress or lasting harm (regulated procedures). The
+Animals (Scientific Procedures) Act 1986 (ASPA) is the basic legislation under which the Home Office regulates
+animal experiments by means of a licensing scheme operated by the Home Office (Animals Scientific Procedures
+Division). Regulated procedures can only be carried out at a suitable establishment holding a certificate of
+designation, and by staff holding personal licences. Each programme of research or testing involving regulated
+procedures is subject to a specific project licence. Programmes are often extremely wide, and many involve
+diverse procedures.
+Some key requirements of the ASPA are:
+1
+In determining whether and on what terms to grant a project licence the Secretary of State
+shall weigh the likely adverse effects on the animals concerned against the benefit likely to
+accrue as a result of the programme to be specified in the licence.
+This implies that regulated procedures (which by definition are likely to have adverse effects) must be
+justifiable in terms of the intended benefits of the experiment. The intended benefits of quality control
+of vaccines are clear, but what must be considered is whether the proposed procedure is scientifically
+valid (likely to yield a meaningful result) and necessary. Procedures which are duplicated (ie the
+information sought is already available) breach this provision, as there is no benefit in generating data
+which has already been generated. Similarly, batch testing which is repeated by or at the behest of the
+UK OMCL in breach of Article 114 of Directive 2001/83 cannot constitute a permissible benefit.
+2
+The Secretary of State shall not grant a project licence unless he is satisfied - (a) that the
+purpose of the programme to be specified in the licence cannot be achieved satisfactorily by
+any other reasonably practicable method not entailing the use of protected animals; and (b)
+that the regulated procedures to be used are those which use the minimum number
+of animals, involve animals with the lowest degree of neurophysiological sensitivity, cause
+the least pain, suffering, distress or lasting harm, and are most likely to produce
+satisfactory results.
+These provisions are intended to ensure that the Three Rs (Replacement, Reduction and Refinement)
+are always applied as far as possible. These requirements take precedence over the EP and other
+monographs, which may not yet have been updated to reflect the latest scientific assessment. 
+Dr Jon Richmond, then chief inspector of the A(SP)I, explained to the working party how project licences that
+apply to vaccine quality control testing are structured. In general, they are product-specific, and cover those
+procedures required for safety and efficacy testing of a particular vaccine. However, a large number of individual
+tests can be conducted under the same licence. As a control on the procedures carried out on specific batches
+under this 'generic' licence, the licensees were required to set out an 'algorithm' stating what variations of test
+packages or procedures would be used under defined circumstances, for example when there was existing test
+data. An audit trail is established so that adherence to the algorithm can be verified.
+Project licences are generally valid for five years, but there is a requirement that technical progress is taken into
+account so that the technical content of the licence is updated to take account of developments in the Three Rs. Dr
+Richmond said that the A(SP)I was pro-active in this regard, informing licence holders of relevant developments.
+Licence holders must notify the inspectorate of the numbers of animals used under each project licence, and these
+numbers are included in statistics which are returned to and published by the Home Office annually. However,
+there is no specific category for vaccine testing procedures, making it impossible to monitor changes in the
+patterns of animal use for this purpose. 
+
+23
+This report was prepared by a working group of the Associate Parliamentary Group for Animal Welfare.
+The working group was made up of representatives from the British Union for the Abolition of Vivisection
+(BUAV), the British Veterinary Association (BVA), the Fund for the Replacement of Animals in Medical
+Experiments (FRAME), the Royal Society for the Prevention of Cruelty to Animals (RSPCA) and the
+Association of the British Pharmaceutical Industry (ABPI).
+March 2005

@@ -1,0 +1,2363 @@
+Abilene Christian University 
+Abilene Christian University 
+Digital Commons @ ACU 
+Digital Commons @ ACU 
+Electronic Theses and Dissertations 
+Electronic Theses and Dissertations 
+5-2026 
+Scrolling for Connection: The Influence of Loneliness, Self-
+Scrolling for Connection: The Influence of Loneliness, Self-
+Esteem, and Stress on Susceptibility to Conformity-Driven Online 
+Esteem, and Stress on Susceptibility to Conformity-Driven Online 
+Purchasing and Gambling Behaviors in Generation Z 
+Purchasing and Gambling Behaviors in Generation Z 
+Emily M. Bauknight 
+emb24a@acu.edu 
+Follow this and additional works at: https://digitalcommons.acu.edu/etd 
+ Part of the Cognition and Perception Commons, Personality and Social Contexts Commons, and the 
+Quantitative Psychology Commons 
+Recommended Citation 
+Recommended Citation 
+Bauknight, Emily M., "Scrolling for Connection: The Influence of Loneliness, Self-Esteem, and Stress on 
+Susceptibility to Conformity-Driven Online Purchasing and Gambling Behaviors in Generation Z" (2026). 
+Digital Commons @ ACU, Electronic Theses and Dissertations. Paper 1020. 
+This Thesis is brought to you for free and open access by the Electronic Theses and Dissertations at Digital 
+Commons @ ACU. It has been accepted for inclusion in Electronic Theses and Dissertations by an authorized 
+administrator of Digital Commons @ ACU. 
+
+ 
+ 
+ 
+ABSTRACT 
+This study aimed to examine the relationships among loneliness, self-esteem, conformity, 
+and online purchasing and gambling behaviors in Generation Z college students. To do 
+so, a cross-sectional design was implemented with a sample of 69 undergraduate and 
+graduate students who completed self-report measures assessing self-esteem, loneliness, 
+conformity, psychological distress, online shopping addiction, and online gambling 
+severity. Data were analyzed using SPSS through multiple and simple linear regression 
+analyses, moderated regression, and Pearson correlations. Results indicated that selfesteem and loneliness were not significant predictors of conformity, and conformity did 
+not predict online shopping or gambling behaviors. Additionally, self-esteem, loneliness, 
+and conformity did not significantly predict online shopping addiction. However, lower 
+self-esteem significantly predicted greater online gambling severity. Psychological 
+distress partially moderated the relationship between loneliness and online shopping 
+addiction but not gambling behavior. Screen time was also positively associated with 
+both online shopping addiction and online gambling severity. Overall, these findings 
+suggest that conformity may not be a central factor driving maladaptive online behaviors 
+in Generation Z. Instead, psychological factors may play a stronger role in online 
+gambling, while online shopping appears to be more influenced by environmental factors.
+
+ 
+ 
+ 
+Scrolling for Connection: The Influence of Loneliness, Self-Esteem, and Stress on 
+Susceptibility to Conformity-Driven Online Purchasing and Gambling Behaviors in 
+Generation Z 
+ 
+ 
+ 
+A Thesis Presented to 
+The Faculty of the Department of Psychology 
+Abilene Christian University 
+ 
+ 
+ 
+In Partial Fulfillment 
+Of the Requirements for the Degree 
+Master of Science in Clinical Psychology 
+ 
+ 
+ 
+By 
+Emily Bauknight 
+May 2026
+
+
+ 
+ 
+ 
+Dedicated to my mother, J.Lynn Bauknight who has answered any question I have ever 
+had, my father, Jeff Bauknight who may not have had the answer but always had a 
+Google search ready and Connor Pease, for supporting me no matter the circumstance.
+
+ 
+ 
+ 
+ACKNOWLEDGMENTS 
+This project would not exist if not for the supervision and support from my thesis chair 
+Dr. Rhodes, who took the time to help me with any obtuse issue I had. I would also like 
+to extend a thank you to both Dr. McAnulty and Dr. Stein for being a part of my thesis 
+committee and taking the extra time in their ever-busy schedules to offer advice and read 
+every draft. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Copyright by Emily Bauknight (2026) 
+All Rights Reserved 
+ 
+ 
+
+ 
+ 
+ 
+TABLE OF CONTENTS 
+LIST OF TABLES ................................................................................................. iv 
+I. 
+LITERATURE REVIEW ....................................................................................... 1 
+Introduction ............................................................................................................ 1 
+The Addictive Nature of Social Media and Influencer Marketing ......................... 2 
+Escapism and Algorithmic Reinforcement ............................................................. 4 
+Psychological Implications: Low Self-Esteem and Social Isolation ...................... 6 
+Gen Z's Need to Consume to Cope ........................................................................ 8 
+Consumerism in the Digital Age ............................................................................ 9 
+Digital Gambling Addiction and Gen Z ............................................................... 12 
+Social Influence Theory and Conformity Online ................................................. 14 
+Gaps in the Literature and Future Research Directions ........................................ 15 
+II. 
+METHODOLOGY ............................................................................................... 17 
+Participants ........................................................................................................... 17 
+Inclusion and Exclusion Criteria .......................................................................... 17 
+Design and Procedure .......................................................................................... 18 
+Measures .............................................................................................................. 18 
+The Conformity Scale ............................................................................... 18 
+Rosenberg Self-Esteem Scale (RSES) ...................................................... 19 
+The Online Shopping Addiction Scale ..................................................... 19 
+UCLA Loneliness Scale Version 3 ........................................................... 19 
+
+ 
+ 
+The Online Gambling Disorder Questionnaire (OGD-Q) ........................ 20 
+The Depression Anxiety Stress Scale-21 (DASS-21) .............................. 20 
+Hypotheses ............................................................................................................ 21 
+Hypothesis 1 ............................................................................................. 21 
+Hypothesis 2 ............................................................................................. 21 
+Hypothesis 3 ............................................................................................. 21 
+Hypothesis 4 ............................................................................................. 21 
+Hypothesis 5 ............................................................................................. 21 
+Hypothesis 6 ............................................................................................. 22 
+III. 
+RESULTS ............................................................................................................. 23 
+Participants ........................................................................................................... 23 
+Descriptive Statistics ............................................................................................ 23 
+Hypothesis Testing ............................................................................................... 24 
+Hypothesis 1 ............................................................................................. 24 
+Hypothesis 2 ............................................................................................. 26 
+Hypothesis 3 ............................................................................................. 27 
+Hypothesis 4 ............................................................................................. 29 
+Hypothesis 5 ............................................................................................. 31 
+Hypothesis 6 ............................................................................................. 35 
+IV. 
+DISCUSSION ....................................................................................................... 37 
+Summarized Findings ........................................................................................... 37 
+Interpretation ............................................................................................ 37 
+Integration ................................................................................................. 40 
+
+ 
+ 
+Limitations ................................................................................................ 40 
+Conclusion ............................................................................................................ 41 
+Future Directions ................................................................................................. 42 
+REFERENCES ..................................................................................................... 43 
+APPENDIX A: Institutional Review Board Approval ......................................... 55 
+APPENDIX B: List of Measures .......................................................................... 56 
+ 
+
+ 
+iv 
+ 
+ 
+ 
+LIST OF TABLES 
+Table 1: Linear Regression for Predictions of Self-Esteem and Loneliness on Conformity 
+Among the Sample of Generation Z College Students - Model Fit Measures ................. 25 
+Table 2: Linear Regression for Predictions of Self-Esteem and Loneliness on Conformity 
+Among the Sample of Generation Z College Students - Model Coefficients ................... 26 
+Table 3: Linear Regression for Predictions of Online Shopping Addiction Among the 
+Sample of Generation Z College Students - Model Fit Measures .................................... 27 
+Table 4: Linear Regression for Predictions of Online Shopping Addiction Among the 
+Sample of Generation Z College Students - Model Coefficients ..................................... 27 
+Table 5: Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity 
+on Predicted Online Shopping Addiction Among the Sample of Generation Z College 
+Students - Model Fit Measures ......................................................................................... 28 
+Table 6: Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity 
+on Predicted Online Shopping Addiction Among the Sample of Generation Z College 
+Students - Model Coefficients .......................................................................................... 29 
+Table 7: Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity 
+on Predicted Online Gambling Severity Among the Sample of Generation Z College 
+Students - Model Fit Measures ......................................................................................... 30 
+Table 8: Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity 
+on Predicted Online Gambling Severity Among the Sample of Generation Z College 
+Students - Model Coefficients .......................................................................................... 31 
+
+ 
+iv 
+Table 9: Linear Regression Results for Psychological Distress when Moderating the 
+Relationships Between Psychological Vulnerability (Self-Esteem and Loneliness) and 
+Online Shopping Addiction Among the Sample - Model Fit Measures ........................... 32 
+Table 10: Linear Regression Results for Psychological Distress when Moderating the 
+Relationships Between Psychological Vulnerability (Self-Esteem and Loneliness) and 
+Online Shopping Addiction Among the Sample - Model Coefficients ............................ 33 
+Table 11: Correlation Matrix Results for the Relationship Between Screen Time, 
+Conformity, Online Shopping Addiction, and Online Gambling Severity ....................... 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+ 
+ 
+CHAPTER I 
+LITERATURE REVIEW 
+Introduction 
+ 
+Loneliness is a profoundly human experience, rooted in our evolutionary drive for 
+social connection (Cacioppo et al., 2014). Ironically, even in an age of constant digital 
+communication, feelings of isolation are rising. The U.S. Surgeon General has labeled 
+loneliness a public health crisis, particularly among young adults aged 18 to 34 (Connors, 
+2024). Though social media platforms promise connection, many users report that online 
+relationships often feel shallow or performative (Haimson et al., 2021). 
+Loneliness impacts not only the mental health of those suffering from it but also 
+their physical health. Several studies have shown that social isolation and loneliness 
+affect health and mortality risk factors, such as high blood pressure, obesity, and 
+smoking, as a coping mechanism (Singer, 2018). Social isolation can also contribute to 
+higher cardiovascular disease risk by triggering greater sympathetic nervous system 
+activity, elevating inflammation levels, and disrupting sleep, factors that can accelerate 
+both brain and cardiovascular aging (Singer, 2018). 
+The disconnect from social isolation can push people to seek comfort in other 
+areas, such as shopping or gambling. Research has shown that loneliness can lead to 
+emotionally driven consumption, often as a maladaptive coping mechanism (Kim, 2017). 
+Influencers offer users a sense of connection with their curated content and relatable 
+personas. This influence can deepen emotional dependence and reinforce materialistic 
+
+ 
+2 
+values, as individuals experiencing loneliness may find comfort in watching their favorite 
+influencers and purchasing the products they promote as a way to cope. Influencer 
+marketing and the addictive design of social media platforms both seem to contribute to 
+this cycle. Platforms like Instagram and TikTok are designed to maximize user 
+engagement through personalized content, which can lead to increased screen time, 
+decreased self-esteem, and stronger feelings of isolation (Jouhki et al., 2022). These 
+algorithms also amplify conformity by repeatedly exposing users to trending content and 
+influencer-endorsed products (Babu et al., 2025; Golino, 2021). 
+The Addictive Nature of Social Media and Influencer Marketing 
+ 
+The presence of social media platforms has led to the emergence of behaviors like 
+those of addiction, with research showing the compelling nature of instant gratification 
+associated with digital engagement (Kumar & Mondal, 2018). The easy access to content, 
+coupled with algorithm-driven content recommendations, can foster compulsive scrolling 
+behavior, commonly referred to as "doom-scrolling" (Dodds, 2024). Short-form content, 
+such as TikTok videos and Instagram Reels, reinforces this cycle by minimizing 
+cognitive load and continuously presenting novel stimuli, reducing opportunities for 
+reflective thought (Jouhki et al., 2022). 
+"Doom-scrolling" has several negative impacts on users' mental health, including 
+heightening depression, anxiety, and stress (Sekhon, 2024). This habit has also been 
+strongly linked to poor sleep quality, social interaction anxiety, and emotional exhaustion 
+(Anchan, 2025). These results are associated with many factors, one of which is a result 
+of the disruption of sleep latency and efficiency from the blue light emitted by modern 
+cell phone screens (Ayaki et al., 2016; Yang et al., 2018). Satici and colleagues also 
+
+ 
+3 
+found that doomscrolling was found to be significantly negatively associated with 
+conscientiousness, extraversion, and agreeableness, while showing a significant positive 
+association with neuroticism, consistent with prior research (Satici et al., 2023; Sharma et 
+al., 2022). Additionally, doomscrolling was found to have positive relationships with 
+FOMO and social media addiction (Satici et al., 2023). This suggests that individuals 
+who engage in the habit are at greater risk of developing addictive behaviors and 
+experiencing heightened feelings of loneliness. 
+A key mechanism through which social media intensifies loneliness is influencer 
+marketing. This strategy uses parasocial relationships, in which consumers develop onesided emotional bonds with influencers, leading to heightened trust in their 
+recommendations (Karamustafic et al., 2020). Influencers effectively drive consumption 
+patterns by creating an illusion of intimacy while reinforcing social comparison and selfesteem concerns. Studies indicate that influencer endorsements significantly enhance 
+brand engagement and purchasing behaviors, with nano-influencers (1,000 followers) 
+earning approximately $315 per post. Conversely, macro-influencers (more than 1 
+million followers) generate between $100,000 and $250,000 (Conklin, 2020). These 
+dynamics contribute to a self-perpetuating cycle wherein individuals seek social 
+validation through consumption, further deepening their feelings of isolation (Liu & Lee, 
+2024). 
+A scoping review of studies on personalized user experiences on social media 
+conducted by Ragnild and colleagues (2023) found a total of 13 articles, including 
+evidence that targeted advertisements raise notable privacy concerns, especially for 
+children and adolescents, who often lack awareness of how algorithms work and are more 
+
+ 
+4 
+easily influenced by influencer marketing (Ragnild et al., 2023). They also found that 
+overall awareness of how algorithms work to curate your feed was generally low, and 
+that awareness could help users better understand the logic behind said algorithms, 
+leading to less susceptibility (Ragnild et al., 2023). 
+Escapism and Algorithmic Reinforcement 
+ 
+Algorithms are designed to sustain attention, but feelings needing to escape the 
+real world could be the real reason for the initial engagement with social media. 
+Escapism, defined as the tendency to avoid real-world stressors through digital 
+distraction, plays a significant role in perpetuating social media engagement (Jouhki et 
+al., 2022). The design of social media platforms relies on personalized algorithms that 
+match content to user engagement, thereby encouraging sustained engagement (Ragnhild, 
+2023). These algorithms curate content based on user behavior, creating "echo chambers" 
+that reinforce pre-existing beliefs and consumption patterns (Golino, 2021). There are 
+several dangers of "echo chambers," including isolating users from the diversity of 
+content available; they become stuck in their ideas and reinforce pre-conceptions, 
+ultimately influencing the user's self and world views (Head et al., 2020; Otto & Maier, 
+2016; Ragnhild, 2023). These "echo chambers" also have been shown to intensify 
+materialistic tendencies and contribute to compulsive spending behaviors (Tian et al., 
+2022). 
+Research also shows that algorithmic reinforcement tends to boost conformity by 
+repeatedly showing users popular content, which pulls them further into a digital world 
+focused on consumerism (Babu et al., 2025). Targeted advertising, powered by datadriven insights, enables brands to align their marketing strategies with Gen Z's digital 
+
+ 
+5 
+behaviors, resulting in heightened susceptibility and vulnerability to influencer 
+endorsements (Zhang & Wei, 2021). As a result, individuals become deeply rooted in 
+cycles of consumption that provide only temporary relief from their underlying loneliness 
+and self-esteem issues. 
+This algorithm, while continuously feeding the user videos they enjoy, also 
+increases their chances of addiction (Liu et al., 2021). With short-form content, users are 
+given short-term rewards and instant gratification. In other words, when they do not 
+enjoy a video, all a user needs to do is scroll to one that causes enjoyment, and once 
+interacted with, the algorithm updates and queues up similar content to continue and 
+encourage further user engagement (Brand et al., 2016; Liu et al., 2021). When people 
+feel their self-esteem is hurt or lonely, they tend to find a way to "cope" with said 
+feelings; this idea is called "self-compensation motivation" (Chu et al., 2020; Liu et al., 
+2021). This motivation can encourage users to use short-form content to escape their 
+feelings by doom-scrolling content until they forget the stress of real life (Young et al., 
+2017). This can lead to the overuse of technology, which is like an addiction, as the user 
+develops a habit of using their phone to escape reality. 
+Overuse or maladaptive use of social media can often develop into social media 
+addiction. Social media addiction, like gambling addiction, is an impulse control 
+disorder, meaning that they are often developed due to a lack of impulse control 
+(Benavides et al., 2023). Developing social media addiction can be linked to having sleep 
+disorders, anxiety or depression, familial discomfort or discourse, and academic situation 
+stressors (Benavides et al., 2023). It was also found that the consequences of social media 
+addiction can lead to depression, anxiety, insomnia, decreased life satisfaction, and affect 
+
+ 
+6 
+academic performance (Benavides et al., 2023). Algorithms designed to keep users' 
+attention could ultimately positively influence the development of a social media 
+addiction. With the disorder being an impulse control disorder, it is likely that a user with 
+impulse control issues, given access to unlimited content, will experience problems. At 
+the same time, scrolling would not be able to self-monitor their own usage of social 
+media. 
+Algorithms can target demographics differently, especially when it comes to 
+genders and those with health concerns, as found by a study conducted by Bol and 
+colleagues (Bol et al., 2020). In their research, it was found that Facebook, used as a case 
+study, used a complex algorithm that fed content based on the age, gender, 
+socioeconomic class, and race of the users. Age was significantly related to brand content 
+exposure; as younger users were more likely to be shown beauty and fashion content (OR 
+= .95, 95% CI) while older users were more likely to be targeted with health-related 
+advertisements (OR = 1.08, 95% CI) or political content (OR = 1.34, 95% CI; Bol et al., 
+2018). Gender differences were also evident as men were targeted with advertisements 
+about cars (OR = 9.55, 95% CI) and electronics (OR = 7.73, 95% CI). In contrast, women 
+were targeted with advertisements on health-related content (OR = 0.05, 95% CI; Bol et 
+al., 2018). 
+Psychological Implications: Low Self-Esteem and Social Isolation 
+The relationship between social media use and self-perception has been widely 
+studied, with findings indicating a negative correlation between prolonged digital 
+engagement and overall well-being (Huang, 2017). Social comparison theory proposes 
+that individuals evaluate themselves based on perceived standards set by their peers, a 
+
+ 
+7 
+process exacerbated by curated online personas and profiles (Holland & Tiggemann, 
+2016). As users are continuously exposed to idealized representations of beauty, success, 
+and lifestyle, dissatisfaction with one's circumstances may increase, leading to 
+diminished self-esteem and heightened loneliness. Furthermore, research shows the 
+paradox of digital connectivity: while social media enables frequent interactions, these 
+exchanges often lack depth and emotional fulfillment, ultimately reinforcing social 
+isolation (Connors, 2024). Users who engage in excessive online interactions may 
+experience reduced motivation for in-person socialization, further contributing to the 
+loneliness epidemic. 
+ 
+A study by Pertiwi and colleagues confirmed that Gen Z's dependence on social 
+media mediated the relationship between self-esteem and psychological well-being, 
+which suggests that while self-esteem does play a more direct role in influencing 
+psychological well-being, the dependency on social media can still significantly influence 
+that connection (Pertiwi et al., 2022). They also found that motives for using social media 
+also affect the relationship, and that those who use social media to keep in touch with 
+their older friends are more heavily influenced by the negative impact of social media 
+dependency on their psychological well-being than those who use social media to meet 
+new people (Pertiwi et al., 2022). However, those who use social media to meet new 
+people are more susceptible to potential risks of catfishing and vulnerability to harmful 
+online interactions (Pertiwi et al., 2022). 
+ 
+A review of 42 studies that examined the connection between social media and 
+the increased rate of depression in adolescents found that a majority of the studies found 
+a positive correlation between the increased rates of depression and the time spent on 
+
+ 
+8 
+social media (Vidal et al., 2022). It also found that in longitudinal studies such as Frison 
+and Eggermont (2015), the frequency of using Instagram could predict depressed mood 
+in users six months later (Frison & Eggermont, 2015; Vidal et al., 2022). Woods and 
+Scott (2016) found that the usage of social media at night was associated with anxiety 
+symptoms and poor sleep quality (Vidal et al., 2022; Woods & Scott, 2016). It was also 
+found that there was a positive correlation between higher rates of social media usage and 
+suicidal ideation and attempts (Sampasa-Kanyinga & Hamilton, 2015; Sampasa-
+Kanyinga & Lewis, 2015; Vidal et al., 2022). 
+Gen Z's Need to Consume to Cope 
+During the COVID-19 pandemic, Gen Z found themselves stuck inside and 
+missing out on many pivotal moments of their lives, including day-to-day high school 
+experiences with peers, prom, graduation, and college experiences. According to Parker 
+(2020), the reason for the increased rates of depression in Gen Z is due to a lack of faceto-face social interactions. So if Gen Z is depressed, how might they cope? The answer 
+could be retail therapy. 
+ 
+Bisht (2024) calls retail therapy a consumption of goods compensating for 
+psychosocial dysfunctions such as low self-esteem and loss of control, which assists in 
+relieving the shoppers' mood (Bisht & Desu, 2024). Retail therapy is a short-term reward 
+behavior that can act to provide relief, though not relief that will last; it also can lead to 
+maladaptive behaviors such as a shopping addiction (Bisht & Desu, 2024). 
+During COVID-19, data from 889 US consumers were studied. The findings 
+showed that the fear of lockdown, limited access to resources, peers buying, and panic 
+buying had a positive influence on impulsive purchasing behavior (Ahmed et al., 2020). 
+
+ 
+9 
+The findings also show that fear appeal and fake news propagated online via social media 
+positively impacted impulsive buying behavior (Ahmed et al., 2020). 
+ 
+Purwaningdyah and Pratminingsih (2025) created a study to explore how social 
+media-induced stress influences online shopping habits in Gen Z. They found that stress 
+from social media has not only indirect effects on online shopping habits but also direct 
+effects, which demonstrates that negative emotional response, such as stress that is 
+caused by social media, can lead individuals in Gen Z to seek out immediate gratification 
+and relief through negative coping skills such as shopping (Purwaningdyah & 
+Pratminigsih, 2025). 
+ 
+A recent study conducted in China found that the stress of college, such as 
+academic stress, stress from transitioning to college life, financial stress, and 
+interpersonal relationships, triggered online shopping addiction tendencies (Li et al., 
+2023). Li and colleagues found that students who reported higher levels of stress also 
+reported a higher prevalence of online shopping addiction tendencies and lower social 
+support. Social support provided to college students is a protective factor against online 
+shopping addiction, so the lack of it makes them more vulnerable to developing an 
+addiction, proving that loneliness could also lead to an increase in purchasing behavior in 
+college-aged students (Li et al., 2023). The study also found no significant differences 
+between genders, meaning that male and female students were affected the same. 
+Consumerism in the Digital Age 
+It has been predicted that consumerism will be heavily affected by marketing in 
+the digital age through targeted advertising on applications such as Instagram, Facebook, 
+and Twitter (Lucius & Hanson, 2016). Nowadays, the applications most used, according 
+
+ 
+10 
+to a poll published by Pew Research, are YouTube, Facebook, Instagram, Pinterest, and 
+TikTok (Sidoti et al., 2024). Four of these applications, Instagram, Pinterest, Facebook, 
+and TikTok, were initially set up with "scrolling," allowing the user to view content 
+continuously. Now, YouTube has joined in with their new feature "YouTube Shorts," 
+which focuses on the use of short-form content of short videos that can be viewed and 
+scrolled through similarly to TikTok's content and Instagram Reels. 
+ 
+The structure of these platforms is not incidental; it has direct implications for 
+consumerism. Kucuk (2016) stresses that consumerism in the digital age is characterized 
+by blurring boundaries between personal choice and corporate influence. The constant 
+stream of content enables marketers to embed advertisements seamlessly into users' 
+everyday digital experiences, encouraging impulse buying and shaping consumer identity 
+in subtle but powerful ways. Similarly, Durai and King (2019) found that the growth of 
+consumerism is closely tied to digital marketing strategies, which rely on user data to 
+target individuals with tailored promotions that maximize engagement and purchasing 
+behavior. 
+ 
+These marketing strategies particularly influence younger populations, especially 
+college students. A study conducted by Bizel and colleagues found that adult TikTok, one 
+of the most prominent social media applications used by college students, users ages 25-
+40 are not as heavily influenced by TikTok as their younger counterparts, i.e., the 
+average-aged college students (Bizel et al., 2022). Maulidy, Zaini, and Sanjani (2025) 
+found that social media is critical in shaping consumption trends such as online gambling, 
+mobile games, and purchases on applications like Shopee, among students, by reinforcing 
+conformity to popular products and lifestyles. Peer influence and the visibility of 
+
+ 
+11 
+consumer choices online encourage individuals to participate in collective trends rather 
+than make entirely independent purchasing decisions. This shows how consumerism in 
+the digital age is not only economic but also social, which needs to be further researched 
+to better understand consumer trends and how they connect to the mental health of 
+college students. 
+ 
+These patterns can also have deeper psychological and cultural impacts. Clark 
+(2024) writes that consumerism in the digital age affects spending habits and contributes 
+to cultural adaptation processes, as individuals often adopt consumption patterns of the 
+dominant online culture. Therefore, consumerism in the digital age is both a social and 
+psychological phenomenon, driven by targeted marketing, peer influence, and the 
+technological structures of platforms themselves. 
+ 
+A new platform that cashes in on these patterns is TikTok Shop. TikTok Shop 
+defines itself as: 
+an in-app e-commerce solution that seamlessly blends entertainment and shopping 
+by allowing brands and creators to sell products directly on the platform. It turns 
+casual browsing into a comprehensive shopping journey, where users can 
+discover and purchase items without ever leaving the app. (TikTok for Business, 
+2025) 
+There are not many studies done on the effectiveness of TikTok Shop, but one study 
+conducted by Putri and colleagues investigated how Gen Z's TikTok Shop users' trust in 
+sellers and privacy influence their purchasing decisions on the application (Putri et al., 
+2023). Their results found that if a purchase had some type of security seal, the user was 
+more likely to purchase from that seller and, if the user trusted the seller, as in if it was an 
+
+ 
+12 
+influencer they were familiar with, they were more likely to purchase as well (Putri et al., 
+2023). 
+ 
+A new concern for this new digital age of consumerism is online gambling and 
+advertisements utilized by social media platforms that could target vulnerable 
+demographics. As discussed previously, algorithmic targeting does exist, and many 
+platforms that use it have access to user data such as socioeconomic status, age, gender, 
+and race. A study conducted by Lind and colleagues in 2022 found that the most 
+susceptible demographic to gambling, specifically online gambling, was males aged from 
+18 to 54 with a higher income (Lind et al., 2022). All details of this and many other 
+demographics are known by social media algorithms and used for advertising. 
+Digital Gambling Addiction and Gen Z 
+Gambling has drastically changed in recent years, as now, rather than going to a 
+casino, many turn to their phones instead (Ukhov et al., 2021). The accessibility of this 
+new form of gambling has undoubtedly caused an increase in users, which is cause for 
+concern as gambling, in any form, is ultimately addictive (Gainsbury, 2015). Gen Z is 
+one of the more actively online generations, so they are more likely to be exposed to 
+dangerous online habits (Alobidyeen, 2023). A particularly vulnerable group of Gen Z to 
+online gambling is college students (Debora & Wijaya, 2025). A systematic review on 
+online gambling marketing found that the primary emerging trend of online gambling is 
+sports betting (Guillou-Landreat et al., 2021). This trend is problematic for college-age 
+students due to college sports. A study conducted by O'Brate at Kansas City University 
+surveyed 115 students to explore how and why college students watch football. The 
+results showed that over half of the participants (N = 58, 50%) preferred attending in-
+
+ 
+13 
+person games (O'Brate, 2021). Among alternative viewing methods, streaming emerged 
+as the most popular option, followed by social media (O'Brate, 2021). 
+ 
+Online gambling has several adverse effects on college students, such as social 
+isolation, an increased risk of criminal behavior, and severe financial loss (Debora & 
+Wijaya, 2025; Mahilda & Setiawan, 2025; Nayottama, 2024). When online gambling can 
+lead to social isolation, that often leads to using technology more to cope with said 
+isolation, leading to a vicious cycle. 
+ 
+Contributing to this cycle are advertisements that have become more prevalent 
+online. In a survey conducted by St. Bonaventure and Siena College, it was found that 
+nearly 60% of Americans have seen online gambling advertisements, and that 22% of 
+Americans, including 48% of men 18 to 49 years old, have an account with at least one 
+online sportsbook (Siena College, 2025). Men online, especially those in Gen Z, are 
+typically targeted by advertisements about gambling, including those that utilize social 
+media marketing, such as influencer marketing (Guillou-Landreat et al., 2021). It is 
+primarily men who are users of online gambling apps, as it is men who are about 4.8 
+times more likely, as it was reported that 24% of men had an online gambling profile 
+while only 4% of women had one (St. Bonaventure, 2025). 
+ 
+Another study conducted by Rossi and Nairn sampled from 650 participants aged 
+11-78 and found that just about half (45.2%) of 11-17-year-olds and almost threequarters (72.4%) of 18-24-year-olds reported seeing gambling advertisements on their 
+social media feeds at least once a week (Rossi & Nairn, 2021). Daily exposure was also 
+found to occur every day, with one in four children (11-17) and adults (24-78), and as 
+many as one in three young adults (18-24), stating they encounter such adverts every day 
+
+ 
+14 
+(Rossi & Nairn, 2021). They also found that gambling content, such as influencers who 
+make content primarily focused on gambling, was more appealing to children and young 
+persons (0.9 and 0.98) than to adults (-1.75), the difference between the two being 
+statistically significant (Rossi & Nairn, 2021). 
+ 
+Another study by Rossi and colleagues aimed to investigate the volume, content, 
+audience engagement, and regulatory compliance of online gambling advertisements in 
+the United Kingdom (U.K.; Rossi et al., 2021). The study found that gambling 
+advertising on Twitter was widespread, as they analyzed 890,000 ads (Rossini et al., 
+2021). They found that regulatory compliance is poor, as two-thirds of the advertisements 
+failed to meet U.K. standards (Rossi et al., 2021). They also discovered that 41,000 
+children in the U.K. follow gambling accounts, which is especially concerning when 
+considering the last finding, which was that e-sport gambling advertisements were 
+drawing disproportionate attention (28%) from users aged under 16 (Rossi et al., 2021). 
+Social Influence Theory and Conformity Online 
+Social influence theory examines how individual cognition and behavior are 
+shaped by interpersonal and group dynamics. Herber Kelman originally proposed the 
+theory in 1953 and focuses on three aspects: compliance, identification, and 
+internalization. Kelman explains that these processes are influenced by either the desire 
+to be socially accepted by others, known as normative influence, or by the belief that 
+others have more accurate information, which is known as informational influence 
+(Kelman, 1974). 
+ 
+Social influence theory shows that influence is not always the same. Sometimes, it 
+can be temporary, i.e., due to compliance; sometimes it is tied to belonging, i.e., 
+
+ 
+15 
+identification; or sometimes it can be permanent, i.e., internalization. With social media, 
+influencers or advertising usually target identification and internalization to sell products 
+to users as they shape fashion, opinions, and trends (Davlembayeva & Papagiannidis, 
+2025). 
+ 
+Social media has the possibility to amplify the ideas behind social influence 
+theory. It is shown through normative influence, as users are reinforced through visible 
+markers of approval, such as likes, shares, followers, and views. Over time, these 
+reinforcers create pressure to conform to online trends to gain more social validation. 
+Informational influence is also heightened online as users turn to influencers, peers, and 
+trending content to learn what is currently "on trend." These dynamics influence users' 
+values, self-concept, and consumer habits (Davlembayeva & Papagiannidis, 2025). 
+Gaps in the Literature and Future Research Directions 
+Despite extensive research on the immediate psychological effects of social 
+media, significant gaps remain regarding the long-term implications of digital 
+engagement on emotional well-being. Specifically, studies have yet to examine the 
+sustained impact of algorithm-driven conformity on consumer behavior and social 
+isolation. Additionally, much of the existing literature is Western-centric, overlooking 
+cultural implications in social media influence and digital consumption patterns (Tian et 
+al., 2022). 
+ 
+More gaps in the literature that call for further investigation are the effects and 
+prevalence of online gambling behaviors and habits in college students, primarily those in 
+Gen Z (Rossi & Nairn, 2021). Most of the studies available now are not based in the 
+United States, as online gambling has changed so rapidly in the United States (Guillou 
+
+ 
+16 
+Landreat et al., 2021). There is also a lack of studies investigating the effect of influencer 
+marketing of online gambling in the United States and how that might influence Gen Z's 
+use of online gambling. Lastly, the relationship between the rates of self-esteem and 
+loneliness in Gen Z college students and the prevalence of online gambling behaviors 
+advertised by influencers on social media has not yet been investigated. 
+ 
+The rapid evolution of platforms such as TikTok, Instagram Reels, and AI-driven 
+digital communities justifies further investigation into their role in shaping current social 
+norms and interpersonal relationships. By addressing these gaps, researchers can provide 
+a more comprehensive framework for understanding the relationship between digital 
+engagement and loneliness among Gen Z. 
+ 
+ 
+
+17 
+ 
+ 
+ 
+CHAPTER II 
+METHODOLOGY 
+Participants 
+ 
+The primary recruitment sample for this study was undergraduate and graduate 
+students at Abilene Christian University, a private, faith-based university in Abilene, 
+Texas. Recruitment for this study primarily consisted of requests to professors to 
+distribute an electronic link to their students that provides study information, access to the 
+informed consent page, and, finally, access to the study survey. When possible, the 
+primary investigator provided professors with a QR code that students could scan to 
+access the study information and informed consent page. 
+Inclusion and Exclusion Criteria 
+ 
+For a participant to be included in the study, they must have been between the 
+ages of 18 and 25 and users of at least one social media platform (e.g., TikTok, 
+Instagram, YouTube, etc.). Individuals outside the 18 to 25 age range or not using at least 
+one social media platform were excluded from the study. Participation was voluntary, 
+informed consent was obtained following Institutional Review Board (IRB) guidelines 
+and occurred before completion of any survey items. Demographic information collected 
+included age, gender, major, ethnicity, frequency of social media use, and which social 
+media platforms the participant uses the most/prefers. 
+ 
+ 
+
+ 
+18 
+Design and Procedure 
+This study employed a cross-sectional, correlational design using a self-report 
+online survey. Participants first provided informed consent and acknowledged that they 
+were at least 18 years of age. After providing informed consent, participants were 
+directed to a single survey where participants completed a single survey made up of six 
+separate scales: the Rosenberg Self-Esteem Scale (Rosenberg, 1965), the Mehrabian 
+Conformity Scale (Zlobina, 2023), the Online Shopping Addiction Scale (Zhao et al., 
+2017), the UCLA Loneliness scale (Russell, 2010), the Online Gambling Disorder 
+Questionnaire (OGD-Q; González-Cabrera et al., 2020), and the Depression Anxiety 
+Stress Scale-21 (DASS-21; Moya et al., 2022). The survey was administered via a secure 
+online platform, Google Forms, and was designed to take approximately 10-15 minutes 
+to complete. The datum was securely stored and subsequently analyzed using SPSS and 
+Jamovi to examine the relationships between study variables (e.g., social media usage, 
+self-esteem, conformity tendencies, loneliness, consumer behavior, online gambling 
+disorder, and symptoms of depression, anxiety, and stress). 
+Measures 
+The Conformity Scale 
+The Conformity Scale (Mehrabian & Stefl, 1995) is an 11-item scale assessing 
+conformity. Individuals are asked to answer questions related to conformity, such as "I 
+often rely on, and act on, the advice of others" (Mehrabian & Stefl, 1995; Zlobina, 2023). 
+A full list of questions is provided in Appendix B. Responses are given on a 7-point 
+Likert scale from 1 (Not at all true of me) to 7 (Extremely true of me; Mehrabian & Stefl, 
+1995). The Mehrabian Conformity Scale has demonstrated convergent and discriminant 
+
+ 
+19 
+validity and satisfactory internal consistency, with an original Cronbach's alpha score of 
+0.77 (Mehrabian & Stefl, 1995; Zlobina, 2023). 
+Rosenberg Self-Esteem Scale (RSES) 
+The Rosenberg Self-Esteem Scale (Rosenberg, 1979) is a 10-item scale assessing 
+self-esteem. Individuals are asked questions related to self-esteem, such as "On the 
+whole, I am satisfied with myself." A full list of questions on the scale is in Appendix B. 
+Responses are given on a 4-point Likert scale 1 being "strongly agree" and 4 being 
+"strongly disagree" (Avison, 1981). The scale has demonstrated internal consistency, 
+test-retest reliability, and concurrent, predictive, and construct validity, with a Cronbach's 
+alpha in the range of .77 to .88 (Rosenberg, 1979). 
+The Online Shopping Addiction Scale 
+The Online Shopping Addiction Scale is an 18-item scale developed to assess 
+addictive online shopping behavior across six domains: salience, mood modification, 
+tolerance, withdrawal, conflict, and relapse. Individuals are asked to respond to items 
+such as, "When I am not shopping online, I keep thinking about it." A full list of 
+questions is in Appendix B. Responses are given on a 5-point Likert scale, with 1 being 
+"strongly disagree" and five being "strongly agree." The scale demonstrated high 
+reliability, with Cronbach's alpha values of 0.90 to 0.95. (Zhao, 2017). 
+UCLA Loneliness Scale Version 3 
+The UCLA Loneliness Scale Version 3 (Russell, 2010) is a 20-item scale 
+assessing how often a person feels disconnected from others (Russell, 2010). Individuals 
+are asked to answer questions about feelings of loneliness, such as "How often do you 
+feel alone?" A full list of questions is in Appendix B. Responses are given on a 4-point 
+
+ 
+20 
+rating scale anchored by 1 being "never" and 4 being "always." The scale measure is 
+highly reliable regarding internal consistency and test-retest reliability with a Cronbach's 
+alpha ranging from 0.89 to 0.94 (Russell, 2010). 
+The Online Gambling Disorder Questionnaire (OGD-Q) 
+The Online Gambling Disorder Questionnaire (González-Cabrera et al., 2020). is 
+an 11-item scale developed to assess symptoms of online gambling disorder in 
+adolescents (González-Cabrera et al., 2020). Individuals are asked to respond to questions 
+such as, "Do you feel nervous, irritated, or angry when trying to reduce or stop gambling 
+online?" Responses are provided on a 5-point Likert scale ranging from 1 "never" to 5 
+"every day," with higher scores reflecting greater severity of gambling-related problems. 
+The OGD-Q demonstrated strong validity, supported by content, construct, and 
+convergent analyses, and high internal consistency reliability with a Cronbach's alpha of 
+0.94 (α = 0.94; ω = 0.95; González-Cabrera et al., 2020). 
+The Depression Anxiety Stress Scale-21 (DASS-21) 
+The Depression Anxiety Stress Scale-21 (DASS-21) is a 21-item scale developed 
+to assess symptoms of depression, anxiety, and stress (Moya et al., 2022). The scale 
+contains three subscales, each with seven items. Individuals are asked to respond to items 
+such as, "I found it difficult to work up the initiative to do things." Responses are given 
+on a 4-point Likert scale anchored with 0 being "did not apply to me at all" and 3 being 
+"applied to me very much, or most of the time." The DASS-21 demonstrated acceptable 
+validity and reliability, with overall Cronbach's alpha of .74 and ordinal alpha 
+coefficients indicating good reliability across subscales (depression = .83, anxiety = .74, 
+stress = .87). Criterion validity was supported by the depression subscale's ability to 
+
+ 
+21 
+discriminate cases of depression compared with the Structured Clinical Interview for 
+DSM-IV (AUC = .76), and convergent validity was demonstrated through a moderate 
+correlation with the Edinburgh Postnatal Depression Scale (r = .61, p < .001; Moya et al., 
+2022). 
+Hypotheses 
+Hypothesis 1 
+It is hypothesized that lower self-esteem and higher loneliness will be associated 
+with higher levels of conformity among Generation Z college students. 
+Hypothesis 2 
+It is hypothesized that higher levels of conformity will be associated with greater 
+susceptibility to conformity-driven online purchasing behaviors. 
+Hypothesis 3 
+It is hypothesized that lower self-esteem, higher loneliness, and higher conformity 
+will predict greater susceptibility to conformity-driven online purchasing behaviors 
+among Generation Z college students. 
+Hypothesis 4 
+It is hypothesized that lower self-esteem, higher loneliness, and higher conformity 
+will predict greater severity of online gambling-related problems among Generation Z 
+college students. 
+Hypothesis 5 
+It is hypothesized that psychological distress will moderate the relationships 
+between psychological vulnerability (self-esteem and loneliness) and conformity-driven 
+behavioral outcomes. 
+
+ 
+22 
+Hypothesis 6 
+It is hypothesized that frequency of social media or screen use will be positively 
+associated with conformity, online shopping addiction, and online gambling severity. 
+
+23 
+ 
+ 
+ 
+CHAPTER III 
+RESULTS 
+Participants 
+ 
+Participants were sixty-nine (69) undergraduate and graduate students at Abilene 
+Christian University. Participants in this sample had an average age of 20.1 years old and 
+were primarily female (75.4%, n = 52) and White/Caucasian (68.1%, n = 47), followed 
+by Hispanic/Latino (15.9%, n = 11), and Black/African American (14.5%, n = 10). The 
+most frequently reported social media platform used was Instagram (94.2%), followed by 
+YouTube (65.2%), and TikTok (53.6%). The most frequent amount of daily screen time 
+used for leisure purposes was 5-6 hours (33.3%, n = 23), followed by 3-4 hours (29%, n 
+= 20), and 7-8 hours (17.4%, n = 12). 
+Descriptive Statistics 
+ 
+Descriptive statistics were computed for all study variables, including screen time, 
+online shopping addiction, loneliness, online gambling disorder, psychological distress, 
+depression, anxiety, stress, conformity, and self-esteem. Participants reported an average 
+of 4.93 hours of daily screen time (SD = 2.28). Mean scores for behavioral variables 
+included online shopping addiction (M = 33.40, SD = 13.60) and online gambling 
+disorder (M = 12.60, SD = 3.89). For mental health outcomes, the psychological distress 
+composite score averaged 32.80 (SD = 25.00). Subscale means for psychological distress 
+included depression (M = 9.76, SD = 9.76), anxiety (M = 9.85, SD = 9.02), and stress (M 
+
+ 
+24 
+= 13.30, SD = 8.73). Conformity had a mean of -1.08 (SD = 9.76), loneliness (M = 44.90, 
+SD = 11.30), and self-esteem averaged 19.10 (SD = 5.26). 
+Most variables demonstrated acceptable levels of skewness and kurtosis, 
+suggesting approximate normality. Screen time (skew = 0.27), loneliness (skew = 0.31), 
+and self-esteem (skew = -0.21) were approximately symmetric. Online Shopping 
+Addiction (skew = 0.91), psychological distress (skew = 0.99), stress (skew = 0.61), and 
+conformity (skew = 0.57) showed moderate positive skew, indicating somewhat longer 
+right tails. Depression (skew = 1.40) and anxiety (skew = 1.02) demonstrated more 
+pronounced positive skew, reflecting that most participants reported relatively low 
+symptom levels with fewer individuals reporting higher levels. 
+One variable, Online Gambling Disorder, displayed substantial non-normality, 
+with very high skewness (skew = 3.72) and kurtosis (kurtosis = 14.70), indicating a 
+strongly right-skewed distribution with heavy tails. This pattern suggests that most 
+participants reported relatively low levels of online gambling symptoms, with a small 
+number of participants reporting substantially higher scores. 
+Hypothesis Testing 
+Hypothesis 1 
+A multiple linear regression analysis was conducted to examine whether selfesteem and loneliness predicted conformity among the sample of students. The overall 
+regression model was not statistically significant, F(2, 62) = 1.46, p = .241, R2 = .045, 
+indicating that self-esteem and loneliness together accounted for approximately 4.5% of 
+the variance in conformity scores. 
+
+ 
+25 
+Examination of individual predictors indicated that self-esteem was not a 
+statistically significant predictor of conformity, b = -0.52, SE = 0.31, t = -1.70, p = .093, 
+β = -.28, 95% CI [-0.61, 0.05]. Loneliness was also not a significant predictor of 
+conformity, b = -0.15, SE = 0.14, t = -1.04, p = .301, β = -.17, 95% CI [-0.50, 0.16]. 
+Assumption testing indicated that multicollinearity was not a concern, as variance 
+inflation factor (VIF) values were below recommended thresholds (VIF = 1.77 for both 
+predictors). Examination of Cook's distance values indicated that no influential outliers 
+were present (maximum Cook's D = 0.196). A Shapiro-Wilk test suggested a slight 
+deviation from normality in the residuals, W = .96, p = .035; however, inspection of the 
+Q-Q plot indicated that deviations were minor and did not substantially violate regression 
+assumptions. Overall, the results did not support Hypothesis 1, as neither self-esteem nor 
+loneliness significantly predicted conformity. 
+Table 1 
+Linear Regression for Predictions of Self-Esteem and Loneliness on Conformity Among 
+the Sample of Generation Z College Students - Model Fit Measures 
+ 
+Overall Model Test 
+Model 
+R 
+R2 
+F 
+df1 
+df2 
+p 
+1 
+0.212 
+0.0449 
+1.46 
+2 
+62 
+.241 
+Note. Models estimated using sample size of N = 65 
+ 
+ 
+ 
+
+ 
+26 
+Table 2 
+Linear Regression for Predictions of Self-Esteem and Loneliness on Conformity Among 
+the Sample of Generation Z College Students - Model Coefficients 
+ 
+95% Confidence Interval 
+Predictor 
+Estimate 
+SE 
+t 
+p 
+Stand. Estimate 
+Lower 
+Upper 
+Intercept 
+15.727 
+11.239 
+1.40 
+.167 
+ 
+ 
+ 
+Self-Esteem 
+-0.522 
+0.306 
+-1.70 
+.093 
+-0.282 
+-0.612 
+0.0488 
+Loneliness 
+-0.149 
+0.143 
+-1.04 
+.301 
+-0.173 
+-0.503 
+0.1579 
+ 
+Hypothesis 2 
+A simple linear regression analysis was conducted to examine whether conformity 
+predicted shopping addiction scores among the sample of students. The overall regression 
+model was not statistically significant, F(1, 64) = 2.96, p = .090, R2 = .044, indicating 
+that conformity accounted for approximately 4.4% of the variance in shopping addiction 
+scores. 
+Examination of the predictor indicated that conformity was not a statistically 
+significant predictor of shopping addiction, b = 0.279, SE = 0.162, t(64) = 1.72, p = .090, 
+β = .21, 95% CI [-0.045, 0.602]. Examination of Cook's distance values indicated that no 
+influential outliers were present (maximum Cook's D = .171). A Shapiro-Wilk test 
+suggested a deviation from normality in the residuals, W = .927, p < .001; however, 
+inspection of the Q-Q plot indicated that deviations were relatively minor and did not 
+substantially violate regression assumptions. Overall, the results did not support 
+Hypothesis 2, as conformity did not significantly predict shopping addiction scores. 
+ 
+ 
+
+ 
+27 
+Table 3 
+Linear Regression for Predictions of Online Shopping Addiction Among the Sample of 
+Generation Z College Students - Model Fit Measures 
+ 
+Overall Model Test 
+Model 
+R 
+R2 
+F 
+df1 
+df2 
+p 
+1 
+0.210 
+0.0443 
+2.96 
+1 
+64 
+.090 
+Note. Models estimated using sample size of N = 66 
+ 
+Table 4 
+Linear Regression for Predictions of Online Shopping Addiction Among the Sample of 
+Generation Z College Students - Model Coefficients 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+Predictor 
+Estimate 
+SE 
+Lower 
+Upper 
+t 
+p 
+Stand. 
+Estimate 
+Lower 
+Upper 
+Intercept 
+32.709 
+1.578 
+29.5574 
+35.861 
+20.73 
+<.001 
+ 
+ 
+ 
+TCS_TOTAL 
+0.279 
+0.162 
+-0.0447 
+0.602 
+1.72 
+.090 
+0.210 
+-0.0337 
+0.455 
+ 
+Hypothesis 3 
+A multiple linear regression analysis was conducted to examine whether selfesteem, loneliness, and conformity scores predicted online shopping addiction scores 
+among the sample of students. The overall regression model was not statistically 
+significant, F(3, 61) = 1.93, p = .134, R2 = .087, indicating that the predictors accounted 
+for approximately 8.7% of the variance in online shopping addiction scores. 
+Examination of the individual predictors indicated that self-esteem was not a 
+statistically significant predictor of online shopping addiction, b = -0.516, SE = 0.411, 
+t(61) = -1.26, p = .214, β = -.21, 95% CI [-1.337, 0.305]. Similarly, loneliness was not a 
+statistically significant predictor of online shopping addiction, b = 0.003, SE = 0.189, 
+t(61) = 0.01, p = .988, β = .002, 95% CI [-0.374, 0.380]. Conformity scores also did not 
+
+ 
+28 
+significantly predict online shopping addiction, b = 0.230, SE = 0.166, t(61) = 1.38, p = 
+.171, β = .17, 95% CI [-0.103, 0.563]. 
+Assumption testing indicated that multicollinearity was not a concern, as all 
+variance inflation factors were within acceptable limits (VIFs = 1.05-1.86, Tolerance = 
+.538-.955). Examination of Cook's distance values indicated that no influential outliers 
+were present (maximum Cook's D = .103). A Shapiro-Wilk test suggested a deviation 
+from normality in the residuals, W = .926, p < .001; however, inspection of the Q-Q plot 
+indicated that deviations were relatively minor and did not substantially violate 
+regression assumptions. Overall, the results did not support the hypothesis that selfesteem, loneliness, and conformity scores would significantly predict online shopping 
+addiction scores. 
+Table 5 
+Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity on 
+Predicted Online Shopping Addiction Among the Sample of Generation Z College 
+Students - Model Fit Measures 
+ 
+Overall Model Test 
+Model 
+R 
+R2 
+F 
+df1 
+df2 
+p 
+1 
+0.295 
+0.0868 
+1.93 
+3 
+61 
+.134 
+Note. Models estimated using a sample size of N = 65 
+ 
+ 
+ 
+
+ 
+29 
+Table 6 
+Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity on 
+Predicted Online Shopping Addiction Among the Sample of Generation Z College 
+Students - Model Coefficients 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+Predictor 
+Estimate 
+SE 
+Lower 
+Upper 
+t 
+p 
+Stand. 
+Estimate 
+Lower 
+Upper 
+Intercept 
+42.51060 
+14.965 
+12.586 
+72.435 
+2.8407 
+.006 
+ 
+ 
+ 
+RES_TOTAL 
+-0.51610 
+0.411 
+-1.337 
+0.305 
+-1.2565 
+.214 
+-0.20953 
+-0.5430 
+0.124 
+UCLA_TOTAL 
+0.00276 
+0.189 
+-0.374 
+0.380 
+0.0146 
+.988 
+0.00241 
+-0.3263 
+0.331 
+TCS_TOTAL 
+0.23039 
+0.166 
+-0.103 
+0.563 
+1.3838 
+.171 
+0.17325 
+-0.0771 
+0.424 
+ 
+Hypothesis 4 
+A multiple linear regression analysis was conducted to examine whether selfesteem, loneliness, and conformity predicted online gambling severity among the sample 
+of Generation Z college students. The overall regression model was not statistically 
+significant, F(3, 55) = 2.39, p = .078, R2 = .115, indicating that the predictors accounted 
+for approximately 11.5% of the variance in online gambling severity scores as shown in 
+Table 7. 
+Examination of the individual predictors indicated as indicated in Table 8, that 
+self-esteem was a statistically significant predictor of online gambling severity, b = 
+-0.258, SE = 0.126, t(55) = -2.05, p = .045, β = -.36, 95% CI [-0.510, -0.006]. This 
+result indicates that lower self-esteem was associated with greater online gambling 
+severity. In contrast, loneliness was not a statistically significant predictor of online 
+gambling severity, b = -0.006, SE = 0.059, t(55) = -0.10, p = .923, β = -.02, 95% CI 
+[-0.124, 0.113]. Similarly, conformity was not a statistically significant predictor of 
+
+ 
+30 
+online gambling severity, b = -0.031, SE = 0.052, t(55) = -0.60, p = .550, β = -.08, 95% 
+CI [-0.135, 0.073]. 
+Assumption testing indicated that multicollinearity was not a concern, as variance 
+inflation factors ranged from 1.04 to 1.86 and tolerance values ranged from .537 to .958, 
+which fall within acceptable limits. Examination of Cook's distance value indicates that it 
+falls below the common threshold (maximum Cook's D = .939), however, this value 
+approached the cutoff, indicating that potential influence of individual cases was 
+considered. A Shapiro-Wilk test suggested a deviation from normality in the residuals, W 
+= .681, p < .001, and inspection of the Q-Q plot indicated that the distribution of residuals 
+reflected noticeable skewness. This pattern likely reflects a floor effect in gambling 
+severity scores, as most participants reported low levels of gambling-related problems. 
+While these findings should be interpreted with caution, regression analyses are generally 
+robust to moderate violations of normality, and the model was retained for interpretation. 
+Table 7 
+Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity on 
+Predicted Online Gambling Severity Among the Sample of Generation Z College Students 
+- Model Fit Measures 
+ 
+ 
+ 
+Overall Model Test 
+Model 
+R 
+R2 
+F 
+df1 
+df2 
+P 
+1 
+0.340 
+0.115 
+2.39 
+3 
+55 
+.078 
+Note: Models estimated using sample size of N = 59. 
+ 
+ 
+
+ 
+31 
+Table 8 
+Linear Regression for Predictions of Self-Esteem, Loneliness, and Conformity on 
+Predicted Online Gambling Severity Among the Sample of Generation Z College Students 
+- Model Coefficients 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+Predictor 
+Estimate 
+SE 
+Lower 
+Upper 
+t 
+p 
+Stand. 
+Estimate 
+Lower 
+Upper 
+Intercept 
+17.88704 
+4.6582 
+8.552 
+27.22223 
+3.8399 
+< .001 
+ 
+ 
+ 
+RES_TOTAL 
+-0.25833 
+0.1258 
+-0.510 
+-0.00627 
+-2.0539 
+.045 
+-0.3556 
+-0.703 
+-0.00863 
+UCLA_TOTAL 
+-0.00577 
+0.0592 
+-0.124 
+0.11295 
+-0.0974 
+.923 
+-0.0166 
+-0.358 
+0.32526 
+TCS_TOTAL 
+-0.03126 
+0.0520 
+-0.135 
+0.07290 
+-0.6014 
+.550 
+-0.0779 
+-0.338 
+0.18172 
+ 
+Overall, the results partially supported Hypothesis 4, as lower self-esteem 
+significantly predicted greater online gambling severity, whereas loneliness and 
+conformity were not significant predictors of online gambling-related problems. 
+Hypothesis 5 
+A moderated multiple regression analysis was conducted to examine whether 
+psychological distress moderates the relationships between psychological vulnerability 
+(self-esteem and loneliness) and online shopping addiction among the sample of students. 
+The overall regression model was statistically significant, F(5, 59) = 2.53, p = .038, R2 = 
+.177, indicating that the predictors accounted for approximately 17.7% of the variance in 
+online shopping addiction scores as shown in Table 9. 
+Examination of the individual predictors as shown in Table 10 indicated that selfesteem was not a statistically significant predictor of online shopping addiction, b = 
+-0.935, SE = 0.469, t(59) = -1.99, p = .051, β = -.36, 95% CI [-1.873, 0.003]. Similarly, 
+loneliness was not a statistically significant predictor of online shopping addiction, b = 
+0.094, SE = 0.188, t(59) = 0.50, p = .620, β = .08, 95% CI [-0.283, 0.471]. Psychological 
+distress also did not significantly predict online shopping addiction, b = -0.074, SE = 
+
+ 
+32 
+0.099, t(59) = -0.75, p = .454, β = -.14, 95% CI [-0.272, 0.123]. The interaction between 
+self-esteem and psychological distress was not statistically significant, b = -0.019, SE = 
+0.020, t(59) = -0.93, p = .356, β = -.25, 95% CI [-0.059, 0.022]. However, the 
+interaction between loneliness and psychological distress was statistically significant, b = 
+-0.022, SE = 0.010, t(59) = -2.14, p = .037, β = -.55, 95% CI [-0.042, -0.001], 
+indicating that psychological distress moderated the relationship between loneliness and 
+online shopping addiction. 
+Assumption testing indicated that multicollinearity was not a concern, as variance 
+inflation factors ranged from 1.80 to 5.37 and tolerance values ranged from .186 to .554, 
+which are considered acceptable for models including interaction terms. Examination of 
+Cook's distance values indicated that no influential outliers were present (maximum 
+Cook's D = .101). A Shapiro-Wilk test suggested a deviation from normality in the 
+residuals, W = .951, p = .012; however, inspection of the Q-Q plot indicated that 
+deviations were relatively minor and did not substantially violate regression assumptions. 
+Table 9 
+Linear Regression Results for Psychological Distress when Moderating the Relationships 
+Between Psychological Vulnerability (Self-Esteem and Loneliness) and Online Shopping 
+Addiction Among the Sample - Model Fit Measures 
+ 
+ 
+ 
+Overall Model Test 
+Model 
+R 
+R2 
+F 
+df1 
+df2 
+P 
+1 
+0.421 
+0.177 
+2.53 
+5 
+59 
+.038 
+Note: Models estimated using sample size of N = 65. 
+ 
+ 
+
+ 
+33 
+Table 10 
+Linear Regression Results for Psychological Distress when Moderating the Relationships 
+Between Psychological Vulnerability (Self-Esteem and Loneliness) and Online Shopping 
+Addiction Among the Sample - Model Coefficients 
+ 
+ 
+ 
+95% Confidence 
+Interval 
+ 
+ 
+ 
+Predictor 
+Estimate 
+SE 
+Lower 
+Upper 
+t 
+p 
+Stand. 
+Estimate 
+Intercept 
+35.0096 
+1.8368 
+31.3341 
+38.68500 
+19.060 
+<.001 
+ 
+Self Esteem_ 
+Centered 
+-0.9351 
+0.4687 
+-1.8731 
+0.00281 
+-1.995 
+.051 
+-0.3634 
+Loneliness_ 
+Centered 
+0.0939 
+0.1884 
+-0.2830 
+0.47083 
+0.498 
+.620 
+0.0791 
+Distress_ 
+Centered 
+-0.0744 
+0.0986 
+-0.2718 
+0.12298 
+-0.754 
+.454 
+-0.1363 
+SelfEsteem_x_ 
+Distress 
+-0.0188 
+0.0202 
+-0.0593 
+0.02170 
+-0.930 
+.356 
+-0.2544 
+Loneliness_x_ 
+Distress 
+-0.0215 
+0.0101 
+-0.0417 
+-0.00138 
+-2.138 
+.037 
+-0.5484 
+ 
+Overall, the results partially supported Hypothesis 5, as psychological distress 
+significantly moderated the relationship between loneliness and online shopping 
+addiction but did not moderate the relationship between self-esteem and online shopping 
+addiction. A moderated multiple regression analysis was conducted to examine whether 
+psychological distress moderates the relationships between psychological vulnerability 
+(self-esteem and loneliness) and online gambling severity among the sample of students. 
+The overall regression model was not statistically significant, F(5, 53) = 1.85, p = .120, 
+R2 = .148, indicating that the predictors accounted for approximately 14.8% of the 
+variance in online gambling severity scores. Examination of the individual predictors 
+indicated that self-esteem was not a statistically significant predictor of online gambling 
+severity, b = -0.228, SE = 0.142, t(53) = -1.61, p = .113, β = -.32, 95% CI [-0.512, 
+0.056]. Loneliness was also not a statistically significant predictor of online gambling 
+severity, b = 0.002, SE = 0.058, t(53) = 0.04, p = .970, β = .01, 95% CI [-0.115, 0.119]. 
+
+ 
+34 
+Similarly, psychological distress did not significantly predict online gambling severity, b 
+= -0.017, SE = 0.031, t(53) = -0.55, p = .584, β = -.11, 95% CI [-0.079, 0.045]. The 
+interaction between self-esteem and psychological distress was not statistically 
+significant, b = 0.001, SE = 0.006, t(53) = 0.22, p = .825, β = .07, 95% CI [-0.011, 
+0.014]. Likewise, the interaction between loneliness and psychological distress was not 
+statistically significant, b = 0.003, SE = 0.003, t(53) = 0.98, p = .334, β = .28, 95% CI 
+[-0.003, 0.009]. 
+Assumption testing indicated that multicollinearity was not a concern, as variance 
+inflation factors ranged from 1.80 to 5.65 and tolerance values ranged from .177 to .554, 
+which are within acceptable limits for regression models including interaction terms. 
+Examination of Cook's distance values indicated that influential outliers were present 
+(maximum Cook's D = 2.25). A Shapiro-Wilk test suggested a significant deviation from 
+normality in the residuals, W = .719, p < .001, and inspection of the Q-Q plot indicated 
+noticeable skewness in the distribution. The distribution of online gambling severity 
+scores was positively skewed, reflecting that most participants reported low levels of 
+gambling-related problems while a smaller number reported higher levels of severity, a 
+pattern commonly observed in non-clinical samples. This distributional issue should be 
+interpreted with caution. While regression analyses are generally robust to moderate 
+violations of normality, the Cook's D value indicates an influence, however the model 
+was retained for interpretation with caution. Overall, the results did not support 
+Hypothesis 5 for online gambling severity, as psychological distress did not significantly 
+moderate the relationships between self-esteem and online gambling severity or between 
+loneliness and online gambling severity. 
+
+ 
+35 
+Hypothesis 6 
+A series of Pearson correlations were conducted to examine the relationships 
+between screen time, conformity, online shopping addiction, and online gambling 
+severity. Results indicated that screen time was significantly positively correlated with 
+online shopping addiction, r(67) = .281, p = .019, suggesting that individuals who 
+reported higher levels of screen time also tended to report higher levels of online 
+shopping addiction. Screen time was also significantly positively correlated with online 
+gambling severity, r(60) = .326, p = .010, indicating that greater screen time was 
+associated with greater gambling-related problems. In contrast, screen time was not 
+significantly correlated with conformity, r(64) = -.009, p = .940, indicating no 
+meaningful relationship between screen time and conformity scores as shown in Table 
+11. 
+Additional correlations indicated that online shopping addiction was significantly 
+positively associated with online gambling severity, r(60) = .304, p = .016, suggesting 
+that individuals who reported higher levels of online shopping addiction also tended to 
+report higher levels of gambling-related problems. However, conformity was not 
+significantly associated with online shopping addiction, r(64) = .210, p = .090, or online 
+gambling severity, r(58) = -.012, p = .928. 
+ 
+ 
+
+ 
+36 
+Table 11 
+Correlation Matrix Results for the Relationship Between Screen Time, Conformity, 
+Online Shopping Addiction, and Online Gambling Severity 
+ 
+ 
+SCREEN_TIME 
+TCS_TOTAL 
+OSA_TOTAL 
+OGD_TOTAL 
+SCREEN_TIME 
+Pearson's r 
+- 
+ 
+ 
+ 
+ 
+p-value 
+- 
+ 
+ 
+ 
+ 
+N 
+- 
+ 
+ 
+ 
+TCS_TOTAL 
+Pearson's r 
+-0.009 
+- 
+ 
+ 
+ 
+p-value 
+.940 
+- 
+ 
+ 
+ 
+N 
+66 
+- 
+ 
+ 
+OSA_TOTAL 
+Pearson's r 
+0.281* 
+0.210 
+- 
+ 
+ 
+p-value 
+.019 
+.090 
+- 
+ 
+ 
+N 
+69 
+66 
+- 
+ 
+OGD_TOTAL 
+Pearson's r 
+0.326** 
+-0.012 
+0.304* 
+- 
+ 
+p-value 
+.010 
+.928 
+.016 
+- 
+ 
+N 
+62 
+60 
+62 
+- 
+Note: * p < .05, ** p < .01, *** p < .001 
+ 
+Overall, these results partially supported the hypothesis, as screen time was 
+significantly associated with both online shopping addiction and online gambling 
+severity, but not with conformity.
+
+37 
+ 
+ 
+ 
+CHAPTER IV 
+DISCUSSION 
+Summarized Findings 
+ 
+Contrary to expectations, it was found that self-esteem and loneliness were not 
+significant predictors of conformity in this sample. Conformity did not predict either 
+online shopping behavior or online gambling behavior. These findings challenged the 
+assumption that conformity might serve as the primary mechanism linking internal 
+psychological vulnerability to externally influenced digital behaviors. Instead, the results 
+suggest that conformity may not be a central pathway through which Generation Z 
+individuals engage in maladaptive online consumption. 
+ 
+It was also found that neither lower self-esteem, higher rates of loneliness, nor 
+higher rates of conformity predicted greater susceptibility to conformity-driven online 
+purchasing habits. There was partial support that lower self-esteem, higher rates of 
+loneliness, and higher conformity predict online gambling severity. Lastly, partial 
+support was found for psychological distress moderating the relationship between 
+psychological vulnerability (self-esteem and loneliness) and online shopping addiction 
+behaviors, but not severe online gambling behaviors. 
+Interpretation 
+ 
+These findings suggest that conformity is not a predictor of online shopping 
+behavior nor online gambling behavior. The literature, specifically social influence 
+theory, suggests that social media could act as a conformity pressure by leveraging peer 
+
+ 
+38 
+norms, curated content, and algorithm-driven interactions that create a sense of social 
+validation and urgency (Davlembayeva & Papagiannidis, 2025; Kelman, 1974). Despite 
+the theory and prior research, the present study found no significant evidence supporting 
+this. This could be due to the unique forms of conformity found online, which may not 
+fit the survey chosen. 
+ 
+The present study also found that self-esteem and loneliness were not predictors 
+of conformity, contrary to prior findings in the literature (Cacioppo et al., 2014; Haimson 
+et al., 2021; Kim, 2017; Pertiwi et al., 2022). This could also point to online conformity 
+manifesting differently than direct conformity pressures in reality, as with influencer 
+marketing, the fear of missing out (FOMO), and pressures to gain followers/likes, it is 
+likely conformity is exhibited differently (Davlembayeva & Papagiannidis, 2025). 
+ 
+The finding that lower self-esteem, higher loneliness, and greater conformity did 
+not predict susceptibility to conformity-driven online purchasing, while showing partial 
+support in predicting online gambling severity, may reflect important differences in the 
+underlying psychological mechanisms of these behaviors. Online purchasing decisions, 
+even while socially influenced, could be driven more by external factors (e.g., influencer 
+marketing strategies, product appeal and financial considerations) rather than internal 
+factors such as loneliness and self-esteem. With online gambling it may be that 
+individuals with lower self-esteem or higher loneliness may be more likely to use 
+gambling as a means of mood regulation, escape or validation (Alobidyeen, 2023; Debora 
+& Wijaya, 2025; Gainsbury, 2016; Ukhov et al., 2021). 
+Additionally, social influence in gambling may be more explicit and reinforcing 
+through the normalization of online gambling, visible wins, and more interactive features 
+
+ 
+39 
+which work together to amplify the role of conformity (Rossi et al., 2021; Rossi & Nairn, 
+2021; St. Bonaventure, 2025). Together both findings suggest that while both behaviors 
+occur in more socially influential online spaces, the extent to which individualistic 
+psychological mechanisms predict the enablement in said behaviors may depend on the 
+degree to which each behavior fulfills those psychological needs. 
+ 
+Lastly the partial support found for psychological distress as a moderator in the 
+relationship between psychological vulnerability and online shopping addiction behavior 
+but not severe online gambling behaviors could be due to the possibility that shopping as 
+a behavior is more socially acceptable that gambling behaviors (Bizel et al., 2022; Lind et 
+al., 2022; Putri et al., 2023). These findings suggest that psychological distress may 
+differentially influence the expression of addictive behaviors by how readily the behavior 
+serves as an accessible and socially reinforced coping mechanism. 
+ 
+The sample itself had a psychological distress composite score averaged 32.80 
+(SD = 25.00). Subscale means for psychological distress included depression (M = 9.76, 
+SD = 9.76), anxiety (M = 9.85, SD = 9.02), and stress (M = 13.30, SD = 8.73). According 
+to the scoring guide for the DASS 21 the present study's sample average was just outside 
+the normal range (0-9) for depression with a mean of M = 9.76, likely indicating the 
+sample is largely not experiencing clinical levels of depression. The sample did however 
+score between the mild (8-9) and the moderate range of anxiety (10-14) with a mean of 
+M=9.85, indicating the sample was mildly to moderately anxious. Lastly the sample's 
+mean for stress fell within the normal range (0-14) with a mean of M = 13.30, indicating 
+the sample was not largely experiencing large amounts of stress during the time of data 
+collection. 
+
+ 
+40 
+Integration 
+This study sought to better understand and investigate how psychological 
+vulnerabilities and social influences interact to predict online purchasing and online 
+gambling habits. Taken together the results suggest that self-esteem, loneliness and 
+conformity operate differently in with the different online maladaptive coping strategies 
+that are online gambling and online purchasing behaviors as there was more evidence of 
+associations with online gambling than conformity-driven purchasing. There was also 
+evidence that the moderating role of psychological distress seems to be more relevant for 
+online shopping than online gambling, which could be relevant when used in treatment 
+contexts for shopping addiction. Overall, this study has shown the unique distinction 
+between the two maladaptive coping strategies when looking at risk factors such as selfesteem, loneliness and conformity as well as the need for more targeted and contextspecific approaches to prevention and intervention. 
+Limitations 
+ 
+Several limitations were present when interpreting the results. Firstly, the small 
+sample size (n = 69) may have limited the statistical power of the results and reduced the 
+ability to detect small but significant relationships between the variables. Post hoc 
+sensitivity analyses indicated that, given the obtained sample sizes across analyses, the 
+study was generally powered to detect medium-sized effects but was underpowered to 
+detect small effects. Specifically, regression models were sufficiently powered (80%) to 
+detect effects ranging from approximately f2 = .12 to f2 = .24, corresponding to R2 values 
+of approximately .11 to .19 depending on the number of predictors included. Similarly, 
+
+ 
+41 
+for bivariate correlations, the study was powered to detect effects of approximately ∣r∣ = 
+.33 to .35. 
+Additionally, limitations include that the majority of the sample was women (n = 
+52) to men (n = 17) and the cross-sectional design prevents conclusions about causal 
+relationships between psychological vulnerability and problematic behaviors online. 
+Additionally, due to the sample being from a private Christian college and distributed by 
+university professors, many subjects may have felt uncomfortable endorsing problematic 
+online behaviors such as shopping addiction or gambling habits, leading to lower levels 
+of reported symptoms. Also, the distribution of online gambling severity scores was 
+highly skewed, with most participants reporting minimal gambling involvement. This 
+pattern is often common in nonclinical samples but could reduce variability, further 
+limiting the detection of significant predictors. Lastly, the study relied on self-report 
+measures, which may be subject to response bias. 
+Conclusion 
+ 
+The purpose of this study was to investigate the relationship between self-esteem, 
+loneliness, and conformity pressures with online gambling and online consumerism 
+habits in Generation Z college students. It was found that lower self-esteem, high 
+loneliness and greater conformity did not significantly predict susceptibility to 
+conformity-driven purchasing behavior. However, partial support was found for these 
+variables in predicting online gambling severity which may suggest a stronger 
+relationship between psychological vulnerabilities and engagement in said behavior. 
+Lastly psychological distress emerged as a partial moderator in the relationship between 
+the psychological vulnerabilities and online shopping behaviors. 
+
+ 
+42 
+ 
+This study has shown a need for the importance of distinguishing the difference 
+between the psychological reasonings between engagement of these behaviors, as they 
+appear to be driven by different internal mechanisms. While online gambling seems to 
+be more closely tied to underlying vulnerabilities and potentially maladaptive coping 
+behaviors, online shopping behaviors may be instead more influenced by situational and 
+environmental factors such as marketing and social media exposure. These results could 
+help contribute to a much more nuanced understanding of how social influence and 
+psychological vulnerabilities interact with the digital space, 
+Future Directions 
+ 
+Future research should continue to explore these distinctions by examining more 
+diverse and larger samples. The sample for this study was taken from Abilene Christian 
+University which contributed to the smaller sample and also a sample that has many 
+spiritual protective factors, so future research should focus on larger universities. By 
+focusing on public, larger universities, future research could also focus on samples of 
+college students with nationally known sporting conferences which could lead to more 
+incentive and pressure to engage in online gambling habits. Additionally, research 
+investing platform specific features such as social media algorithms, and influencer 
+content may help clarify which mechanisms may affect conformity in online shopping 
+and gambling contexts. Finally, future work should work on exploring intervention 
+strategies that are tailored to account for these found differences. 
+ 
+ 
+
+ 
+43 
+ 
+ 
+ 
+REFERENCES 
+Ahmed, R. & Streimikiene, D., Rolle, J., Duc P. (2020). The COVID-19 Pandemic and 
+the Antecedants for the Impulse Buying Behavior of US Citizens. Journal of 
+Competitiveness. 12. 5-27. 10.7441/joc.2020.03.01. 
+Alobidyeen, B. (2023). Dilemma of Generation Z: Exploring the interplay of addiction to 
+online gaming and compulsive buying. Journal of Digitovation and Information 
+System, 3(2), 156-170. https://doi.org/10.54433/JDIIS.2023100027 
+Anchan, K., & Puranik, D. (2025). Investigating the effects of doom scrolling on 
+emotional states, social interaction anxiety, and sleep disturbances in adults. 
+International Journal for Multidisciplinary Research, 7. 
+https://doi.org/10.36948/ijfmr.2025.v07i04.51057 
+Avison, W. R. (1981). Untitled [Review of the book Conceiving the Self, by M. 
+Rosenberg]. The Canadian Journal of Sociology, 6(2), 212-214. 
+https://doi.org/10.2307/3340091 
+Ayaki, M., Hattori, A., Maruyama, Y., Nakano, M., Yoshimura, M., Kitazawa, M., ... 
+Tsubota, K. (2016). Protective effect of blue-light shield eyewear for adults 
+against light pollution from self-luminous devices used at night. Chronobiology 
+International, 33(1), 134-139. https://doi.org/10.3109/07420528.2015.1119158 
+Babu, A., Ahammad, M., Mahmud, M., & Uddin, S. (2025). Social media as a market 
+prophecy: Leveraging ML algorithms for predicting market trends and demand. 
+
+ 
+44 
+Transportation Research Procedia, 84, 137-144. 
+https://doi.org/10.1016/j.trpro.2025.03.056 
+Benavides, T. B. T., Alcorta Castro, A. T., Garza Marichalar, S. A., Peña Cisneros, M., & 
+Baker Suárez, E. C. (2023). Social media addiction in Generation Z consumers: 
+Implications for business and marketing. Springer. 
+Bisht, K., and Desu, S. 2024. Stress, Coping, and Shopping: Exploring Behavioural 
+Responses. Journal of Scientific Research and Reports 30 (9), 624-30. 
+https://doi.org/10.9734/jsrr/2024/v30i92390. 
+Bizel, G., Amoroso, A., & Sharma, S. (2022). A social media trend: How does TikTok 
+influence adults? Pearson Journal, 7(17), 192-206. 
+https://doi.org/10.46872/pj.468 
+Bol, N., Strycharz, J., Helberger, N., van de Velde, B., & de Vreese, C. (2020). 
+Vulnerability in a tracked society: Combining tracking and survey data to 
+understand who gets targeted with what content. New Media & Society, 22(11), 
+1996-2017. https://doi.org/10.1177/1461444820924631 
+Brand, M., Young, K. S., Laier, C., Wölfling, K., & Potenza, M. N. (2016). Integrating 
+psychological and neurobiological considerations regarding the development and 
+maintenance of specific internet-use disorders: An interaction of person-affectcognition-execution (I-PACE) model. Neuroscience & Biobehavioral Reviews, 
+71, 252-266. https://doi.org/10.1016/j.neubiorev.2016.08.033 
+Cacioppo, J. T., Cacioppo, S., & Boomsma, D. I. (2014). Evolutionary mechanisms for 
+loneliness. Cognition and Emotion, 28(1), 3-21. 
+https://doi.org/10.1080/02699931.2013.837379 
+
+ 
+45 
+Chu, X. Y., Long, J., & Lei, L. (2020). The relationship between social interaction 
+anxiety and undergraduates' problematizing excessive online gaming: The 
+mediating role of self-compensation motivation and moderating role of 
+extroversion. Journal of Psychological Science, 43(4), 943-949. 
+https://jps.ecnu.edu.cn/EN/Y2020/V43/I4/943 
+Clark, D. (2024). The Psychological Impacts of Consumerism on Cultural Adaptation 
+[Master's thesis, Angelo State University]. Angelo State University Digital 
+Repository. https://hdl.handle.net/2346.1/41088 
+Conklin, A. (2020, March 11). How much money do social media influencers make? 
+FOX Business. https://www.foxbusiness.com/lifestyle/social-media-influencerpay 
+Connors, E. (2024, January 30). New APA poll: One in three Americans feels lonely every 
+week. American Psychiatric Association. https://www.psychiatry.org/newsroom/news-releases/new-apa-poll-one-in-three-americans-feels-lonely-e 
+Davlembayeva, D., & Papagiannidis, S. (2025). Social influence theory: A review. In S. 
+Papagiannidis (Ed.), TheoryHub book: A theory resource for students and 
+researchers alike. https://open.ncl.ac.uk 
+Debora, D. A., & Wijaya, H. E. (2025). Nomophobia and online gambling behavior in 
+college students. Nusantara Journal of Behavioral and Social Science, 4(3), 101-
+114. https://doi.org/10.47679/njbss.202589 
+Dodds, D. (2024, March 19). Short-form video content: Capturing attention in the digital 
+age. Forbes. 
+
+ 
+46 
+https://www.forbes.com/councils/forbesagencycouncil/2024/03/19/short-formvideo-content-capturing-attention-in-the-digital-age/ 
+Durai, T., & King, R. (2019). Impact of digital marketing on the growth of consumerism. 
+SSRN. https://doi.org/10.2139/ssrn.3344421 
+Frison, E., & Eggermont, S. (2015). The impact of daily stress on adolescents' depressed 
+mood: The role of social support seeking through Facebook. Computers in Human 
+Behavior, 44, 315-325. https://doi.org/10.1016/j.chb.2014.11.070 
+Gainsbury, S. M. (2015). Online gambling addiction: The relationship between internet 
+gambling and disordered gambling. Current Addiction Reports, 2, 185-193. 
+https://doi.org/10.1007/s40429-015-0057-8 
+Golino, M. A. (2021, April 24). Algorithms in social media platforms. Institute for 
+Internet & the Just Society. https://www.internetjustsociety.org/algorithms-insocial-media-platforms 
+González-Cabrera, J., Machimbarrena, J. M., Beranuy, M., Pérez-Rodríguez, P., 
+Fernández-González, L., & Calvete, E. (2020). Design and measurement 
+properties of the Online Gambling Disorder Questionnaire (OGD-Q) in Spanish 
+Adolescents. Journal of Clinical Medicine, 9(1), 120. 
+https://doi.org/10.3390/jcm9010120 
+Guillou Landréat, M., Gallopel-Morvan, K., Lever, D., Le Goff, D., & Reste, J.-Y. 
+(2021). Gambling marketing strategies and the internet: What do we know? A 
+systematic review. Frontiers in Psychiatry, 12, 583817. 
+https://doi.org/10.3389/fpsyt.2021.583817 
+
+ 
+47 
+Haimson, O. L., Liu, T., Zhang, B. Z., & Shanley, C. (2021). The online authenticity 
+paradox: What being "authentic" on social media means, and barriers to achieving 
+it. Proceedings of the ACM on Human Interaction, 4, 1-18. 
+https://doi.org/10.7302/2631 
+Head, A. J., Fister, B., & MacMillan, M. (2020). Information literacy in the age of 
+algorithms: Student experiences with news and information, and the need for 
+change. Project Information Literacy. 
+https://files.eric.ed.gov/fulltext/ED605107.pdf 
+Holland, G., & Tiggemann, M. (2016). A systematic review of the impact of the use of 
+social networking sites on body image and disordered eating outcomes. Body 
+Image, 17, 100-110. https://doi.org/10.1016/j.bodyim.2016.02.008 
+Huang, C. (2017). Time spent on social network sites and psychological well-being: A 
+meta-analysis. Cyberpsychology, Behavior, and Social Networking, 20(6), 346-
+354. https://doi.org/10.1089/cyber.2016.0758 
+Jouhki, H., Savolainen, I., Sirola, A., & Oksanen, A. (2022). Escapism and excessive 
+online behaviors: A three-wave longitudinal study in Finland during the COVID-
+19 pandemic. International Journal of Environmental Research and Public 
+Health, 19(19). https://doi.org/10.3390/ijerph191912491 
+Karamustafic, S., Stockmaster, T., Palladina, S., Harris, A., & Perloff, R. M. (2020, 
+October 2-3). Social media influencers: Who they are and how they influence. 
+[Paper Presentation] 84th Annual Ohio Communication Association, Virtual. 
+Kelman, H. C. (1974) Social influence and linkages between the individual and the social 
+system: Further thoughts on the processes of compliance, identification, and 
+
+ 
+48 
+internalization. In: In J. Tedeschi (Ed.), Perspectives on social power. pp. 125-
+171. 
+Kim, J. (2017). Lonely consumers: When, how, and why does loneliness influence 
+consumer behavior? [Manuscript submitted for publication]. Department of 
+Marketing, Virginia Polytechnic Institute and State University. 
+https://vtechworks.lib.vt.edu/server/api/core/bitstreams/4f8aeb41-be72-43beb15d-42dd9cbf513f/content 
+Kucuk, S. U. (2016). Consumerism in the digital age. Journal of Consumer Affairs, 50(3), 
+515-538. https://doi.org/10.1111/joca.12101 
+Kumar, M., & Mondal, A. (2018). A study on internet addiction and its relation to 
+psychopathology and self-esteem among college students. Industrial Psychiatry 
+Journal, 27(1), 61-66. https://doi.org/10.4103/ipj.ipj_61_17 
+Li, H., Ma, X., Fang, J., Liang, G., Lin, R., Liao, W., & Yang, X. (2023). Student stress 
+and online shopping addiction tendency among college students in Guangdong 
+Province, China: The mediating effect of social support. International Journal of 
+Environmental Research and Public Health, 20(1), 176. 
+https://doi.org/10.3390/ijerph20010176 
+Lind, K., Marionneau, V., & Järvinen-Tassopoulos, J. (2022). Socio-demographics, 
+gambling participation, gambling settings, and addictive behaviors associated 
+with gambling modes: A population-based study. Journal of Gambling Studies, 
+38, 1111-1126. https://doi.org/10.1007/s10899-021-10074-7 
+Liu, J., & Lee, J.-S. (2024). Social media influencers and followers' loneliness: The 
+mediating roles of parasocial relationship, sense of belonging, and social support. 
+
+ 
+49 
+Online Media and Global Communication, 3(4), 607-630. 
+https://doi.org/10.1515/omgc-2024-0025 
+Lucius, H. W., & Hanson, J. H. (2016). Consumerism and marketing in the digital age. 
+American Journal of Management, 16(3), 41-47. 
+https://articlegateway.com/index.php/AJM/article/view/1871/1772 
+Mahilda, F., & Setiawan, A., (2024). Dampak Kecanduan Judi Online Terhadap Perilaku 
+Akademik Mahasiswa Bimbingan dan Konseling Universitas Sanata Dharma. 
+Journal Innovation in Education, 3(1), 33-47. 
+https://doi.org/10.59841/inoved.v3i1.2067 
+Maulidy, A., Zaini, A. W., & Sanjani, M. A. F. (2025). Social media influence on 
+consumerism trends among college students. Indonesian Journal of Education 
+and Social Studies, 5(1), 16-28. 
+Mehrabian, A., & Stefl, C. A. (1995). Basic temperament components of loneliness, 
+shyness, and conformity. Social Behavior and Personality, 23(3), 253-263. 
+https://doi.org/10.2224/sbp.1995.23.3.253 
+Moya, E., Larson, L. M., Stewart, R. C., Fisher, J., Mwangi, M. N., & Phiri, K. S. (2022). 
+Reliability and validity of depression anxiety stress scale (DASS)-21 in screening 
+for common mental disorders among postpartum women in Malawi. BMC 
+Psychiatry, 22(1), 352. https://doi.org/10.1186/s12888-022-03994-0 
+Nayottama, N. (2024). Dampak judi online terhadap kondisi finansial, hubungan sosial, 
+dan prestasi akademik mahasiswa: The impact of online gambling on students' 
+financial conditions, social relationships, and academic performance. Moderasi: 
+
+ 
+50 
+Jurnal Studi Ilmu Pengetahuan Sosial, 5, 158-169. 
+https://doi.org/10.24239/moderasi.Vol5.Iss2.340 
+O'Brate (2021). Changes in Fan Gratifications and Sports Media Dependency after the 
+Postponement of Sports due to the COVID-19 Pandemic, [Master's thesis, Kansas 
+State University]. K-State Research Exchange. https://krex.kstate.edu/server/api/core/bitstreams/213b8cf9-ef19-42da-a36e-
+8db1618030fb/content 
+Otto, L., & Maier, M. (2016). Mediated and moderated effects of personalized political 
+communication on political trust. Communications, 41(1), 21-45. 
+https://doi.org/10.1515/commun-2015-0028 
+Parker, K., & Igielnik, R. (2020, May 14). On the cusp of adulthood and facing an 
+uncertain future: What we know about Gen Z so far. Pew Research Center. 
+Retrieved from https://policycommons.net/artifacts/616196/on-the-cusp-ofadulthood-and-facing-an-uncertain-future/1596804/ 
+Pertiwi, E. M., Suminar, D. R., & Ardi, R. (2022). Psychological well-being among Gen 
+Z social media users: Exploring the role of self-esteem, social media dependency 
+as mediator and social media usage motives as moderator. Indigenous: Jurnal 
+Ilmiah Psikologi, 7(3), 205-219. https://doi.org/10.23917/indigenous.v7i2.19851 
+Purwaningdyah, S. W., & Pratminingsih, S. A. (2025). Stressed and shopping: Examining 
+social media-induced stress and online impulsive buying in Gen Z. Jurnal Bisnis: 
+Teori dan Implementasi, 15(3), 343-359. 
+https://doi.org/10.18196/jbti.v15i3.24822 
+
+ 
+51 
+Putri, N., Prasetya, Y., Handayani, P. W., & Fitriani, H. (2023). TikTok Shop: How trust 
+and privacy influence Generation Z's purchasing behaviors. Cogent Social 
+Sciences, 10(1). https://doi.org/10.1080/23311886.2023.2292759 
+Ragnhild, E., Özlem, T., Merete, T., (2023). A scoping review of personalized user 
+experiences on social media: The interplay between algorithms and human 
+factors, Computers in Human Behavior Reports, Volume 9, 100253. 
+https://doi.org/10.1016/j.chbr.2022.100253. 
+Rosenberg, M. (1965). Rosenberg Self-Esteem Scale (RSES) [Database record]. APA 
+PsycTests. https://doi.org/10.1037/t01038-000 
+Rossi, R., & Nairn, A. (2021). What are the odds? The appeal of gambling adverts to 
+children and young persons on Twitter. University of Bristol. 
+https://www.bristol.ac.uk/media-library/sites/management/documents/what-arethe-odds-rossi-nairn-2021.pdf 
+Russell, D. W. (2010). UCLA loneliness scale (version 3): Reliability, validity, and factor 
+structure. Journal of Personality Assessment, 66(1), 20-40. 
+https://doi.org/10.1207/s15327752jpa6601_2 
+Sampasa-Kanyinga, H., & Hamilton, H. A. (2015). Social networking sites and mental 
+health problems in adolescents: The mediating role of cyberbullying 
+victimization. European psychiatry: The Journal of the Association of European 
+Psychiatrists[TP1.1], 30(8), 1021-1027. 
+https://doi.org/10.1016/j.eurpsy.2015.09.011 
+Sampasa-Kanyinga, H., & Lewis, R. F. (2015). Frequent use of social networking sites is 
+associated with poor psychological functioning among children and adolescents. 
+
+ 
+52 
+Cyberpsychology, Behavior and Social Networking, 18(7), 380-385. 
+https://doi.org/10.1089/cyber.2015.0055 [TP2.1][EB2.2] 
+Satici, S. A., Gocet Tekin, E., Deniz, M. E., & Satici, B. (2023). Doomscrolling scale: Its 
+association with personality traits, psychological distress, social media use, and 
+wellbeing. Applied Research in Quality of Life, 18(2), 833-847. 
+https://doi.org/10.1007/s11482-022-10110-7 
+Sekhon, A. (2024). Doomscrolling and its impact on mental health. Indian Journal of 
+Health & Wellbeing, 15(4), 611-613. 
+Sharma, B., Lee, S. S., & Johnson, B. K. (2022). The dark at the end of the tunnel: 
+Doomscrolling on social media newsfeeds. Technology, Mind, and Behavior, 
+3(1). https://doi.org/10.1037/tmb0000059 
+Sidoti, O., Dawson, W., Gelles-Watnick, R., Faverio, M., Atske, S., Radde, K., & Park, 
+E. (2024, November 13). Social media fact sheet. Pew Research Center. 
+https://www.pewresearch.org/internet/fact-sheet/social-media/ 
+Siena College. (2025, February 18). 22% of all Americans, half of men 18-49, have 
+active online sports betting accounts. Retrieved April 14, 2026, from 
+https://sri.siena.edu/2025/02/18/22-of-all-americans-half-of-men-18-49-haveactive-online-sports-betting-account/ 
+Singer, C. (2018). Health effects of social isolation and loneliness. Journal of Aging Life 
+Care, 28, 4-8. 
+Tian, S., Cho, S. Y., Jia, X., Sun, R., & Tsai, W. S. (2022). Social media influence on 
+Gen Z's purchasing behavior. Journal of Product & Brand Management, 31(5), 
+215-230. https://doi.org/10.1108/jpbm-02-2022-3879 
+
+ 
+53 
+TikTok for Business. (2025, July). About TikTok Commerce. TikTok Ads Manager. 
+https://ads.tiktok.com/help/article/tiktok-commerce?lang=en 
+Ukhov, I., Bjurgert, J., Auer, M., & Griffiths, M. D. (2021). Online gambling behavior 
+during COVID-19: A longitudinal study of sports bettors. Frontiers in 
+Psychology, 12, 622320. https://doi.org/10.3389/fpsyg.2021.622320 
+Vidal, C., Lhaksampa, T., Miller, L., & Platt, R. (2020). Social media use and depression 
+in adolescents: a scoping review. International Review of Psychiatry, 32(3), 235-
+253. https://doi.org/10.1080/09540261.2020.1720623 
+Yang, M., Ma, N., Zhu, Y., Su, Y.-C., Chen, Q., Hsiao, F.-C., Ji, Y., Yang, C.-M., & 
+Zhou, G. (2018). The acute effects of intermittent light exposure in the evening on 
+alertness and subsequent sleep architecture. International Journal of 
+Environmental Research and Public Health, 15(3), 524. 
+https://doi.org/10.3390/ijerph15030524 
+Young, N. L., Kuss, D. J., Griffiths, M. D., & Howard, C. J. (2017). Passive Facebook 
+use, Facebook addiction, and associations with escapism: An experimental 
+vignette study. Computers in Human Behavior, 71, 24-31. 
+https://doi.org/10.1016/j.chb.2017.01.039 
+Zhang, L., & Wei, W. (2021, October 4). Influencer marketing: A comparison of 
+traditional celebrity, social media influences, and AI influencer. Boston 
+Hospitality Review. https://www.bu.edu/bhr/2021/10/04/influencer-marketing-acomparison-of-traditional-celebrity-social-media-influencer-and-ai-influencer/ 
+
+ 
+54 
+Zhao, H., Tian, W., & Xin, T. (2017). The development and validation of the online 
+shopping addiction scale. Frontiers in Psychology, 8, 735. 
+https://doi.org/10.3389/fpsyg.2017.00735 
+Zlobina, M. V. (2023). Evaluation of psychometric characteristics of the conformity 
+scale. Reflexio, 16(2), 29-42. https://doi.org/10.25205/2658-4506-2023-16-2-29-
+42 
+
+55 
+ 
+ 
+ 
+APPENDIX A 
+Institutional Review Board Approval 
+The Institutional Review Board at Abilene Christian University states that Emily 
+Bauknight's project titled "Scrolling for Connection: The Influence of Loneliness, Self-
+Esteem, and Stress on Susceptibility to Conformity-Driven Online Purchasing and 
+Gambling Behaviors in Generation Z," which is IRB #IRB-2026-18, is exempt under 
+Federal Policy for the Protection of Human Subjects. This approval is dated 02-13-2026. 
+Please contact the ACU Office of Research and Sponsored Programs at orsp@acu.edu 
+with any questions. 
+ 
+ 
+
+ 
+56 
+ 
+ 
+ 
+ 
+APPENDIX B 
+List of Measures 
+The Conformity Scale 
+The Conformity Scale (TCS) is an 11-question measure of people's tendency to follow 
+what others do and believe. The questions measure one variable: conformity. This survey 
+can be used to explore relationships between conformity and variables like mental health, 
+food choices, or pro-environmental behaviors. Past research suggests that adolescents 
+who reported more loneliness also reported conforming more (Mehrabian et al., 1995). 
+ 
+Please use the following scale to indicate the degree of your agreement or disagreement 
+with each of the statements below. 
+ 
+Try to describe yourself accurately and generally (that is, the way you are actually in 
+most situations - not the way you would hope to be). 
+-4 = very strong disagreement 
+-3 = strong disagreement 
+-2 = moderate disagreement 
+-1 = slight disagreement 
+0 = neither agreement nor disagreement 
++1 = slight agreement 
++2 = moderate agreement 
+
+ 
+57 
+ 
++3 = strong agreement 
++4 = very strong agreement 
+1.) I often rely on, and act upon, the advice of others. 
+2.) I would like to be the last one to change my opinion in a heated argument on a 
+controversial topic. 
+3.) Generally, I'd rather give in and go along for the sake of peace than struggle to have 
+my way. 
+4.) I tend to follow family tradition in making political decisions. 
+5.) Basically, my friends are the ones who decide what we do together. 
+6.) A charismatic and eloquent speaker can easily influence and change my ideas. 
+7.) I am more independent than conforming in my ways. 
+8.) If someone is very persuasive, I tend to change my opinion and go along with them. 
+9.) I don't give in to others easily. 
+10.) I tend to rely on others when I have to make an important decision quickly. 
+11.) I prefer to make my own way in life rather than find a group I can follow. 
+ 
+ 
+
+ 
+58 
+ 
+ 
+Rosenberg Self-Esteem Scale (RSES) 
+Rosenberg Self-Esteem Scale (RSES) 
+Below is a list of statements dealing with your general feelings about yourself. There are 
+four possible answers for each of the 10 questions, from "strongly agree" to "strongly 
+disagree. 
+1.) On the whole, I am satisfied with myself. 
+2.) At times, I think I am no good at all 
+3.) I feel that I have a number of good qualities 
+4.) I am able to do things as well as most other people 
+5.) I feel I do not have much to be proud of 
+6.) I certainly feel useless at times 
+7.) I feel that I'm a person of worth, at least on an equal plane with others 
+8.) I wish I could have more respect for myself 
+9.) All in all, I am inclined to feel that I am a failure 
+10.) I take a positive attitude toward myself 
+ 
+ 
+
+ 
+59 
+ 
+The Online Shopping Addiction Scale 
+Please answer the following questions as they relate to your online shopping behavior. 
+Answer Either: 
+Completely Disagree 
+Disagree 
+Agree 
+Completely Agree 
+1.) When I am not shopping online, I keep thinking about it 
+2.) I frequently think about how to spare more time or money to spend in online shopping 
+3.) Online shopping is important for my life 
+4.) Recently, I have an urge to do more and more online shopping 
+5.) I spend more and more time in online shopping 
+6.) Recently I often shop online unplanned 
+7.) When I feel bad, online shopping can make me feel good 
+8.) When I am feeling down, anxious, helpless or uneasy, I shop online in order to make 
+myself feel better 
+9.) Online shopping can help me to temporarily forget the troubles in real life 
+10.) When I can't do online shopping for certain excuses, I will get depressed or lost 
+11.) Life without online shopping for some time would be boring and joyless for me 
+12.) I will feel restless or depressed when attempting to shop online but unable to achieve 
+(unable to find what I am looking for) 
+13.) I have tried to cut back or stop my online shopping but failed 
+
+ 
+60 
+ 
+14.) I have decided to do online shopping less frequently, but not managed to do so (have 
+not been successful) 
+15.) If I cut down the amount of online shopping in one period, and then start again, I 
+always end up shopping as often as I did before 
+16.) My productivity for work or study has decreased as a direct result of online shopping 
+17.) I have once quarreled (argued) with my parents because of my online shopping 
+18.) I have cut off my time with parents and friends because of my online shopping 
+ 
+ 
+
+ 
+61 
+ 
+UCLA Loneliness Scale Version 3 
+Instructions: The following statements describe how people sometimes feel. For each 
+statement, please indicate how often you feel the way described by circling one of the 
+responses below. Here is an example: 
+ 
+ 
+How often do you feel happy? 
+ 
+If you never felt happy, you would respond "never"; if you always feel happy, you would 
+respond "always." 
+ 
+1. How often do you feel that you are "in tune" with the people around you? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+2. How often do you feel that you lack companionship? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+3. How often do you feel that there is no one you can turn to? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+4. How often do you feel alone? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+5. How often do you feel part of a group of friends? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+6. How often do you feel that you have a lot in common with the people around you? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+
+ 
+62 
+ 
+7. How often do you feel that you are no longer close to anyone? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+8. How often do you feel that your interests and ideas are not shared by those around 
+you? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+9. How often do you feel outgoing and friendly? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+10. How often do you feel close to people? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+11. How often do you feel left out? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+12. How often do you feel that your relationships with others are not meaningful? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+13. How often do you feel that no one really knows you well? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+ 
+ 
+14. How often do you feel isolated from others? 
+ 
+Never 
+Rarely 
+Sometimes 
+Always 
+ 
+ 
+
+ 
+63 
+ 
+ 
+The Online Gambling Disorder Questionnaire (OGD-Q) 
+This 11-item scale was developed to assess symptoms of online gambling disorder in 
+adolescents. Answer using the following: 
+0- Never 
+1- Once in a While 
+2- Sometimes 
+3- Often 
+4- Every day 
+1.) Do you feel the need to spend more and more money to get the high you desire? 
+ 
+2.) Do you feel nervous, irritated, or angry when trying to reduce or stop gambling 
+online? 
+ 
+3.) Have you tried to control, reduce or stop gambling online and have not been able to 
+do so? 
+ 
+4.) Have you ever felt that online gambling has had negative consequences at a personal, 
+social, family, or academic/work level, and you have still continued to gamble? 
+ 
+5.) Do you often think about online gambling, for example, remembering past bets, 
+planning your next bets, thinking about ways to make more money gambling online, 
+reliving some moments related to online gambling, etc.? 
+
+ 
+64 
+ 
+ 
+6.) Do you bet or gamble online when you feel sad, anxious, or guilty, in order to feel 
+better or to stop thinking about how you feel? 
+ 
+7.) Do you feel like you have little control over online gambling (e.g., gambling more 
+than you would like, spending more money than you would like, gambling in places 
+where you shouldn't do that, not being able to stop gambling when you want to)? 
+ 
+8.) After losing money on a bet or in online gambling, do you usually gamble again to 
+try to get that money back? 
+ 
+9.) Do you lie to others to conceal how much time you gamble or how much you actually 
+spend on online gambling? 
+ 
+10.) Have you ever asked someone for money to improve or overcome the bad economic 
+situation that online gambling has caused you? 
+ 
+11.) Have you felt that you prioritized gambling over other areas of your life that had 
+been more important before (e.g., studying, hanging out with friends, sleeping less if you 
+gamble at night, etc.)? 
+ 
+ 
+
+ 
+65 
+ 
+ 
+The Depression Anxiety Stress Scale-21 (DASS-21) 
+Please read each statement and circle a number 0, 1, 2 or 3 which indicates how much the 
+statement 
+applied to you over the past week. There are no right or wrong answers. Do not spend too 
+much 
+time on any statement. 
+ 
+The rating scale is as follows: 
+0 Did not apply to me at all 
+1 Applied to me to some degree, or some of the time 
+2 Applied to me to a considerable degree or a good part of time 
+3 Applied to me very much or most of the time 
+ 
+1 (s) I found it hard to wind down 0 1 2 3 
+ 
+2 (a) I was aware of dryness of my mouth 0 1 2 3 
+ 
+3 (d) I couldn't seem to experience any positive feeling at all 0 1 2 3 
+ 
+4 (a) I experienced breathing difficulty (e.g. excessively rapid breathing, 
+breathlessness in the absence of physical exertion) 0 1 2 3 
+ 
+5 (d) I found it difficult to work up the initiative to do things 0 1 2 3 
+ 
+6 (s) I tended to over-react to situations 0 1 2 3 
+ 
+7 (a) I experienced trembling (e.g. in the hands) 0 1 2 3 
+ 
+8 (s) I felt that I was using a lot of nervous energy 0 1 2 3 
+ 
+9 (a) I was worried about situations in which I might panic and make a fool 
+of myself 0 1 2 3 
+ 
+10 (d) I felt that I had nothing to look forward to 0 1 2 3 
+ 
+11 (s) I found myself getting agitated 0 1 2 3 
+ 
+12 (s) I found it difficult to relax 0 1 2 3 
+ 
+13 (d) I felt down-hearted and blue 0 1 2 3 
+ 
+14 (s) I was intolerant of anything that kept me from getting on with what I 
+was doing 0 1 2 3 
+
+ 
+66 
+ 
+ 
+15 (a) I felt I was close to panic 0 1 2 3 
+ 
+16 (d) I was unable to become enthusiastic about anything 0 1 2 3 
+ 
+17 (d) I felt I wasn't worth much as a person 0 1 2 3 
+ 
+18 (s) I felt that I was rather touchy 0 1 2 3 
+ 
+19 (a) I was aware of the action of my heart in the absence of physical 
+exertion (e.g. sense of heart rate increase, heart missing a beat) 0 1 2 3 
+ 
+20 (a) I felt scared without any good reason 0 1 2 3 
+ 
+21 (d) I felt that life was meaningless 0 1 2 3 
+
+67

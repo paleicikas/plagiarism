@@ -1,0 +1,1231 @@
+0 ratings0% found this document useful (0 votes)
+335 views12 pages
+Theoretical Models DeJoy PDF
+Copyright
+© © All Rights Reserved
+We take content rights seriously. If you suspect this is your content, claim it here.
+Available Formats
+Download as PDF, TXT or read online on Scribd
+You are on page 1/ 12
+1996
+Copyright &)1996 National Safety Council and Elsevier Science Ltd
+printed in the USA. All rights nxexved
+0022-4375/96 $15.00 + .OO
+Pergamon
+PII SOO22-4375(%)00007-2
+Workplace Self-Protective Behavior
+David M. DeJoy
+models of health behavior to workplace self-protective
+behavior. Valueexpectancy, environmental/contextual,
+and behavior change models are
+reviewed.
+On this basis, an integrative
+framework
+is proposed
+that
+conceptualizes
+self-protective
+behavior as consisting of four stages or
+phases: hazard appraisal, decision making, initiation, and adherence. In
+secondary importance at each stage: threat-related beliefs, response efficacy,
+self-efficacy, facilitating
+conditions,
+and safety climate. The proposed
+framework highlights the need to target interventions
+to each of the four
+stages. Particular emphasis is also assigned to environmental
+or situational
+factors in enabling and reinforcing self-protective behavior in the workplace.
+INTRODUCTION
+With very few exceptions, research on workplace self-protective behavior has been piecemeal
+and atheoretical.
+Studies have generally taken
+one of three approaches. First, a number of studies have examined various employee characteristics and their relationships to safety performance
+and injury experience.
+Characteristics
+studied
+have included: hazard and safety-related attitudes
+and beliefs (e.g., Cox & Cox, 1991; Dedobbeleer
+& German,
+1987; Leather, 1988; Walters &
+Haines, 1988); personality dimensions and risktaking tendencies (e.g., Jones & Wuebker, 1985;
+Landeweerd, Urlings, DeJong, Nijhuis, & Bouter,
+1990); subjective risk assessments (e.g., Edwards
+David M. DeJoy is Professor and Head of the Department
+of Health Promotion
+and Behavior at the University
+of
+Georgia. He received his PhD from Penn State University.
+Summer
+1996Nolume 27hVumber 2
+Howarth,
+1987; Zimolong,
+1985); and job
+demands and other stressors (e.g., Cooper &
+Sutherland,
+1987; Levenson,
+Hirschfeld,
+&
+Hirschfeld, 1980; Murphy, 1984; Smith, Colligan,
+Fmckt, & Tastn, 1982).
+A second group of studies has attempted to
+modify the safety-related behaviors of workers
+through the use of contingent reinforcement
+or
+operant-based approaches. Reinforcers have included information feedback, goal setting, social mcognition, and praise, as well as more conventional
+rewards and incentives. Reinforcement protocols
+have been used to improve the use of protective
+eyewear (Smith, Anger, & Uslan, 1978) and hearing protectors (Zohar, Cohen, & Azar, 1980), and
+to increase compliance with safety regulations
+(Rhoton, 1980). Other studies within this group
+have been somewhat broader in scope and have
+tried to influence multiple safety-related behaviors
+61
+Barwick, & Scott, 1978; Sulzer-Azaroff
+DeSantamaria. 1980). Supervisory behavior has
+also been examined using this general approach
+(Komaki, Zlotnick, 8 Jensen, 1986; Mattila,
+Hyttinen, & Rantaneu 1994).
+The third group of studies has focused on the
+organizational and environmental correlates of
+good safety performance. Most of these studies
+have sought to identify the programmatic features of effective safety programs (e.g., Cohen,
+Smith, & Cohen, 1975; Cohen & Cleveland,
+1983; Fiedler, Bell, Chemers, & Patrick, 1984;
+Planek & Feam, 1993; Simonds & Shafai-Sahmi,
+1977; Smith, Cohen, Cohen, & Cleveland, 1978)
+or the major dimensions of positive or supportive
+organizational safety climates (e.g., Brown &
+Holmes, 1986; Dedobbeleer 8z Beland, 1991;
+Mattila, Rantanen, & Hyttinen, 1994; Niskanen,
+1994; Zohar, 1980).
+This research has been useful but it has not
+provided a comprehensive understanding of
+worker self-protection.
+More is now known
+about the importance of certain individual and
+organizational characteristics,
+but there has
+been very little comparability from one study to
+another, and few generalizable conclusions can
+be drawn. For example, it is difficult to make
+predictions about which factors are likely to be
+important in a given work situation or how
+these factors might interact with each other.
+Almost nothing is known about the interplay of
+individual and organizational factors in influencing the safety-related actions of workers on
+the job.
+A number of conceptual models of workplace
+safety and health have been proposed to help
+organize research findings and guide the development of occupational safety and health programs (e.g., Cohen, Smith, & Anger, 1979; DeJoy,
+1990; DeJoy & Southem, 1993; Smith & Beringer,
+1987). These models are useful in a heuristic
+sense because they underscore the need to consider the characteristics of the worker, the tasks
+and jobs being performed, the total work environment, and the organizational structure. But
+for the most part, they fall far short of being
+comprehensive or testable models. In view of
+these limitations, it may be worthwhile to look
+to related areas for more sophisticated and applicable models. The general area of health behavior offers a number of theoretical models that
+have been tested and refined over the years.
+62
+A variety of models have been developed to
+explain why people do or do not engage in various health enhancing and medically beneficial
+activities. These models have been applied to a
+wide variety of preventive and lifestyle behaviors (e.g. vaccinations, safe sex practices, smoking, exercise, seat belt usage), screening or early
+detection activities (e.g., breast self-examination, cholesterol and blood pressure testing,
+genetic screening), sick role behaviors (e.g..
+clinic utilization, physician visits), and adherence to medical and other therapeutic regimens
+(e.g., hypertension, diabetes). Although there
+would appear to be an obvious link between
+these models and workplace self-protective
+behavior, very little attention has been given to
+examining how they might apply to actions that
+workers are asked to take to protect themselves
+from job-related hazards.
+Three categories of models are considered in
+this paper. The first category includes the decision making or cost-benefit models derived
+from value-expectancy theory. These models
+have occupied a prominent position in the health
+behavior literature during the last 30 years
+(Glauz, Lewis, & Rimer, 1990, Weinstein, 1993).
+The second category is referred to here as environmental or contextual models. These models
+attempt to go beyond person-focused variables
+and take a more ecological or interactionist
+approach to analyzing the determinants of health
+behavior. The fmal category of models focuses
+on the behavior change process itself. Models in
+this category typically portray behavior change
+as a series of qualitatively distinct stages.
+Value-Expectaucy
+Models
+premise that people estimate the seriousness of
+risks, evaluate the costs and benefits of various
+actions, and then choose a course of action that
+will maximize the expected outcome (Cleat-y,
+1987). Value-expectancy models have taken a
+variety of forms, and three prominent examples
+are discussed here: the Health Belief Model
+(Becker, 1974); the Theory of Reasoned Action
+(Ajzen & Fishbein, 1980); and Protection
+Motivation Theory (Rogers, 1983). The three
+models are each different to some extent, but
+they all emphasize the individuals threat-related
+Journal of Safety Research
+that value-expectancy models have four characteristics in common: (a) that motivation for selfprotective behavior arises from the anticipation
+of negative consequences and the desire to minimize these outcomes, (b) that the impact of an
+anticipated negative outcome on motivation
+depends on beliefs about the likelihood that this
+outcome will occur, (c) that motivation to act
+arises from the expectation that the action will
+reduce the likelihood or severity of harm, and
+(d) that the expected benefits of a particular
+action must be weighed against the expected
+costs of taking the action.
+Health Belief Model (HBM). Of the models pre-
+the largest body of health-related research. It is
+also the only one that was specifically developed to explain health behavior. The HBM
+model has four basic components: (a) perceived
+susceptibility to the health problem or condition
+in question, (b) the perceived seriousness of the
+problem or condition, (c) the perceived benefits
+associated with taking a particular action, and
+(d) the perceived barriers associated with taking
+the action.
+Published reviews of the HBM literature
+(Becker, 1974; Harrison, Mullen, & Green, 1992;
+Janz & Becker, 1984) show considerable support
+for the model and offer some general conclusions about the relative importance of its major
+components. Perceived barriers have been shown
+to be the most powerful single predictor across
+all studies and behaviors. Perceived susceptibility and perceived benefits are also important,
+with susceptibility being more important for preventive than sick role behaviors. As might be
+expected, benefits are more important than susceptibility for sick role behaviors. In terms of
+the total literature, perceived severity appears to
+be the weakest of the four dimensions.
+One of the major criticisms of the I-IBM is
+that is does not specify relationships among the
+major variables. Indeed, it has sometimes been
+referred to as being more a list of variables than
+a theoretical model (Wallston & Wallston, 1984;
+Weinstein, 1993). Most applications of the
+HBM combine the variables in a linear or additive fashion to test the model: susceptibility +
+severity + (benefits - barriers). However, some
+of the earlier writing on the model (e.g.,
+Maiman & Becker, 1974) would appear to sugSummer 1996/Mohme 27LWmber 2
+severity x (benefits - barriers).
+posits that behavioral intention is the immediate
+determinant of behavior and that all factors that
+influence a particular behavior are mediated
+through intention. Intention is determined by
+two components: (a) attitude toward the behavior, which consists of beliefs about the consequences of performing the behavior and the
+evaluation of those consequences; and (b) subjective norms, which consist of normrutive
+beliefs about what salient others think and the
+individuals motivation to comply with those
+wishes. According to the model, intention can be
+predicted by the linear combination of attitude
+and normative beliefs multiplied by motivation
+to comply with the beliefs. The model is
+expressed as a multiple regression equation, with
+the weights assigned to the major components
+determined by multiple regression procedures.
+The TRA has been applied with considerable
+success to a number of health behaviors, inaluding exercise, weight loss, child safety seats,
+smoking, condom usage, and alcohol and drug
+use (see Cleary, 1987; Kirscht, 1983; Sutton,
+1987 for reviews). Besides its focus on behavioral intention, the most obvious difference
+between the TRA and HBM is that the TRA
+includes subjective norms as a major determinant
+of health-related behavior. The TRA also goes
+further in specifying how its constructs should be
+measured and how they combine to form behavioral intention. On the negative side, much of the
+research on the TRA has been confimed to predicting behavior intention rather than aatual
+behavior (Baranowski, 1992-1993).
+More recent versions of both the HBM
+(Rosenstock, Strecher, & Becker, 1988) and the
+TRA (Ajzen, 1985) have added self-efficacy
+(Bandura, 1986) as an important component. The
+principal argument for including self-efficacy is
+that people must feel confident that they are
+capable of performing the behaviors required to
+produce the desired outcomes. Self-efficacy
+appears to be especially important for lifestyle
+modifications and other behaviors involving
+long-term change and maintenance (Streaher,
+DeVelLis,Becker, & Rosenstock, 1986).
+Protection motivation theory (PMT). This model
+63
+protection motivation. Protection motivation
+(typically measured as behavioral intention) is
+conceptualized as an intervening variable that
+activates coping behavior. Threat appraisal evaluates the intrinsic (e.g., pleasure) and extrinsic
+(e.g., social approval) rewards that increase the
+probability of making a maladaptive response
+against perceptions of vulnerability and outcome
+severity that decrease the probability. Threat
+appraisal is the algebraic sum of these variables.
+Coping appraisal consists of judgments about
+the efficacy of a preventive response (response
+efficacy) plus the assessment of ones ability to
+successfully perform the necessary responses or
+behaviors (self-efficacy) minus the costs associated with the response.
+Protection motivation is assumed to be greatest when: (a) the perceived threat is severe, (b)
+the individual feels vulnerable, (c) the adaptive
+response is believed to be effective, (d) the person is confident of his or her abilities to complete
+the adaptive response, (e) the rewards of the maladaptive behavior are small, and (f) the costs of
+the adaptive behavior are low. Although this is an
+additive model within each of the two appraisal
+processes, interactive effects can occur between
+threat and coping appraisal processes (e.g., selfefficacy x severity). Presumably, this allows the
+model to predict outcomes that are contrary to
+totally rational decision making (Prentice-Dunn
+& Rogers, 1986). Although less extensively
+researched than the two previous models, the
+major components of PMT have been supported
+(Prentice-Dunn & Rogers; Rogers, 1983). Much
+of this work has involved fear-arousing communications and attitude change.
+Applicability
+Behavior
+to Workplace Setf-Protective
+Aside from some consideration of HBM constructs with respect to personal protective equipment (e.g., Cleveland, 1984; DeJoy, 1986;
+Terrell, 1984), very little effort has been made to
+apply the value-expectancy models to worker
+safety and health. However, viewed as a group,
+these models do highlight several constructs that
+should be relevant to workplace self-protective
+behavior. These constructs include: (a) threatrelated beliefs, (b) self-efficacy, (c) response
+efficacy, (d) barriers, and (e) normative expectations (see Table 1).
+64
+Threat-related beliefs. Beliefs about susceptibility (probability) and severity are featured in each
+of the models. The interrelationship of susceptibility and severity tends to be treated differently
+in the various models, but a multiplicative relationship would appear to be most in line with the
+value-expectancy tradition. For example, a high
+level of perceived susceptibility may not necessarily lead to self-piotective behavior if the
+severity of the threat is minimal. On the other
+hand, for a highly lethal outcome, perceived susceptibility may be the major dimension.
+Self-efficacy. In one form or another, self-efftcacy has been incorporated into each of the valueexpectancy models. Because most instances of
+worker self-protection involve the performance
+of a set of prescribed actions on a long-term
+basis, self-efficacy should be an important factor. Workers need to feel confident about their
+ability to perform required behaviors on a regular and long-term basis.
+efficacy. Beliefs about the consequences or effectiveness of preventive action
+also play a role in each of the models. They are
+treated as benefits in the HBM, as part of attitudes in the TRA, and as response efficacy in
+PMT. In most workplace applications, response
+efficacy involves perceptions about the effectiveness of prescribed work practices or protective
+equipment in preventing hazardous exposures.
+Response
+the HBM and the PMT, and indirectly in the
+TRA. Indeed, the HBM literature (Janz &
+Becker, 1984) suggests that barriers or costs are
+the single best predictor of health behavior.
+Relevant to the workplace, research on the use
+of personal protective equipment shows that job
+related barriers are often a major factor in noncompliance (Acton, 1977; Cleveland, 1984;
+Terrell, 1984).
+Barriers.
+that considers the effects of the social environment most directly. Social influences are also
+considered, somewhat tangentially, in the intrinsic-extrinsic rewards portion of PMT. Research
+on safety program effectiveness (e.g., Cohen &
+Cleveland, 1983; Fiedler et al., 1984; Planek &
+Feat-n, 1993; Simonds & Shafai-Sahrai, 1977)
+and safety climate (e.g., Dedobbeleer & Beland,
+Normative
+VALUE-EXPECTANCY
+COll~tnrCt
+TABLE 1
+APPLIED TO WORKPLACE
+CONSTRUCTS
+Definition
+SELF-PROTECTIVE
+Workplace
+Example
+Construction
+Threat-related
+beliefs
+Beliefs about
+hazard susceptibility
+Self-efficacy
+safety
+measures
+and severity
+to follow
+indicated
+successfully
+likelihood
+efficacy
+Emergency
+medical
+expectations
+that interfere
+worker
+Contextual or Environmental
+with
+Physical
+hearing
+factors
+that influence
+self-protection
+The models discussed thus far have been primarily concerned with how the individuals attitudes, beliefs, and expectations influence his or
+her reaction to various health threats. Only limited attention is given to social or environmental
+factors, or to the context in which the individual
+operates. The need for a person x situation or
+interactionist approach to workplace safety and
+health has been discussed in general terms by
+several authors (e.g., DeJoy & Southern, 1993;
+DeJoy, Wilson, & Huddy, 1995; Sheehy &
+Chapman, 1987; Smith & Beringer, 1987). The
+interactionist perspective holds that individual
+and situational (environmental) factors combine
+multiplicatively in influencing worker behavior.
+PRECEDE model. The PRECEDE model developed by Green and colleagues (Green & Kreuter,
+199 1; Green, Kreuter, Deeds, & Partridge, 1980)
+would appear to qualify as a contextual model.
+PRECEDE is an acronym for predisposing,
+reinforcing, and enabling causes in educational
+diagnosis and evaluation, and this model was
+developed as a framework to be used in plan2 7LVumber 2
+automated
+technicians
+his/her
+of used needles
+coal miners
+carbon
+about
+confidence
+monoxide
+about
+safely
+in
+detection
+system
+Zohar, 1980) highlight the important role of
+social-organizational factors in supporting good
+safety performance. The safety literature also
+contains a number of studies indicating that performance and other types of feedback from
+supervisors and coworkers can be an important
+factor in shaping work-related safety behavior
+(see review by McAfee & Winn, 1989).
+Summ~ I996Nolume
+Social/organizational
+Normative
+of available
+off scaffolding
+measures
+Factors
+Barriers
+effectiveness
+workers
+of falling
+Underground
+Perceived
+BEHAVIOR
+discomfort
+protectors
+Supervisors
+oractices
+associated
+in textile
+indifference
+in warehousino
+wearing
+plant
+to safe lifting
+ooeration
+framework has been adapted to workplace selfprotective behavior (Dedobbeleer & German,
+1987; DeJoy, 1986; Peters, 1991).
+In the PRECEDE model, three sets of diagnostic or behavioral factors drive the development of prevention strategies. Predisposing
+factors are the characteristics of the individual
+(beliefs, attitudes, values, etc.) that facilitate or
+hinder self-protective behavior. Predisposing
+factors are conceptualized as providing the
+motivation for behavior. The threat-related
+beliefs and efficacy expectancies that are prominent features of the value-expectancy models
+would be included here. Enabling factors refer
+to objective aspects of the environment or system that block or promote self-protective action.
+Green and colleagues (Green et al., 1980) define
+enabling factors as factors antecedent to behavior that allow motivation or aspiration to be
+realized (p. 68). The skill and knowledge
+necessary to follow prescribed actions would be
+included here, as would the availability and
+accessibility of protective equipment and other
+resources. Most barriers or costs would be classified as enabling factors. Reinforcing factors
+involve any reward or punishment that follows
+or is anticipated as a consequence of the behavior. Performance
+feedback and the social
+approval/disapproval received from coworkers,
+supervisors, and managers would qualify as
+reinforcing factors in workplace settings.
+The PRECEDE model was developed as a
+program-planning framework rather than as a
+causal model of health behavior (Green et al.,
+1980). The three diagnostic categories were
+65
+intended primarily as reference points for analyzing the determinants of behavior that would
+be most responsive to health education efforts.
+As such, little attention was given to delimiting
+the categories or to specifying combinational
+rules. The PRECEDE model has been used
+extensively to plan and evaluate health education and related programs in a variety of settings, including the workplace (Green &
+Kreuter, 1991). However, there have been relatively few formal tests of this model.
+Applicability
+Behavior
+to Workplace Self-Protective
+two important ways: (a) by directing attention
+to the skills and resources that are prerequisite
+to the achievement of behavioral goals, and
+(b) by viewing the environment as an important source of support and reinforcement for
+behavior change and maintenance. The recently revised version of the PRECEDE model, the
+PRECEDE/PROCEED model (Green & Kreuter,
+1991) is even more distinctly environmental.
+The revised version proposes that an environmental diagnosis should occur along with the
+behavioral diagnosis, and that special attention should be given to the interaction of
+behavioral and environmental factors. This
+encourages the selection of both behavioral
+and environmental targets for change within
+the intervention program.
+However, it is the interactive nature of the
+three diagnostic factors that is probably of
+greatest potential importance to understanding
+worker behavior. In particular, efforts to influence the beliefs and attitudes of workers and,
+thus, motivate them to follow safe practices
+may fail if the environment is nonsupportive.
+This calls attention to the importance of jobrelated barriers, the ready availability of safety
+equipment and devices, and the importance of
+skill-based training in facilitating self-protective behavior. A second point is that even wellmotivated and well-trained workers may not
+respond appropriately
+if doing so is not
+acknowledged or reinforced by peers, supervisors, and management. Performance feedback
+and the safety-related attitudes and actions of
+management would appear to be especially
+important in this regard.
+66
+The final category of models includes those
+that focus on the process of behavior change.
+The Transtheoretical
+Model (Prochaska &
+DiClemente, 1982) and the Precaution-Adoption
+Process (Weinstein, 1988) are perhaps the best
+exemplars of this general category. Both of these
+models portray the change process as a series of
+stages. A fundamental tenet of the stage change
+perspective is that people at different points in
+the change process require different types of
+information and assistance to move to the next
+stage. The variables or factors important at one
+stage may be quite unimportant at another stage.
+For example, beliefs about susceptibility or
+severity may be important early in the change
+process, such as during initial awareness and
+decision making, but become less important
+once actual behavior change is underway.
+Transtheoretical
+Model. Prochaska and colleagues (Prochaska, DiClemente, & Norcross,
+1992) describe the process of behavior change as
+consisting of five principal stages: (a) precontemplation, (b) contemplation, (c) preparation, (d)
+action, and (e) maintenance. Precontemplation is
+the stage in which the person is not seriously
+thinking about changing his or her behavior.
+Contemplation begins when the person starts to
+think seriously about changing in the near future
+(i.e., about 6 months). Preparation denotes that
+the person intends to make a change in the very
+near future, and that he or she has a plan for
+action and has already made small or preliminary
+behavior changes (thus, preparation has both
+intentional and behavioral dimensions). Action is
+the period following initial behavior change (usually about 6 months). Maintenance extends from
+this point until termination.
+A growing body of evidence exists for the
+basic stages of change construct, mostly involving addictive behaviors and psychotherapy
+(Prochaska & DiClemente, 1992). Work with
+this model has also sought to uncover the processes of change, or the activities that individuals
+engage in when they attempt to modify problem
+behaviors. Of considerable importance is the
+observation that the processes of change appear
+to be quite similar across a variety of different
+behaviors (Prochaska et al., 1992). That is, for
+many behaviors, information-seeking and consciousness-raising activities are relevant for people entering contemplation, and stimulus control
+those in the action and maintenance stages. The
+ultimate goal is to integrate the stages and pro
+cesses of change, and to identify the most effective strategies for moving people from one stage
+to the next (DiClemente et al., 1991).
+Precaution-adoption process. The precautionadoption process (Weinstein, 1988) also has five
+stages: (a) has heard of hazard, (b) believes in
+susceptibility for others, (c) acknowledges personal susceptibility, (d) decides to take precaution, and (e) takes precaution. A central feature
+of this model is that personal susceptibility is
+treated as a series of three stages rather than as a
+single dimension or continuum. This conceptualization derives from the idea that people are
+likely to have little interest in taking precautions
+unless they feel personally vulnerable. A further
+complication is that people tend to be optimistically biased in judging their personal levels of
+risk. That is, for many different hazards, people
+consider their own risk to be considerably less
+than that of most other people (Weinstein, 1980,
+1982, 1987). The decision making stage in this
+model involves many of the same hazard-related
+beliefs and cost-benefit considerations that are
+featured in the value-expectancy
+literature.
+However, since the stages are cumulative, decision making does not begin until the requirements of stage three have been met. Barriers are
+particularly important in translating a decision
+into action (stage 5). Weinstein and colleagues
+have tested this model in several studies of home
+radon testing (Weinstein & Sandman, 1992).
+different kinds of information and interventions
+will have different saliencies depending on
+where the individual is in the change process.
+For example, minimizing the costs or barriers
+associated with following a particular self-protective action will have very little impact on people who are not yet aware of the threat or who
+do not think that they are personally susceptible
+to it. Value-expectancy models, in contrast,
+assume that the probability of action is essentially an algebraic function of the individuals
+beliefs and that this same predictive equation
+applies across the entire behavior change proSummer 1996Nohne
+27/Number 2
+different equations are needed for each stage.
+Providing workers with information about
+particular job-related hazards is likely to be
+most useful for increasing awareness and a
+sense of personal susceptibility. But beyond this
+point, such information is likely to be of limited
+effectiveness in changing and maintaining relevant work practices. Once awareness and personal susceptibility are established, attention
+might better be focused on related skill development and self-efficacy enhancement, and with
+actions that reduce barriers and create more
+favorable cost-benefit ratios for safe behavior.
+Long-term adherence ultimately requires constructing task and work environments that support safe behavior, even under the most adverse
+workload conditions. Borrowing from relapse
+prevention research (e.g., Marlatt & Gordon,
+1985), conscious efforts are needed to assess the
+situations and circumstances under which adherence is likely to fail. Alternative strategies or
+coping responses should be available to workers
+for use in such situations. The identification and
+analysis of special requirements and high risk
+situations should be an important feature of a
+comprehensive safety program.
+The importance of environmental supports
+during the action and maintenance stages blends
+nicely with the preceding discussion of enabling
+and reinforcing factors within the PRECEDE
+framework. In the final analysis, high levels of
+both individual and collective control may be
+critical to successful long-term adherence.
+Presumably, efforts to enhance self-efficacy have
+the direct effect of increasing the individuals
+sense of personal control. However, groups of
+people may also possess a sense of control.
+Peterson and Stunkard (1989) describe collective
+control as: a norm - or shared belief - about
+the way that the group works, what it is that the
+group can and cannot accomplish by what
+actions (p. 822). As described by these authors,
+collective control bears considerable resemblance to Zohars (1980) concept of safety climate. For Zohar, safety climate is: a summary
+of molar perceptions that employees share about
+their work environments (p. 96). It is generally
+thought that safety climate serves as a frame of
+reference for guiding relevant behavior in the
+workplace and that employees develop reasonably coherent expectations regarding behavioroutcome contingencies in their environment (cf.
+67
+Schneider, 1975). It follows that collective control or safety climate should be an important consideration in fostering long-term and broad-based
+adherence to safe work practices.
+Au Integrative Framework for Workplace
+Self-Protective Behavior
+Each of the categories of models reviewed
+thus far has something to contribute to understanding workplace self-protective behavior. The
+value-expectancy models provide a fairly circumscribed set of person-focused variables that
+are likely to be important to any type of self-ptotective behavior. The PRECEDE model, as an
+environmental or contextual model, directs
+attention to the interaction of person and situational factors, and to how the work environment,
+broadly defined, can enable and reinforce selfprotective actions. The stage models emphasize
+that precautionary behavior is inherently dynamic and comprised of qualitatively different phases or stages.
+Figure 1 portrays self-protective behavior as
+consisting of four stages: hazard appraisal, decision making, initiation, and adherence. These
+stages may be viewed as representing different
+levels of motivational readiness to engage in
+self-protective behavior. However, the factors
+that influence this readiness are not limited to
+person-focused variables. Table 2 features five
+general constructs that are likely to be important
+to self-protective actions in the workplace. The
+constructs build on those portrayed earlier (see
+Table l), with two modifications. The termfacili&.&g conditions expands the concept of barriers relative to its usage in the value-expectancy
+models and emphasizes the importance of environmental supports in self-protective behavior.
+Also, safety climate is used to represent the manifold of social and organizational factors that
+may impinge on workplace behavior. Each of the
+five constructs can be further described in terms
+of specific variables.
+Because current knowledge is not sufficient
+to exclude any of the constructs at a particular
+stage, the five constructs in Table 2 are labeled
+as being of either primary or secondary importance for each stage. As with other stage models,
+the stages should be treated as cumulative; for
+example, the individual must believe that a particular hazard represents a serious threat before
+he or she will enter the decision making stage.
+Efficacy considerations and facilitating conditions will be of little importance for those who
+are unaware of the hazard or for those who have
+appraised the hazard as insignificant. A discussion of the four stages follows.
+Hazard appraisal. The individuals threat-related beliefs are of primary importance during this
+stage. As discussed earlier, perceived susceptibility (likelihood) and severity can be expected
+to interact to form perceived threat. Response
+efficacy, or the availability of effective preventive strategies, may also be important at this
+stage. Defensive or self-protective motives (e.g.,
+Miller & Ross, 1975) may cause the individual
+to dismiss or discount a hazard for which preventive strategies are unavailable or of limited
+effectiveness. Unwarranted optimism or overconfidence may also play a role in hazard appraisal
+(Weinstein, 1987). At this stage, workers should
+benefit from information about the hazard itself,
+including risk estimates, exposure modes, available control measures, and so forth. The importance of having workers personalize the risks
+should not be ignored.
+FIGLJRE 1
+T
+Yes
+Appraisal I_C
+DecisionMaking-
+No
++
+No
+Yes I.tiation
+ererice
+Exposure
+to injury/illness
+68
+TABLE 2
+SELF-PROTECTIVE BEHAVIOR CONSTRUCTS AND THE STAGES OF SELF-PROTECTIVE BEHAVIOR
+Construct
+Threat-related
+Response
+Safety
+Note:
+................
+..................
+Self-efficacy
+Facilitating
+Hazard
+beliefs
+......................
+conditions
+................
+climate
+P= primary
+unponance:
+S =secondary
+Appraisal
+Adherenoe
+importance
+Initiation. Facilitating
+conditions
+and safety
+climate are the principal constructs during the
+initiation stage. At this stage, attention shifts to
+the environmental
+and organizational
+factors
+that support and reinforce
+self-protective
+action. These factors become very important as
+behavioral intention is translated into action,
+and as workers
+try out new behaviors.
+Although safety climate remains a rather elu27/iVumber 2
+Initiation
+Decision
+making. Efficacy
+considerations
+and the costs and benefits
+associated
+with
+alternative
+courses of action become important during the decision making stage. Efficacy
+considerations
+include those related to the
+effectiveness of available precautionary actions
+(response efficacy), as well as the individuals perceptions of his or her ability to successfully accomplish these actions (self-efficacy).
+Self-efficacy can be developed through education/ training and skill-building
+exercises, as
+well as actual experience
+in performing
+the
+relevant
+behaviors.
+The modeling
+of these
+behaviors
+by coworkers
+may also enhance
+self-efficacy expectancies.
+The cost-benefit
+portion focuses on weighing the benefits of the self-protective
+action
+against the costs incurred. Costs may include
+time constraints, actual or imagined reductions
+in productivity or skilled performance, physical
+discomfort,
+and any other encumbrances
+that
+reduce quality of life on the job. Facilitating
+conditions serve to counteract costs, and might
+include the ready availability
+of needed safety
+equipment, training in the correct usage of this
+equipment, and redesigned jobs and equipment
+that make self-protection easier and more effective. The cost-benefit
+analysis
+might also
+include safety climate considerations.
+Summer I99tWohme
+Decision-making
+that the attitudes and actions of management
+play a prominent role in the safety climate of
+the organization
+(Brown & Holmes,
+1986;
+Dedobbeleer
+& Beland, 1991; Zohar, 1980).
+Safety performance
+information
+and other
+types of feedback received from coworkers and
+supervisors
+is also likely to be an important
+aspect of safety climate.
+Adherence. Environmental
+and organizational
+factors can be expected to play major roles in
+sustaining
+long-term
+adherence.
+As workers
+follow prescribed
+actions, their
+self-efficacy should increase, and with that, their
+resistance to nonadherence.
+Many self-protective actions become relatively automatic over
+time, and this should also help to sustain longterm adherence. Response efficacy should also
+increase with time as workers become more
+confident of the effectiveness of the actions in
+question. Still, efficacy considerations
+remain
+secondary to barriers and safety climate at this
+stage. Long-term
+maintenance
+ultimately
+depends on creating task and work environments that support safe behavior, even under the
+most stressful or demanding conditions.
+Although this proposed framework certainly
+needs to be tested and validated, there are several lines of inquiry that support the general
+organization
+of the framework and the assignment of various self-protective
+behavior constructs to particular stages. First, it is generally
+acknowledged
+that awareness and knowledge
+are necessary but often insufficient to produce
+and sustain behavior change, including
+selfprotective actions in the workplace. This supports the focus on threat-related
+beliefs and
+response efficacy in the first stage, and the
+69
+the process. Second, there is considerable
+agreement that behavior change and maintenance are different processes. As such, a construct or factor that is important in bringing
+about initial behavior change may not play the
+same role in sustaining the.change over time.
+Third, there is broad agreement that the individuals subjective beliefs related to costs and benefits play a central role in most health- and
+safety-related decision making. And fourth,
+organizational and environmental factors appear
+to be particularly important in facilitating and
+sustaining desired behaviors. Indeed, the occupational safety and health literature suggests
+that these factors may be critically important in
+workplace settings.
+CONCLUSIONS
+This paper reviewed three categories of theoretical models that have been used to analyze
+and predict health-related behavior. On this
+basis, an integrative framework was proposed
+that conceptualizes workplace self-protective
+behavior as consisting of four sequential stages:
+hazard appraisal, decision making, initiation,
+and adherence. The proposed framework is integrative in that its basic structure comes from the
+behavior change models, while the constructs or
+factors considered relevant at each stage are
+derived from the value-expectancy and environmental/contextual models.
+The principal implication of this framework
+is that different constructs or factors can be
+expected to be important at different stages.
+Threat-related beliefs and response efficacy are
+likely to be most important during hazard
+appraisal. During this stage, workers determine
+both what is dangerous and whether they can
+protect themselves by taking specific actions
+and/or by using specific protective equipment.
+Efficacy considerations (response and selfefficacy) and cost-benefit
+factors assume
+increased importance during the decision making stage. Workers determine that available safety protocols are both effective and practical. The
+personal weighing of costs and benefits is at the
+very heart of this stage. This calculus takes into
+consideration beliefs about the threat itself,
+expectancies surrounding the required actions,
+barriers and environmental supports, and infer70
+supervisors, and management.
+During the initiation and adherence stages,
+facilitating conditions and safety climate are the
+primary factors. Attention is focused on the
+environmental and organizational factors that
+support and reinforce self-protective actions.
+Performance feedback may be a particularly
+valuable tool for encouraging workers to accept
+that the self-protective actions in question are
+effective and practical. Adherence, as the final
+stage, requires the creation of task and work
+environments that support safe behavior under
+all conditions. High levels of both individual
+and collective control may be critical to longterm adherence, and creating a positive safety
+climate may be the best way to foster perceived
+control at both levels.
+In practical terms, there is a need to match
+interventions and stages; the utility of any intervention depends on where the individual worker
+is in the change process. For example, interventions to improve worker self-protection typically revolve around hazard communication and
+information-based training in safe work practices. Such efforts are likely to be most beneticial during the hazard appraisal and decision
+making stages. These particular interventions
+are much less relevant to the factors hypothesized to be most important during initiation and
+adherence. It follows that programs to maximize self-protective behavior in the workplace
+need to be multifaceted and should feature
+interventions targeted to workers at each of the
+four stages.
+As a fmal point, the proposed framework also
+highlights the importance of situational or environmental factors in workplace self-protective
+behavior. As Table 2 shows, the individuals personal beliefs about the hazard and the effectiveness of precautionary action are most important
+during the first stage (hazard appraisal). But,
+beyond this point, environmental factors become
+increasingly more important, and become critical
+as intention is converted into action (initiation),
+and as self-protective
+behavior is sustained
+(adherence). Given the interactive aspect of individual and situational factors, even well-designed
+efforts to influence the hazard-related beliefs and
+attitudes of workers may fail if the environment
+is nonsupportive. The importance of the environment in enabling and reinforcing safe workplace
+behavior cannot be overemphasized.
+REFERENCES
+Acton, W. I. (1977). Problems associated with the use of
+bearing protection. Annals of Occu@mral
+Hygiene, 29,
+387-395.
+Ajzen, I. (1985). From intentions to actions: A theory of
+planned behavior. In J. Kuhl & J. Beckmann
+(Eds.),
+Action control: From cognition to behavior (pp. 1I-40).
+Berlin: Springer-Verlag.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes
+and predicting behavior. Englewood Cliffs, NJ: Prentice
+Hall.
+Bandura, A. (1986). Social foundations of thought and
+action: A social cognitive theory. Englewood Cliffs, NJ:
+Prentice-Hall.
+Baranowski, T. (1992-93). Beliefs as motivational influences
+at stages in behavior change. bttemational Quarterly of
+Community Health Education, Z3( 1). 3-29.
+Becker, M. H. (1974). The health belief model and personal
+health behavior. Thorofam, NJ: Slack Press.
+Brown, R. L., & Holmes, H. (1986). The use of a factoranalytic procedure for assessing the validity of an employee
+safety climate model. Accident Analysis and Prevention,
+18(6), 455-470.
+Cleaty, P. D. (1987). Why people take precautions against
+health risks. In N. D. Weinstein (Ed.), Taking care:
+Understanding and encouraging self-protective behavior
+(pp. 119-149). Cambridge: Cambridge University Press.
+Cleveland, R. J. (1984). Factors that influence safety shoe
+usage. Professional Safety, 29.26-29.
+Cohen, A., Smith, M. J., & Anger, W. K. (1979). Selfprotective measures against workplace hazards. Journal
+ofsafetyResearch, 11(3). 121-131.
+Cohen, A., Smith, M. J., & Cohen, H. H. (1975). Safety
+program practices
+in high versus low accident rate
+companies - An interim report (questionnaire
+phase;
+DHEW Publication No. 75-185). Ciiinnati,
+OH National
+Institute for ocCupational Safety and Health.
+Cohen, H. H., & Cleveland, R. J. (1983). Safety program
+practices in recording-holding
+plants. Professional Safety,
+28.26-33.
+Cooper, C., & Sutherland,
+V. (1987). Job stress, mental
+health, and accidents among offshore workers in the oil
+and gas extraction industries. Journal of Occupational
+Medicine, 29(2), 119125.
+Cox, S.. 81 Cox. T. (1991). The structure
+of employee
+attitudes to safety: A European example. Work and Stress,
+S(2), 93-106.
+Dedobbeleer,
+N., & Beland, F. (1991). A safety climate
+measure for construction sites. loumai of Safety Research,
+22(2), 97-103.
+Dedobbeleer, N., & German, P. (1987). Safety practices in
+construction industry. Journal of Occupational Medicine,
+29(1 I), 863-868.
+DeJoy, D. M. (1986). A behavioral-diagnostic
+model for
+self-protective
+behavior in the workplace. Professional
+Safety, 3 I, 26-30.
+DeJoy, D. M. (1990). Toward a comprehensive human factors
+model of workplace
+accident causation.
+Professional
+Safety, 35, 1l-!6.
+DeJoy, D. M., & Southern, D. S. (1993). An integrative
+perspective
+on worksite health promotion.
+Journal of
+Occupational Medicine, 35,122 1-l 230.
+DeJoy, D. M., Wilson, M. G., & Huddy, D. C. (1995).
+Health behavior change in the workplace. In D. M. DeJoy
+Summer
+19%Nolume
+27LNumber
+promotion (pp. 97-122). Boston, MA: Allyn and Bacon.
+DiClemente. C. C., Prochaska, J. O., Fairhurst, S. K., Velicer,
+W. E, Velasquez, M. M.. & Rossi. J. S. (1991). The process
+of smoking cessation: An analysis of precontemplation,
+contemplation, and preparation stages of change. Journal
+of Consulting and Clinical Psychology, 59,295-304.
+Edwards, D. S., & Hahn, C. P (1980). A chance to happen.
+Journal of Safety Research, 12,59-67.
+Fiedler, F. E., Bell, C. H., Chemers, M. M., & Patrick, D.
+(1984). Increasing mine productivity and safety through
+management
+training and organization
+development.
+Basic and Applied Social Psychology, 5. I-1 8.
+Glanz, K., Lewis, F. M., & Rimer. B. K. (1990). Health
+behavior and health education. San Francisco: Jossey-Bass.
+Goldberg, A. I., Dar-cl, E. M., & R&ii, A. E. (1991). Threat
+perception
+and the readiness
+to participate
+in safety
+programs. Joumalof OtganizationalRehavior, f2,IO!&122.
+Green, L. W., & Kreuter. M. W. (I 991). Health promotion
+planning: An educational and environmental approach
+(2nd ed.). Mountain View, CA: Mayfield.
+Green, L. W., Kreuter. M. W.. Deeds, S. G.. & Partridge,
+K. B. (1980). Health education planning: A diagnostic
+upproach. Palo Alto, CA: Mayfield.
+Harrison, J. A., Mullen. P. D., & Green, L. W. (1992). A
+meta-analysis
+of studies of the health belief model with
+adults. Health Education Research, 7( I ), 107-l 16.
+C. I. (1987). Perceived
+risk and behavioural
+feedback: Strategies for reducing accidents and increasing
+efficiency. WonGand Stress, I, 6 l-65.
+Janz, N. K., & Becker, M. H. (1984). The health belief
+model: A decade later. Health Education Quarterly, /I( I),
+147.
+Jones, J., & Wuebker, L. (1985). Development and validation
+of the safety locus of control scale. Perceptual and Motor
+S&ilk. 61,151-161.
+Kirscht, J. P. (1983). Preventive health behavior: A review
+of research and issues. Health Psychology, 2.277-301.
+Komaki, J., Barwick,
+K. D., & Scott, L. R. (1978). A
+behavioral approach to occupational
+safety: Pinpointing
+and reinforcing safe performance in a food manufacturing
+plant. Journal of Applied Psychology, 63.434445.
+Komaki. J. L., Zlotnick, S., &Jensen. M. (1986). Developpment
+of an operant-based taxonomy and observational index of
+supervisoty behavior. Joumal ofApplied Psychology, 71(2),
+260-269.
+Landeweerd, J. A., Urhngs, I. J. M., Dc.Jong, A. H. J.. Mijhuis,
+F. J. N.. & Bouter, L. M. (1990). Risk taking tendency
+among construction
+workers. Journal of Occupational
+Accidents, II, 183-196.
+Leather, P. J. (1988). Attitudes toward safety performance
+on construction
+work: An investigation
+of public and
+private sector differences. Work nnd Stress, 2. 155-l 67.
+Levenson.
+H., Hirschfeld,
+M., & Hirschfeld,
+A. (1980).
+Industrial accidents and recent life events. Journal of
+Occupational Medicine, 22( I ), 53-57.
+Maiman, L. A., & Becker, M. H. (1974). The health belief
+model: Origins and correlates in psychological
+theory.
+Health Education Monographs, 2.336-353.
+Marlatt, G. A., & Gordon, J. R. (1985).Relapse prevention:
+A self-control strategy for the maintenance of behavior
+change. New York: Guilford Press.
+Mat&
+M., Hyttinen, M., & Rantanen, E. (1994). Effective
+supervisory
+behaviour and safety at the building site.
+International
+Journal of Industrial Ergonomics,
+13,
+85-93.
+71
+quality of work environment, supervision, and safety in
+building construction. Safery Science, 17.251-268.
+McAfee. R. B., & Wmn, A. R. (1989). The use of incentivesl
+feedback to enhance workplace safety: A critique of the
+Iiterature. Journal of Snferv Research, 20(l), 7-19.
+Miller, D. T.. & Ross, M. (1975). Self-serving biases in the
+attribution of causality: Fact or fiction? Psychological
+Bulletin, 82.213-225.
+maintenance workers. Journal of Occupational Medicine,
+26,436-442.
+administration. Safety Science, 17.237-255.
+Peters, R. H. (1991). Strategies for encouraging self-protective
+employee behavior. Journal of Safety Research, 22.53-70.
+Peterson, C., & Stunkard, A. J. (1989). Personal control and
+health promotion. Social Science and Medicine, 28(8),
+819-828.
+Planek, T. W., & Fearn, K. T. (1993). Reevaluating
+occupational safety priorities: 1%7 to 1992. Professional
+Safery. 38, 16-2 1.
+Theory,
+Research,
+and Practice,
+20,
+change in the modification of problem behaviors. In M.
+Hersen, R. M. Eisler, & P M. Miller (Eds.), Progress in
+behavior modification
+(pp. 184-214). Sycamore, IL:
+Sycamore Press.
+Prochaska, J. 0.. DiClemente, C. C.. & Norcross, J. C.
+(1992). In search of how people change. American
+Psychologisr, 47(9), 1102-l 114.
+Rhoton. W. W. (1980). A procedure to improve compliance
+with coal mine safety regulations. Jownnl qf0~@&011&
+Behavior Management, 2.243249.
+processes in fear appeals and attitude change: A revised
+theory of protection motivation. In J. T. Cacioppo & R. E.
+Petty (Eds.). Social psychophysiology (pp. 153-176). New
+York: Guilford Press.
+Rosenstock, I. M., Strecher, V. J.. & Becker, M. H. (1988).
+Social learning theory and the health belief model. Health
+Education Quarterly, 1.5, 175-183.
+Personnel Psychology, 28.447-479.
+In C. L. Cooper & I. T. Robertson (Eds.), International
+review of industnal and organizational
+psychology.
+New
+Simonds. R. H., & Shafai-Sahrai,
+Y. (1977). Factors
+apparently affecting the injury frequency in eleven
+matched pairs of companies. Journal of Safety Research,
+9.120-127.
+modification applied to occupational safety. Jouml
+of
+72
+Smith, M. J., Colligan, M. J.. Fro&t, I. J., & Tasto, D. L.
+function of shift. Journal of Safety Research, 4,181-l 87.
+Strecher, V. J.. DeVellis, B. M., Becker, M. H., &
+Rosenstock, I. M. (1986). The role of self-efficacy in
+achieving health behavior change. Health Education
+Quarterly, 13.7392.
+safety hazard reduction through performance feedback.
+Journal of Applied Behavioral Analysis, 13,281-295.
+approaches to
+understanding addictive behaviors: Attitude-behaviour
+and decision making models. British Journal of Addicton,
+82.355-370.
+motivation theory and preventive health: Beyond the
+health belief model. Health Education Research. I(3).
+.,.
+153-161.
+Pro&&a, J. O., & DiClemente, C. C. (1982). Tramtheoretical
+therapy: Toward a more integrative model of change.
+Psychotherapy:
+161-173.
+occupational injury evaluation and control. In G. Salvendy
+(Ed.), Handbook of human factors (pp. 767-789). New
+York: Wiley-Interscience.
+Smith, M. J., Cohen, H. H., Cohen, A., & Cleveland, R J.
+(1978). Characteristics of successful safety programs.
+respirators. Professional Safety, 29. 15-20.
+Wallston. B. S.. & Wallston, K. A. (1984). Social
+psychological models of health behavior: An examination
+and integration. In A. Baum, S. E. Taylor, & J. E. Singer
+(Eds.). Handbook of psychology andhealth (Vol. 4, pp.
+23-54). H&dale. NJ: Erlbaum.
+Walters, V., & Haines, T. (1988). Workers perceptions,
+knowledge, and responses regarding occupational health
+and safety: A report on a Canadian study. Social Science
+ondMedicine, II, 1189911%.
+Weinstein, N. D. (1980). Unrealistic optimism about future
+life events. Journal of Persona&y and Social Psycho&y.
+39.806-820.
+susceptibility to he&b problems. Journal of Behavioral
+k4edicine, 5.441-460.
+susceptibility: Conclusions from a community-wide
+sample. Journal of Behavioral Medicine, 10.481-500.
+Weinstein, N. D. (1988). The precaution adoption process.
+Health Psychology,
+7,355-386.
+health-protective behavior. Heabh Psychology, 12(4),
+324-333.
+precaution adoption process: Evidence from home radon
+testing. Healrh Psychology, 1113). 170-l 80.
+Zimolong, B. (1985). Hazard perception
+and risk
+estimation in accident causation. In R. E. Eberts & C. G.
+Eberts @ids.), Trends in ergonomics/human factors II
+$q~9~3-470).
+Amsterdam, The Netherlands: NorthZohar, D. (1980). Safety climate in industrial organizations:
+Iheotetical and applied implications. Journal of Applied
+Psychology, 65(l), 96-102.
+use of ear protectors in noise through information feedback.
+Human Factors, 22(l), 6979.
+Journal
+of Safety Research
+- Guidelines For The Preparation of Tender DocumentsNo ratings yetGuidelines For The Preparation of Tender Documents66 pages
+- Davison and McCarthy - 1988 - Matching Law - A Research ReviewNo ratings yetDavison and McCarthy - 1988 - Matching Law - A Research Review48 pages
+- Causal Models - How People Think About The World and Its Alternatives (PDFDrive)No ratings yetCausal Models - How People Think About The World and Its Alternatives (PDFDrive)218 pages
+- Custers and Aarts - The Unconscious Will - Science 2010No ratings yetCusters and Aarts - The Unconscious Will - Science 20105 pages
+- Tajfel 1970 Experiments in Intergroup DiscriminationNo ratings yetTajfel 1970 Experiments in Intergroup Discrimination8 pages
+- The Macro-Micro Problem and The Problem of Structure and AgencyNo ratings yetThe Macro-Micro Problem and The Problem of Structure and Agency15 pages
+- Techno-Fix: Why Technology Won't Save Us or The Environment: Michael Huesemann Joyce HuesemannNo ratings yetTechno-Fix: Why Technology Won't Save Us or The Environment: Michael Huesemann Joyce Huesemann36 pages
+- B. F. Skinner Consensus and Controversy - (Intro)No ratings yetB. F. Skinner Consensus and Controversy - (Intro)3 pages
+- (Mathematics Education Library 39) Marcelo C. Borba, Mónica E. Villarreal (Auth.) - Humans-with-Media and The Reorganization of Mathematical Thinking - Information and CommunicNo ratings yet(Mathematics Education Library 39) Marcelo C. Borba, Mónica E. Villarreal (Auth.) - Humans-with-Media and The Reorganization of Mathematical Thinking - Information and Communic239 pages
+- Presentational Visualisation: Towards An Imagery-Based Approach of Computer-Generated Presentation VisualsNo ratings yetPresentational Visualisation: Towards An Imagery-Based Approach of Computer-Generated Presentation Visuals151 pages
+- Reification: History of The Concept: March 2015No ratings yetReification: History of The Concept: March 20155 pages
+- Connectionism and The Mind: An Introduction To Parallel Processing in NetworksNo ratings yetConnectionism and The Mind: An Introduction To Parallel Processing in Networks182 pages
+- Clark Andy - Embodied Cog Science - 1999 TrendsNo ratings yetClark Andy - Embodied Cog Science - 1999 Trends7 pages
+- Critical Neuroscience and Socially ExtenNo ratings yetCritical Neuroscience and Socially Exten27 pages
+- Vincent Kenny - Anticipating Autopoiesis - Personal Construct Psychology and Self-Organising SystemsNo ratings yetVincent Kenny - Anticipating Autopoiesis - Personal Construct Psychology and Self-Organising Systems22 pages
+- TREVARTHEN, GRATIER E OSBORNE. The Human Nature of Culture and EducationNo ratings yetTREVARTHEN, GRATIER E OSBORNE. The Human Nature of Culture and Education20 pages
+- Searles and Penroses Noncomputational Frameworks For Naturalizing The Mind PDFNo ratings yetSearles and Penroses Noncomputational Frameworks For Naturalizing The Mind PDF14 pages
+- G. E. Zuriff - The Philosophy of BehaviorismNo ratings yetG. E. Zuriff - The Philosophy of Behaviorism5 pages
+- Churchland - 1989 - Folk Psychology and The Explanation of Human BehaviorNo ratings yetChurchland - 1989 - Folk Psychology and The Explanation of Human Behavior18 pages
+- Theories of Learning Chapter 1 - What Is Learning?No ratings yetTheories of Learning Chapter 1 - What Is Learning?36 pages
+- Brenda Dervin - Information Needs and UsesNo ratings yetBrenda Dervin - Information Needs and Uses16 pages
+- GLASERSFELD Ernst Von Key Works in Radical ConstructivismNo ratings yetGLASERSFELD Ernst Von Key Works in Radical Constructivism339 pages
+- Thinking Socially: Teaching Social Knowledge To Foster Social Behavioral ChangeNo ratings yetThinking Socially: Teaching Social Knowledge To Foster Social Behavioral Change15 pages
+- Connectivism: Concepts and Principles For Emerging Learning NetworksNo ratings yetConnectivism: Concepts and Principles For Emerging Learning Networks8 pages
+- The Socioemotional Well-Being Index (SEWBI) : Theoretical Framework and Empirical OperationalisationNo ratings yetThe Socioemotional Well-Being Index (SEWBI) : Theoretical Framework and Empirical Operationalisation29 pages
+- From Neutral Stance To Political Involvement - Fontana Frey (2005)No ratings yetFrom Neutral Stance To Political Involvement - Fontana Frey (2005)33 pages
+- Holt's Realism: New Reasons For Behavior Analysis: François TonneauNo ratings yetHolt's Realism: New Reasons For Behavior Analysis: François Tonneau23 pages
+- Swindler (1986) - Culture in Action Symbols and StrategiesNo ratings yetSwindler (1986) - Culture in Action Symbols and Strategies15 pages
+- 1995 - Comment Formuler Une Problematique de La Sante en Ergonomie Et Medecine Du TravailNo ratings yet1995 - Comment Formuler Une Problematique de La Sante en Ergonomie Et Medecine Du Travail17 pages
+- Jerome Bruner Teaching Learning and The Spiral Curriculum2 PDFNo ratings yetJerome Bruner Teaching Learning and The Spiral Curriculum2 PDF3 pages
+- Heinz Von Foerster - For Niklas Luhmann: How Recursive Is Communication?No ratings yetHeinz Von Foerster - For Niklas Luhmann: How Recursive Is Communication?25 pages
+- Toward "JOMO": The Joy of Missing Out and The Freedom of DisconnectingNo ratings yetToward "JOMO": The Joy of Missing Out and The Freedom of Disconnecting8 pages
+- Hacker and Baker On Wittgenstein - David BellNo ratings yetHacker and Baker On Wittgenstein - David Bell11 pages
+- Communicating Climate Change Why Frames Matter For Public EngagementNo ratings yetCommunicating Climate Change Why Frames Matter For Public Engagement13 pages
+- Using Behavioral Theory To Enhance Occupational Safety and Health: Applications To Health Care WorkersNo ratings yetUsing Behavioral Theory To Enhance Occupational Safety and Health: Applications To Health Care Workers10 pages
+- Guidelines For Prevention of Hospital Acquired InfectionsNo ratings yetGuidelines For Prevention of Hospital Acquired Infections33 pages
+- Pendidikan Kesihatan (Teori PRECEDE-PROCEED) - Lawrence Green (1968)100% (1)Pendidikan Kesihatan (Teori PRECEDE-PROCEED) - Lawrence Green (1968)5 pages
+- Example of The Seven Factors of The McKinsey 7S ModelNo ratings yetExample of The Seven Factors of The McKinsey 7S Model4 pages
+- Entitlements and Obligations Applicable To GGGI Personnel Under Individu...No ratings yetEntitlements and Obligations Applicable To GGGI Personnel Under Individu...9 pages
+- UN Sustainable Human Settlements Development in An Urbanizing WorldNo ratings yetUN Sustainable Human Settlements Development in An Urbanizing World32 pages
+- Annual Survey of Insia's City Systems 2023No ratings yetAnnual Survey of Insia's City Systems 2023116 pages
+- Poverty Becomes A Problem in Austin: BY: Simran AliNo ratings yetPoverty Becomes A Problem in Austin: BY: Simran Ali4 pages
+- Shivsurya Kudumban (EM15023) - Mobikwik Offer Letter .No ratings yetShivsurya Kudumban (EM15023) - Mobikwik Offer Letter .3 pages
+- Assignment Solution Organisational - CultureNo ratings yetAssignment Solution Organisational - Culture10 pages
+- Advertisement For Group B C Non Teaching PositionsNo ratings yetAdvertisement For Group B C Non Teaching Positions8 pages
+- Get Speaking!: Unit 10: The World of WorkNo ratings yetGet Speaking!: Unit 10: The World of Work1 page

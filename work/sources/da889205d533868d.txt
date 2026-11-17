@@ -1,0 +1,1768 @@
+THE 
+WORLD 
+BANK 
+ECONOMIC 
+REVIEW, 
+VOL. 
+10, 
+NO. 
+3: 
+397-424
+Patterns of Transition from Plan to Market
+Martha de Melo, Cevdet Denizer, and Alan Gelb
+The transition from a planned economy to a market economy involves a complex
+process of institutional, structural, and behavioral change. This article develops an
+index of economic liberalization and analyzes its interaction with growth and inflation, using data from twenty-six transition countries for 1989-94. The article reveals two paradoxes of transition. First, the attempt to maintain output by subsidizing enterprises results in larger declines in output than occur under a policy of reducing subsidies. Second, price liberalization results in lower inflation than occurs under a policy of continued price controls.
+Strong common patterns exist among countries at similar stages of reform. The
+common legacy and the associated changes that result from initial disruptions in the
+socialist economic coordinating mechanisms and subsequent liberalization measures
+go a long way toward explaining the transition experience. Because strong interactions between liberalization and stabilization are likely, stabilization becomes a priority for the resumption of growth.
+The transition from a planned economy to a market economy involves a complex process of institutional, structural, and behavioral change. Formerly socialist countries have moved along this transition to varying degrees.1 In this article
+we look at these countries in comparative perspective, emphasizing the cornerstone of the early reforms-economic liberalization, for which we develop an
+index-and its interaction with growth and inflation. We set up a simple conceptual framework to help interpret these relationships and also consider patterns of economic activity, at the macroeconomic and sectoral levels, that underlie these interactions.
+Our findings help to explain two paradoxes of transition. First, the attempt to maintain output by subsidizing enterprises results in larger declines
+in output than occur under a policy of reducing subsidies. Cuts in subsidies
+are possible only with economic liberalization, which at the same time facilitates reallocation of resources within the economy. Resources more easily
+shift away from activities for which there is low demand and toward activi-
+1. See Fischer and Gelb (1991) for an early discussion of the elements of the transition process and
+Kornai (1994) for a discussion of the multifaceted problems associated with the "transitional recession."
+Martha de Melo, Cevdet Denizer, and Alan Gelb are with the Policy Research Department at the
+World Bank. The authors appreciate comments on the economic liberalization index by World Bank staff
+and comments on other aspects of the article by Leszek Balcerowicz, Stanley Fischer, Wafik Grais, Bert
+Hoffman, Arvo Kuddo, Costas Michalopoulos, Branko Milanovic, Randi Ryterman, and Tevfik Yaprak.
+Stoyan Tenev devised and estimated the switching regression. Data are current as of October 1995.
+© 1996 The International Bank for Reconstruction and Development /THE WORLD BANK
+397
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+77128
+
+398 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+ties with growth potential. Second, price liberalization results in lower inflation than occurs under a policy of continued price controls. This is because
+controls cannot be maintained in the face of strong inflationary pressures
+caused by large-scale subsidization on all the controlled sectors. Initial price
+increases after markets are freed help to absorb excess liquidity in the
+economy. And liberalization facilitates stabilization by enabling the reduction of fiscal and central bank subsidies.
+Our analysis covers twenty-six countries, including ten in Central and Eastern Europe, fifteen in the former Soviet republics, and Mongolia. The period
+covers six years, from 1989 to 1994. The first of these years, 1989, is widely
+regarded as the year before the initial postcommunist transitions, although Hungary, Poland, and the former Yugoslavia had previously initiated significant
+reforms.
+In section I we present a conceptual framework of how liberalization affects
+the economy during transition. We identify four stylized features of the socialist
+legacy and predict corresponding changes for the transition. These changes are
+stimulated by a wide range of policy reforms collectively referred to as "economic liberalization," but a summary measure is needed to link liberalization to
+macroeconomic performance. An important feature not mentioned is the widespread availability of basic human services (education, health services, and housing) associated with a more equal distribution of income than is found in capitalist countries (Milanovic 1995). The transition has been accompanied by
+increasing inequalities in money income and a deterioration in social services,
+but these issues are beyond the scope of this article.
+In section II we define a composite index that takes into account three
+dimensions of liberalization: internal markets, external trade and payments,
+and the facilitation of private sector entry. We rank countries according to
+the depth of these policy reforms in each of the years from 1989 to 1994.
+Country classification is then based on cumulative liberalization, reflecting
+the duration as well as the depth of reform, because structural and institutional adjustment takes time, even when policy change is rapid. Countries
+are placed in one of four reform groups, or in a "regional tensions" category
+if they experienced major and persistent conflicts or conflict-related blockades during the period.
+Section III presents cross-country evidence on the interaction between liberalization and economic growth (or contraction) and inflation. Section IV extends the analysis by looking at the time profile of the transition experience. We
+estimate a regime-switching equation to generate a profile for the years before
+reform and the years of reform for a typical country. Section V considers macroeconomic and sectoral patterns underlying growth, and section VI those underlying inflation.
+Section VII addresses a deeper question: What accounts for economic liberalization? Many characteristics, including history and culture, affect policy choice.
+But here we look at political change. A close relationship is found between eco-
+
+de Melo, Denizer, and Gelb 
+399
+nomic liberalization and political reform, as measured by a widely used index of
+political freedom. Section VIII summarizes the main conclusions and their implications for policy debates.
+Before proceeding with any empirical paper on transition economies, very
+serious weaknesses in the data must be noted.2 Under central planning, the output of state enterprises was often exaggerated, whereas during the transition,
+output of the private sector has tended to be underreported, sometimes by large
+margins. Inflation is also difficult to measure because of sharp changes in the
+quality and composition of goods and because the base period is characterized
+by serious shortages at fixed official prices. Trade and balance of payments data
+are difficult to interpret consistently over time because of inconsistent bilateral
+exchange rates used in Council for Mutual Economic Assistance (CMEA) trade
+and because of problematic data for intra-U.S.S.R. trade. Cross-border trade is
+now difficult to monitor. We have an idea of the likely direction of most statistical biases, but their extent may differ among countries. Given these uncertainties, this article emphasizes broad trends and large, rather than fine, observed
+differences.
+I. How 
+LIBERALIZATION AFFECTS THE TRANSITION ECONOMY:
+A CONCEPTUAL FRAMEWORK
+To the extent that transition economies share a common legacy of central
+planning, economic liberalization affects them in similar ways. Of course,
+country experience is also affected by initial conditions (table 1). Later we
+use data on income per capita to help explain the severe drop in output in
+many higher-income countries. Estimates of monetary overhang help to explain inflation, which was higher in countries with large monetary overhangs,
+and the excess of the actual over the predicted industry share in gross domestic product (GDP) is relevant to the discussion in section V on the important role of changes in the sectoral composition of output. Ongoing research
+suggests that these and other initial conditions affect economic performance
+but that the basic relationships between economic performance and liberalization described later still hold.3
+Here, we identify four important features of the common legacy and also the
+corresponding changes that can be expected to occur with transition. This conceptual framework relates economic developments to liberalizing reforms and
+helps us predict the likely effect of liberalization on inflation and growth in
+countries of Central and Eastern Europe and the former Soviet republics. The
+framework applies most closely in situations in which a market system suddenly
+replaces pervasive central planning.
+2. For more discussion, see EBRD (1994), and Balcerowicz and Gelb (1995) and the references therein.
+3. See de Melo, Denizer, Gelb, and Tenev (1996) and de Melo and Gelb (1996) for an exploration of
+the nature and imponance of initial conditions and other country-specific factors in the transition
+experience.
+
+400
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+Table 1. Selected Initial Conditions in Central and Eastern Europe, the
+Former Soviet Republics, and Mongolia, 1989
+Country
+Central and Eastern Europe
+Albania
+Bulgaria
+Croatia
+Czechoslovakia
+Hungary
+Macedonia, FYR
+Poland
+Romania
+Slovenia
+Former Soviet Union
+Armenia
+Azerbaijan
+Belarus
+Estonia
+Georgia
+Kazakstan
+Kyrgyz Republic
+Latvia
+Lithuania
+Moldova
+Russian Federation
+Tajikistan
+Turkmenistan
+Ukraine
+Uzbekistan
+Mongolia
+Per capita GNP
+at purchasing
+power parity
+(1989 U.S. dollars)
+1,400
+5,000
+6,171
+6,280
+6,810
+3,394
+5,150
+3,470
+9,200
+5,530
+4,620
+7,010
+8,900
+5,590
+5,130
+3,180
+8,590
+6,430
+4,670
+7,720
+3,010
+4,230
+5,680
+2,740
+2,100
+Monetary
+overhang as
+percentage
+of GDP'
+4.3
+18.0
+12.0
+-7.1
+-7.7
+12.0
+13.6
+16.8
+12.0
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+25.7
+7.6
+Actual minus
+predicted
+industry share
+in GDPb
+0.03
+0.23
+0.01
+0.21
+-0.01
+0.09
+0.13
+0.22
+0.05
+0.20
+0.08
+0.12
+0.10
+0.08
+-0.04
+0.06
+0.10
+0.10
+0.02
+0.07
+0.00
+-0.01
+0.04
+-0.04
+0.01
+a. Monetary overhang is calculated as the percentage change in real wages minus the percentage
+change in real GDP over 1987-89.
+b. The predicted share of industry is derived using the regression results from Chenery and Syrquin
+(1989). GDP is measured in current prices.
+Source: World Bank data.
+The four main economic features of central planning were as follows:
+• Macroeconomic balance by direct control. Nominal prices and wages were
+fixed in socialist economies. Interfirm financial flows were the passive
+outcome of central directives. Only wages were paid in cash. They therefore
+determined household purchasing power, and the level of wages was the
+critical factor for balancing supply and demand. Before the collapse of the
+old regime, wage increases often exceeded upward adjustments in prices
+and the ability of the economy to provide consumer goods. As a result,
+consumer goods were rationed, and households were left with an involuntary
+
+de Melo, Denizer, and-Celb 
+401
+accumulation of financial assets-or a monetary overhang associated with
+repressed inflation.
+• Coordination through plans. Economic activity was based on a central plan,
+with quantitative output targets specified in physical units. Heavy industry
+was accorded priority over consumer goods, and service sectors were
+repressed and accorded low priority in the allocation of resources. Domestic
+trade was carried out by centralized organizations, and the CMEA system
+linked most Central and Eastern European countries and Mongolia into
+the highly planned economy of the U.S.S.R.
+• Little private ownership. With few exceptions, all property belonged to the
+state, and private ownership was not allowed. The lack of a profit motive,
+arising from the absence of private ownership, hurt efficiency. So did the
+concentration of activity in large firms, which were more compatible with
+the system of planned allocations.
+• Distorted relative prices. Prices played an accounting role and were set in
+accordance with the central plan. Implicit prices of essentials-including
+housing, energy, transportation, education, and medical care-were kept
+low, and land prices were essentially zero. Implicit trade margins were
+low, and prices of final goods did not reflect differences in distribution
+costs.
+After glasnost provided enough of a window of opportunity for the Central
+and Eastern European countries to break away from Soviet trade, the U.S.S.R.
+itself dissolved. Thus, in countries of both Central and Eastern Europe and the
+former Soviet republics, major disruptions occurred in the economic coordinating mechanism. This situation can be distinguished from that in China and Vietnam, where central planning was less pervasive, with less disruption in economic coordinating mechanisms, as liberalizing reforms were introduced earlier.
+In the wake of this disruption, countries chose to make the transition from socialism to a market economy, although some countries introduced reforms more
+rapidly than others.
+What happens when a planned economy is replaced by a market system with
+liberalized prices, trade, and private sector entry?4 Each of the above features
+has a counterpart in the systemic changes that occur during transition. The following changes occur because of the disintegration of the old regime and in
+response to active measures of economic liberalization:
+• Initial macroeconomic destabilization followed by restabilization. When
+prices and wages are liberalized initially, stability is lost. Prices typically
+increase, especially if they are freed under conditions of repressed inflation.
+The immediate challenge for macroeconomic policy is to slow the rate of
+price increase and reverse inflationary expectations and flight from domestic
+4. Parts of the answer to this question appear in various studies. See Berg and Sachs (1992), Berg
+(1993), Chadha, Coricelli, and Krajnyak (1993), Ickes and Ryterman (1993), Aghion and Blanchard
+(1994), Kornai (1994), and Taylor (1994).
+
+402 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+financial assets. This change requires a conversion from a passive to an
+active monetary policy, characterized initially by the reintroduction of one
+or more nominal anchors (money supply, exchange rate, wages). Inflationary
+pressures may persist because of attempts to maintain the old production
+structure, which featured the granting of large subsidies to state enterprises.
+But liberalization of prices, trade, and private entry can facilitate restructuring and hence a reduction in such subsidies. This reduction, in turn,
+allows inflation to fall.
+• Output declines from disruptions in the coordinating mechanism. The
+sudden abolition of planning in a complex, highly interdependent economy
+can impair economic coordination. This disruption affects both useful and
+unwanted production-until an efficient system of market coordination
+evolves. The short-term increases in transaction costs can be considered a
+negative supply shock to an economywide production function, which
+includes coordination activities (such as trade and payments, including those
+between newly independent states) as an intermediate sector. The fall in
+output-and the delay in recovery-will be greater the higher the initial
+reliance on central planning, the more the planning system is disrupted,
+and the slower the development of a new, market-based coordinating system
+in response to liberalization.
+• Output gains from private ownership and private sector growth. Efficiency
+gains come from the legalization of private ownership within the framework
+of a market economy with flexible prices. Thus, growth should respond to
+economic liberalization as well as to the facilitation of entry of new private
+firms and the establishment and enforcement of a legal framework to
+support private activities. Efficiency gains also arise from increased
+competition among smaller, client-oriented firms in the new private sector.
+• Microeconomic and sectoral reallocations. Microeconomic and sectoral
+reallocations occur in response to price changes resulting from price and
+trade liberalization and cuts in subsidies. They also reflect changes in
+demand. Previously repressed sectors, notably services, are expected to
+expand and offset declines in industry and agriculture, which were overbuilt
+and heavily subsidized in many planned economies. The reallocation of
+resources away from activities for which there is low demand and toward
+activities with growth potential should raise output.
+These factors suggest that output will fall initially, and recover subsequently,
+in response to liberalization, with repressed sectors increasing their weight in
+the economy. Inflation will increase initially, and fall subsequently, in response
+to liberalization. Below, we assess the extent to which the economic performance of transition countries in Central and Eastern Europe and the former
+Soviet republics conforms to the experience predicted by this conceptual model
+of transition and, in particular, the extent to which accelerated liberalization
+facilitates restabilization and the recovery of growth.
+
+de Melo, Denizer, and Gelb 
+403
+II. COUNTRY EXPERIENCE WITH ECONOMIC LIBERALIZATION
+To explore broad cross-country relationships among growth, inflation, and
+liberalization, we construct an annual index of liberalization for the transition
+period beginning in 1989. We then use this index to classify countries into reform groups according to their cumulative experience with economic liberalization as of the end of 1994.
+Growth is represented by annual changes in real, officially measured GDP, and
+inflation is represented by changes in the average annual consumer price index
+(CPI). Liberalization is measured by an index that we constructed for this analysis. We calculate an annual liberalization index for each country for each year
+from 1989 to 1994. The index ranges from 0 to 1, with 0 representing an
+unreformed country and 1 representing an extensively reformed country. The
+liberalization index is the weighted average of the rankings of liberalization in
+the following three areas:
+• Internal markets (/)-liberalization of domestic prices and the abolition of
+state trading monopolies (weight: 0.3)
+• External markets (E)-liberalization of the foreign trade regime, including
+elimination of export controls and taxes, and substitution of low-tomoderate import duties for import quotas and high import tariffs; currentaccount convertibility (weight: 0.3)
+• Private sector entry (P)-privatization 
+of small-scale and large-scale
+enterprises and banking reform (weight: 0.4).
+The indicators used for P are proxies for opening up the economy to private
+sector development. They do not capture the overall quality of the legal and
+regulatory framework or the effectiveness of the government at institution building or at implementing reforms-but only because of the difficulty of developing comparative measures. Because of strong complementarity among the components, varying their relative weights does not result in substantially different
+correlations with growth and inflation.
+We followed an extensive process of consultation in assigning annual country
+rankings for each component of the liberalization index. First, we proposed
+rankings on the basis of our own knowledge and country reports. Second, we
+consulted World Bank and other country specialists on a country's pace of reform and on its ranking in relation to other transition countries known by the
+specialist. Third, we submitted these revised rankings to relatively senior experts having a comparative perspective across a wider range of countries. And
+fourth, for the twenty-five countries in Central and Eastern Europe and the
+former Soviet republics, we made a further adjustment to reflect the transition
+indicators given in EBRD (1994, table 2.1 and the accompanying text).5
+5. For a complete listing of the values given to the three components of the liberalization index by
+country and by year, and for a fuller explanation of how the index was derived, see de Melo, Denizer, and
+Gelb (1996).
+
+404 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+Cross-country means for / and E show large increases in 1991, reflecting
+reform in Central and Eastern European countries, and in 1992, reflecting reform in countries of the former Soviet republics. The mean for P shows a more
+modest but steady increase over the whole period. Comparing means in 1989
+with those in 1994, we see that the greatest progress has been achieved in the
+liberalization of internal markets and the least in private sector entry. Standard
+deviations for / and E peaked in 1991. They have since declined, especially for/,
+reflecting the fact that most countries had moved ahead on internal price liberalization by 1994, even though no country had fully liberalized prices. The standard deviation for P increases over time because privatization leaps ahead in
+some countries but lags in others.
+Economic performance at any given moment is determined not only by
+the degree of liberalization currently prevailing but also by the structural,
+institutional, and behavioral changes stimulated by prior policy reforms. We
+therefore define a cumulative liberalization index (CLI) to represent the duration as well as the intensity of reforms from 1989 onward. We calculate
+the CLI as the sum of a country's liberalization indexes. The CLI represents
+a combination of the depth and duration of reform. In principle, it would be
+possible to specify a decay function to fine-tune the balance between current
+levels of reform and cumulative experience with reform. But there is no obvious basis for specifying the rate of decay. Sensitivity analysis using a decay
+function with gradually declining weights over time shows similar results to
+the CLI constructed as the simple sum of annual liberalization indexes. Countries are included in one of four reform groups, determined by natural breaks
+in the CLI values (table 2):
+• Group 1: Advanced reformers (CLI > 3)
+• Group 2: High-intermediate reformers (2 < CLI < 3)
+• Group 3: Low-intermediate reformers (1.3 < CLI < 2)
+• Group 4: Slow reformers (CLI < 1.3)
+Countries affected by regional tensions are shown separately because their
+economic performance was adversely affected by noneconomic events. Countries with regional tensions include former Yugoslav and Soviet republics that
+have experienced major and persistent internal conflicts from 1989 to 1994 or,
+in the case of Armenia and FYR Macedonia, countries that have suffered from
+blockades. The CLI varies widely across this group.
+The three components of the liberalization index are highly correlated with
+each other, suggesting that there is a high degree of complementarity in designing and implementing different types of reform. Correlation is somewhat higher
+between / and E than between either of these and P. Pearson correlations are
+0.93 (/ and £), 0.84 (/ and F), and 0.82 (£ and P). Spearman rank correlations
+are slightly higher. The matrix of (Pearson) correlation coefficients shows that
+the CLI is more strongly associated with growth and inflation than is the cumulative index of any one component (table 3).
+
+de Melo, Denizer, and Gelb 
+40S
+Table 2. Liberalization, Growth, and Inflation in Twenty-Six Countries in
+Transition, 1989-94
+Cumulative
+Country
+liberalization
+index'
+1994
+Advanced reformers
+Slovenia
+Poland
+Hungary
+Czech Republic
+Slovak Republic
+Average
+High-intermediate
+Estonia
+Bulgaria
+Lithuania
+Latvia
+Albania
+Romania
+Mongolia
+Average
+Low-intermediate
+Russian
+Federation
+Kyrgyz Republic
+Moldova
+Kazakstan
+Average
+Slow reformers
+Uzbekistan
+Belarus
+Ukraine
+Turkmenistan
+Average
+4.16
+4.14
+4.11
+3.61
+3.47
+3.90
+reformers
+2.93
+2.90
+2.72
+2.45
+2.30
+2.29
+2.27
+2.55
+reformers
+1.92
+1.81
+1.62
+1.31
+1.67
+1.11
+1.07
+0.80
+0.63
+0.90
+Affected by regional tensions
+Croatia
+Macedonia, FYR
+Armenia
+Georgia
+Azerbaijan
+Tajikistan
+Average
+3.98
+3.92
+1.44
+1.32
+1.03
+0.95
+2.11
+Average
+liberalization1'
+1993-94
+0.82
+0.84
+0.84
+0.90
+0.86
+0.85
+0.85
+0.68
+0.79
+0.71
+0.70
+0.66
+0.64
+0.72
+0.63
+0.68
+0.53
+0.37
+0.55
+0.37
+0.35
+0.20
+0.19
+0.27
+0.83
+0.78
+0.42
+0.35
+0.33
+0.28
+0.50
+Average
+annual
+inflation
+1993-94
+(percent)
+26
+34
+21
+16
+19
+23
+69
+81
+231
+73
+57
+194
+164
+124
+558
+744
+558
+1,870
+933
+640
+1,694
+2,789
+2,751
+1,968
+807
+157
+4,595
+10,563
+1,167
+1,324
+3,102
+Average
+annual
+growth
+in GDP
+1993-94
+(percent)
+3.0
+4.2
+0.0
+0.8
+0.4
+1.7
+0.9
+-1.4
+-7.3
+-4.4
+9.5
+2.2
+0.6
+0.03
+-13.5
+-13.2
+-17.0
+-18.5
+-15.6
+-2.5
+-16.6
+-18.6
+-15.a
+-13.2
+-0.7
+-10.7
+-7.4
+-24.6
+-17.7
+-26.3
+-14.5
+Average
+annual
+GDP in
+1993-94
+as a percentage of
+1989 GDP
+84
+88
+81
+81
+79
+83
+69
+73
+44
+60
+74
+69
+84
+67
+57
+61
+53
+57
+57
+89
+73
+56
+69
+72
+69
+57
+38
+24
+50
+35
+45
+Lowest
+level of
+GDP as a
+percentage of
+1989 GDP
+81
+82
+80
+80
+77
+80
+67
+73
+44
+59
+65
+67
+83
+65
+52
+57
+46
+49
+51
+88
+64
+48
+62
+66
+68
+55
+38
+23
+44
+30
+34
+a. The sum of a country's annual liberalization indexes for 1989-94. See section II of the text for
+details.
+b. See section II of the text for details.
+Source: Authors' calculations.
+
+406 
+THE WORLD BANK ECONOMIC REVIEW, VOL 10, NO. 3
+Table 3. Correlation between Components of the Liberalization Index and
+Growth and Inflation
+(correlation coefficient)
+Indicator
+Average annual growth in GDP
+1989-94
+1993-94
+Average annual inflation rate
+1989-94
+1993-94
+Component of liberalization index
+Internal
+markets
+0.57
+0.72
+-0.72
+-0.80
+External
+markets
+0.52
+0.69
+-0.67
+-0.75
+Privatization
+0.60
+0.67
+-0.73
+-0.79
+Cumulative
+liberalization
+index, CLI
+0.59
+0.73
+-0.74
+-0.81
+Note: See section II of the text for details about construction of the liberalization index. The sample
+includes all the twenty-six countries in table 2.
+Source: Authors' calculations.
+III. GROWTH, INFLATION, AND LIBERALIZATION
+Following the dissolution of the CMEA and the ruble zone, each country in
+Central and Eastern Europe and the former Soviet republics has followed its
+own path to reform with varying speeds and intensities. Here, however, we
+explore the hypothesis that, despite the diversity in country circumstances, there
+are simple cross-country relationships between real GDP growth and economic
+liberalization, inflation and economic liberalization, and growth and stabilization. The statistical analysis below suggests that country experience during the
+transition is strongly associated with liberalization and that the return to positive growth is associated with declines in inflation to double digits or less.
+Growth and Liberalization
+A systematic relationship between output and reform by country group is
+apparent from table 2. This relationship confirms the anticipated output gains
+associated with liberalization. Although output fell initially, advanced reformers were stable or growing by 1993-94, and their lowest output levels were
+about 80 percent of those in 1989. High-intermediate reformers lost about a
+third of their GDP, but most also stabilized output. Albania experienced high
+growth, benefiting from high external financing. Low-intermediate reformers
+fared the worst, with continuing output losses through 1994. The slowest reformers managed to contain their output declines somewhat, and Uzbekistan
+appears to have defied the general pattern by avoiding a major decline. The cost
+of regional tensions is highlighted by huge, cumulative declines in output.
+For the twenty countries not affected by regional tensions, the relationship
+between output growth in 1993-94 and the CLI fits a simple quadratic (figure
+1). This suggests that more than half the variation in real growth was associated
+
+de Melo, Denizer, and Gelb 
+407
+Figure 1. Growth and Liberalization in Twenty Countries in Transition
+Average annual growth in GDP, 1993-94 (percent)
+10
+5 -
+Albania
+Romania
+O 
+Estonia
+Mongolia ^ 
+^
+Poland
+Slovenia
+Republic
+-5 -
+- 1 0 -
+-15 -
+-20
+O Uzbekistan
+Slovak
+'Bulgaria 
+Republic
+'Latvia
+Lithuania
+Hungary
+Turkmenistan
+Kyrgyz Republic
+"o
+Russia
+Belarus
+UkraTne 
+<> Moldova
+o 
+o Kazakstan
+r 
+i 
+i 
+i 
+i 
+i 
+i 
+i
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+3.0 
+3.5 
+4.0
+Cumulative liberalization index, 1994 a
+Note. The curve is given by y- 26.1 + 12.8A:- 1.42X2, with adjusted R2 - 0.53
+a. See section II of the text for details about the construction of the index.
+Source: Authors' calculations based on World Bank data.
+4.5
+with increases in economic liberalization, with growth turning positive when
+the CLI reached 3 or higher. The fit is better for this equation, as well as for the
+inflation equation (figure 2), than an equation in which the independent variable is simply the recent annual liberalization index. This result confirms that
+the duration, as well as the intensity, of reforms is relevant.
+Figure 1 seems to have two sets of countries-one with a low CLI and large
+negative growth and one with a high CLI and a better growth record-but there
+may be factors other than liberalization that determine growth. We supplement
+the partial correlation for the twenty countries shown in figure 1 by looking at
+the relationship between average growth (AVGR) and economic liberalization
+during the full six years of transition (1989-94) for all twenty-six countries.
+Two other variables are included in the regression analysis. Per capita income in
+1989 (PCY) is introduced, showing an expected negative sign, to allow for a
+lower level of central planning and associated overindustrialization in the lowerincome countries of Central Asia. It may also capture other phenomena, such as
+short-run convergence effects or the ability of countries with relatively large
+
+408
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+Figure 2. Inflation and Liberalization in Twenty Countries in Transition
+Average inflation, 1993-94
+(percent, log scale)
+10.00C
+1,000 -
+100 -
+10 -
+Ukraine
+Turkmenistan^^ 
+"Kazakstan
+Belarus
+Uzbekistano
+Moldova
+Kyrgyz Republic
+O Russia
+Lithuania
+o
+Albania o Latvia
+Slovenia
+oland 
+/
+Slovak Republic " ^
+Czech Republic
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+30
+Cumulative liberalization index, 1994 a
+Note: The curve is given by y - 1656.7*-2 93* with R2 - 0.8731.
+a. See section II of the text for details about the construction of the index.
+Source: Authors' calculations based on World Bank data.
+3.5
+4.0
+4.5
+agricultural sectors, such as Albania or Romania, to respond more quickly to
+price incentives. A dummy variable (RT) distinguishes countries affected by regional tensions. The numbers in parentheses are /-statistics.
+(1) AVGR = 
+-9.1 +2.6 CLI- 0.54 PCY -6.5 RT
+(5.4) (4.7) 
+(1.9) 
+(4.8)
+Adjusted R2 = 0.65
+The equation supports the hypothesis that substantial, sustained liberalization has a strong positive growth effect within the overall context of a
+"transitional recession," that is, the contraction-recovery cycle. Here, a linear relationship to the CLI fits better than a quadratic one, suggesting that
+the positive impact of economic liberalization on growth over this longer
+period is equally strong at the higher and lower rates of growth. The coefficient for PCY suggests that the average annual growth in output is about 3
+percentage points less in the highest-income countries than in the lowestincome countries. The dummy variable for regional tensions shows that such
+
+de Melo, Denizer, and Gelb 
+409
+tensions are associated with an average annual decline in GDP of 6.5 percentage points.
+Inflation and Liberalization
+Inflation in 1993-94 shows systematic variation across reform groups (table
+2) and a strong negative relationship with economic liberalization (figure 2). In
+general, advanced reformers have been relatively successful in containing the
+inflationary bursts that followed price liberalization, but slower reformers have
+endured longer and more severe bouts of inflation.
+Here, too, we supplement the partial correlation with additional variables
+and a longer time period to obtain a fuller view. Equation 2 confirms a strong
+negative relationship between inflation and cumulative economic liberalization
+from 1991 to 1994. This latter period, rather than the full six years, is used in
+the equation for the average log of inflation {AVLIN) to avoid the effects of
+high, inherited open inflation in Poland and the former Yugoslav republics. LCLI
+denotes the log of the CLI. LDROP represents the log of the maximum drop in
+the annual index of real GDP for each country (1989 = 100). MONOV represents monetary overhang. It is estimated by the increase in wages, deflated by
+the official CPI, less the change in real GDP during the prereform period, 1987-89
+(see table 1). Because only wage payments were made in cash under socialism,
+increases in wages for a given change in GDP result in a buildup of household
+financial assets-and hence a monetary overhang. RT has the same definition as
+before, and the numbers in parentheses are f-statistics.
+(2) AVLIN 91-94 = 3.4 - 0.88 LCLI + 0.64 LDROP + 0.036 MONOV + 1.2 RT
+(2.4) (2.3) 
+(1.5) 
+(2.1) 
+(2.8)
+Adjusted R2 = 0.76
+Equation 2 shows that countries with larger maximum output declines (larger
+LDROPs) experienced higher inflation, possibly because of the impact of lower
+money demand on the inflation tax base. Higher inflation also occurred in countries with higher levels of monetary overhang and countries subject to regional
+tensions.
+Growth and Stabilization
+In market economies it has usually been assumed that stabilization carries a
+cost in terms of growth. But more recent research suggests that reducing inflation from very high levels can coincide with a period of expansion (Easterly
+1996), and table 2 suggests that output recovery in transition economies in Central and Eastern Europe and in the newly independent states has been associated
+with falling inflation. Although both inflation and growth are considered to be
+dependent on liberalization policy (and on associated stabilization policies, as
+discussed below), there may be two-way interactions between these variables.
+Lower inflation can enable the price mechanism to work, and growth can have
+a favorable impact on budget deficits, reducing inflationary pressures.
+
+410 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+Looking at changes in output against experience with stabilization, we see
+that a return to positive growth typically requires that inflation drop below 100
+percent a year (figure 3). An important policy implication is that the recovery of
+output in Central and Eastern Europe and in the former Soviet republics requires inflation to be reduced to moderate levels. The numbers in figure 3 confirm that sustained economic liberalization facilitates both growth and stabilization.
+IV. THE TIME PROFILE OF GROWTH AND INFLATION
+Are there common patterns in the time profiles of country experience
+that go beyond these cross-sectional relationships? Here, we estimate "regime-
+Figure 3- Growth and Stabilization in Twenty Countries in Transition,
+1989-94
+Average annual growth in GDP (percent)
+IJ 
+-
+10 -
+5 -
+0 -
+-5 -
+10 -
+15 -
+20 -
+25 -
+3 
+4
+L_2i£_4_
+3o
+2o
+Albania
+Albania
+o 2
+o2
+a3 
+2 
+o2
+° 2 ° 
+o 2 
+o?
+23. 
+02
+1 ! 
+°2 
+olN,
+o2
+\ 
+ol
+l<\o 1
+1 o 
+\
+j o 
+\Turkmenistan
+oX
+1 ^ Moldova 
+° Ukraine
+10 
+100 
+1,000
+Lagged inflation (percent, log scale)
+10,000
+Note: For each country, a point Is plotted for the year in which the highest level of Inflation
+occurred and all subsequent years. Inflation is measured as the annual average from the year before
+the year of GDP growth. The values assigned to each point denote the cumulative liberalization index
+for that country and year. See table 2 for a list of the twenty countries included (countries affected by
+regional tensions are excluded). The curve Is given by y - -5E - 10x3 + 5E - 06*2 - 0.0176* + 2.1285,
+with R2 - 0.065.
+Source: Authors' calculations.
+
+de Melo, Denizer, and Gelb 
+411
+switching" equations to generate stylized profiles of growth and inflation for
+years before reform and for years of reform.
+To estimate a regime-switching equation across the twenty-six countries, we
+need to define the year in which a regime changes from planned to market. This
+is easy for countries such as Poland that made a decisive change in a given year.
+It is more difficult for countries where reform has been gradual or partial. To
+avoid arbitrary specification of the switch points, we base the change of regime
+on the CLI. First, the CL/s are rescaled so that Poland has five reform years by
+the end of 1994, implying a shift to a new regime in January 1990. All CL/s are
+normalized by the same factor; that is, all countries' reform experiences are
+being judged in Poland-equivalent reform years.6 To derive the switch point, we
+round off the scaled CLI to the nearest year and subtract the result from 1995.
+With this method, each country has at least one observation in the reform regime and one in the nonreform regime. For example, Poland has one observation (1989) in the nonreform regime and five observations (1990-94) in the
+reform regime. Turkmenistan, with the lowest CLI, has five observations (1989-
+93) in the nonreform regime and one (1994) in the reform regime.
+The switching equations specifying the time profiles of growth (GR) and inflation (INFL) in relation to reform are then
+R 1 
+94
+GWNFL) = a + Yj>, Pf + Xc/ 9? + dRT
+I 89 
+;=R
+where D^are dummy variables for the successive years before reform begins for
+each country, starting in 1989, D* are dummy variables for successive years
+after reform begins, R is the constructed year of reform, and RT has already
+been defined.
+When added to the intercept, the estimated coefficients (in table 4) yield the
+growth and inflation time profiles of a representative country in a regime of
+nonreform (the b coefficients) and a regime of reform (the c coefficients).
+The growth regression shown has reasonably good explanatory power. Reformers experience a sharp initial contraction in the first year of reform, followed by a return to positive growth in year four (figure 4). Caught in the deteriorating environment of a disintegrating economic system, countries in the years
+before reform initially succeed in delaying the decline, but output then contracts
+at an accelerating rate. After three years their GDP is lower than that of the
+reformers. The status quo is not a viable option for countries with severely over-
+6. We considered other alternatives: setting the switch point according to the announcement of a
+comprehensive reform program (as in EBRD 1994) or sening the switch point according to the year of
+maximum increase in the liberalization index. The first procedure was unsatisfactory because announced
+programs are sometimes not carried out. The second does not take into account the actual degree of
+reform. In any case, the general pattern of results is surprisingly robust to a variety of ways of deriving
+the switch point from the CLI (see de Melo and Gelb 1996).
+
+412 
+THE WORLD BANK ECONOMIC REVIEW, VOL 10, NO. 3
+Table 4. Regime-Switching Regressions for Twenty-Six Countries in
+Transition, 1989-94
+Variable
+Years before reform
+Five
+Four
+Three
+Two
+One
+Years of reform (intercept)
+First
+Second
+Third
+Fourth
+Fifth
+Regional tensions dummy,
+RT
+R2
+Adjusted R2
+Growth
+Coefficient
+14.2
+(6.7)
+8.3
+(3.7)
+2.5
+(1.1)
+-6.6
+(2.5)
+2.8
+(0.8)
+-12.6
+(8.3)
+5.6
+(2.5)
+11.3
+(4.5)
+13.8
+(4.7)
+15.5
+(4.2)
+-0.9
+(4.7)
+0.51
+0.48
+Profile'
+1.6
+-A.3
+-10.1
+-19.2
+-9.8
+-12.6
+-7.0
+-1.3
+1.2
+2.9
+-21.6
+Log inflation
+Coefficient
+-4.4
+(10.6)
+-4.1
+(9.3)
+-1.5
+(3.2)
+0.4
+(0.7)
+1.0
+(1.5)
+6.0
+(20.2)
+-0.7
+(1.6)
+-2.1
+(4.3)
+-2.3
+(4.0)
+-2.9
+(4.0)
+1.4
+(3.7)
+0.65
+0.63
+Profile'
+1.6
+1.9
+4.5
+6.4
+7.0
+6.0
+5.3
+3.9
+3.7
+3.1
+7.4
+Note: See section IV of the text for the regime-switching equations. Regressions are based on
+observations of twenty-six countries (see table 2). /-statistics are in parentheses.
+a. Coefficient plus intercept. This is the predicted annual growth or inflation rate.
+Source: Authors' calculations.
+built sectors experiencing severe disruptions in internal and external economic
+coordination. Although, theoretically, it is possible to follow a gradualist reform program, evidence suggests that gradualism has not paid off in this region.
+Simulation exercises, undertaken to assess the robustness of these results to probable patterns of bias in the underreporting of GDP, provide similar results (see de
+Melo, Denizer, and Gelb 1996). The coefficient for countries affected by regional tensions indicates a high, statistically significant additional cost. Each
+year of regional tensions reduces output by an additional 9 percentage points.
+The stage of liberalization is a surprisingly strong predictor of inflation (figure 5). As expected, freeing markets is associated with a sharp price spike in the
+first year. In subsequent years inflation is usually brought down-to about 20
+percent after four years. Slow reformers initially manage to contain inflation to
+
+de Melo, Denizer, and Gelb 
+413
+Figure 4. Growth Profiles for Years before Reform and Reform Years for
+Twenty-Six Countries in Transition, 1989-94
+Average annual growth in GDP (percent)
+c
+o -
+- 5 -
+10-
+I
+1 5 -
+2 0 -
+1
+Reform prototype
+^
+-
+•
+*
+-
+"
+x T ^ Nonreformprototype
+1 
+1
+^
+6
+1
+2 
+3 
+4
+Years
+Note: The growth profiles are based on regression coefficients for twenty-six countries (see
+table 2 for a list of the countries). The years before reform and the years of reform are based on
+the normalized cumulative liberalization index as defined in the text.
+Source: Authors' calculations.
+Figure 5. Inflation Profiles for Years before Reform and Reform Years for
+Twenty-Six Countries in Transition, 1989-94
+Log inflation
+7
+Nonreform prototype
+3
+Years
+Note: The growth profiles are based on regression coefficients for twenty-six countries (see
+table 2 for a list of the countries). The years before refonn and the years of refonn are based on
+the normaJtzed cumulative liberalization index as defined In the text.
+Source: Authors' calculations.
+
+414
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+moderate levels. After three years, however, their inflation rates soar far above
+the peak levels in reforming countries, as their economies contract sharply. As
+might be expected, countries affected by regional tensions experience much higher
+inflation rates.
+V. PATTERNS UNDERLYING GROWTH
+Why do growth rates recover after a period of liberalization and stabilization? In theory, there are several possibilities on both the demand and supply
+sides, but in practice the recovery of growth appears to be driven by a few key
+factors. On the demand side, the growth of exports to market economies has
+been more significant in the more liberalized countries (see Kaminski, Wang,
+and Winters 1996 for evidence). But fixed investment levels in relation to GDP
+differ only slightly across reform groups (see de Melo, Denizer, and Gelb 1996).
+On the supply side, recovery appears to be driven by the reallocation of factors
+to more productive activities rather than by factor accumulation. This reallocation is characterized by the growth of previously repressed sectors and activities. The evidence suggests that structural change has resulted directly from liberalization and that it has been greater in advanced and high-intermediate
+reformers.
+Private activities have expanded very rapidly in many countries (private GDP
+now accounts for at least 50 percent of GDP in the advanced reformers), partly
+because of autonomous growth and partly because of privatization. It is difficult
+to distinguish the net impact of each on growth, although sectoral reallocation
+can be tracked. National accounts data show the shifts of output in current
+prices between broad production sectors by reform group (table 5). The more
+advanced reformers have experienced an accelerated shift from overbuilt industry toward services. This shift reflects higher profitability in the growing sectors, which lead output recovery.
+On average, the share of services (at current prices) in GDP has increased by
+15 percentage points in the advanced reformers, by 10 percentage points in the
+Table 5. Sectoral Shifts in Production at Current Prices after Liberalization
+and Stabilization, by Country Reform Group, 1989-94
+Country reform group
+Advanced reformers
+High-intermediate reformers
+Low-intermediate reformers
+Slow reformers
+Affected by regional tensions
+Cumulative
+liberalization
+index*
+3.91
+2.55
+1.66
+0.90
+2.11
+Industry
+-11.2
+-11.0
+-1.9
+2.9
+-7.9
+Change in share
+of GDP (percent)
+Agriculture
+-3.7
+0.7
+-A3
+-1.4
+15.3
+Services
+14.9
+10.4
+6.8
+-1.5
+-7.4
+Note: The countries in each group are listed in table 2.
+a. See section II of the text for details about the construction of the index.
+Source: Authors' calculations based on World Bank data.
+
+de Melo, Denizer, and Gelb 
+415
+high-intermediate reformers, and by 7 percentage points in the low-intermediate reformers. These shifts have occurred despite the fact that between 1990
+and 1992 services fell in relation to GDP in almost all countries of the former
+Soviet republics-because of a precipitous decline in government (including
+military) services. Growth in services has been concentrated in private trade,
+finance, and other business and consumer services. These activities have contributed strongly to the generation of private wealth, which in some countries is
+now being used to acquire industrial assets. One example is the 1995 purchase
+of Russian energy companies by a consortium of Russian banks. Service growth
+is severely understated because of the underreporting of private activity, but its
+growth may also be exaggerated by the fact that many services were previously
+incorporated into industrial firms and not separately distinguished.
+In the more advanced reformers, industry's share has fallen across the board,
+including the shares of military production, heavy industry, and consumer manufactures that are not competitive with imports. A striking development has been
+the sharp deconcentration of industrial employment by firm size (see, for example, Kornai 1994; Balcerowicz and Gelb 1995)-a result of new private entry, layoffs from the state sector, and the breakup of large state firms, sometimes in the course of spontaneous processes separating good and bad assets
+prior to formal privatization.
+According to official statistics, the shift away from industry has not taken
+place in the countries with low CLJs. Indeed, industry's measured share has
+actually risen for some low-intermediate and slow reformers. Service sectors in
+these countries are certainly larger than official estimates purport, but they are
+more poorly developed than in countries with high CL/s.
+The relative performance of agriculture varies considerably among countries.
+Prereform agriculture was inefficiently organized but benefited from subsidies,
+including those for credit, energy, and other inputs. Performance during the
+transition reflects a variety of effects, including privatization in some countries,
+relative price changes (which have especially squeezed profits in livestock sectors), and a critical emerging shortage of liquidity at the farm level. Output
+patterns in countries affected by regional tensions are distinctive: faced with
+overestimated, but still very large, declines in aggregate activity, populations
+have retreated toward subsistence farming.
+VI. PATTERNS UNDERLYING INFLATION
+Why has inflation fallen following a program of liberalization in some countries but remained high in others? Possible explanations include the effect of
+exchange rate movements, conventional budget deficits, and quasi-fiscal deficits. The main cause of inflation appears to have been monetary expansion generated by high central bank subsidies and, possibly, other contributors to quasifiscal deficits, which have been larger and more persistent in less liberalized
+countries.
+
+416 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+In both floating-rate and pegged-rate countries, large depreciations in the
+real exchange rate occurred during the early stages of reform, as prices were
+freed and monetary overhangs were eliminated. These huge real devaluations
+sustained external balance but at the same time exacerbated inflationary pressures. Subsequently, however, exchange rates moved toward market rates that
+were twice the purchasing power parity (PPP) rate-a ratio consistent with those
+for countries at comparable levels of PPP income (Balcerowicz and Gelb 1995).
+Thus, imported inflation affected the domestic price level early on, but the later
+appreciation of the real exchange rate supported stabilization efforts.
+Conventional fiscal deficits rose on average for all groups, except the advanced reformers, between 1989 and 1994. As of 1994, deficits averaged 2 percent of GDP in advanced reformers and 7 percent of GDP in intermediate reformers, although they were surprisingly modest in slow reformers that were still
+experiencing very high inflation. Revenue shares in GDP averaged 50 percent for
+the advanced reformers in 1994-only 4 percentage points lower than in 1989
+(table 6).7 At 33 percent of GDP on average, revenue in high-intermediate reformers was far lower in 1994 than in 1989. And at 24 percent of GDP, revenue
+shares were lowest in the low-intermediate reformers. This pattern is of considerable interest because it shows-contrary to some initial expectations-that
+faster-reforming countries have not necessarily experienced greater falls in fiscal revenue than have slower reformers. The surprisingly strong revenue performance of countries affected by regional tensions was largely due to the inclusion
+of foreign grants.
+The remaining explanation for the continuation of high inflation in slowerreforming countries is the existence of large quasi-fiscal deficits-losses incurred
+by the central bank. There are no standard measures of quasi-fiscal losses, which
+may include financing for debt write-offs, subsidies given in connection with
+guarantees such as foreign exchange guarantees, and losses resulting from the
+provision of credit to banks and firms at highly negative real interest rates. Only
+the last category, which reflects attempts to maintain production and employment in existing firms and farms, can be calculated for a range of countries
+(table 7). Other components of the quasi-fiscal deficit are not available on a
+comparable basis. However, extrabudgetary debt write-offs have been estimated
+for Bulgaria as an additional 3.4 percent of GDP in 1992 and 3.8 percent of GDP
+in 1993. Such write-offs are known to exist in other countries, such as Hungary
+and Kazakstan. In China, central bank subsidies to state enterprises have been
+substantial, but because of rapid growth in the demand for money, their size has
+not yet caused excessive inflation (see McKinnon 1994; Yusuf 1994).
+In countries featuring lagged reforms and resistance to structural change, the
+consolidated deficits have been much larger than open fiscal deficits. Central
+bank credit subsidies in the countries that are slow reformers have been on the
+order of three times the fiscal deficit, far exceeding any plausible estimate of tax
+7. See EBRD (1994) and IMF (1994). The common pattern was for revenue to decline during the first
+year of reforms but to rebound in the second year.
+
+Table 6. Revenue, Expenditure, and Fiscal Balance, by Country Reform Group, 1989-94
+Country reform group
+Advanced reformers
+High-intermediate reformers
+Low-intermediate reformers
+Slow reformers
+Affected by regional tensions
+Cumulative
+liberalization
+index*
+3.91
+2.55
+1.66
+0.90
+2.11
+Revenue
+-3.6
+-17.3
+-14.6
+-1.0
+-1.2
+Change
+(percentage of GDP)
+Expenditure
+-3.9
+-13.5
+-7.9
+3.6
+7.1
+Balance
+0.3
+-3.8
+-5.9
+-3.4
+-6.2
+Revenue
+49.7
+33.0
+24.2
+32.0
+32.2
+1994 level
+(percentage of GDP)
+Expenditure
+52.1
+39.0
+31.8
+35.5
+40.9
+Balance
+-2.4
+-5.9
+-7.6
+-3.4
+-8.6
+Note: The countries included in each group are listed in table 2.
+a. See section II of the text for details about the construction of the index.
+Source: Authors' calculations.
+
+Table 7. Fiscal Deficits and Partial Quasi-Fiscal Expenditures for Selected Countries in Transition, 1992-94
+(percentage of GDP)
+Country, by reform group
+Advanced reformers
+Poland
+Hungary
+Czech Republic6
+Slovak Republic6
+Intermediate reformers
+Estonia
+Bulgaria
+Romania
+Russian Federation'
+Kazakstan
+Slow reformers
+Belarus'
+Turkmenistan"^
+Uzbekistan'
+1992
+6.8
+5.7
+0.5
+13.1
+-0.5
+5.0
+5.5
+3.4
+7.3
+6.4
+10.1
+10.2
+Fiscal deficit
+1993
+2.9
+7.0
+-0.6
+7.6
+1.4
+11.1
+1.0
+8.1
+1.2
+9.4
+3.6
+8.4
+1994
+2.9
+6.5
+-0.5
+2.5
+0.0
+6.1
+3.0
+8.8
+4.5
+1.5
+1.1
+2.0
+Impltcit subsidy from
+1992
+0.0
+0.0
+0.3
+0.3
+1.3
+5.9
+11.3
+32.7
+26.5
+12.5
+13.1
+central bank'
+1993
+0.0
+0.0
+0.8
+1.7
+0.2
+0.8
+3.9
+1.7
+-
+9.3
+21.2
+18.5
+1994
+0.0
+0.0
+0.1
+0.0
+0.3
+0.7
+0.0
+0.0
+2.6
+3.4
+6.4
+19.0
+1992
+6.8
+5.7
+0.8
+13.4
+6.3
+11.4
+14.7
+40.0
+32.9
+22.6
+23.3
+Total
+1993
+2.9
+7.0
+0.2
+9.3
+1.6
+11.9
+4.9
+9.8
+-
+18.7
+24.8
+26.9
+1994
+2.9
+6.5
+-0.4
+2.5
+0.3
+6.8
+3.0
+8.8
+7.1
+4.9
+7.5
+21.0
+- Not available.
+a. The implicit subsidy from the central bank to commercial banks and the economy is due to the difference between inflation and the central bank refinancing
+rate on credit outstanding to the nongovernmental sector. Annual figures are averages of monthly figures, where available, or of quarterly averages.
+b. For 1992 the nominal federation subsidy was divided 2-to-l in favor of the Czech Republic.
+c. Calculations made on a quarterly basis.
+d. Turkmenistan's budget does not include the fiscal position of its three largest ministries and hence is not consolidated. If foreign borrowing of these ministries
+is taken into account, the budget deficits in 1993 and 1994 would be much higher and no less than 10 to 12 percent of GDP in each year.
+Source: World Bank data and authors' calculations.
+
+de Melo, Denizer, and Gelb 
+419
+revenue recouped from subsidized firms. Only in the more advanced reformers,
+which more or less achieved stabilization and in which rapid structural change
+was in process, were these interest subsidies eliminated. Quasi-fiscal losses because of central bank subsidies have been the most important factor prolonging
+inflation in the slower reformers. Moreover, the existence of large quasi-fiscal
+losses in the slower reformers is consistent with data indicating much more rapid
+growth in base money, as well as broad money, in these countries (see de Melo
+and Denizer 1996).
+VII. ECONOMIC LIBERALIZATION AND POLITICAL FREEDOM
+What, then, determines the pace of liberalization? Here we explore the hypothesis that economic liberalization has been closely associated with political
+change. (See de Melo, Denizer, Gelb, and Tenev 1996 for further analysis of the
+determinants of economic liberalization.) This issue can be placed in the broader
+context of the relatively rich literature on political change and economic growth
+(see, for example, Olson 1993; Barro 1994).
+Measures of political freedom are provided in Karatnycky (1995), a survey
+that has been published annually by Freedom House since 1973. The survey
+measures traditional political rights and civil liberties of Western democracies.
+The two components of the index are highly correlated and typically give very
+similar results when used separately in research (Helliwell 1994). Country
+rankings, based primarily on responses to a checklist of indicators, reflect the
+judgment of a project team that consults published materials as well as regional
+experts and human rights specialists. The survey is not a scorecard for governments, but rather an assessment of both governmental and nongovernmental
+factors that affect personal freedom. There is some evidence that these measures are robust. Following a conference in 1988 on measuring democracy, Inkeles
+(1990) concluded that the underlying measures of political freedom are common to all rating systems, even if specific indicators vary, and that there is high
+agreement among the results of alternative classifications.
+The Spearman rank correlation between economic liberalization and political
+freedom for all twenty-six countries in our sample is 0.8. When the RT group is
+excluded, this figure is 0.91. The Pearson correlation coefficient for political
+freedom and the CLI is 0.75 and statistically very significant. A nonlinear relationship is shown for all twenty-six countries (figure 6). One explanation for
+this high correlation could be that both variables are strongly associated with an
+unidentified latent variable such as income. But Pearson and Spearman correlations between each of these variables and PPP per capita GDP in 1989 are far
+lower (0.39 for both in the case of liberalization and 0.47 and 0.48, respectively,
+in the case of political freedom) than those between the two variables themselves (0.75 and 0.79, respectively). Also, cross-country research has failed to
+establish a systematic relationship between political freedom and economic
+growth (Helliwell 1994). The lack of global relationships between political free-
+
+420 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+Figure 6. Political Freedom and Degree of Economic Liberalization in
+Twenty-Six Countries in Transition, 1989-94
+Cumulative liberalization index
+4.0 -
+3-5 -
+3.0 -
+2.5 -
+2.0 -
+1.5 -
+1.0 -
+0.5 n
+Turkmenistan 
+Kazakstan
+\ Uzbekistan 
+^^-^"^
+\ * 
+-$
+-~" 
+Azerbaijan
+Tajikistan
+Slovenia
+Croatia 
+Poland o 
+t
+O 
+$ 
+Hungary
+FYR Macedonia 
+Czech
+Slovak Republic o Republi^
+Estonia Oyfo 
+Bulgaria
+s' 
+o Lithuania
+Romania 
+ft >"- * Latvia
+Albania * 
+° Mongolia
+^ / j Russia
+^ s ^ 
+* Kyrgyz Republic
+^-^•"^ 
+Moldova o Armenia
+Georgia
+o Belarus
+o Ukraine
+1
+1
+1
+2
+1
+3
+Index of
+I
+4
+political freedom
+i
+5
+1
+6
+Note: See text for details about the cumulative liberalization Index and the Index of political
+freedom. The latter has been reversed for easier comparison with the former. The curve Is
+given by y- 0.6236e0-268^, with R2 - 0.6453-
+Source: Authors' calculations based on Karatnycky (1995).
+dom, on the one hand, and income and growth on the other suggests a need to
+look more closely at the relationship between political change and reform at the
+individual country level.
+In countries of Central and Eastern Europe and the former Soviet republics
+where former leaders have held power continuously (such as Kazakstan,
+Turkmenistan, Ukraine, and Uzbekistan), reforms have been slow and driven
+largely by economic pressures arising from the breakup of the U.S.S.R. In countries where there was a clear break with the previous regime (Albania, the Czech
+Republic, Estonia, Latvia, Lithuania, and Poland), liberalization has been most
+radical, as reflected in a rapid change in the annual liberalization index from
+close to 0 to close to 1 during a phase of "extraordinary politics" (Balcerowicz
+1993). So far, there has been little reversal of such movements to liberalize, even
+where "socialist" political parties have regained control (as in Estonia, Lithuania,
+and Poland). The lack of reversal is consistent with the view of Aslund (1994),
+who holds that democratization checks the power of the old elite.
+Where power has been shared among a broad spectrum of political interests
+(Bulgaria, Russia), or where local governments have opposed reforms initiated
+
+de Melo, Denizer, and Celb 
+421
+from the top (Russia), reforms have typically been halting and sometimes inconsistent, placing such countries in the intermediate category. In Bulgaria, for example, initial liberalization of internal and external markets, impelled by a particularly difficult macroeconomic situation, was not matched by corresponding
+progress in private sector entry. Moldova had a similar experience. In contrast,
+unlike most non-Baltic countries of the former Soviet republics, Russia and the
+Kyrgyz Republic made reforms in support of private sector entry that have moved
+almost as fast as other reforms. Mongolia also moved quickly on private sector
+entry, boasting the first comprehensive privatization program among intermediate reformers, even though its initial reforms of internal and external markets
+were halting.
+Although the above discussion focuses on the effect of political freedom on
+economic reform, the direction of causality is actually two-way. Economic liberalization has powerful political implications. It is an essential step in breaking
+the power of established structures, especially line ministries that previously
+controlled industry and trade. This effect is potent even where political liberalization does not lead to the replacement of the political and managerial elite.
+With the exception of East Germany (where loyalty and competency tests were
+imposed) and Czechoslovakia (where a process of lustration was applied), leading communists and managers have typically been able to take advantage of
+political connections and technical expertise to redefine their role toward commerce and business management (see, for example, Rona-Tas 1994).
+VIII. CONCLUSIONS AND IMPLICATIONS FOR POLICY DEBATES
+Our analysis suggests that there are strong common patterns among countries at similar stages of reform. The common legacy and the associated changes
+resulting from initial disruptions in the socialist economic coordinating mechanisms and subsequent liberalization measures go a long way toward explaining
+the transition experience.
+Reforms must be sustained to be effective. Thus their duration, as well as
+their intensity, is important. Analysis based on countries' cumulative liberalization experience provides a useful insight into the contraction-recovery cycle.
+Liberalization has also been an important element of stabilization policy, even
+though its initial impact entails a jump in prices and even though liberalization
+is by no means a sufficient condition for regaining price stability. The close
+relationship between economic liberalization and political freedom helps to explain why some countries moved very quickly on reforms while others did not.
+Underlying sectoral and macroeconomic variables also evolve over the course
+of reform. In advanced reformers, liberalization permitted the reallocation of
+capital and labor from industry toward services, and the expansion of previously
+repressed sectors, together with export growth, has led the return to positive
+growth. The severe macroeconomic imbalances that developed in the final years
+of the Soviet republics left a costly legacy. But the main factor prolonging high
+
+422 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+inflation has been continuing monetization of fiscal, and especially quasi-fiscal,
+deficits associated with attempts to maintain employment under the old system.
+These findings bear on some recent policy debates. Portes (1994) and others
+argue that policies have overemphasized stabilization in relation to structural
+reform. It is hard to respond to this view generally when circumstances differ so
+much across countries (for example, between Ukraine and the Czech Republic).
+But such arguments seem to miss the strong complementarity between macroeconomic and microeconomic policy, and the apparent high costs of sustained
+inflation in the countries that are slow reformers.
+The empirical analysis here supports Ickes and Ryterman (1993) and
+Balcerowicz and Gelb (1995), who argue that strong interactions between liberalization and stabilization are likely. It also supports the conclusions of Bruno
+and Easterly (1995), who find that in market economies neither effective markets nor renewed investment is possible with severe inflation and price instability. Thus stabilization becomes a priority for the resumption of growth. At the
+same time, it should be recognized that in transition countries stabilization is
+made more difficult because of the severe output losses during the early stages
+of liberalization. These reduce potential tax revenues and raise claims on fiscal
+resources to cushion the effects. Stabilization is also made more difficult because of limited external financing and the large depreciations in the exchange
+rate that accompany the early stages of liberalization.
+A continuing debate has been whether or not countries should follow a "big
+bang" or a gradualist approach to reform. We make two points. First, the close
+relationship between economic and political liberalization suggests that it may
+be unrealistic to expect a given regime to perceive, or in fact to have, a very wide
+range of options. Second, the time profiles estimated here suggest that, to the
+extent that regimes do have options, rapid reform is preferable to slow reform,
+given a severe breakdown in the central planning apparatus. The status quo has
+not been a viable option for countries in Central and Eastern Europe and the
+former Soviet republics, and recorded inflation levels and output losses in most
+countries that managed to postpone adjustment are now far larger than those in
+the more advanced reformers.
+Finally, some analysts have suggested that there is a "fiscal constraint" to
+rapid reform (Chadha and Coricelli 1994; Aghion and Blanchard 1994). They
+note that the fiscal costs of closing or restructuring state enterprises must be
+offset by revenue generated from new, private businesses. But taxing the private
+sector is difficult, and, anyway, taxes on emerging sectors must be low so as not
+to discourage growth. The budget balance therefore deteriorates as reforms are
+implemented more intensively. The cross-country comparisons that we carried
+out suggest a different conclusion. Fiscal revenue and expenditures have tended
+to remain high, in relation to GDP, in the advanced reformers, and fiscal deficits
+have been lower than those in the slower reformers. Even if there are reasons-
+cultural, institutional, or structural-for the stronger fiscal position of advanced
+reformers, there is no convincing evidence that a slower pace of reform has
+
+de Melo, Denizer, and Gelb 
+423
+strengthened the fiscal position of intermediate reformers. It is certainly possible, for example, that the institutional infrastructure (tax code, tax administration, expenditure control) and general conditions of societal order and compliance are stronger in advanced reformers. The failure of slow reformers to
+maintain fiscal balance is highlighted by the fact that their consolidated fiscal
+deficits, including central bank credit subsidies, have often been larger than those
+of intermediate reformers. As suggested earlier, the lack of adjustment by enterprises in response to structural shifts in demand may generate negative value
+added for many of them and therefore no taxable surplus.
+REFERENCES
+The word "processed" describes informally reproduced works that may not be commonly available through library systems.
+Aghion, Philippe, and Olivier J. Blanchard. 1994. "On the Speed of Adjustment in
+Central Europe." In Olivier J. Blanchard and Stanley Fischer, eds., NBER Macroeconomics Annual 1994. Cambridge, Mass.: MIT Press.
+Aslund, Anders. 1994. "Lessons of the First Four Years of Systemic Change in Eastern
+Europe." Journal of Comparative Economics 19(1, August):22-39.
+Balcerowicz, Leszek. 1993. "Common Fallacies in the Debate on the Economic Transition in Central and Eastern Europe." EBRD Discussion Paper 11. European Bank for
+Reconstruction and Development, London. Processed.
+Balcerowicz, Leszek, and Alan Gelb. 1995. "Macropolicies in Transition to a Market
+Economy: A Three-Year Perspective." In Proceedings of the World Bank Annual
+Conference on Development Economics 1994. Washington, D.C-: World Bank.
+Barro, Robert J. 1994. "Democracy and Growth." NBER Working Paper 4909. National Bureau of Economic Research, Cambridge, Mass. Processed.
+Berg, Andrew. 1993. Recession and Structural Adjustment in Poland. IMF Seminar Series No. 1993-04. Washington, D.C.: International Monetary Fund.
+Berg, Andrew, and Jeffrey Sachs. 1992. "Structural Adjustment and International Trade
+in Eastern Europe: The Case of Poland." Economic Policy: A European Forum
+14(April):l 17-73.
+Bruno, Michael, and William Easterly. 1995. "Inflation Crises and Long-Run Growth."
+World Bank, Policy Research Department, Washington, D.C. Processed.
+Chadha, Bankim, and Fabrizio Coricelli. 1994. "Fiscal Constraints and the Speed of
+Transition." CEPR Discussion Paper 993. Centre for Economic Policy Research, London. Processed
+Chadha, Bankim, Fabrizio Coricelli, and Kornelia Krajnyak. 1993. "Economic Restructuring, Unemployment, and Growth in a Transition Economy." IMF Staff Papers
+40(4):744-81.
+Chenery, Hollis, and Moshe Syrquin. 1989. Patterns of Development, 1950-89. Washington, D.C: World Bank.
+de Melo, Martha, and Cevdet Denizer. 1996. "Monetary Policy and Financial Developments in Transition Economies." World Bank, Policy Research Department, Washington, D.C. Processed.
+
+424 
+THE WORLD BANK ECONOMIC REVIEW, VOL. 10, NO. 3
+de Melo, Martha, and Alan Gelb. 1996. "Transition to Date: A Comparative Overview." World Bank, Policy Research Department, Washington, D.C. Processed.
+de Melo, Martha, Cevdet Denizer, and Alan Gelb. 1996. "From Plan to Market: Patterns of Transition." Policy Research Working Paper 1564. World Bank, Policy Research Department, Washington, D.C. Processed.
+de Melo, Martha, Cevdet Denizer, Alan Gelb, and Stoyan Tenev. 1996. "Explaining
+Transition: The Role of Initial Conditions in Reforming Socialist Countries." World
+Bank, Policy Research Department, Washington, D.C. Processed.
+Easterly, William. 1996. When Is Stabilization Expansionary} IMF Seminar Series 1996-
+16. Washington, D.C: International Monetary Fund.
+EBRD (European Bank for Reconstruction and Development). 1994. Transition Report.
+London.
+Fischer, Stanley, and Alan Gelb. 1991. "The Process of Socialist Economic Transformation." Journal of Economic Perspectives 5(l):91-105.
+Helliwell, John F. 1994. "Empirical Linkages between Democracy and Economic
+Growth." British Journal of Political Science 24(part 2):225-48.
+Ickes, Barry, and Randi Ryterman. 1993. "From Enterprise to Firm: Notes for a Theory
+of the Enterprise in Transition." In Robert Campbell, ed., The Postcommunist Economic Transformation. Boulder, Colo.: Westview Press.
+Inkeles, Alex. 1990. "Introduction: On Measuring Democracy." Studies in Comparative International Development 25(l):3-6.
+IMF (International Monetary Fund). 1994. World Economic Outlook: World Economic
+and Financial Surveys. Washington, D.C.
+Kaminski, Bartlomiej, Zhen Kun Wang, and Alan Winters. 1996. "Foreign Trade in
+Transition: The International Environment and Domestic Policy." Studies of Economies in Transformation Series 20. Washington, D.C: World Bank.
+Karatnycky, Adrian. 1995. "Democracies on the Rise, Democracies at Risk." Freedom
+Review (January/February):5-22.
+Kornai, Janos. 1994. "Transformational Recession: The Main Causes." Journal of
+Comparative Economics 19(l):39-63.
+McKinnon, Ronald I. 1994. "Financial Growth and Macroeconomic Stability in China,
+1978-1992: Implications for Russia and Other Transitional Economies." Journal of
+Comparative Economics 18(3):438-70.
+Milanovic, Branko. 1995. "Poverty, Inequality, and Social Policy in Transition Economies." Research Project on Income Distribution during the Transition, Paper 9. World
+Bank, Policy Research Department, Washington, D.C. Processed.
+Olson, Mancur. 1993. "Dictatorship, Democracy, and Development." American Political Science Review 87(September):567-76.
+Portes, Richard A. 1994. "Transformation Traps." Economic Journal 104(September):l 178-89.
+Rona-Tas, Akos. 1994. "The First Shall Be Last? Entrepreneurship and Communist Cadres
+in the Transition from Socialism." American Journal of Sociology 100(l):40-69.
+Taylor, Lance. 1994. "Market Met Its Match: Lessons for Future from the Transition's
+Initial Years." Journal of Comparative Economics 19(August):64-87.
+Yusuf, Shahid. 1994. "China's Macroeconomic Performance and Management during
+Transition." Journal of Economic Perspectives 8(2):71-92.

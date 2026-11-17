@@ -1,0 +1,51 @@
+Characteristics associated with low self-esteem among US adolescents
+- PMID: 20605547
+- PMCID: PMC2914631
+- DOI: 10.1016/j.acap.2010.03.007
+Free PMC article
+Characteristics associated with low self-esteem among US adolescents
+Abstract
+Objective: Low self-esteem in adolescents has been associated with a number of risk and protective factors in previous studies, but results have been mixed. Our objective was to examine characteristics associated with low self-esteem in a large national sample of young adolescents.
+Methods: We conducted a population-based correlational study. A sample of 6522 adolescents aged 12 to 16 years was surveyed by phone as part of a national study of media and substance use. Self-esteem was measured with 3 questions that assessed global self-worth and physical appearance. Multivariate logistic regression was used to examine the relationship between self-esteem and sociodemographics, child personality characteristics,weight status, daily TV time, parenting style, school performance,and team sports participation. Interactions among gender, race, and weight status were examined.
+Results: In multivariate analysis, female gender, Hispanic race, overweight and obesity, sensation seeking, rebelliousness, and daily TV time were each independently associated with lower self-esteem. Teens of black race, with higher parental responsiveness and demandingness, better school performance, or involvement in team sports were less likely to report low self-esteem. Black females were at lower risk and Hispanic males were at higher risk for low esteem than peers of similar gender of other races.
+Conclusions: Low self-esteem was associated with a number of modifiable risk factors, including obesity, TV time, team sports participation, school performance, and parenting style, that should be discussed with teens and parents at health supervision visits. Further research examining race and gender-specific factors that serve to moderate risk for poor self-esteem in adolescents is warranted.
+Conflict of interest statement
+Conflict of interest: The above authors report no conflict of interest
+Similar articles
+- 
+ 
+ Factors associated with low self-esteem in children with overweight.Obes Facts. 2012;5(5):722-33. doi: 10.1159/000338333. Epub 2012 Oct 23. Obes Facts. 2012. PMID: 23108439
+- 
+ 
+ Suicidal Ideation.2021 Aug 6. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. 2021 Aug 6. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. PMID: 33351435 Free Books & Documents.
+- 
+ 
+ The relation between self-esteem, sexual activity, and pregnancy.Adolescence. 1994 Spring;29(113):27-35. Adolescence. 1994. PMID: 8036980
+- 
+ 
+ Self-esteem of adolescents who were born prematurely.Pediatrics. 2002 Mar;109(3):429-33. doi: 10.1542/peds.109.3.429. Pediatrics. 2002. PMID: 11875137
+- 
+ 
+ Perception of overweight and self-esteem during adolescence.Int J Eat Disord. 2010 Jul;43(5):447-54. doi: 10.1002/eat.20710. Int J Eat Disord. 2010. PMID: 19536882 Free PMC article.
+Cited by 33 articles
+- 
+ 
+ Canadian 24-h Movement Guidelines, Life Stress, and Self-Esteem Among Adolescents.Front Public Health. 2022 Feb 25;10:702162. doi: 10.3389/fpubh.2022.702162. eCollection 2022. Front Public Health. 2022. PMID: 35284397 Free PMC article.
+- 
+ 
+ Examination of Self-Esteem, Body Image, Eating Attitudes and Cardiorespiratory Performance in Adolescents.Int J Environ Res Public Health. 2021 Dec 14;18(24):13172. doi: 10.3390/ijerph182413172. Int J Environ Res Public Health. 2021. PMID: 34948781 Free PMC article.
+- 
+ 
+ Flow as a Key Predictor of Subjective Well-Being Among Chinese University Students: A Chain Mediating Model.Front Psychol. 2021 Nov 16;12:743906. doi: 10.3389/fpsyg.2021.743906. eCollection 2021. Front Psychol. 2021. PMID: 34867624 Free PMC article.
+- 
+ 
+ Influence of Confinement Due to COVID-19 on Physical Activity and Mediterranean Diet Adherence and Its Relationship with Self-Esteem in Pre-Adolescent Students.Children (Basel). 2021 Sep 25;8(10):848. doi: 10.3390/children8100848. Children (Basel). 2021. PMID: 34682113 Free PMC article.
+- 
+ 
+ Recommendations for Assessment of Social, Emotional, and Behavioral Health for the National Children's Study.Front Pediatr. 2021 May 4;9:624524. doi: 10.3389/fped.2021.624524. eCollection 2021. Front Pediatr. 2021. PMID: 34017804 Free PMC article.
+Publication types
+MeSH terms
+Grant support
+LinkOut - more resources
+- Full Text Sources
+- Medical

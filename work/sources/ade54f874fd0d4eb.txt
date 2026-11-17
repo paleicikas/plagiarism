@@ -1,0 +1,392 @@
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+Published by Sciedu Press 
+1
+ORIGINAL RESEARCH 
+Nursing students' attitudes towards alcohol, 
+alcoholism and alcoholics: A study of 
+a brazilian sample 
+Divane de Vargas 
+School of Nursing, São Paulo University, São Paulo, Brazil. 
+Correspondence: Divane de Vargas. Address: São Paulo University School of Nursing, Brazil. Email: vargas@usp.br 
+Received: July 11, 2011 
+Accepted: October 16, 2011 
+Published: February 1, 2012 
+DOI: 10.5430/jnep.v2n1p1 
+URL: http://dx.doi.org/10.5430/jnep.v2n1p1 
+Abstract 
+Objective: Various international studies have reported on negative attitudes of nurses and nursing students towards 
+substance misusers and have found that this issue receives little attention in professional nursing education. This research 
+examined attitudes towards alcohol, alcoholism and alcoholics in a Brazilian nursing student sample and analyzed 
+associations between these attitudes and participants' socio-demographic characteristics. 
+Methods: Study participants were 144 last-year undergraduate students from two private colleges. A scale of attitudes 
+towards alcohol, alcoholism and alcoholics was used for data collection. 
+Results: The results showed that most participants had positive attitudes towards alcohol, alcoholism and alcohol addicts. 
+In addition, gender, age and the number of hours participants spent in lectures on alcohol and other drugs during their 
+education were associated with positive attitudes towards their work and interpersonal relationships with alcoholics. This 
+association was stronger in females (OR = 3.42), younger participants (OR = 2.18) and students who received more lecture 
+hours on alcohol and other drugs during their education (OR = 3.53). 
+Conclusion: In conclusion, the authors suggest that education and preparation in coping with alcohol problems increase 
+nurses' abilities at work and support more positive attitudes towards alcoholic clients. In addition, this study demonstrated 
+that a significant part of students had negative attitudes towards alcohol, alcoholism and alcohol addicts, despite the fact 
+that positive attitudes prevailed in their schools. These results reflect the lack of importance granted to drug issues in 
+undergraduate nursing curricula in Brazil. 
+1 Introduction 
+According to a global health report (2007), alcohol was responsible for 4% of the morbidity burden and 3.2% (1.8 million) 
+of global deaths in 2000. Among the 26 risk factors assessed by WHO, alcohol ranked fifth in terms of risk factors for 
+premature deaths and disabilities. In the year 2000, alcohol was the most important health risk factor in the Americas, in 
+developing countries, including Brazil and Mexico, as well as in developed countries like the United States and Canada. 
+Alcohol consumption in the Americas is approximately 40% higher than the global average, which may justify the fact that 
+the continent is the only region in the world where alcohol was ranked first as a risk factor for premature deaths and 
+disabilities [1]. 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+ ISSN 1925-4040 E-ISSN 1925-4059 
+2
+In Brazil, a large survey carried out in the country's 108 biggest cities [2] identified that 12.3% of people between 12 and 65 
+years of age were alcohol-dependent, and that 74.6% had already consumed alcohol in their life. As for the use of other 
+drugs, the same study appointed that 44% of the population had used tobacco, 8.8% cannabis, 6.1% solvents, 4.1% 
+appetite inhibitors, 2.9% cocaine and 0.7% crack cocaine, verifying a rapid increase in the use and misuse of legal and 
+illegal psychoactive drugs in Brazil in the last five years. This phenomenon has contributed to growing physical, psychic 
+and social problems, causing a rise in health care demands related to psychoactive substance use and misuse, mainly 
+alcohol. Hence, this has increased nurses' contact with this population, a phenomenon that has demanded nursing skills to 
+deal with this problem [3, 4]. 
+Despite this new demand on Brazilian nursing practice, various studies [3-5] have appointed that Brazilian nursing students 
+are not being adequately prepared for care delivery and for coping with drugs-related problems. These professionals 
+received a limited amount of drug and alcohol education as part of their preparation for practice [3]. This phenomenon has 
+been observed not only in Brazil. Studies in the United States [6], Australia [7] and England [8] reveal that content related to 
+substance use and misuse education in nursing curricula is inadequate. The lack of preparation to work with substance 
+misusers, including alcohol addicts, can lead to negative attitudes in nurses and nursing students when confronted with 
+situations involving the use of alcohol and other substances [10], which ultimately influences care delivery in quantitative 
+and qualitative terms [4, 6, 10]. 
+Despite studies in other countries for over two decades [10, 11, 12], in Brazil, little research has been done on nursing students' 
+attitudes towards substance misuse-related issues, with a consequent lack of publications in Brazilian literature [4, 5]. This 
+fact has made specialists in the area recommend further research with a view to identifying nurses and nursing students' 
+attitudes towards substance misusers and how substance-related problems should be dealt with in Brazil. 
+2 Background 
+Nurses represent the main group of health professionals and experts have appointed their important role in the prevention, 
+early detection and treatment of alcoholism [4, 5, 10, 11]. There is evidence about the significant influence of these 
+professionals' attitudes towards substance misusers on their willingness to intervene and the quality of such inter- 
+ventions [9, 10]. Research has revealed that nursing students have demonstrated negative attitudes towards substance 
+misusers. It has also been observed that contact with these patients during education enhances students' acceptance of 
+misusers [9, 11]. Tanlyn [12] examined the association between personal alcohol consumption, family history of alcoholism 
+and the effect of a three-hour seminar on nursing students' attitudes towards alcoholics. That author found higher 
+agreement levels with the view that emotional and psychological problems contribute to the etiology of alcoholism in the 
+group that had participated in training when compared with the control group. Two months later, however, no significant 
+differences were found between students with training and students in the control group with regard to attitudes towards 
+alcoholics. Farnsworth and Bairan [11] assessed the effects of a program that comprised four to five hours of reading, in 
+combination with clinical experiences with substance misusers, on nursing students' attitudes towards alcoholics. The 
+results showed an attitude change with regard to skills and satisfaction to work with alcoholics, and that students started to 
+perceive alcoholics as solitary, sensitive people, in doubt about their own value and suffering from severe emotional 
+problems. Feigenbaum [13] submitted nursing students to seven hours of weekly training on substance misuse and clinical 
+experiments with substance abusers during the five years of their undergraduate nursing course. The attitudes of students 
+who completed the training were examined during the entire period, and it was observed that 79.5% of students changed 
+towards more positive attitudes. Rassool and Rawaf [8] assessed the impact of an educational program about alcohol and 
+drugs on knowledge acquisition and attitude changes in nursing students. The findings suggested that the program affected 
+the nursing students' attitudes toward substance misusers, as most participants showed more positive attitudes towards 
+substance misusers in the post-test and were more optimistic, considering alcohol and drugs addiction as a treatable 
+disease. A study carried out in Brazil [14] to examine nursing students' knowledge and attitudes towards substance misusers 
+evidenced students' positive attitudes towards substance misusers, as most participants rejected the stereotype that 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+Published by Sciedu Press 
+3
+substance abusers are unpleasant to work with and that alcoholism is related with a weak character. An analysis of 
+literature on nursing students' attitudes towards alcohol and drugs-related issues confirms observations about little 
+research on this issue in Brazil, as shown by the lack of publications on this subject in nursing literature. In view of the 
+above, this research aims to examine attitudes towards alcohol, alcoholism and alcoholics in a sample of Brazilian nursing 
+students, analyzing its association with participants' socio-demographic characteristics. 
+3 Method 
+This descriptive and exploratory study was conducted with a sample of 144 last-semester (fourth year) undergraduate 
+nursing students from two private schools in a city in São Paulo, Brazil. In this group, 84 students belonged to "School A" 
+and 60 students to "School B". Sample inclusion criteria were: students in the last year of the undergraduate course and 
+acceptance to participate in the research. 
+Ethical considerations 
+The ethical aspects observed in this research were the approval of the project by the Institutional Review Board at the 
+University of São Paulo Medical School Hospital das Clínicas and the subjects' signing of the free and informed consent 
+term. 
+4 Measurement instrument 
+The "Attitude Scale Towards Alcohol, Alcoholism and Alcoholics" (ASTAAA) was used for data collection. This scale 
+was developed and validated in Brazil [15] and consists of 84 items, divided into the following five factors: Factor 1: Work 
+and interpersonal relations of the alcoholic; Factor 2: Etiology (alcoholism); Factor 3: Alcoholic drinks. The internal 
+consistency of this scale was 0.90 (Cronbach's Alpha). Item-score correlations varied from 0.35 and 0.65, with an average 
+of 0.50. Data regarding psychometric analyses of this metric showed that it adequately measured professional attitudes 
+towards alcohol, alcoholism and alcoholics. According to the authors who created this scale 15, individuals who score high 
+on the ASTAAA tend to adopt positive attitudes, while those with low scores tend to adopt negative attitudes. Together 
+with the attitude scale, the Demographic Profile Questionnaire (DPQ) was administered. The DPQ consists of two 
+sections. Section 1 consists of questions related to the students' demographic characteristics (gender, age, race, and 
+religion). Section 2 covers areas related to instructions the students received with respect to alcohol and other drugs during 
+the nursing education program (school, workload devoted to the theme of alcohol and other drugs during the 
+undergraduate program). 
+4.1 Procedure 
+The subjects received the instrument in their classroom in a single booklet, containing the 84 questionnaire items in 
+random order. The questions could be answered using a three-point Likert scale, where students should express their 
+opinion about each assertion as follows: (1= Disagree; 2 = Indifferent; 3 = Agree). Maximum time to answer the 
+instrument was less than 30 minutes and all subjects agreed to participate in the research. 
+4.2 Data analyses 
+The data were analyzed as follows: First, a basic statistical analysis was performed to identify the mean, median, standard 
+deviation and relative frequency of each factor to be identified. Second, as the sample predominantly included white 
+females, the data were examined both with and without males and non-white subjects, to determine whether the inclusion 
+of these subjects influenced the pattern of findings. To check for differences in average scores for the three ASTAAA 
+factors, between the groups formed by men, women, whites and non-whites and interactions between gender and race, a 
+general linear model was used. 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+ ISSN 1925-4040 E-ISSN 1925-4059 
+4
+To investigate the possibility that the nursing students' socio-demographic characteristics influenced participants' 
+responses, binary logistic regression analysis was performed. This resource was used to estimate the Odds Ratio (OR), 
+with 95% confidence intervals in each of the three factors analyzed. The first step was to classify the 144 nursing students 
+into two groups, according to their scores on each of the three factors. Group 1 included participants with scores below the 
+median scores of each factor, whereas Group 2 included participants with scores that were higher or equal to the median 
+for each factor. Students scoring higher than the median were considered to have a positive attitude. Those scoring below 
+the median were considered to present negative attitudes. 
+Data were analyzed after the subjects were categorized into these two groups. Binary logistic regression was used to 
+identify the predictor variables that significantly influenced the participants' scores. The variables investigated in this 
+study were gender, age, school, race and the number of hours of lectures on the subject of alcohol. All statistical tests were 
+conducted using the Statistical Package for Social Science (SPSS) version 18.0 for Windows. 
+5 Results 
+5.1 Sample characteristics 
+The sample was mostly female (85%), with an average age of 27.4 years (SD=6.82), single (68%), white (89%). As to their 
+preparation to work with substance misusers, participants answered they received between two and four hours of classes 
+about the theme during their undergraduate program. 
+5.2 Nursing students ́ attitudes 
+The findings showed that the sample's median score for Factor 1 (alcoholic: work and interpersonal relations) was 101; for 
+Factor 2 (alcoholism), the median was 22, and for Factor 3 (alcoholic drink), it was 32 (see Table 1). 
+No strong difference was observed in the percentage of nursing students scoring above and below the median. However, 
+for all factors, there were many scores above the median. The percentage of nursing students who scored above the median 
+was 57% for Factor 1, 53% for Factor 2, and 54% for Factor 3. These findings suggest that positive attitudes predominated 
+in issues related to alcohol, alcoholism and alcohol addicts. In the general linear model, no statistically significant 
+differences were found between the averages of the three factors according to gender and race, nor for the interaction 
+between them. 
+Table 1. Presentation of descriptive statistics related to the scores of EAFAAA, expected and observed in the study in each 
+of the three factors 
+ 
+Minimum 
+expected 
+score 
+Minimum 
+score 
+observed 
+Maximum 
+score 
+expected 
+Maximum 
+score 
+observed 
+Average 
+expected 
+Average 
+observed 
+SD 
+F1 
+32 
+66 
+160 
+144 
+96 
+101 
+4.5 
+F2 
+20 
+13 
+100 
+33 
+60 
+22 
+3.6 
+F3 
+12 
+16 
+60 
+44 
+36 
+32 
+4.8 
+The analysis of the association between the study variables (age, race, school, gender, religion and the number of hours 
+dedicated to subjects related to alcohol and other drugs during undergraduate education) using binary logistic regression 
+showed no significant association between the student responses to the Factors 2: (Etiology - alcoholism); and 3: 
+(Alcoholic drinks). 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+Published by Sciedu Press 
+5
+A statistically significant association was found between student responses to Factor 1 (work and interpersonal relations 
+with alcoholics) and the variables gender, age, and hours dedicated to the study of alcohol and other drugs issues. The 
+predictors of this association were found in females (OR = 3.42), younger participants (OR = 2.18) and students who had 
+received more hours of instruction focusing on alcohol and other drugs (OR = 3.53) (see Table 2). 
+Table 2. Regression data Factor 1 
+6 Discussion 
+A number of studies [8, 16] have indicated that training on drugs and alcohol in Brazilian undergraduate nursing education is 
+inadequate. The present study data support this observation. Most participants revealed that the class and training time 
+required to work in this area did not exceed three hours during the undergraduate program, less than the average time 
+devoted to drug and alcohol education in earlier studies, which ranged from four to six hours [5, 8, 16]. As earlier research 
+involved samples of public college students [4, 5], these results demonstrate that alcohol and other drugs have received even 
+less attention at private colleges. This fact is a source of concern when considering that most nursing schools in Brazil are 
+affiliated with private colleges. 
+The analysis of the percentages of participants who scored above the median on the three factors studied shows a slight 
+predominance of positive attitudes towards alcohol, alcoholism and alcohol addicts, indicating that participants are in 
+favor of drinking, agree that people should drink if they want to and consider drinking to be normal [15]. These attitudes, 
+however, seem to be restricted to moderate alcohol use; according to the same students, some people drink and are able to 
+control their alcohol intake, whereas others are not, indicating that this attitude does not extend to people who are not able 
+Variables 
+OR 
+CI 95% 
+P-value 
+Age 
+ 
+ 
+ 
+≤ 27 
+2.18 
+(4.59-1.55) 
+0.22 
+>27 
+1.00 
+Gender 
+ 
+ 
+ 
+Female 
+3.42 
+(2.20 - 0.27) 
+0.012 
+Male 
+1.00 
+Race 
+ 
+ 
+ 
+White 
+0.81 
+(0.55-1.74) 
+0.000 
+Non-white 
+1.00 
+School 
+ 
+ 
+ 
+School A 
+0.52 
+(0.63 - 0.77) 
+0.000 
+School B 
+1.00 
+Hours of lectures 
+ 
+ 
+ 
+ ≤ 3 hours 
+1.00 
+(0.47 - 1.06) 
+0.019 
+ > 3 hours 
+3.53 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+ ISSN 1925-4040 E-ISSN 1925-4059 
+6
+to control this behavior. Despite their positive attitudes towards moderate alcohol use, students do not consider alcohol use 
+to be risk free and are in doubt as to whether small alcohol doses can cause addiction. Despite the presence of 
+above-median scores for all factors, the percentage of students who scored below the median was significant, ranging 
+between 43% and 47%. This result is consistent with the notes of Howard and Chung [17], who concluded that, although 
+recent changes have enhanced nurses' acceptance of misusers, a significant number of nurses still consider alcoholics are 
+immoral, have a weak character and a small probability of recovery. Whereas the percentage difference between the two 
+groups (positive versus negative attitudes) was small, the methods used in this study may not have been able to detect 
+possible differences between these groups or other variables that influenced attitudes. Hence, further studies of this kind 
+are needed to clarify these issues. 
+As researchers have highlighted in recent decades [9, 11-13], the number of undergraduate lectures on drugs and alcohol 
+exerts a positive influence on students' attitudes towards alcohol addicts. The results of this study indicated that students 
+with the largest number of lectures on alcohol and other drugs showed an OR value of 3.53, indicating that these students 
+have more positive attitudes towards alcohol addicts than those who reported having participated in fewer hours of lectures 
+on alcohol and drugs during their education. 
+The general linear model analysis showed no significant influence of gender and race on the participants' mean scores in 
+the three factors. However, when analyzing the association between participants' gender and attitudes through binary 
+logistic regression, a significant association was found between gender and positive attitudes. In addition, females were 
+more likely to have a positive attitude towards alcohol (OR=3.42) than male students. A positive influence of age on 
+students' responses was also found; younger students were more likely to have positive attitudes towards alcoholics 
+(OR=2.18). Research by Hagemaster et al. [10] revealed similar results, showing that older participants were more prone to 
+negative and stereotypical views of alcoholics than younger nurses. 
+This study had many limitations, including the sample size and the fact that it was conducted in just two private nursing 
+schools in one region of Brazil, indicating that the results cannot be generalized. Future studies should consider including 
+other socio-demographic and behavioral variables. Most of the variables examined in this study were not significantly 
+associated with the students' attitudes and thus, other factors, such as participants' alcohol and drugs consumption should 
+be examined to determine whether these factors influence the study results. Despite these limitations, this study presents 
+advances in Brazilian and international nursing and significantly contributes to the Brazilian literature. The results of this 
+study are particularly useful in view of the lack of research on nursing and nursing students' attitudes towards alcohol and 
+drugs use in Brazil and Latin America. Moreover, this research examines attitudes in regions and institutions that have not 
+been studied yet. Thus, it contributes to knowledge in this area by providing data that can support future research on 
+nursing teaching and care with regard to substance misuse. 
+The first Brazilian conference for mental health nurses and addiction specialists on drugs and alcohol, which was held in 
+2000 at the University of São Paulo, hosted countless discussions and resulted in many recommendations. Although 
+integrating and including substance misuse content was considered a priority in nursing curricula at that time [18], little has 
+been achieved in Brazil in this respect. Ten years after these recommendations, schools have incorporated few of the 
+recommendations, and those that did were primarily public schools. Hence, one could say that private schools continue 
+paying little or no attention to substance misuse in nursing education. Brazilian addiction specialists need to pressure 
+authorities to incorporate expert recommendations into nurse education laws, as the recommendations are currently not 
+obligatory in course curricula and hence, remain secondary priorities at most training institutions. 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+Published by Sciedu Press 
+7
+7 Conclusion 
+Age, sex and the number of hours spent in lectures on alcohol and other drugs during education were significantly 
+associated with positive attitudes towards work and interpersonal relationships with alcoholic addicts. Although positive 
+attitudes towards alcohol, alcoholism and alcohol addicts prevailed, a significant percentage of students scored below the 
+median. This may reveal that the nursing students had some bias toward persons that used alcohol. Therefore, more 
+attention should be paid to alcohol issues in the curriculum, and the theme could be addressed through a sensitivity training 
+to work with this population. 
+These results may reveal that drug issues are not considered important in undergraduate nursing curricula in Brazil. In 
+addition, these results highlight observations that education and preparation to cope with alcohol problems increase 
+nurses' ability to work in the area and to support more positive attitudes towards this clientele. This study confirms 
+observations from earlier studies that little attention has been paid to alcohol problems in Brazilian nursing education. This 
+research also reveals that the situation is even more concerning in private schools, as the number of hours these schools 
+dedicate to the issue is lower than that observed in public school samples. The issue of drug and alcohol problems needs to 
+be considered in private schools because these study results indicate that workloads assigned to alcohol problems 
+positively affect students' attitudes towards patients using these substances. 
+Declaration of interest 
+The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper. 
+References 
+[1] World Health Organization. Global Status report on alcohol and health. Geneva, Switzerland: WHO. 2011. 
+[2] Carlini EA, Galduróz JCF, Noto AR, Nappo SA. II Levantamento domiciliar sobre uso de drogas psicotrópicas no Brasil - São 
+Paulo (SP): Centro Brasileiro de Informações Sobre Drogas Psicotrópicas (CEBRID) - Departamento de Psicobiologia da Univer
+sidade Federal de São Paulo. 2006. 
+[3] Pillon SC, Ramos LH, Villar-Luis MA, Rassool GH. Nursing Students' Perceptions of the Curricula Content on Drug and Alcohol Education in Brazil: An Exploratory Study. Journal of Addictions Nursing. 2004; 15(3):133-7. 
+http://dx.doi.org/10.1080/10884600490491231 
+[4] Rassool GH, Villar-Luis M, Carraro TE, Lopes G. Undergraduate nursing students' perceptions of substance use and misuse: 
+a Brazilian position. Journal of Psychiatric and Mental Health Nursing. 2006; 13(1): 85-89. PMid:16441398 
+http://dx.doi.org/10.1111/j.1365-2850.2006.00917.x 
+[5] Rassool GH, Villar-Luis M. Tackling drug and alcohol misuse in Brazil: priorities and challenges for nurse.International Nursing
+Review - International Council of Nurses. 2004; 51(4): 201-7. 
+[6] Sullivan EJ, Handley SM. Alcohol and drug abuse in nurses. Annual Review of Nursing Research. 1992; 10:113-25. 
+PMid:1389459 
+[7] Pols RG, Cape MP, Ashenden R, Bush RA. Proceedings: National Workshop Evaluation of Tertiary Education and Training on 
+Alcohol and Drug Education. Adelaide: National Centre for Education and Training on Addiction. 1993. 
+[8] Rassool GH, Rawafa S. Predictors of educational outcomes of undergraduate nursing students in alcohol and drug education. 
+Nurse Education Today. 2008; 28(6): 691-701. PMid:18166248 http://dx.doi.org/10.1016/j.nedt.2007.11.005 
+[9] Arthur D. The Effects of the Problem-based Alcohol Early-Intervention Education Package on the Knowledge and Attitudes of 
+Students of Nursing. Journal of Nursing Education. 2001; 40(2): 63-72. PMid:11214850 
+[10] Hagemaster J, Handley S, Plumlee A, Sullivan E, Stanley S. Developing educational programmes for nurses that meet today's 
+addiction challenges. Nurse Education Today 1993; 13(6): 421-5. PMid:8121344 
+[11] Farnsworth B, Bairan A. The Difference in Pre- and Postaffiliation Attitudes of Student Nurses toward Alcohol and People with 
+Alcohol-Related Problems. Journal of Addictions Nursing. 1990; 2(3): 23-27. http://dx.doi.org/10.3109/10884609009149674 
+[12] Tamlyn DL. The effect of education on student nurses' attitudes toward alcoholics. The Canadian Journal of Nursing Research. 
+1989; 21(3): 31-47. 
+[13] Feigebaum JC. Changes of senior baccalaureate nursing students' perceptions of individuals who are substance misusers. Journal 
+of Addictions Nursing. 1995; 7 (3). 
+
+www.sciedu.ca/jnep Journal of Nursing Education and Practice, February 2012, Vol. 2, No. 1 
+ ISSN 1925-4040 E-ISSN 1925-4059 
+8
+[14] Rassool GH, Villar-Luis MA, Carraro TE, Lopes G. Undergraduate nursing students' perceptions of substance use and misuse: 
+a Brazilian position. Journal of Psychiatric and Mental Health Nursing. 2006; 13(1): 85-89. PMid:16441398 
+http://dx.doi.org/10.1111/j.1365-2850.2006.00917.x 
+[15] Vargas D, Villar-Luis MA. Development and validation of a scale of attitudes towards alcohol, alcoholism and alcoholics. Rev. 
+Latino-Am. Enfermagem, 2008; 16 (5):895-902. PMid:19061028 http://dx.doi.org/10.1590/S0104-11692008000500016 
+[16] Pillon SC, Ramos LH, Villar-Luis MA, Rassool GH. Nursing Students' Perceptions of the Curricula Content on Drug and 
+Alcohol Education in Brazil: An Exploratory Study. Journal of Addictions Nursing. 2004; 15(3): 133-137. 
+http://dx.doi.org/10.1080/10884600490491231 
+[17] Howard OM, Chung SS. Nurses' attitudes toward substance misusers. I. Surveys. Substance Use & Misuse. 2000; 35(3):347-365.
+http://dx.doi.org/10.3109/10826080009147701 
+[18] Villar-Luis M, Rassool GH. Specialist Nurses in Addiction in Brazil: Academic and Clinical Development the Way Forward. 
+Journal of Addictions Nursing. 2001; 13(3&4): 233-235. http://dx.doi.org/10.3109/10884600109052660

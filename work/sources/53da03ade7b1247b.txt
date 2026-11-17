@@ -1,0 +1,34 @@
+General information
+Description
+The General Self-Efficacy Scale is a 10-item psychometric scale that is designed to assess optimistic self-beliefs to cope with a variety of difficult demands in life.
+The scale was developed in German by Matthias Jerusalem and Ralf Schwarzer in 1981 and has been used in many studies with hundred thousands of participants. In contrast to other scales that were designed to assess optimism, this one explicitly refers to personal agency, i.e., the belief that one's actions are responsible for successful outcomes.
+The scale is currently available in 32 languages.
+Questions
+Please respond to the following statements using these response categories:
+1 = Not at all true 2 = Hardly true 3 = Moderately true 4 = Exactly true
+Statements:
+1. I can always manage to solve difficult problems if I try hard enough.
+2. If someone opposes me, I can find the means and ways to get what I want.
+3. It is easy for me to stick to my aims and accomplish my goals.
+4. I am confident that I could deal efficiently with unexpected events.
+5. Thanks to my resourcefulness, I know how to handle unforeseen situations.
+6. I can solve most problems if I invest the necessary effort.
+7. I can remain calm when facing difficulties because I can rely on my coping abilities.
+8. When I am confronted with a problem, I can usually find several solutions.
+9 .If I am in trouble, I can usually think of a solution.
+10. I can usually handle whatever comes my way.
+Source
+Schwarzer, R., & Jerusalem, M. (1995). Generalized Self-Efficacy scale. In J. Weinman, S. Wright, & M. Johnston, Measures in health psychology: A user's portfolio. Causal and control beliefs (pp. 35-37). Windsor, UK: NFER-NELSON.
+Validation details
+Criterion-related validity is documented in numerous correlation studies where positive coefficients were found with favorable emotions, dispositional optimism, and work satisfaction. Negative coefficients were found with depression, anxiety, stress, burnout, and health complaints. In studies with cardiac patients, their recovery over a half-year time period could be predicted by pre-surgery self-efficacy.
+More at: http://userpage.fu-berlin.de/~health/self/selfeff_public.htm
+In samples from 23 nations, Cronbach's alphas ranged from .76 to .90, with the majority in the high .80s. The scale is unidimensional.
+Implementation
+Cost / Terms of Use
+Free (No permission required)
+Instructions and Scoring
+Available from source
+Benchmarking
+We don't currently have benchmarking information for this measure.
+If you have access to useful benchmarking data please get in touch.
+Sign up above for future updates.

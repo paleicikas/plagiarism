@@ -1,0 +1,21 @@
+TY - JOUR
+T1 - Drinking motives, alcohol expectancies, self-efficacy, and drinking patterns
+AU - Engels, R.
+AU - Wiers, R.W.H.J.
+AU - Lemmers, L.
+AU - Overbeek, G.
+PY - 2005/1/1
+Y1 - 2005/1/1
+N2 - The current study focused on the associations between drinking motives, alcohol expectancies, self-efficacy, and drinking behavior in a representative sample of 553 Dutch adolescents and adults. Data were gathered by means of self-report questionnaires and a 14-days drinking diary. A model was postulated in which negative expectancies and self-efficacy were directly associated with drinking, and in which drinking motives mediated the associations between positive expectancies, and drinking. The findings of multivariate analyses showed that drinking motives were related to general indicators of drinking and to drinking levels in specific situations. Furthermore, self-efficacy was moderately related to all drinking variables. Negative expectancies were related to general drinking variables but hardly to drinking in specific situations. Positive expectancies were hardly related to drinking in multivariate analyses and therefore mediation models could not be tested. No systematic moderator effects were apparent for age and gender on the associations between drinking motives, alcohol expectancies, self-efficacy, and drinking.
+AB - The current study focused on the associations between drinking motives, alcohol expectancies, self-efficacy, and drinking behavior in a representative sample of 553 Dutch adolescents and adults. Data were gathered by means of self-report questionnaires and a 14-days drinking diary. A model was postulated in which negative expectancies and self-efficacy were directly associated with drinking, and in which drinking motives mediated the associations between positive expectancies, and drinking. The findings of multivariate analyses showed that drinking motives were related to general indicators of drinking and to drinking levels in specific situations. Furthermore, self-efficacy was moderately related to all drinking variables. Negative expectancies were related to general drinking variables but hardly to drinking in specific situations. Positive expectancies were hardly related to drinking in multivariate analyses and therefore mediation models could not be tested. No systematic moderator effects were apparent for age and gender on the associations between drinking motives, alcohol expectancies, self-efficacy, and drinking.
+U2 - 10.2190/6Q6B-3LMA-VMVA-L312
+DO - 10.2190/6Q6B-3LMA-VMVA-L312
+M3 - Article
+SN - 0047-2379
+VL - 35
+SP - 147
+EP - 166
+JO - Journal of Drug Education
+JF - Journal of Drug Education
+IS - 2
+ER -

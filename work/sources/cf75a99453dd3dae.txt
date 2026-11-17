@@ -1,0 +1,1037 @@
+Quest Journals 
+Journal of Research in Business and Management 
+Volume 4 ~ Issue 2(2016) pp: 08-19 
+ISSN(Online) : 2347-3002 
+www.questjournals.org 
+ 
+ 
+*Corresponding Author: Mrs. Daly Paulose1 8 | Page 
+1 Research Scholar, Bharathiar University, Coimbatore, India 
+Research Paper 
+A Study on Social Antecedents of Conspicuous Consumption 
+among Emigrants from Kerala 
+ 
+Mrs. Daly Paulose1, Dr. Hareesh N. Ramanathan2 
+1 Research Scholar, Bharathiar University, Coimbatore, India 
+2Professor and Head, Department of Management Studies, Toc H Institute of Science and Technology, 
+Kochi, India 
+ 
+Received 01March, 2016; Accepted 22March, 2016 © The author(s) 2015. Published with open 
+access atwww.questjournals.org 
+ 
+ABSTRACT:-Conspicuous consumption involves the overt display of possessions that denote wealth and 
+status, to communicate a distinctive self-image to others. Here, product satisfaction is often derived from 
+audience reaction as opposed to utility from product use. Susceptibility to interpersonal influence is the degree 
+of an individual's sensitivity to opinions of significant others. This paper examines the extent of influence of 
+social factors like susceptibility to interpersonal influence and status consumption tendency on conspicuous 
+consumption levels of a quota sample of 640 expatriate Keralites. The study differentiates between status 
+consumption and conspicuous consumption and also validates that status consumption significantly mediates 
+the relationship between susceptibility to interpersonal influence and conspicuous consumption. The study 
+provides interesting insights for marketers in developing consumer-centric approach towards productdevelopment, pricing and promotions and also assists in segmentation of status seekers.Knowing susceptibility 
+to interpersonal influence is a strong predictor of conspicuous consumption could aid marketers in choosing 
+spokespersons and reference groups in advertising and promotional campaigns directed at status-conscious 
+consumers. It proposes means to develop and manage meaningful engagement with customers by exhorting 
+marketers to assume greater social responsibility and focus on societal repercussions stemming from promoting 
+a lifestyle centered on conspicuous displays of wealth. 
+ 
+Keywords:-Conspicuous consumption, Emigrant, Interpersonal influence, Kerala,Status consumption 
+ 
+I. 
+INTRODUCTION 
+ 
+Household remittances stand for a part of total foreign remittances (cash and commodities included) 
+that are sent to emigrant households for subsistence. These are private transfers by individuals to their families 
+in the source country. These remittances are used for household consumption for activities like construction of 
+houses, purchase of land, vehicles, for ceremonial functions etc. 
+ 
+ 
+The top 5 remittance recipient countries in the world in terms of value of remittances continue to be 
+India, China, Philippines, Mexico and Nigeria in that order with India receiving US$70.3 billion in 2014. Of 
+this, Kerala accounts for 33% of all India remittances (World Bank, 2014). Total remittances to Kerala for the 
+period 2013-14 stand at a staggering Rs.72680 crores, of which household remittances alone total up to 
+Rs.24374 crores. This indicates a 46% jump from the corresponding figures of 2011(Kerala Migration Survey 
+[KMS], 2014). The average amount of foreign remittance received annually per household in Kerala was 
+Rs.86843 as per KMS, 2014. This is a 43% surge from the corresponding figure in 2011. Around 50 lakh 
+individuals in Kerala are dependent on remittance income from emigrants for their livelihood (Pravasi Malayali 
+Census, 2013). With 24 lakh Keralites working overseas, Kerala tops the country in a key indicator of living 
+standards called MPCE (monthly per capita expenditure). Indeed, in the NSSO household consumer expenditure 
+survey of 2011-12, Kerala not only tops the country by MPCE in rural areas but also exhibits the least ruralurban differential among all states. 
+ 
+ 
+In Kerala, migration must have contributed more to poverty alleviation than any other factor including 
+agrarian reforms, trade union activities and social welfare legislation.Remittances are 36.3 percent of the state's 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 9 | Page 
+net domestic product, 1.2 times the revenue receipt of the Kerala Government and 1.5 times the Government's 
+annual expenditure (KMS, 2014). 
+ 
+ 
+Today, consumption has become the yardstick to gauge socio-economic status in Kerala (Zachariah and 
+Rajan, 2015).The housing and shopping practices that Kerala society follows are indicative of the consumerist 
+culture prevailing in the state (Nair, 1986; Sooryamoorthy, 1977; Zachariah et al., 2003). Apart from being a 
+significant source of development income to the state, remittances have a very positive impact on the quality of 
+life and purchasing power of emigrant households in Kerala, as is evident from the findings of KMS, 2014 
+depicted in TABLE 1 in Appendix. Migrant households score much higher than their non-migrant counterparts 
+on parameters indicative of living standards. Thus there is a strong positive relation between remittances and 
+consumerism in Kerala. It is against this backdrop that a study on the emigrant community of Kerala assumes 
+much relevance 
+ 
+II. 
+RESEARCH QUESTION AND RESEARCH OBJECTIVES 
+ 
+Little research has taken into account the predictive capacity of social constructs on conspicuous 
+consumption, not just in the Indian context but also globally and this paper attempts to fill this void. Consumer 
+behavior is shaped not only by an individual's personality, but also by the social norms and beliefs. Previous 
+research by O'Çass and McEwen (2004) vouch that social factors such as susceptibility to interpersonal 
+influence and status seeking behaviour need to be factored in when studying conspicuous consumption. 
+ 
+The research question that this study seeks an answer to is ̳How do social constructs like Interpersonal 
+influence and status consumption tendency interplay in predicting conspicuous consumption among emigrant 
+community from Kerala?' 
+ 
+In line with this purpose, broadly three research objectives are examined: 
+ 
+1. To study the influence of susceptibility to interpersonal influence on conspicuous consumption tendency 
+among emigrants from Kerala 
+2. To examine the extent of influence of status consumption tendency on conspicuous consumption among 
+emigrants from Kerala. 
+3. To study the mediating effects of status consumption tendency between susceptibility to interpersonal 
+influence and conspicuous consumption 
+ 
+III. 
+CONCEPTUAL FRAMEWORK 
+ 
+This paper looks to examine constructs like status consumption tendency and susceptibility to 
+interpersonal influence and their relatedness to conspicuous consumption in the context of emigrants from 
+Kerala. The study addresses the relationship between these constructs for emigrant Keralites. The findings are 
+based on data obtained from 640 emigrants from Kerala who live abroad but continue to financially support 
+their dependents in Kerala. Results are discussed as are limitations and future directions. The following sections 
+discuss the relevant body of literature in each domain. 
+ 
+3.1. Conspicuous Consumption 
+ 
+The examination of conspicuous consumption in the modern world gained momentum during the 
+Industrial Revolution, facilitated by Veblen's Theory of the Leisure Class. Veblen (1899) introduced this 
+concept to describe the lifestyle of members of the upper class who purchase goods and services not out of 
+necessity but as indicators of wealth and status.He proposed that individuals crave status, and that status is 
+enhanced by material displays of wealth. According to Veblen, "In order to gain and to hold the esteem of men, 
+wealth must be put in evidence, for esteem is awarded only on evidence". 
+ 
+ 
+The key objective of conspicuous consumption is to impress others by the ostentatious display of 
+wealth and to demonstrate the superior status of the individual to others (Riquelmeet al.,2011). It is the extent 
+of one's behavioral tendency of displaying one's social status, wealth, taste or self-image to one's important 
+reference groups through consumption of publicly visible products (Chen,2002).Consumers in a consumptionbased society may be led to believe that possession of certain conspicuous goods is required for upward social 
+mobility Here the primary need satisfied is prestige (Belk,1988), and product satisfaction is often derived from 
+audience reaction as opposed to actual product use (Wong,1997). Researchers such as Chaudhuri et al. (2011) 
+have acknowledged the correlation between the status-seeking behaviour of consumers and their conspicuous 
+consumption intentions. Ger and Belk (1996) found that because of a demonstration effect, less economically 
+developed nations tend to imitate the more extravagant and symbolic consumption of economically developed 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 10 | Page 
+ones. Batraet al.(2000)reported that because consumers in developing countries are relatively less affluent, they 
+naturally feel a sense of insecurity and inferiority. To overcome this, they emulate the Western materialistic 
+philosophy by purchasing Western brands they are exposed to through media, their own kin gone overseas, and 
+their travel abroad. His study posits that there is an established link between exposure to global standards and 
+conspicuous consumption tendencies. 
+ 
+3.2. Susceptibility to Interpersonal Influence 
+ 
+Bearden et al. (1989) define susceptibility to interpersonal influence as: ̳the sensitivity to others' 
+opinions'. The construct is defined as the need to identify with or enhance one's image in the opinion of 
+significant others through the acquisition and use of products and brands, the willingness to conform to the 
+expectations of others regarding purchase decisions, and/or the tendency to learn about products and services by 
+observing others or seeking information from others. The concept of susceptibility to interpersonal influence 
+illustrates the force exerted on individual's choices by proximal relationships. Researchers believe that 
+collectivistic cultures such as those in Asian countries emphasize conformity to group norms and social 
+acceptance (Zhou and Hui, 2003). It is an integral part of societies with high levels of collectivism, where the 
+values of interdependence and conformity make consumers more concerned about the opinions of key reference 
+groups (Mouraliet al., 2005). Moutinho (1987) defines reference group as persons or groups that serves as a 
+point of reference and is influential in shaping individual's attitudes, choices and beliefs. Some examples of 
+reference groups include family, peers, work colleagues, friends, religious and ethnic groups, formal social and 
+leisure groups, teachers, and sports and entertainment figures (Childers and Rao, 1992). 
+ 
+ 
+Susceptibility to interpersonal influence comprises two dimensions: susceptibility to informational 
+influence and susceptibility to normative influence. The former refers to the tendency to perceive information 
+obtained from others as indicative of reality (take cues about expected norms from others) while the latter refers 
+to the tendency to conform to the expectations of group members (Clark and Goldsmith, 2006) either to obtain 
+rewards or avoid punishment or to enhance social standing. It deals with the social pressure to own new 
+products that others already possess. The major determinants of informational influence include message 
+content, source credibility and trustworthiness whereas characteristics of reference groups such as appearance 
+and social status are the major determinants of normative influence (Grimm et al., 1999). 
+ 
+3.3. Status Consumption Tendency 
+ 
+Status is a position or rank in society awarded to an individual by others. Literature defines different 
+types of status: 1. Status by definition or assignment (eg. Royalty) 2. Status by achievement( an individual has 
+status if he excels in his line of work) 3. Status by consumption (Brown, 1991). The focus of this article is on the 
+final type of social status- status acquired through consumption of possessions.O'Cass and McEwen (2004) 
+assert that Status consumption is "the behavioral tendency to value status and acquire products that provide 
+status to the individual‖ Packard (1959) defines ̳status seekers' as individuals who are constantly straining to 
+surround themselves with visible evidence of the superior rank they seek. Their key motivation is the desire to 
+seek a higher status through the possession of certain goods ( Belk, 1988). Such consumers attempt to signal 
+their comparative degree of social power by spending (Eastman, et al., 1999). This social power invites respect, 
+consideration and envy from others. According to Eastman et al.(1999), the more an individual seeks status, the 
+more he or she will engage in behaviorsto increase status. 
+ 
+ 
+The majority of Asian cultures are characterized by hierarchical structures with emphasis on social 
+rank. A rigid hierarchical social structure leads naturally to a heightened sensitivity toward status (Schutte and 
+Ciarlante, 1998). India and China are classic examples. The exorbitant costs behind conducting weddings in 
+India, irrespective of social or income class, can be traced back to the need for status and prestige. In Karnataka 
+State, dowries have been increasing substantially for several decades. Now dowries in this community average 
+six times the annual income of a family, an amount that is consistent with findings from many other South 
+Indian states (Bloch et al., 2004). 
+ 
+3.4.Status Consumption and Conspicuous Consumption 
+ 
+O'Cass and Frost (2002) noted that researchers have often used status consumption and conspicuous 
+consumption interchangeably until in a later study they found that both constructs are different. Till then, the 
+literature appeared to lack clarity and possessed significant overlap in the definitions ofstatus consumption and 
+conspicuous consumption.Chaudhari and Majumdar (2006) opined that limiting conspicuous consumption to 
+luxury or status consumption may be incorrect. O'Cass and McEwen (2004) describe status consumption as the 
+personal nature of owning status products for internal reasons (self-reward, with no public display of the 
+products) and conspicuous consumption for external reasons (to signal wealth through public display).The 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 11 | Page 
+difference lies in the way that status consumers and conspicuous consumers make use of products. In other 
+words, conspicuous consumption has more to do with signaling to others while status consumption tendencies 
+emphasize on ownership of such products which may or may not be publicly demonstrated (O'Cass and 
+McEwen, 2004). Consuming conspicuously means that individuals recognize others as an audience and derive 
+their satisfaction from audience reaction as compared to the dimension of status consumption that focuses on the 
+self-satisfaction of owning status-laden possessions, which may or may not be publicly visible (O'Cass and 
+McEwen 2004). For example: purchasing expensive liquor brands to consume in private could be an example of 
+status consumption. On the other hand, throwing a lavish party with foreign liquor labels on display would 
+qualify as conspicuous consumption. Several researchers have defined status consumption as the driving force 
+behind conspicuous consumption (Piacentini and Mailer, 2004). This is so because conspicuous consumption 
+involves the public consumptionof luxury products that signal wealth, status and power (Eastman et al., 1999; 
+O'Cass and Frost, 2002; Vigneron and Johnson, 1999).According to O'Cass and McEwen (2004), status seeking 
+behaviour influencesthe desire to consume conspicuously,therefore the more status a brandcarries, the more 
+likely it will be used ina conspicuous manner. 
+ 
+3.5. Susceptibility to Interpersonal Influence and Status Consumption 
+ 
+Both personality traits and social factors are instrumental in triggering status consumption tendencies. 
+A study by Thomas and Wilson (2012) identified two factors- ̳peer group pressure' and ̳social 
+comparisons'-as the two major factors influencing the purchase and ownership of premium products by 
+professional college students in Kerala. This means that individuals often try to gain social recognition or 
+distinctiveness by spending their income on products capable of displaying status to their peers. O'Cass and 
+McEwen(2004) assert that status consumption is "the behavioral tendency to acquire products that accrue status 
+to the individual‖ whereas they defineconspicuous consumption as ―the tendency for individuals to enhance 
+their image, throughovert consumption of possessions, which communicates status to others‖. Thesevery similar 
+definitions indicate that reference groups or significant others are importantinfluences in both status 
+consumption and conspicuous consumption(Duesenberry, 1952; Frank, 2005; and Royo, 2007). 
+ 
+Hypothesis construction 
+4.1. Susceptibility to Interpersonal Influence and Status Consumption 
+ 
+Marcoux et al. (1997) indicated that reference group influence appears to beparticularly important to 
+the relationship between status consumption and conspicuousconsumption, as both appear to be impacted by 
+individual's proneness to interpersonal influence. This is so because consumers display conspicuousnessinorder 
+to gainrecognition, approval, or acceptance from their reference groups. Conceptually this meansthat certain 
+status products and brands are used for image portrayal to provide entry into certain groups.This logic hasbeen 
+substantiated in the literature(O'Cass and Frost, 2002; Kim and Drolet, 2007).A relatively recent empirical study 
+has corroborated the influence of interpersonal influence onstatus and conspicuous consumption (Lai and Chu, 
+2007). Susceptibility to interpersonal influence (both informational and normative) was posited to have 
+apositive influence on the consumption of status products. Since conspicuous consumption serves to signal the 
+sense of belonging to a particular group of reference, those more prone to consume status products are also more 
+susceptible to the opinions of others and gather information about the appropriate products that carry status. 
+ 
+ 
+People from Kerala are motivated to present themselves positively in social interactions, as they are 
+sensitive to others' evaluations. As a result, people from this community have a tendency to spend 
+disproportionate amount of money on high quality, status items (Abdulla ,2014). Desire for conformity is higher 
+among collectivist societies that wish to consume for status (Lee and Zhang, 2015). In India, mobility within a 
+society is often achieved by imitating the behaviors of families of higher social orders. Families devote a great 
+deal of effort and expense to the presentation of external attributes. Household decisions are often made with an 
+emphasis on how one's family will be viewed by others. (Marguerite,1996). 
+ 
+ 
+On the contrary, Grotts and Johnson(2013)initially hypothesized that status consumption prompted a 
+person toconform to norms of a social group they would like to be a part of. But the hypothesized relationship of 
+social conformity being a positive predictor of status consumption did not prove to be significant. This may 
+imply that the real motivation for status consumption is not imitation but rather differentiation (snob value). 
+ 
+Hence the following hypothesis is postulated: 
+ 
+H1a: Susceptibility to Normative reference group influence will be positively related to emigrants Status 
+consumption tendencies. 
+ 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 12 | Page 
+H1b: Susceptibility to Informational reference group influence will be positively related to emigrants Status 
+consumption tendencies. 
+ 
+4.2. Status Consumption and Conspicuous Consumption 
+ 
+Marcouxet.al (1997) states that interpersonal influence and social status demonstration are the two 
+main variables measured in all the conspicuous consumption scales. This implies thatstatus consumption leads 
+to conspicuousness in consumption. Status consumption tendencies will lead individuals to be more conscious 
+of displaying their consumption of status and possessions (Eastman et al,1999). Solomon et al. (2002) suggests 
+thatconspicuous consumption is a consequence of consumers' desireto signal wealth. In their study, the 
+symbolic factors representing conspicuous consumption were Symbols of success; symbols of prestige; 
+indicatorof wealth; indicator of achievement; interested in status; and enhances image. Research by Braun and 
+Wicklund (1989) found that conspicuous consumers are more likely to associate buying with social status. This 
+is consistent with findings of Roberts et.al,(2005) who found a positive relation between social status associated 
+with buying and conspicuous consumption both in USA and Mexico. Chao and Schor (1998) opined that the 
+utility of status products is partly to publicly advertise an individual's social standing, and consumers 
+wouldprefer highly visible status products over those that are privately consumed. Forexample, a study of 
+women's cosmetics revealed that consumers were more willing topay a status premium for highly visible 
+products (e.g. lipstick) as compared to less visibleproducts (e.g. facial cleansers).. In a study by Chen et al 
+(2008),four key dimensions underlying conspicuous consumption have been found, which are ̳conspicuity for 
+aspirant group', ̳conspicuity for uniqueness', ̳conspicuity for conformity', and ̳conspicuity for status'. The last 
+dimension proves that status consumption is a key antecedent to conspicuous consumption. Yet another study by 
+Acikalinet al, (2009) demonstrates that prestige significantly explained conspicuous consumption. 
+ 
+Based on the existing literature, thefollowing hypothesis is proposed: 
+ 
+H2: Status consumption tendency will be positively related to emigrants' Conspicuous consumption. 
+ 
+V. 
+METHODOLOGY 
+5.1. Measurement Instrument 
+ 
+This study utilized survey data which was collected using a pre-tested questionnaire with existing 
+scales found in the literature. The objective of the research was to understand the influence of interpersonal 
+influenceand status consumption on the tendency to conspicuously consume. Three scales adapted from 
+different studies were used in the survey instrument. All responses were taken on a 5-point Likert scale, with 5 
+indicating strongly agree and 1 indicating strongly disagree. 
+ 
+ 
+The scale used to measure Status consumption tendency called the Status Consumption Scale (SCS) 
+has 5 items and was developed by Eastman et.al (1999).This status consumption scale contains items that 
+represent the degree to which the consumer is predisposed to consume for status. A 13 item two-factor 
+SUSCEP scale developed by Bearden et.al (1989) was used to measure Susceptibility to Interpersonal Influence. 
+It included items to measure susceptibility to normative influence and informational influence. People who score 
+higher on this scale are also more oriented toward self-expression through visible consumption (Bearden 
+et.al,1990). The scale used to measure conspicuous consumption was adopted from Chung and Fischer (2001). 
+The Chung and Fischer scale was recently utilized with high reliability among U.S consumers in a study by 
+Podoshen, Li, and Zhang (2011). 
+ 
+5.2. Sample and Data Collection 
+ 
+The objective of the study is to examine social factors influencing conspicuous consumption among 
+emigrants from Kerala. Certain assumptions have been made in choosing the sample in order to facilitate this 
+objective. According to a study on Indian Americans by Gupta (2009), factors such as household income of 
+expatriate, family size, number of dependents in India, family ties in India, plans to relocate to India and 
+transaction costs of remittances are found to affect remittance behavior. Remittances are seen to be heavily 
+dependent on the number of dependents for the emigrant in the home country (Markova and Reilly, 2006). So it 
+can be said that emigrants with dependents in the home country indirectly facilitate conspicuous consumption by 
+way of foreign remittance. In this study, it has been assumed that emigrants who have dependent families in 
+Kerala are more likely to visit the state regularly compared to emigrants with fewer family ties in the state. 
+Additionally, only emigrants who visit Kerala regularly are likely to make discretionary purchases here and 
+thereby directly facilitate conspicuous consumption. This logic is used to justify the choice of emigrants who 
+financially support their families in Kerala as the sample. 
+ 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 13 | Page 
+ 
+In lieu of this logic, the ̳emigrant' is defined as an individual from Kerala who has been residing 
+abroad for a minimum period of one year and continues to financially support his/her family members in Kerala. 
+The respondent in the survey is an earning member/provider for the emigrant household who has been residing 
+abroad for at least a year (at the time of the study) and remains the key influencer in the family's household 
+purchase decisions in Kerala. The operative definition of ̳'emigrant household'' in this study is a household that 
+is partially or entirely dependent on foreign remittance income received from the emigrant family member 
+residing outside India, for its sustenance. 
+ 
+ 
+A self-administered questionnaire was used to collect data from 640 emigrant Keralites. Due to 
+constraints in accessing the sample, Quota sampling was adopted for sample selection. Quota sampling is a nonprobability sampling technique wherein the sample has the same proportions of individuals as the entire 
+population with respect to known characteristics, traits or focused phenomenon.The number of emigrants from 
+each district of Kerala was chosen as the stratification criteria [See TABLE 2(a) in Appendix] For ease of data 
+collection and analysis, the 14 districts of the state were divided into three regions - North Kerala, Central 
+Kerala and South Kerala. The quota for each region was calculated and responses were collected till this quota 
+for each region was met. The proportionate quota for each region is shown in the table 2(b).Although quota 
+sampling may introduce some bias to the study and limit the external validity, due to the personal nature of the 
+questions in this survey and the screening criteria for respondents, a random sample would be unlikely to 
+generate a sufficient number of willing respondents from across Kerala to enable a valid conclusion to be drawn. 
+The sample size criterion was estimated as 234 and hence comfortably satisfied at 640. (Tabachnik and Fidell, 
+2007). 
+ 
+VI. 
+ RESULTS 
+6.1. Test of Reliability 
+ 
+The reliability of the scale items was determined by means of Cronbach's Alpha coefficient. (See Table 
+3 in Appendix). Scale reliability was found to be within acceptable levels for all scales with status consumption 
+reliability at 0.982, SUSCEP scale at 0.966 and conspicuous consumption at 0.935 suggesting that all the 
+dimensions are internally consistent (Hair et al. 2009). 
+ 
+6.2. Detailing of Respondent demographic variables. 
+Respondents between age groups of 22 and 60 who are employed were chosen for the study. The mean 
+age of all respondents was 35.85 with a standard deviation of 6.487 and skewness 0.647. In terms of gender 
+breakdown, 59.5% were men and 40.5% were women. All demographic variables have been represented in 
+TABLE 4 in Appendix. 
+ 
+6.3. Interrelationship between Conspicuous consumption,Status consumption and Susceptibility to Interpersonal 
+Influence 
+ 
+Susceptibility to interpersonal influence (as measured by informational and normative influence) has a 
+significant influence on consumers' status consumption tendency. The Pearson correlation between the predictor 
+variables and Conspicuous consumption is found to be statistically significant at 5% significance level. Each of 
+these variables are highly correlated with conspicuous consumption with Pearsons correlation r value of 0.915, 
+0.822 and 0.866(see TABLE 5in Appendix). Path analysis was performed using AMOS 18 to examine the 
+collective influence on conspicuous consumption (see Fig. 1 below). The path in the model between status 
+consumption tendency and the two sub-dimensions of SUSCEP scale (namely informational and normative 
+influence) leading to conspicuous consumption are all positive. Status consumption is seen to be significantly 
+influenced by both Normative Influence and informational influence. Hence H1a and H1b stands accepted. 
+Status Consumption was the most relevant dimension associated with conspicuous consumption among the 
+emigrant community with Standardised Regression Coefficient of 0.886(See TABLE 6in Appendix. As for the 
+sub-dimensions of the SUSCEP scale measuring interpersonal influence, both Normative influence and 
+Informational influence are seen to significantly influence status consumption tendencies among emigrants with 
+Standardised regression weights of 0.670 and 0.238 respectively. All relationships in the model are significant at 
+the 5% level. 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 14 | Page 
+ 
+Fig. 1: Path Analysis showing dependency relationships for conspicuous consumption 
+ 
+Summary of the Hypotheses statements is presented in TABLE6 below: 
+ 
+Table 6: Summary of Hypotheses Statements 
+ 
+Hypothesis Statement 
+Decision 
+H1a 
+Susceptibility to Normative reference group influence will be positively related to emigrants 
+Status consumption tendencies 
+ 
+Accepted 
+H1b 
+Susceptibility to Informational reference group influence will be positively related to 
+emigrants Status consumption tendencies. 
+ 
+Accepted 
+H2 
+Status consumption tendency will be positively related to emigrants' Conspicuous 
+consumption. 
+ 
+Accepted 
+ 
+VII. 
+DISCUSSION AND IMPLICATIONS 
+ 
+As the study used expatriates as respondents, its results also confirm earlier findings by Batraet al. 
+(2000) that there is an established link between exposure to global standards and conspicuous consumption 
+tendencies. The significance of this study is two-fold i.e. it is important to both marketing and management 
+experts because it provides an additional angle to conspicuous consumption, in terms of social traits and its 
+impact on ostentatious consumption. It also empirically establishes the fine line of difference between status and 
+conspicuous consumption. 
+ 
+ 
+Foray into international brands and services has redefined the aspirations of Indians. In societies where 
+money conveys prestige and position, it may lead to irresponsible spending (Abdulla, 2014). Kerala is rightly 
+known as a consumerist state. Emigration has fuelled increase in disposable income at household levels. This, 
+along with global exposure through migration, has led to conspicuous consumption culture taking shape in 
+Kerala as other avenues for investment do not exist here (Zachariah and Rajan, 2015). Keralites have begun to 
+use products to hide their insecurities and failures and are willing to incur financial risk to acquire status brands. 
+Marketers need to understand the negative social implications of encouraging consumers to pursue consumerism 
+and purchase products on credit. The economic recession of 2008 was the result of conspicuous consumption. 
+By reinforcing these behaviors in the Indian context, marketing managers might find themselves indirectly 
+harming sustainable consumption practices. 
+ 
+ 
+A counter perspective is that the high levels of conspicuousconsumption brought about by status 
+seeking behavior can increase not only businesses' profits, but can generate capital for research and 
+development. Greater research and development can in turn lead to higher productivity, technological 
+breakthroughs and higher living standards for all (Shukla, 2010). As observed by Zachariah and Rajan (2015), 
+emigration and emigrant remittances continue to sustain much of the Kerala economy. This study offers 
+significant implications for marketing professionals in the process of targeting this lucrative emigrant 
+community and positioning themselves suitably. It was found that emigrants are significantly driven by need for 
+status and thissignificantlyinfluences the likelihood of a brandbeing chosen by emigrants for consumption. 
+Therefore, marketers targeting the emigrant community are advised that thebrand be articulated as being 
+heavilystatus-laden, These attributes would include:symbolic characteristics; standards ofexcellence ; positive 
+brandimage and identity; superior quality; ̳snob' appeal; luxurious features;exclusivity; being associated with 
+thewealthy, successful or elite; or highpriced.(O'Çass and McEwen,2004). 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 15 | Page 
+ 
+ 
+The influence of susceptibility to interpersonal influence on conspicuous consumption is significantly 
+high in line with studies by Marcoux et al. (1997) highlighting the importance of reference group influence on 
+the relationship between status consumption and conspicuous consumption, as both appear to be impacted by 
+individual's proneness to interpersonal influence (Figure 1 in text). The result also supports James 
+Duesenberry's (1949) theory that an individual's utility from any given level of consumption depends not only 
+on the absolute level of spending, but also how that spending compares to that of others. This is called the 
+``relative income'' approach, and is also known in popular parlance as the process of ``keeping up with the 
+Joneses''. In Duesenberry's formulation, consumers are exposed (through ``demonstration effects'') to the 
+consumption patterns of those in their reference groups, and seek to replicate those patterns. 
+ 
+ 
+This research adds to understanding how two types of reference group influences drive consumption 
+patterns. Therefore, this study provides marketers with a framework which they can use when manipulating 
+reference group influence in their promotional appeals. Knowing susceptibility to interpersonal influence is a 
+strong predictor of conspicuous consumption could aid marketers in choosing spokespersons and reference 
+groups in advertising and promotional campaigns directed at status-conscious consumers. The promotional 
+message chosen could emphasize the product's normative function (value expressive, utilitarian, or 
+combination). A value-expressive message operates by helping consumers identify with their preferred group. 
+For example, for status-seeking emigrant consumers with a strong need to fit-in, marketers could use conformity 
+messages from a normative source, such as a popular celebrity. 
+ 
+ 
+To conclude, with unprecedented global migration from developing countries, marketers need to 
+understand that there is a huge market for status products outside the developed world and focus on countries 
+such as India that are just as interested in consuming for status. 
+ 
+VIII. 
+LIMITATIONS AND FUTURE DIRECTIONS 
+ 
+A significant limitation of this study is that these constructs have been studied in the context of Kerala 
+only. Therefore it cannot be assumed that these results carry over to consumers of other natives. As Podoshenet 
+al. (2011) have demonstrated, conspicuous consumption may be very different across nationalities and culture. 
+Quota sampling was used and it may not be representative of the expatriate population at large. Future research 
+can factor in the influence of other geographic and demographic variables like country of expats current 
+residence and family size. On the positive side, due to large sample size, the psychometric properties of the 
+scales were positive, and the evidence for the hypothesis was highly consistent with previous findings, lending 
+confidence to the results. However, the article does not dwell upon the antecedents of Susceptibility to 
+Interpersonal Influence. Further studies can be undertaken to reestablish the antecedents of susceptibility to 
+interpersonal influence by exploring two consumer specific variables namely Consumer confidence and 
+Consumer Interpersonal Orientation. It would be beneficial to complete the conspicuous consumption model by 
+testing other personality traits and social influences apart from status consumption tendency and interpersonal 
+influence alone (For example: the influence of media exposure, self-monitoring trait, collectivism, concept of 
+face in individuals etc) However, it is hoped that this study acts as a springboard for future examinations of 
+socio-psychological antecedents of conspicuous consumption. 
+ 
+REFERENCES 
+[1]. 
+World Bank, Migration and Development Brief No. 22, 2013-2014, p.4 
+[2]. 
+Economics and Statistics Department-Government of Kerala, Pravasi Malayali Census 2013, p.7 
+[3]. 
+Centre for Development Studies, Report on Kerala Migration Survey 2014, pp 10-12 
+[4]. 
+National Sample Survey Office, Key indicators of Household Consumer Expenditure in India, July 
+2011-June 2012, p.10 
+[5]. 
+Nair, Gopinathan (1986),‖ Asian Migration to the Arab World - Migration from Kerala (India)‖, 
+Centre for Development Studies, Thiruvananthapuram 
+[6]. 
+Moorthy, S.R. (1997), Consumption to Consumerism in the context of Kerala, Classical Publishers, 
+New Delhi 
+[7]. 
+Zachariah, K.C., Mathew, E.T. and IrudayaRajan S. (2003), Dynamics of migration in Kerala-
+Dimensions, differentials and consequences, Orient Longman, New Delhi. 
+[8]. 
+Zachariah, K. C., IrudayaRajan, S. (2015), ―Dynamics of emigration and Remittances in Kerala:The 
+Kerala Migration Survey 2014‖, Working Paper No. 115, Centre for Development Studies, Trivandrum 
+[9]. 
+O'Cass, A. & McEwen, H. (2004) ―Exploring consumer status and conspicuous consumption‖, Journal 
+of Consumer Behavior, 4, 25-39 
+[10]. 
+Veblen, T. (1899), The Theory of the Leisure Class. Routledge, London. 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 16 | Page 
+[11]. 
+Riquelme, H.E. (2011), ―Antecedents of ostentatious consumption in Kuwait‖, Journal of Islamic 
+Marketing, Vol. 2 No. 3, pp. 295-308 
+[12]. 
+Chen, J. (2002), Chinese identification, acculturation and conspicuous consumption in a Multicultural 
+society: a theoretical framework and empirical evidence, Ph.D. diss., University of Guelph, 2002 
+[13]. 
+Belk, R.W.(1988), "Third World Consumer Culture," Research in Marketing, Vol.4,pp. 113-127. 
+[14]. 
+Wong, N. (1997), ―Suppose You Own the World and No One Knows? Conspicuous Consumption, 
+Materialism and Self,‖ in Advances in Consumer Research, Vol. 24, pp.197-203 
+[15]. 
+Ger, G. & Belk, R. W. (1996), ―Cross-cultural differences in materialism", Journal of Economic 
+Psychology, Vol.17, pp.55-77. 
+[16]. 
+Chaudhuri, 
+H., 
+Majumdar, 
+S., 
+Ghosal, 
+A.(2011), 
+―Conspicuous 
+consumption 
+orientation:Conceptualization, scale development, and validation‖, Journal of Consumer Behavior, 
+Vol.10(4), pp. 216-224. 
+[17]. 
+Batra, R., Ramaswamy, V., Alden, D. L., Steenkamp, J. E. M. and Ramachander, S. (2000), ―Effects of 
+Brand - Local and Non-local Origin- on Consumer Attitudes in Developing Countries‖, Journal of 
+Consumer Psychology, Vol. 9 (2), pp.83-95. 
+[18]. 
+Bearden, W. O., Netemeyer, R. G., & Teel, J. E. (1989), Measurement of consumerSusceptibility to 
+interpersonal influence. Journal of Consumer Research, Vol.15, pp.473-481. 
+[19]. 
+Zhou, L. and Hui, M.K. (2003), ̳ ̳Symbolic value of foreign product in the People's Republic of 
+China'', Journal of International Marketing, Vol. 11, No. 2, pp. 36-58 
+[20]. 
+Childers, T.L. and Rao, A.R. (1992), ̳The Influence of Familial and Peer-Based ReferenceGroups on 
+Consumer Decisions', Journal of Consumer Research, 19(2), pp. 198-211. 
+[21]. 
+Mourali, M., Laroche, M. and Pons, F. (2005), ̳Individualistic Orientation and ConsumerSusceptibility 
+to Interpersonal Influence', Journal of Services Marketing, Vol.19, pp.164-173. 
+[22]. 
+Moutinho, L. (1987),'Consumer behaviour in Tourism', European Journal of Marketing, Vol.21 (10), 
+pp.5-44 
+[23]. 
+Goldsmith, R. E. and Clark, R.A.(2012), ―Materialism, status consumption, and consumer 
+independence‖, The Journal of Social Psychology, Vol.152(1), pp.43-60. 
+[24]. 
+Grimm, P.E., Agarwal, J. and Richardson, P. (1999), ̳ ̳Product conspicuousness and buying motives as 
+determinants of reference group influence'', European Advances in Consumer Research, Vol. 4, pp. 
+97-103 
+[25]. 
+Brown,D.E. (1991), Human Universals, New York: McGraw Hill 
+[26]. 
+Packard, V. (1959), The Status Seekers, New York, Simon and Schuster 
+[27]. 
+Eastman,J.K, Goldsmith,R.E. and Flynn,L.R(1999),"Status Consumption in Consumer Behavior: Scale 
+Development & Validation", Journal of Marketing Theory and Practice Vol.7(3),pp.41-51 
+[28]. 
+Schutte, H, and Carlante, D , (1998), Consumer Behaviour in Asia, New York University Press. 
+[29]. 
+Bloch, F., Rao, V., & Desai, S. (2004). Wedding celebrations as conspicuous consumption: Signalling 
+social status in rural India. The Journal of Human Resources, 39, 675-695 
+[30]. 
+O'Cass, A. and Frost, H. (2002), ―Status brands: examining the effects of non-product-related brand 
+associations onstatus and conspicuous consumption‖, Journal of Product & Brand Management, Vol. 
+11 No. 2, pp. 67-88. 
+[31]. 
+Chaudhuri, 
+H. 
+and 
+Majumdar, 
+S. 
+(2006), 
+―Of 
+diamonds 
+and 
+desires: 
+understanding 
+conspicuousconsumption from a contemporary marketing perspective‖, Academy of Marketing 
+ScienceReview, Vol. 11,pp.25-32 
+[32]. 
+Piacentini, M. and Mailer, G. (2004), ―Symbolic consumption in teenagers' clothing choices‖,Journal 
+of Consumer Behaviour, Vol. 3 No. 3, pp. 251-62 
+[33]. 
+Vigneron, F., & Johnson, L.W. (1999). A review and conceptual framework of prestige seeking 
+consumer behavior. Academy of Marketing Science Review, (1999), 1- 15. 
+[34]. 
+Duesenberry, J. (1949), Income, Saving, and the Theory of Consumer Behavior. Cambridge:Harvard 
+University Press 
+[35]. 
+Frank R H (June 9, 2005), ―The Mysterious Disappearance of James Duesenberry‖,The New York 
+Times, Business Section. 
+[36]. 
+Royo M G (2007), ―Well-Being and Consumption: Towards a Theoretical ApproachBased on Human 
+Needs Satisfaction‖, Handbook on the Economics ofHappiness, pp. 151-169, Northampton, Edward 
+Elgar Publishing, USA 
+[37]. 
+Kim, H. S. and Drolet,A (2009), "Express Your Social Self: Cultural Differences inChoice of Brand-
+Name versus Generic Products," Personality and Social PsychologyBulletin, Vol.35 (12), pp.155-166. 
+[38]. 
+Lai, M.C. and Chu, Y.C. (2007), ―The relationship among self-monitoring, susceptibility to 
+interpersonal influence, luxury consumption and social value‖, paper presented at the International 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 17 | Page 
+Business Conference on Business and Information, Academy of Taiwan Information Systems 
+Research, Tokyo 
+[39]. 
+Marcoux, J.S., Filiatrault, P., &Cheron, E. (1997), ―The attitudes underlying preferences ofyoung urban 
+educated Polish consumers towards products made in western countries‖,Journal of International 
+Consumer Marketing, Vol.9, No.4, pp.5-29. 
+[40]. 
+Abdulla, M.P. (2014), ―Emigration and Consumerism- A regional experience‖, IOSR Journal of 
+Economics and Finance,Vol.2, No. 4, pp. 41-44 
+[41]. 
+Marguerite,R.(1996), "Dowry and Prestige in North India. "Contributions to Indian Sociology 
+Vol.1,pp.89-107. 
+[42]. 
+Li,J. and Zhang, X.A.(2015), effects of ―face‖ consciousness on status consumption among Chinese 
+consumers: perceived social value as a mediator, Sociocultural Issues in Psychology, Vol.116,No. 1, 
+pp.280-291. 
+[43]. 
+Grotts,A.S, Johnson,T.W (2013), ―Millennial consumers' statusconsumption of handbags,‖Journal of 
+Fashion Marketing and Management: An InternationalJournal ,Vol. 17 (3) pp. 280 - 293 
+[44]. 
+Solomon, M., Bamossy, G. and Askegaard, S. (2002), Consumer Behaviour: A European Perspective, 
+2nd ed.,Pearson, London 
+[45]. 
+Braun, O. and Wicklund, R. (1989), ―Psychological antecedents of conspicuous consumption‖,Journal 
+of Economic Psychology, Vol. 10, pp. 161-87. 
+[46]. 
+Roberts, J. A., Tanner, J. Jr. and Manolis, C. (2005),‖ Materialism and the Family Structure-Stress 
+Relation‖, Journal of Consumer Psychology, Vol. 15(2), pp.183-190. 
+[47]. 
+Chao, A. and Schor, J.B. (1998), ―Empirical tests of status consumption: evidence from 
+women'scosmetics‖, Journal of Economic Psychology, Vol. 19 No. 1, pp. 107-31. 
+[48]. 
+Acikalin, S., Gul, E. and Develioglu, K. (2009), ―Conspicuous consumption patterns of Turkishyouth: 
+case of cellular phones‖, Young Consumers, Vol. 10, pp. 199-209. 
+[49]. 
+Bearden, W. O., Netemeyer, R. G., & Teel, J. E. (1990), Further Validation of the Consumer 
+Susceptibility to Interpersonal Influence Scale, Advances In Consumer Research, Vol. 17, pp.770-776 
+[50]. 
+Chung, E. and Fischer, E. (2001) ―When conspicuous consumption becomes inconspicuous: the case of 
+migrant Hong Kong consumers‖, Journal of Consumer Marketing, Vol.18, pp.474-488. 
+[51]. 
+Podoshen, J.S., Li, L. and Zhang, J. (2011),‖Materialism and conspicuous consumption in China: a 
+cross-cultural examination‖, International Journal of Consumer Studies, Vol.35, pp.17-25. 
+[52]. 
+Gupta,R. (2009), ―An exploratory study of Financial Remittances Among Non-Resident Indians in the 
+United States‖, Journal of Family and Economic Issues, Vol.30,pp.184-192 
+[53]. 
+Markova, E., and Reilly, B. (2006), ―Bulgarian migrant remittances and legal status: Some micro-level 
+evidence from Madrid‖, Migration Working Paper No. 37, Sussex, UK: University of Sussex. 
+[54]. 
+Tabachnick, B. G. &Fidell, L. S. (2007), Using Multivariate Statistics (5th edition). Boston:Pearson 
+Education. 
+[55]. 
+Hair, J.F., Jr, Black, WC.,Babin, B.J. and Anderson, R.E. (2009), Multivariate Data Analysis, 7th Edn. 
+Upper Saddle River, NJ: Prentice Hall. 
+[56]. 
+Shukla, P. (2010), ―Status consumption in cross-national context: socio-psychological, brand and 
+situational antecedents‖, International Marketing Review, Vol.27 , pp.108 - 122 
+ 
+APPENDIX A 
+Table 1: Table comparing migrant households and non-migrant households on 'possession of 
+goods/services' indicative of living standards 
+ 
+Goods/Services Owned 
+Non emigrant household (%) 
+Emigrant household (%) 
+1 
+Red Ration Card 
+35 
+20 
+2 
+*RSBY membership 
+34 
+25 
+3 
+Luxurious house 
+30.4 
+52.6 
+4 
+Use of LPG for cooking 
+55.3 
+64.3 
+5 
+Consumer Durables (AC, Laptop) 
+48.5 
+72 
+Source: Kerala Migration Survey, 2014 
+ 
+ 
+*RSBY: RashtriyaSwasthyaBimaYojana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 18 | Page 
+Table 2(a): Table showing district-wise distribution of population and quota used in sample 
+District 
+Number of emigrants 
+% of total emigrants 
+Proportionate 
+district-wise quota 
+Malappuram 
+4,55,696 
+18.98 
+122 
+Kannur 
+2,91,321 
+12.14 
+78 
+Trivandrum 
+2,41,727 
+10.07 
+64 
+Thrissur 
+2,30,081 
+9.58 
+61 
+Kozhikode 
+2,26,499 
+9.44 
+60 
+Kollam 
+1,99,993 
+8.33 
+53 
+Ernakulam 
+1,91,373 
+7.97 
+51 
+Pathanamthitta 
+1,41,343 
+5.89 
+38 
+Kottayam 
+1,07,931 
+4.50 
+29 
+Kasargod 
+1,04,334 
+4.35 
+28 
+Alappuzha 
+93096 
+3.88 
+25 
+Palakkad 
+70506 
+2.94 
+19 
+Idukki 
+23967 
+1 
+6 
+Wayanad 
+22568 
+0.94 
+6 
+Total 
+2400435 
+100% 
+640 
+ 
+Table 2(b): Table showing District-wise and Region-wise quota within the sample 
+Region within 
+Kerala 
+Districts within region 
+District wise quota 
+Region wise 
+quota 
+% of total 
+Count 
+% 
+Count 
+North Kerala 
+Malappuram 
+18.98 
+122 
+ 
+ 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+ 
+ 
+312 
+Kannur 
+12.14 
+78 
+Kozhikode 
+9.44 
+64 
+Kasargod 
+4.35 
+28 
+Palakkad 
+2.94 
+19 
+Wyanand 
+0.94 
+6 
+Central Kerala 
+Thrissur 
+9.58 
+61 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+172 
+Ernakulam 
+7.97 
+51 
+Kottayam 
+4.50 
+29 
+Alappuzha 
+3.88 
+25 
+Idukki 
+1 
+6 
+South Kerala 
+Trivandrum 
+10.07 
+64 
+ 
+ 
+24 
+ 
+ 
+156 
+Kollam 
+8.33 
+53 
+Pathanamthitta 
+5.89 
+38 
+Region Total 
+ 
+100 
+640 
+100 
+640 
+ 
+Table 3: Table showing Reliability measures for scale items 
+Source: Survey data 
+ 
+Table 4: Demographic description of respondents 
+Variable 
+Item 
+Frequency 
+Percentage 
+Gender 
+Male 
+381 
+59.5 
+Female 
+259 
+40.5 
+Marital status 
+Married 
+586 
+91.6 
+Single 
+54 
+8.4 
+Construct tested for reliability 
+No. of items 
+Cronbach's Alpha 
+Susceptibility to Interpersonal Influence Score 
+13 
+0.966 
+ Status Consumption Score 
+5 
+0.982 
+Conspicuous Consumption Score 
+5 
+0.935 
+
+A Study On Social Antecedents Of Conspicuous Consumption Among Emigrants From Kerala 
+*Corresponding Author: Mrs. Daly Paulose1 19 | Page 
+Monthly 
+Household 
+Income 
+<INR 50000 
+76 
+11.9 
+INR 50,001-1,00,000 
+102 
+15.9 
+INR 1,00,001-3,00,000 
+233 
+36.4 
+INR 3,00,001-5,00,000 
+130 
+20.3 
+>INR 5,00,000 
+99 
+15.5 
+ 
+Religion 
+Christian 
+234 
+36.6 
+Hindu 
+210 
+32.8 
+Muslim 
+196 
+30.6 
+ 
+ 
+Education 
+Post Graduate (General) 
+171 
+26.7 
+Post Graduate (Professional) 
+241 
+37.7 
+Four year college graduate 
+105 
+16.4 
+Three year college graduate 
+83 
+13 
+High school/Diploma 
+40 
+6.3 
+Occupation 
+Salaried 
+547 
+85.5 
+ 
+Self employed 
+93 
+14.5 
+Source: Survey data 
+ 
+Table 5: Table showing correlation between conspicuous consumption and other independent variables 
+Predictor Variable 
+Correlation 
+coefficient 
+Significance 
+Direction of Correlation 
+Susceptibility to Normative Influence 
+0.915 
+p<0.05 
+Positive 
+Susceptibility to Informational 
+Influence 
+0.822 
+p<0.05 
+Positive 
+Status Consumption 
+0.886 
+p<0.05 
+Positive 
+ 
+Table 6: Table showing Regression Weights for Conspicuous Consumption model 
+Path 
+Regression 
+Coefficient 
+ 
+Std. Regression 
+Coefficient 
+ 
+ 
+P value 
+ 
+Decision 
+Normative Influence  Status Cons. 
+0.414 
+0.670 
+p<0.05 
+Supported 
+Informational InfluenceStatus Cons. 
+0.284 
+0.238 
+p<0.05 
+Supported 
+Status ConsumptionConspicuous Cons 
+0.854 
+0.886 
+p<0.05 
+Supported

@@ -1,0 +1,876 @@
+The University of Akron 
+The University of Akron 
+IdeaExchange@UAkron 
+IdeaExchange@UAkron 
+Williams Honors College, Honors Research 
+Projects 
+The Dr. Gary B. and Pamela S. Williams Honors 
+College 
+Spring 2022 
+Barriers to Technology Adoption in the Water Treatment Industry 
+Barriers to Technology Adoption in the Water Treatment Industry 
+Ian Adams 
+ima30@uakron.edu 
+Follow this and additional works at: https://ideaexchange.uakron.edu/honors_research_projects 
+ Part of the Environmental Engineering Commons, Hydraulic Engineering Commons, and the Industrial 
+and Organizational Psychology Commons 
+Please take a moment to share how this work helps you through this survey. Your feedback will 
+be important as we plan further development of our repository. 
+Recommended Citation 
+Recommended Citation 
+Adams, Ian, "Barriers to Technology Adoption in the Water Treatment Industry" (2022). Williams 
+Honors College, Honors Research Projects. 1491. 
+https://ideaexchange.uakron.edu/honors_research_projects/1491 
+This Dissertation/Thesis is brought to you for free and open access by The Dr. Gary B. and Pamela 
+S. Williams Honors College at IdeaExchange@UAkron, the institutional repository of The University 
+of Akron in Akron, Ohio, USA. It has been accepted for inclusion in Williams Honors College, 
+Honors Research Projects by an authorized administrator of IdeaExchange@UAkron. For more 
+information, please contact mjon@uakron.edu, uapress@uakron.edu. 
+
+The University of Akron: 
+College of Engineering & Polymer Science 
+ 
+Department of Chemical, Biomolecular & Corrosion Engineering 
+ 
+ 
+Author 
+ 
+ 
+ 
+ 
+ 
+Barriers to Technology Adoption in the Drinking Water Treatment Industry 
+ 
+Ian Adams 
+Prof. Dr. Christopher Miller, Project Faculty Advisor 
+Prof. Dr. Joseph Fox, Project Reader 
+Prof. Dr. Zhenmeng Peng, Project Reader 
+ 
+Submitted to 
+Williams Honors College, University of Akron 
+Honors Undergraduate Research Project 2022 
+Course 4200:497 
+Submitted on 22 April 2022 
+ 
+
+Executive Summary 
+ 
+The drinking water treatment industry is constantly evolving, and water systems must be 
+vigilant to keep up with the ever-changing regulations and available technology. The latest 
+advancement to reach the water sector is the rise of digital twins and artificial intelligence. 
+Although these technologies are available and have been shown to be effective, very few systems 
+have integrated these new software options. Through evaluating case studies and other literature, 
+several potential barriers to technology adoption in the drinking water treatment industry have 
+been identified. These options are as follows: satisfaction with current technology, lack of 
+awareness of technology options, lack of understanding of technology capabilities, lack of 
+funding, lack of staff expertise, lack of customer assistance from vendors, lack of available 
+training, prior investment inhibiting future investment, resistance to change, lack of 
+understanding of technological trends, concern over jobs becoming obsolete, difficulty of 
+learning to use new technology, lack of communication between staff and management, and 
+cybersecurity concerns. Prior research has identified lack of funding and lack of staff skills to be 
+leading barriers [3] but fails to consider other factors such as cybersecurity issues. They also do 
+not address any specific piece of technology. Instead, they opt to speak generally about digital 
+development. To better understand these aforementioned barriers, a survey of superintendents, 
+managers, chief operators, and others, was taken for water systems primarily in Ohio, but also in 
+Pennsylvania and Indiana. The respondents were asked to rate each of the barriers on a scale of 
+one to ten, with a ten indicating the barrier has a strong effect on technology integration and a 
+one indicating no effect. The average response for each barrier was determined, and the barriers 
+were ranked in order of effect on technology integration, In descending order of impact, the 
+barriers were ranked as follows: cybersecurity concerns, prior investment, lack of funding, lack 
+
+of staff expertise, lack of understanding of technological trends, lack of training, lack of 
+customer support, resistance to change, difficulty learning new technology, lack of 
+communication between staff and management, and concern about jobs becoming obsolete. The 
+barrier with the greatest affect, cybersecurity concerns, received an average response of 8.25, 
+while prior investment and lack of funding received ratings of 7.07 and 6.86 respectively. The 
+least impactful barrier, concern about jobs becoming obsolete received an average response of 
+3.54. The survey also gathered data specifically for artificial intelligence and machine learning 
+tools and found similar results. Again, cybersecurity and lack of funding are large barriers, but 
+confusion about AI and its capabilities is also a significant obstacle. 27% of respondents 
+indicated that funding is the greatest obstacle relating to AI integration while cybersecurity 
+concerns received 23% of responses. Conversely, lack of customer assistance, lack of training 
+and lack of staff expertise were determined to be the least impactful barriers to artificial 
+intelligence integration. 
+ 
+
+Introduction 
+ 
+Over the last century, the drinking water treatment industry has evolved from a field 
+primarily relying on manual processes into an industry with access to cutting edge technology. 
+The technology utilized by water systems range from simple data management software to 
+advanced artificial intelligence and machine software platforms. The rise of new technology 
+options such as digital twins and machine learning tools have been shown to increase plant 
+efficiency, leading to numerous benefits [10]. Recently developed artificial intelligence systems 
+have saved plants as much as 25% in chemical costs [10]. Despite the growing availability of 
+these products, many drinking water treatment plants have not integrated newer, more advanced 
+forms of technology. Operations that rely only on a simple technology foundation for data 
+management and treatment planning can encounter efficiency issues that negatively impact the 
+treatment plant's daily operation. 
+In an attempt to explain why certain plants have not integrated new technology, many 
+factors will be considered. These factors include both practical issues, such as availability of 
+funding, and workplace psychology issues, such as resistance to change among water treatment 
+plant employees. In addition, an inquiry into the decision-making process behind technology 
+decisions will be made in an attempt to understand this process and determine how it affects new 
+technology integration. These questions will be applied both to technical upgrades in general, as 
+well as artificial intelligence. By better understanding the barriers to technology integration in 
+this field, superintendents, software vendors, regulators, and others, will be better prepared to 
+overcome these obstacles as the available technology options continue to improve. Ultimately 
+there is room for improvement in the efficiency of the drinking water treatment industry and 
+integrating more capable technology can only improve this issue over time. Firsthand experience 
+
+working with the Ohio Environmental Protection Agency has spurred much of the interest in this 
+topic and has provided meaningful context for the following inquiries. 
+Background 
+ 
+The technological resources used in drinking water treatment plants vary significantly 
+from plant to plant. Some utilize newly developed artificial intelligence (AI) platforms while 
+other use more traditional technological resources. While upgrading technology can be difficult 
+for many reasons, once completed, the rewards can be great. 
+Understanding Current Technological Capabilities of Water Systems 
+The first and most obvious reason for lack of further technology integration is that no 
+new technology is needed. If a plant is already acting at peak efficiency, it is not economically 
+sound to make an investment that will yield little to no reward. Although this might be the case 
+for a select few water treatment plants, a study conducted by Dodge Data and Analytics indicates 
+that widespread improvement is possible across the drinking water treatment industry [3]. The 
+survey asked water treatment plants to rate their capabilities in eight areas of digital maturity [3]. 
+These categories include information mobility, digital management of asset information for 
+operations and maintenance, real time digital asset management, and use of digital twins and 
+others [3]. In all categories, only a small percentage (less than 13% in all categories) rated their 
+capabilities as very good or excellent [3]. In fact, 47% of respondents described their ability to 
+digitally manage asset information in real time as limited or no ability at all [3]. Even the least 
+digitally complex category, information mobility through the organization, had 22% of 
+respondents indicate no or limited capabilities [3]. The responses to the survey indicate that the 
+digital maturity of drinking water treatment plants across the United States has room for 
+
+improvement. Although some plants exhibit excellent capabilities in these categories, the vast 
+majority would greatly benefit from new technologies. Clearly one or many factors is inhibiting 
+further technological growth in this field despite many examples of new technology leading to 
+improved water quality and overall plant efficiency. 
+Campbell, Ohio Water Treatment Plant Case Study 
+Fontus Blue, a company providing software solutions to drinking water treatment plants, 
+has conducted several case studies that display the numerous and sometimes unexpected benefits 
+of embracing new technology [4]. One notable case study reviews the cost savings and water 
+quality improvements witnessed by the Campbell, Ohio treatment plant [4]. Routine sampling of 
+Campbell's distribution system revealed a spike in trihalomethanes (THMs), a form of 
+disinfection byproducts caused by chlorination of water during treatment [4]. While being 
+hazardous to public health, elevated THM levels can also violate rules instituted by the Ohio 
+Environmental Protection Agency (Ohio EPA). In this case, Campbell was using a strategy of 
+increased chlorination to fight microcystin levels caused by harmful algal blooms (HABs) [4]. 
+Initially, Campbell reached out to Fontus Blue to develop a strategy for controlling microcystin 
+levels [4]. The initial response was an improvement but limiting THMs was still an issue [4]. 
+Again, Campbell reached out to Fontus Blue and this time a comprehensive plan was instituted 
+to fight both microcystin and THMs simultaneously [4]. The software developed by Fontus Blue 
+allows operators to input various water quality parameters and simulate in real-time different 
+treatment strategies all from the cloud [4]. The implementation of the new software immediately 
+correlated to an improvement in THM levels and Campbell eventually recorded the lowest THM 
+level in plant history [4]. This case study reveals many of the potential benefits of integrating 
+new technology, but questions remain about the technology integration process as a whole. 
+
+The decision to invest in the software supplied by Fontus Blue resulted in an immediate 
+and lasting improvement in the quality of Campbell's water [4]. Fontus' involvement also 
+ensured that Campbell was in compliance with the Ohio EPA's rules and regulations [4]. The 
+field of drinking water treatment is constantly evolving due to technological innovation as well 
+as regulatory changes. These regulation changes are constantly growing to include different 
+items, such as the new Lead and Copper Rules unveiled in late 2020. Due this reality, working 
+with an adaptable partner like Fontus Blue is an extremely important factor in keeping up with 
+emerging compliance standards. The comprehensive capabilities of the software not only provide 
+a solution to Campbell's quality and compliance goals, but also allow the plant to better manage 
+other water quality parameters, such as pH, in ways that they could not before [4]. The new 
+software led to more efficient use of expensive powdered activated carbon (PAC), used for 
+removal of organic material [4]. Despite the great results, it appears that the Campbell team 
+underestimated the effect new technology could have on their water quality and overall plant 
+efficiency. In the case study, Joe Tovarnak, the plant superintendent, is quoted as saying, "We 
+didn't realize that Fontus could help of fix both (the THM and HAB) problems [4]." This 
+highlights a potential barrier to technology integration: that water plant employees are sometimes 
+unaware of the capabilities of new technologies. Perhaps if water treatment plants become more 
+aware of the diverse offering of technological tools available to them, they can benefit from 
+improved efficiency sooner, rather than upgrading when a specific issue arises. 
+Another key aspect of technology integration mentioned in this case study is the need for 
+operators to be able to efficiently use and understand the benefits of using new technology. Joe 
+Tovarnak, plant superintended, again offers insight into this issue when he says, "Once operators 
+understood the meaning behind the numbers and strength of the tool, they used it constantly. It's 
+
+much better than a 'plug-and-chug' spreadsheet [4]." Plant management, engineers and IT 
+professionals can make all the upgrades they want, but if the operators struggle to use the tools, 
+then the upgrade is meaningless. In this case study, Fontus Blue ensured this was not an issue by 
+having a team member work with Campbell to implement and calibrate the new models [4]. 
+Fontus Blue also trained the Campbell team on using UV-254 analysis to measure organic levels 
+and they continue to support the Campbell team by providing training to new operators [4]. This 
+success story of implementing new technology underscores the importance of software vendors 
+offering support and training to their customers. A lack of this could act as a barrier to 
+technology adoption. Operator comfort also needs to be considered both in terms of the 
+practicality of learning to use new tools and organizational issues stemming from trust deficits. 
+In a recent presentation, Baywork recognized the important role adequate training can have on 
+organizational trust [13]. Baywork recommends implementing operator training throughout the 
+software selection process and selecting vendors and consultants that care about training [13]. 
+This case study is successful in part because of the emphasis both Campbell and Fontus put on 
+training. Both the practical issues of learning to use new software and organization concerns 
+could represent significant barriers to technology integration. 
+Funding as a Barrier to Technology Integration 
+ 
+With any improvement to a chemical process, a capital investment must be made, and in 
+the drinking water treatment industry this can be a difficult proposition. Many water systems 
+subsist off public funding, which is often limited. Combined with the fact that water is 
+underpriced compared to its value, water systems often struggle with funding [1]. In fact, the 
+need for additional drinking water treatment funding in the United States is so great, that the 
+American Water Works Association estimates that a $1 trillion invention must be made to meet 
+
+all the immediate needs [1]. This is not a new problem and over the last several decades drinking 
+water treatment plants have learned to maximize the efficiency of their operation. As 
+demonstrated by the Campbell, Ohio case study, new technology can dramatically improve 
+efficiency but overcoming the initial capital investment can be a challenge. Due to the severe and 
+long-standing nature of this issue, it seems logical that lack of funding acts as a significant 
+barrier to technology adoption. Recent survey data collected by Dodge Data and Analytics 
+confirms this idea [3]. The survey shows that 74% of respondents think lack of funding is a 
+significant functional challenge [3]. Furthermore, respondents identified lack of funding as the 
+single greatest challenge facing capital planning and the fourth greatest challenge in Operations 
+and Maintenance [3]. Lack of funding is a broad issue that affects many aspects of plant 
+operation. Naturally, many other barriers to technology integration arise from this issue. 
+ 
+As identified by the Dodge Data and Analytics study, knowing what technology to invest 
+in is a critical issue for water systems [3]. Obviously, this issue applies to many fields, but in 
+drinking water treatment it is vital due to industry wide funding issues. Thus, decision makers 
+must be highly efficient with their spending choices and when an investment decision is made, 
+they must be extremely confident in their decision. Due to this reality, a lack of understanding of 
+technological trends can be a notable barrier to technology integration. In other words, not 
+knowing where to invest limited capital is a significant barrier to further integration. According 
+to the same survey, 66% of respondents indicated this issue is at least moderately significant with 
+29% reporting high or very high significance [3]. Understanding current technological trends is 
+important but this is not enough. The Campbell, Ohio case study reveals that not fully 
+understanding the capabilities of available technology is also a significant barrier to further 
+integration. By highlighting these two similar but distinct barriers, it becomes clear that the 
+
+internal decision-making process is critical in these situations. Thoroughly understating the 
+nuances of how water systems decide to invest their capital is critical to breaking through these 
+barriers. 
+Organizational and Psychological Challenges as Barriers to Technology Integration 
+ 
+Besides the decision-making process, other organizational issues also have the potential 
+to act as barriers to technology integration. The Dodge Data and Analytics study again highlights 
+several key ideas, including a lack of alignment on digital goals and organizational structure 
+issues [3]. The study showed that 64% of respondents think lack of alignment of digital goals has 
+at least moderate significance in preventing water systems from meeting digital priorities [3]. 
+Furthermore, 35% indicate this issue has high or very high significance [3]. Again, a sound 
+decision-making process is integral to having internal alignment and having strong 
+communication within the organization is also important. As shown by the Campbell, Ohio case 
+study, operators and management need to be in alignment when investing in new technological 
+resources. This can only occur through communication and trust throughout the organization. 
+ 
+Other than internal alignment there are many organizational challenges but the most 
+significant is resistance to change [3]. The Dodge Data and Analytics survey revealed that 70% 
+of respondents indicate that resistance to change has as least moderate significance in stifling 
+digital growth, while 41% indicate high or very high significance [3]. People often feel 
+uncomfortable with change and with constantly changing compliance standards and best 
+practices, water utilities are vulnerable to this issue [13]. Learning new skills can be difficult and 
+sometimes employees struggle with having the confidence to adapt to a changing environment 
+[1]. Another factor to consider is certain jobs becoming obsolete. As technology becomes more 
+advanced, many workers fear that they will be replaced [1]. This issue has been exacerbated in 
+
+recent years with the rise of AI. These fears are largely justified as new artificial intelligence 
+systems have displaced many jobs in the manufacturing industry [8]. Once again, it is the 
+responsibility of the organization to offer support in the form of technical training and other 
+developmental opportunities [1]. Many of these organizational challenges do not have straight 
+forward solutions but through competent leadership and offering support to employees, many of 
+these issues can be solved. 
+The Rise of Artificial Intelligence and Machine Learning in Drinking Water Treatment 
+ 
+As previously noted, the drinking water treatment industry is constantly evolving to 
+incorporate new regulations and integrate new forms of technology. An example of this is the 
+rise of new AI and machine learning platforms. AI is already commonly used in several 
+industries and is expected to become an integral part of industry worldwide [8]. Although very 
+few water systems have adopted these new systems, their power and capabilities have already 
+been shown to dramatically increase efficiency and improve water quality [10]. Despite the clear 
+benefits, AI is often viewed with a negative connotation due to confusion about its capabilities 
+[11]. Often people struggle to trust the results presented by AI and machine learning systems [6]. 
+The same issues of confusion and lack of understanding also apply to the water treatment 
+industry [1]. Determining how well water treatment plant employees, managers and 
+superintendents understand AI is an important step in breaking down this barrier to integration. 
+Digital Twins and Artificial Intelligence 
+Connected with the rise of artificial intelligence is the evolution of the digital twin tool in 
+water treatment. A digital twin is a digital tool that can model the past, present and future 
+behavior of a water system [12]. Digital twins have existed longer than these new AI platforms 
+
+but in recent years they have grown to incorporate machine learning. In a presentation from early 
+2022, James Cooper of Arcadis categorized water systems by breaking them into four distinct 
+groups: digital twin ready, informational twins, operational twins and connected twins [2]. A full 
+description of these terms can be found in the appendix. These categories begin with a basic 
+digital twin ready system and increase in complexity up to connected twins [2]. The more 
+complex categories utilize live data streams and offer process optimization, while more basic 
+systems utilize historic or static data and help with design support [2]. In exchange for more 
+advanced functions, these systems have more sophisticated requirements that make it impractical 
+for many systems to invest in the more complex categories. However, this presentation illustrates 
+that digital twins are applicable to water systems with a wide variety of existing tools. 
+There is a significant amount of mystery and uncertainty around what AI and digital 
+twins actually are, and this can impact how water systems invest [2]. Often people incorrectly 
+assume that AI is too complex for their needs. Cooper's presentation indicates that is often not 
+the case and AI and digital twins are applicable in a variety of situations with a wide range of 
+starting equipment [2]. Cooper describes the capabilities of digital twins in four categories: asset 
+health twin, predictive, twin, security twin and immersive twin [2]. These terms succinctly 
+describe the current capabilities of digital twins, which range from real time monitoring to virtual 
+simulations and forecasting [2]. A full description of each term can be found in the appendix. 
+These tools have the capability to improve plant efficiency, water quality, and much more [2]. 
+Ultimately, utilizing a digital twin allows for an intersection of AI and human intelligence to 
+problem solve in new and more efficient ways [2]. 
+ 
+ 
+
+Akron Water Supply AI Integration Case Study 
+ 
+A case study of Fontus Blue working with the Akron, Ohio drinking water treatment 
+plant exhibits specific examples of the many benefits AI can bring to a water system [5]. Akron 
+is a large surface water plant, tasked with producing approximately 30 million gallons per day 
+[5]. Akron has a long history of extremely high water quality and operates with great efficiency 
+yet integrating machine learning software still resulted in great improvements in both areas. The 
+first challenge was adapting to the new lead and copper testing requirements enforced by the 
+Ohio EPA in 2020 [5]. With assistance from the new software, Akron reduced their lead content 
+to the lowest level in 28 years [5]. The AI tool also assisted with optimizing chemical dosing to 
+limit disinfection byproducts and remove manganese [5]. The improved efficiency resulted in a 
+25% reduction in chemical costs in 2020, with a total cost saving of $1.2 million [5]. This is an 
+incredible development given the previously discussed financial struggles of the water sector. 
+Fontus Blue recognizes the challenges facing integration of machine learning, citing complexity, 
+resistance to change and lack of confidence in project outcomes as primary obstacles [5]. 
+However, as success stories like this spread throughout the industry, more water systems will be 
+willing to invest in emerging forms of machine learning and data analytics. 
+Since beginning work with Akron in December of 2019, Greensboro, North Carolina and 
+Mentor, Ohio have partnered with Fontus Blue to implement AI systems [10]. Greensboro began 
+integrating the new systems in June of 2021 and has already seen reduced averaged settled 
+turbidity in addition to approximately 15% chemical cost savings in the fourth quarter of 2021 
+[10]. Mentor has seen similarly successful results with a decrease in average settled turbidity and 
+23% chemical cost savings in 2021 compared to 2020 [10]. Both Greensboro and Mentor both 
+produce approximately 6 million gallons per day, which is significantly less than Akron's 31 
+
+million gallons per day [10]. The contrast in size between these plants illustrates that AI systems 
+have the potential to improve water quality and significantly reduce chemical costs in plants of 
+all sizes. It should be noted that while many plants are AI ready, others still struggle with data 
+collection issues [1]. A substantial amount of live and historical data is required to maximize the 
+capabilities of AI [1], so improving data collection and building a digital foundation is required 
+before a meaningful investment can be made. 
+ 
+Fontus Blue recognizes the challenge of integrating potentially confusing and 
+intimidating technology such as AI, and they have developed a simple engagement process to 
+help facilitate a smooth transition to the new software [10]. To bridge the gap between 
+management and operators, Akron, Mentor and Greensville all hold facilitated meetings between 
+management and opertors with varying frequency [10]. These plants also keep consistent records 
+of decisions and actions resulting from the new software [10]. Through these steps and other 
+actions, the plants hope to catalyze an organizational culture change resulting in greater 
+acceptance and understanding of digital tools [10]. 
+Cybersecurity Concerns in the Drinking Water Treatment Industry 
+ 
+With increased reliance on digital tools, the importance of cybersecurity in the water 
+sector has grown significantly over the last several years. Drinking water plants are considered 
+critical infrastructure and have often been the subject of attacks or other security issues [7]. 
+Cybersecurity concerns are not new to water systems, but the complexity and prevalence of 
+threats have increased over the last several years and are likely to continue increasing [7]. Many 
+utilities lack the IT specialists to counter these new threats, and despite new training from 
+regulatory agencies, water systems are still at a disadvantage [7]. In addition, many of the 
+recommended security systems have not been implemented in numerous plants [1]. As with 
+
+general technology integration, funding also affects implementation of cyber security safeguards 
+[1]. There are numerous types of cyber security threats, but in recent years ransomware attacks 
+have emerged as the fastest growing malware threat [7]. An example of a ransomware attack is 
+the Fort Collins-Loveland Water District incident [7]. Hackers gained control of plant data and 
+made a ransom demand to unlock the data [7]. The water system refused the ransom demand and 
+were able to restore access to the data after a few weeks [7]. With the increased use of data 
+reliant systems including AI, protecting historical data is an important part of technology 
+integration. Even a short outage can be costly, so implementing data segmentation and 
+segregation is an important safeguard to consider [7]. Unfortunately, there are many other 
+examples of ransomware affecting utilities, many of which have sophisticated cybersecurity 
+safeguards including firewalls and antivirus software [7]. Clearly cybersecurity is an area of 
+growing concern and should be considered when investing in new technology. However, this is 
+not always the case and new tools can be difficult to integrate into a preexisting cybersecurity 
+system [1]. Investing in technology already introduces uncertainty, which is exacerbated by 
+increased cybersecurity issues. Thus, it is important to consider cybersecurity concerns as a 
+potential barrier to technology adoption. 
+Data Collection Methods 
+ 
+Through analyzing case studies and reviewing literature, the following items have been 
+identified as potential barriers to technology integration in the drinking water treatment field: 
+satisfaction with current technology, lack of awareness of technology options, lack of 
+understanding of technology capabilities, lack of funding, lack of staff expertise, lack of 
+customer assistance from vendors, lack of available training, prior investment inhibiting future 
+investment, resistance to change, lack of understanding of technological trends, concern over 
+
+jobs becoming obsolete, difficulty of learning to use new technology, lack of communication 
+between staff and management, and cybersecurity concerns. To better understand the impact of 
+these potential barriers, a group of superintendents, water quality mangers, plant managers, chief 
+operators and others, were surveyed regarding these topics. The group surveyed are primarily 
+from Ohio, but some responses from Pennsylvania, Indiana, and North Carolina, were recorded. 
+Many respondents are current customers of Fontus Blue and have experience integrating new 
+software systems. The survey received 28 total responses, and many induvial messages were 
+included to provide additional context for their answers. 
+First, they were asked to rate the extent to which the aforementioned barriers affect 
+technology integration. A ten-point scale was used with ten corresponding to a great extent and 
+one corresponding to no extent. Questions were asked regarding technology integration in 
+general, and again specifically for AI. Relating to AI, respondents were also asked to indicate 
+their level of digital twin readiness, and what type of digital twin they are interested in, if any. As 
+mentioned in the discussion, understanding the decision-making dynamic for investing in new 
+technology is important. Respondents were asked who is generally involved in the decisionmaking process relating to technology adoption. Respondents were also asked if they were 
+satisfied with the level of communication between staff and management. These two questions 
+provide additional context to the organizational barriers to integration. Through analyzing the 
+responses to these questions, the barriers to technology integration in drinking water treatment 
+will be better understood, and superintendents, software vendors, regulators and others will be 
+better prepared to meet these challenges. 
+ 
+ 
+
+Table 1: Displays survey results for 28 respondents. The table displays the average 
+survey response. A rating of 10 indicates a high level while 1 indicates a low level. 
+Data and Results 
+The survey results indicate that on average the respondents are happy with their current 
+level of technology use. They are also aware of other technology options and have a good 
+understanding of these options. 
+ 
+ 
+ 
+ 
+ 
+As shown in figure one, the barrier with the greatest effect on technology integration is 
+cybersecurity concerns. There is a fairly large margin between cybersecurity concerns and the 
+second greatest issue, prior investment. Cybersecurity concern also has the second lowest 
+standard deviation of all the responses, indicating that the respondents have a good deal of 
+agreement on this topic. The next greatest barriers are prior investment and lack of funding, 
+although lack of staff expertise, lack of understanding of technological trends, lack of training 
+and lack of customer assistance all received similar responses. It should be noted that lack of 
+funding has the greatest standard deviation off all the barriers, indicating a wide variety of 
+responses. Concern about jobs becoming obsolete received the lowest average response, 
+indicating it has the lowest impact on technology integration out of all the potential barriers. The 
+standard deviation values for each barrier are found in the appendix. 
+ 
+Average 
+Rating 
+Level of satisfaction with current technology 
+7.07 
+Level of awareness of other technology options 
+7.11 
+Level of understanding of other technology options 
+6.79 
+
+ 
+ 
+ 
+ 
+ 
+The respondents indicated what technology they currently use (Figure 2). Nearly all 
+water systems use Microsoft Excel or a similar software while very few are currently using AI or 
+digital twins. Many respondents answered that they use other software not listed, with the most 
+popular write in response being Supervisory Control and Data Acquisition (SCADA) systems. 
+ 
+ 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Figure 1: The figure displays the survey responses for all the potential barriers to technology 
+integration. A response of 10 indicates a great effect on further integration of technology, 
+while a 1 indicates no effect. The figure displays survey results for 28 respondents. The exact 
+values are displayed in the appendix. 
+
+Figure 3: The figure displays how the respondents learn what new technology is available. The 
+figure displays survey results for 28 respondents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The respondents learn about new technology in a variety of ways but the most common is 
+conferences or other meetings (Figure 3). In addition, learning from co-workers and 
+management, current software vendor, marketing and information from the EPA all received a 
+significant number of responses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: The figure displays which technological resources are currently used by the 
+respondents The figure displays survey results for 28 respondents. 
+
+Figure 4: The figure displays who is involved in the decision-making process to invest in new 
+technology. The figure displays survey results for 27 respondents. 
+Figure 5: The figure displays the responses to the above question. The figure displays survey 
+results for 28 respondents. 
+The respondents indicated who is involved in the decision-making process for investing 
+in new technology (Figure 4). Management is involved in all decisions, while IT professionals 
+are involved in the majority or decision. Engineers and operators are involved in less than half of 
+the responses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relating to decision making, respondents indicated if they are satisfied with the level of 
+communication between management and staff relating to technology integration (Figure 5). The 
+majority indicated that they are satisfied with their communication 
+ 
+
+Figure 6: The figure displays which type of digital twin respondents are interested in using. The 
+figure displays survey results for 28 respondents. Some respondents indicated that they are 
+interested in using more than one type of digital twin. See the appendix for a full description of 
+the digital twin terms. 
+Figure 7: The figure displays the respondents' levels of digital twin readiness. The figure 
+displays survey results for 20 respondents. See the appendix for a full description of the digital 
+twin terms. 
+ 
+The respondents indicated which type of digital twin they are interested in using, if any 
+(Figure 6). The descriptions of digital twins are included in the appendix. Nearly half of the 
+respondents are not interested in using a digital twin, while asset health and predictive twins each 
+accounted for approximately 25% of responses. 
+ 
+ 
+ 
+ 
+ 
+ 
+The survey also asked respondents to indicate their plant's level of digital twin readiness 
+(Figure 7). The responses indicate that most are digital twin ready while an equal amount are 
+ready to use operational twins. Descriptions of the terms are found in the appendix. 
+ 
+ 
+
+Table 2: Displays survey results for 27 respondents. The table displays the average survey 
+response for the three questions found in the table. 
+Figure 8: The figure displays the responses to the above question. The figure displays survey 
+results for 26 respondents. 
+ 
+The respondents indicated how familiar they are with artificial intelligence in general and 
+specifically relating to water treatment (Table 2). They also answered if confusion about AI 
+affects further integration. The responses indicate a below average understanding of AI, but 
+confusion is not as significant a barrier as many of the barriers included in figure one. 
+ 
+ 
+ 
+ 
+Applying the same barriers as in figure one, the respondents were asked to indicate which 
+of the barriers apply to AI (Figure 8). They then selected their top three most impactful obstacles 
+(Figure 9), followed by selecting the single greatest obstacle (Figure 10). 
+ 
+ 
+ 
+ 
+Average Response 
+How familiar are you with Artificial Intelligence and machine learning in general? 
+4.69 
+How familiar are you with Artificial Intelligence relating to water treatment? 
+4.23 
+To what extent does confusion about AI affect further integration of AI systems? 
+5.12 
+
+Figure 9: The figure displays the responses to the above question. The figure displays survey 
+results for 26 respondents. 
+Figure 10: The figure displays the responses to the above question. The figure displays survey 
+results for 26 respondents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The results indicate that all the barriers have at least some affect. Funding received the 
+most responses for the most impactful obstacle while cybersecurity concerns received the second 
+most votes. 
+
+Discussion 
+ 
+As mentioned in the background, drinking water treatment plants are often subject to 
+significant budget constraints [1]. This reality makes it extremely important for systems to invest 
+their money efficiently, and to do this they must be aware of what technology options are 
+available to them. The survey results, displayed in table one, show that on average plants have a 
+good understanding of available technology, with an average rating of 7.07, and they have an 
+above average to good understanding of these options, with an average rating of 6.79. Although 
+these responses do not indicate an extremely strong understanding, it does indicate that on 
+average systems are aware enough of technology options that this likely does not serve as a 
+particularly severe obstacle to additional integration. Plants also indicate that on average they are 
+satisfied with their current technology. Again, due to financial constraints, plants already operate 
+with strong efficiency, which correlates to satisfaction with the process. The responses also 
+indicate that despite a feeling of satisfaction, many systems recognize that improvement is 
+possible. 
+As demonstrated by the case studies and other literature, processes can often improve on 
+their efficiency in unexpected ways [4]. The responses displayed in figure two show that 
+although on average systems are happy with their current technology, only three systems have 
+invested in digital twins and AI systems. It should be noted that there is a discrepancy between 
+the results shown in table one, regarding technology in general, and table two which specifically 
+references AI. The responses in table two indicate that respondents are significantly less familiar 
+with AI than traditional technology options. The survey results show an average rating of 4.69 
+for understanding of AI in general and a rating of 4.23 for understanding of AI relating to water 
+treatment. The responses indicate that on average, systems have a below average understanding 
+
+of AI, which is notable when compared to their overall good understanding of technology 
+options in general. Despite the apparent confusion, the responses indicate that on average, water 
+systems do not perceive lack of understanding of AI to be a leading obstacle preventing AI 
+integration, with an average response of 5.12. 
+Regarding technology integration overall, figure one shows that cybersecurity concerns is 
+the largest barrier to technology integration by a wide margin. Cybersecurity concerns received 
+an average response of 8.25 compared the second highest result of 7.07. As noted in the results 
+section, cybersecurity concerns also have the second lowest standard deviation, as shown in table 
+three. This indicates that this is a universal issue for most respondents. Given the rise of 
+ransomware attacks in recent years, these concerns are logical and should be investigated further. 
+Following cybersecurity, prior technological investment is the next largest barrier. This result 
+indicates that many systems are beholden to their preexisting infrastructure and cannot overcome 
+this commitment to invest in a new and more advanced product. This is consistent with the 
+results of the Dodge Data and Analytics survey which also identified this a significant barrier [2]. 
+They also identified lack of funding as a significant barrier [2], and the results in figure one agree 
+with this. Lack of funding received the third highest average response of 6.86 which is 
+reasonable given the chronic lack of funding facing the water sector. The results for this obstacle 
+yielded the highest standard deviation of the group, which indicates a rating disparity. Many of 
+the larger plants that responded, such as Akron and Youngstown, responded with values well 
+below the survey average. The two respondents from Akron provided an average rating of 5.5, 
+while the respondent from Youngstown replied with a rating of 4. Meanwhile, Delphos City, a 
+smaller facility producing under a million gallons per day, rated lack of funding as a 10. It should 
+also be noted that all six respondents that answered 10 for lack of funding have a total plant 
+
+capacity under five million gallon per day. This indicates that perhaps larger operations are less 
+likely to be affected by funding issues than the average water system. Although no exact 
+budgetary data was collected, this issue can potentially be attributed to greater budgetary 
+resources and preexisting infrastructure. In any event, understanding the exact nature of the 
+discrepancy between small and large systems in their ability to integrate new technology is a 
+relevant topic for future research. 
+The results identify lack of staff expertise as the fourth greatest barrier, with an average 
+response of 6.75. This is something that technology and software vendors need to consider. As 
+shown in the Fontus Blue case studies [5], the intuitive use of the software is just as important as 
+the capability of the software. Despite training and intuitive technology, new systems can still be 
+difficult to master, which represents a slightly different barrier. Difficulty learning to use new 
+technology is similar to lack of staff expertise but includes the initial learning curve associated 
+with new systems. Difficulty learning to use new technology received an average rating of 5.44, 
+which is significantly lower than lack of staff expertise. In fact, this issue received the third 
+lowest average rating. Clearly the respondents are confident in the ability of their peers to 
+quickly adapt to new technology. These results indicate that the ability of operators to 
+comfortably use software is an important factor to consider. In many scenarios a learning curve 
+is unavoidable, but it is less of an issue than many other barriers to technology integration. 
+The next several barriers are indeed noteworthy but not as impactful as the first four 
+obstacles mentioned. Lack of understanding of technological trends and lack of training received 
+nearly the same average response with results of 6.44 and 6.43 respectively. Understanding 
+trends relates to a lack of funding, as comprehending the overall technological landscape relating 
+to drinking water and the trends associated with it, is integral to making an economically sound 
+
+investment. As previously mentioned, being highly invested in technology acts as a significant 
+barrier to future investment. Understanding trends allows the water system to invest in 
+technology that has the capability to grow and incorporate new functions as the technology 
+becomes more advanced, lessening the impact of both barriers. Lack of training is noteworthy as 
+it relates to lack of staff expertise but includes training from internal and external sources. 
+Obviously, engagement from software vendors is extremely important, but there is also training 
+available from the Ohio EPA and other external sources. Perhaps a greater variety or training 
+more specific to new technology will be beneficial in minimizing this issue. Lack of training also 
+relates to lack of customer assistance and support, which received an average response of 6.14. 
+This issue speaks to the importance of a prolonged partnership with the technology vendor. This 
+relationship includes help troubleshooting issues and providing training to new employees, but 
+also updating or providing new software. The field of water treatment is constantly changing and 
+having active support from a vendor is important for both meeting new compliance standards but 
+also in implementing new technology. 
+The next several barriers received three of the lowest average ratings. Despite this fact, 
+these barriers should still be considered and can affect certain organizations more than others. 
+Resistance to change is the next largest barrier with an average response of 5.7, indicating a 
+moderate affect. On average the respondents have over 25 years of experience in the drinking 
+water treatment industry and have experienced firsthand the constantly changing landscape of 
+regulations and technology. Perhaps this barrier is less impactful in the water sector because 
+change is such an integral part of their daily operation. Concern about jobs becoming obsolete is 
+also not regarded as particularly impactful. In fact, it is the lowest rated barrier in the survey with 
+an average rating of 3.54. However, it should be noted that the vast majority of respondents are 
+
+superintendents or managers, and their jobs are relatively unaffected by this issue. This obstacle 
+is likely more impactful to the operators actively using the software. This can be investigated 
+more in the future but given the nature of the water treatment industry it is likely that the survey 
+result accurately reflects the extent of this issue. As mentioned in the Fontus Blue case studies [4, 
+5], new software is meant to be used in conjunction with human workers, with employee 
+engagement playing a key role in the effectiveness of the new technology. 
+Another obstacle with a moderate effect on technology integration is lack of 
+communication between staff and management. This received an average rating of 4.56, which is 
+the second lowest in figure one. This is logical given the results shown in figure five which 
+indicates that 75% of respondents are satisfied with the communication between staff and 
+management. This is an interesting result when compared to the responses displayed in figure 
+four. According to this figure, management is involved in all technology integration decision 
+with IT professionals being involved in 20 out of 27 cases and engineers offering input on 12 out 
+of 27 cases. This distribution makes sense given the wide variety of respondents and the differing 
+human resources available to them. However, operators are only involved in 9 out 27 or 1/3rd of 
+cases. Given the recommendations of Fontus Blue and previous discussion about the importance 
+of making operators comfortable with new technology, this number seems quite low. It calls into 
+question the quality of communication between management making the decisions and operators. 
+Employee engagement is not only a significant factor in integrating new technology, but also in 
+optimizing the use of current technology. Strong communication throughout the organization is 
+an important part of this and involving operators in the decision-making progress appears to be a 
+logical way to increase engagement. 
+
+Digital twins and other AI tools are a unique case of technology integration, as they are 
+subject to many of the previously mentioned barriers, but also have an air uncertainty 
+surrounding them. The data in figure six shows that despite evidence and case studies of the 
+usefulness of digital twins, many are not interested in using them. Nearly half of the respondents 
+fall into this category, and only three are currently using a digital twin. Of the remaining 
+respondents, eight are interested in using an asset health twin while seven are interested in using 
+a predictive twin. These twins offer real time updates of assets, and simulation calculation 
+capabilities [2]. Given the popularity of these two options, it appears that software vendors 
+should focus efforts on meeting these needs and be able to adapt to fill the needs of the security 
+and immersive twin in specific scenarios. Similarly, efforts should be focused on meeting the 
+needs of level zero and level two systems, as shown in figure seven. This indicates that systems 
+are poised to use both historical and live data streams. Process optimization and compliance 
+management should be the primary goals of the software in addition to design support and 
+traditional planning. The new information from the survey can provide direction to software 
+vendors, but digital twins are still falling victim to barriers to technology integration evidenced 
+by the low level of interest shown in figure six. 
+The obstacles preventing further integration of AI are similar to those affecting traditional 
+technological resources but are skewed slightly because of the lack of understanding of AI 
+shown in table two. Figure eight indicates that all the previously mentioned barriers affect AI, 
+although lack of customer assistance and lack of available training received relatively few votes. 
+Figure nine narrows the scope and calls attention to lack of funding, lack of understanding of 
+AI's capabilities, lack of staff expertise and cybersecurity concerns. Figure ten identifies the 
+respondents' single most impactful barrier, which reveals funding and cybersecurity concerns as 
+
+the two most impactful obstacles. This is similar to the results shown for traditional technology 
+in figure one, where lack of funding and cybersecurity concerns make up two of the top three 
+barriers. According to figure ten, lack of customer assistance, lack of training, and lack of staff 
+expertise are not to be regarded as the most impactful issue. Resistance to change should be 
+noted as an important but secondary barrier. Unsurprisingly, lack of understanding of AI's 
+capabilities is a significant obstacle. As shown in figure ten it received the third most responses 
+for the most impactful barrier. This is to be expected given the previous discussion. By 
+identifying these issues, hopefully water systems and software vendors can adapt to overcome 
+these barriers in the near future. 
+ 
+
+References 
+[1] Baywork. The Digital Worker Using Digital Tools to Deliver Water Services 
+https://www.baywork.org/wp-content/uploads/2021/06/Baywork_DigitalWorker_Final.pdf 
+(accessed 2022 -04 -11). 
+[2] Cooper, J. Digital Twin Types, Levels, and AWWA Survey Results; Arcadis, Ed.; 2022. 
+[3] Dodge Data and Analytics. Digital Capabilities of US Water Utilities; 2020. 
+[4] Fontus Blue. Balancing Treatment for Harmful Algal Blooms While Controlling DBPs Aqua 
+Campbell, Campbell, Ohio https://www.fontusblue.com/case-studies (accessed 2022 -04 -11). 
+[5] Fontus Blue. Data Driven Insights from AI Pays Large Dividends Excellent Water Quality 
+While Reducing OPEX Akron Water Supply, Kent, Ohio https://www.fontusblue.com/casestudies (accessed 2022 -04 -11). 
+[6] Gunning, D.; Aha, D. DARPA's Explainable Artificial Intelligence (XAI) Program. AI 
+Magazine 2019, 40 (2), 44-58. https://doi.org/10.1609/aimag.v40i2.2850. 
+[7] Hassanzadeh, A.; Rasekh, A.; Galelli, S.; Aghashahi, M.; Taormina, R.; Ostfeld, A.; Banks, 
+M. K. A Review of Cybersecurity Incidents in the Water Sector. Journal of Environmental 
+Engineering 2020, 146 (5), 03120003. https://doi.org/10.1061/(asce)ee.1943-7870.0001686. 
+[8] Huang, M.-H.; Rust, R. T. Artificial Intelligence in Service. Journal of Service Research 
+2018, 21 (2), 155-172. https://doi.org/10.1177/1094670517752459. 
+[9] Makarius, E. E.; Mukherjee, D.; Fox, J. D.; Fox, A. K. Rising with the Machines: A 
+Sociotechnical Framework for Bringing Artificial Intelligence into the Organization. Journal of 
+Business Research 2020, 120, 262-273. https://doi.org/10.1016/j.jbusres.2020.07.045. 
+[10] Miller, C. Digital Twin Deployment Success Case Studies with Emphasis on Workforce 
+Engagement Strategies; Fontus Blue, Ed.; 2022. 
+[11] Raisch, S.; Krakowski, S. Artificial Intelligence and Management: The Automation-
+Augmentation Paradox. Academy of Management Review 2020. 
+https://doi.org/10.5465/2018.0072. 
+[12] Savić, D. Digital Water Developments and Lessons Learned from Automation in the Car 
+and Aircraft Industries. Engineering 2021. https://doi.org/10.1016/j.eng.2021.05.013. 
+[13] The Digital Worker Using Digital Tools to Deliver Water Services; Baywork, Ed.; 2021. 
+[14] Tuptuk, N.; Hazell, P.; Watson, J.; Hailes, S. A Systematic Review of the State of Cyber-
+Security in Water Systems. Water 2021, 13 (1), 81. https://doi.org/10.3390/w13010081. 
+
+Figure 11: The figure displays the diagram explaining the different purposes of digital twins. 
+This diagram was used in a 2022 presentation by James Cooper of Arcadis [6]. 
+Figure 12: The figure displays a matrix explaining the different levels of digital twin readiness. 
+This diagram was used in a 2022 presentation by James Cooper of Arcadis [6]. 
+Appendix 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Table 3: The table displays the exact average values for the data found in figure one. It 
+also includes the standard deviation values. 
+ 
+Potential Barriers to Technology Integration 
+Average 
+Response 
+Standard 
+Deviation 
+Cybersecurity concerns 
+8.25 
+1.9 
+Already heavily invested in technology 
+7.07 
+2.11 
+Lack of funding 
+6.86 
+2.64 
+Lack of staff expertise 
+6.75 
+2.15 
+Lack of understanding of technological trends 
+6.44 
+2.15 
+Lack of training 
+6.43 
+1.9 
+Lack of customer assistance and support 
+6.14 
+2.34 
+Resistance to Change 
+5.7 
+2.42 
+Difficulty of learning to use new technology 
+5.44 
+2.2 
+Lack of communication between staff and management 
+4.56 
+2.45 
+Concern about jobs becoming obsolete 
+3.54 
+2.41

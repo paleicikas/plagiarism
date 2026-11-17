@@ -1,0 +1,66 @@
+Wellbeing
+7 min
+How Does Screen Time Affect Physical Health and How to FIX it
+150 minutes of exercise per week. Thatâs the official recommendation from the World Health Organization.
+At first, 2h30 of exercise might seem like a big deal! However, in reality, itâs 150 minutes of exercise spread over a week, which is less than 21 minutes of exercise per day. Suddenly, it feels much more manageable. And yet... more than 1.4 billion people do not reach this minimal goal.
+As a result, we are far too sedentary. In the US, 55% of people spend most of their time sitting, which comes at a cost: not only do a significant number of individuals (1 in 8 according to the WHO, 47% in France according to Statista) struggle with obesity or being overweight (a situation that actively presents health risks, according to the WHO), but it also leads to well-known health problems such as increased diabetes, cardiovascular issues, hypertension, and posture problems (musculoskeletal disorders, osteoporosis, etc.).
+So, what can we do? Detox, cure, medication? Forget it! We love a term from the WHO, "imbalance." It means that at its core, itâs just a matter of balance, which is no longer being respected between two things: sedentary lifestyle & screen time vs. physical activity.
+We spend about 30 hours a week glued to our phones. 2.5 hours of physical activity (which we don't even reach) versus 30 hours of screen time, there's a slight imbalance! It's time to set things right, and Jomo, the innovative screen time app for iOS, iPad and Mac, is here to help.
+Jomo Presents "Health Goals" ð©o
+Jomo introduces "Health Goals." The concept is simple: your apps are blocked until you reach your fitness goals. These goals can range from walking 10,000 steps, running 5 miles, meditating for 10 minutes, and more.
+We realized that screens are the number one reason for sedentary lifestyles. But it's not easy to just "cut off" and put on your sports shoes. Instagram is less tiring and so much more distracting than going out and sweatingâ¦
+Thatâs why we created "Health Goals." Simply put, your apps become rewards for your efforts. There's no need to be a super athlete to participate. As always with Jomo, you can adjust the difficulty to make it work for you.
+ð" Benefits
+According to the CDC, "Regular physical activity is one of the most important things you can do for your health. Being physically active can improve: your brain health, help manage weight, reduce the risk of disease, strengthen bones and muscles, and improve your ability to do everyday activities."
+And you don't have to cut yourself off from your favorite apps; you EARN this time! No more laziness, boredom, or endless scrolling that might not even be enjoyable anymore. You'll regain the energy to take care of yourself, turning your screen time into a victory!
+âï ̧ How It Works
+At Jomo, we believe in simplicity. Hereâs how to get started:
+- Install Jomo on your iPhone or iPad.
+- Go to Rules > Conditions > + > To Unblock.
+- You will have the choice between several metrics: steps, running distance, etc.
+- Let's choose the "Walk First" goal which rely on steps.
+- Adjust the step count if needed by tapping (5,000 by default).
+- Add the apps you want to block.
+- Choose when to activate it (all day, evenings, morningsâitâs up to you).
+- Done! Just tap Add.
+Youâll see a progress bar showing how many steps you need to take before unlocking your apps. So, readyâ¦ WALK!
+Introducingâ¦ "Dynamic Limits" ð
+And yes, that's not all. At Jomo, we think BIG. We knew you'd want an incremental version of these limits, so we made it happen!
+Dynamic limits are easy to grasp: the more you walk, the more time you unlock. You start with a daily usage budget, and once you hit it, you'll need to walk to get extra time. It's a fun way to add more exercise into your day. Simple, effective, and engaging.
+ð" Benefits
+Ever heard of the "Active Couch Potato"? Picture this: someone works out for 30 minutes every day but spends the rest of the time sitting around. They hit the gym in the morning, then itâs couch city all day.
+Experts say this wipes out the benefits of their workouts. Not cool, right? We have a better plan: let's get you moving a little more often throughout your day. Simple, but effective.
+âï ̧ How It Works
+Hereâs how to set up a dynamic limit on Jomo:
+1. Go to Rules > Conditions > + > To Block > Dynamic Limits.
+2. Let's choose "More Steps = More Time.", a dynamic limit which rely on steps.
+3. Tap the "Daily use exceedsâ¦" cell to configure the limit further.
+Now, the configuration menu might look a bit daunting, but take your time with it. Hereâs what you need to know:
+- "Start With": This is your initial budget. You can set it to 0 if you want the app to be blocked initially, and each step you take will add time. Or, start with 5 minutes, and after that, your steps will add more time.
+- "And Walk": This is the number of steps needed to unlock extra time. Adjust it based on your fitness level.
+- "To Earn": This is how many minutes youâll unlock for the steps you take.
+To make things clearer, weâve added a "Projection" card. It shows you how many minutes you could unlock with your selected settings, so you can see if itâs realistic for you.
+Once youâve set it up, youâll see a progression bar under your condition. This bar shows how much time youâve spent on your apps and how many more steps you need to unlock additional time.
+Keep experimenting, and let us know how we can make this feature even better for you!
+But waitâ¦ itâs not FINISHED! ð
+In the "Health Goals" conditions, Jomo also encourages you to take better care of yourself. Youâll find other essential health metrics to respect in exchange for screen time.
+ða· Meditate First
+Start your day with mindfulness meditation through an app synced to Apple Health, like Petit Bambou, Headspace, or Calm. Once you've completed your session, it unlocks your favorite apps. This is your way to finally make meditation a real habit.
+ð§ Hydrate First
+Hydration is crucial, and many of us need a little nudge to keep up. Use your usual water tracker that syncs with Apple Health. Hit your daily water intake goal, and then your apps will be available. It's a simple but effective way to stay hydrated.
+ð Exercise First (Apple Watch Only)
+â ï ̧ Requires an Apple Watch to work. Jomo now works with your Apple Watch rings. Complete your exercise goals to unlock your apps. Itâs straightforward, effective, and pure Jomo.
+âï ̧ Spend Time Outside First (Apple Watch Only)
+â ï ̧ Requires a compatible Apple Watch. Requires a compatible Apple Watch. Inspired by Appleâs latest health data announcement at WWDC 2023, weâve integrated outdoor time into Jomo. Spend a set amount of time outside to unlock screen time. Itâs as essential as walking (we know, treadmill enthusiasts!). So, get your vitamin D or enjoy the rain if you're in a wet region like us.
+How The Jomo Team Is Using Health Conditions
+ð ̈âð Thomas
+âAfter some tests, Iâve stuck with two health conditions.
+I use a dynamic time limit for YouTube. I allow myself a 15-minute budget by default, enough to watch one mid-length video. The more I walk during the day, the more time I get on YouTube. Iâve set it up so I can unlock an additional 15-30 minutes depending on my step count (5000 to 10000). So, if I get moving, I earn another video as a bonus!
+Initially, I tried a health goal for my steps to unlock YouTube after walking 7500 steps. It was too frustrating, so I switched to a dynamic limit instead.
+However, I use a health goal to make myself do a quick meditation in the morning, and this has been very effective. Iâve enabled it three times a week (Monday, Wednesday, Friday) from 6 AM to 12 PM. All my social and work apps are blocked until I complete 5 mindful minutes (synced with Apple Health).
+It might not seem like much, but for someone who has struggled with getting into the habit of meditating for years, this is the first time Iâve stuck with it for three weeks straight!â
+ð©ð"âð¦° Laureline
+"My problem is that I have trouble finding the motivation to walk. We live in a region where it rains a lot, and no one is ever excited to go outside and come back soaked. ð
+As a result, I often end up watching videos on YouTube just because I have nothing better to do. To address this, I set a condition called "More Steps = More Time" on YouTube, which I named "YouScroll." Initially, I have 15 minutes. This allows me to start a video and get interested, but then I know I have to earn the time to finish it.
+I know it's important to take at least 3,000 steps a day. So, I decided to give up watching shows in the evening if I don't reach this goal. It might seem a bit harsh, but if I don't get fresh air every day, I struggle to sleep at night and can end up binge-watching very late. So, this is a way to protect my sleep. Steps = a show (and I also limit myself to watching just one episode!)."
+So, what do you think? In the end, the hardest part is not giving up (but donât worry, we have Strict Mode for that). Ready to take the challenge? At Jomo, itâs already adopted and validated. So donât hesitate to download Jomo on iOS and give it a try!

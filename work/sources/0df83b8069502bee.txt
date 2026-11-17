@@ -1,0 +1,94 @@
+Attitudes, Beliefs, Personality, and Pricing
+Although most questionnaires are written using the approach described in Basic Questionnaires, more advanced approaches have been developed for solving some specific problems. When these approaches are used they typically involve the creation of one or more additional questions which then form a section of the questionnaire.
+Attitudes, beliefs and personality
+Measuring Abstract Concepts
+Most questions in questionnaires measure concrete things like age. A much harder challenge is measuring abstract things. For example, how can we measure involvement, innovativeness, cynicism, sophistication, or susceptibility to peer group pressure? The solution is to use a multi-item scale which asks multiple similar questions and computes an average response.
+The logic of multi-item scales
+If you've ever done a personality test or an IQ test you will be familiar with the solution to this problem: ask a whole lot of related questions. Consider the problem of trying to work out which people are susceptible to the influence of other people. We could try and understand this by asking people how strongly they agree or disagree with the statement: I rarely purchase the latest fashion styles until I am sure my friends approve of them.
+However, a problem with this question is that many people may never purchase the "latest fashion styles", making it difficult to interpret what their answer may mean. We can express this as a simple measurement model:
+where Truth refers to the true degree of susceptibility to influence of other people, Measurement is the answers that people give to this question and Error refers to all of the factors that prevent the measured degree of social susceptibility from being equal to the true value. Discrepancies' between the truth and what is measured are known as measurement errors.
+This equation, which is referred to as the measurement error model, tells us that there will be a correlation between Truth and Measurement, but there is also a correlation between Error and Measurement, meaning that any Measurement will reflect a combination of Truth and Error.
+Another question wording for trying to understand susceptibility to social influence is: To make sure I buy the right product or brand, I often observe what others are buying and using.
+This suffers from the problem that some people's susceptibility may come about through other channels, such as social media. Expressing this as a formula gives:
+Truth + Error_2 = Measurement_2
+where the 2_ indicates that this is a different Error to that in the earlier equation.
+If we add together both of the equations, we get:
+2×Truth + Error + Error_2 = Measured + Measured_2
+Dividing both sides by 2, so that it reflects the average of the two measures gives:
+Truth + (Error + Error_2)/2 = (Measured + Measured_2)/2
+Where two measurements are averaged, the resulting measure is referred to as a multi-item measure, so we can rewrite the equation as:
+Truth + (Error + Error_2)/2 = Multi-item measure
+Now, you may be thinking at this stage, "so what", but the above equation is insightful if we make an assumption. The assumption that we need to make is that there is a negligible relationship between Error and Error_2 (there is close to a 0 correlation between the variables). If this assumption is true, it means that the correlation between the multi-item measure and the truth will be greater than when a single item (question) is used for measurement. This is because the errors do, to an extent, cancel each other out.
+The more wordings of a question that we use, the greater the correspondence between the estimated value and the truth, provided that each different variable has similar levels of error. If it is the case that some of the questions have discernibly more error than others, or if some of the variables' errors are closely correlated with each other, then it is better to omit these variables.
+Example: Consumer susceptibility to interpersonal influence[1]
+Each respondent's average rating of the following 12 items on a seven-point scale of:
+Strongly Strongly 
+Disagree Agree
+ 1 2 3 4 5 6 7
+is an estimate of the role of interpersonal influence on brand and category choice decisions.
+- I often consult other people to help choose the best alternative available from a product class*
+- If I want to be like someone, I often try to buy the same brands that they buy
+- It is important that others like the products and brands I buy
+- To make sure I buy the right product or brand, I often observe what others are buying and using*
+- I rarely purchase the latest fashion styles until I am sure my friends approve of them
+- I often identify with other people by purchasing the same products and brands they purchase
+- If I have little experience with a product, I often ask my friends about the product*
+- When buying products, I generally purchase those brands that I think others will approve of
+- I like to know what brands and products make good impressions on others
+- I frequently gather information from friends or family about a product before I buy*
+- If other people can see me using a product, I often purchase the brand they expect me to buy
+- I achieve a sense of belonging by purchasing the same products and brands that others purchase
+The items with a * next to them are measures of the role that other people have as a source of information, while the remaining items measure the direct influence of other people. As only a third of the items have an asterisk this means that the scale more heavily weights other people as a direct influence than other people as a source of information.
+How to create multi-item scales
+- Dream up many possible items for each concept that is to be measured (e.g., dozens or hundreds), where an item is a specific statement that is rated.
+- Conduct a small survey of, say, 100 people, and get them to provide a rating on a 5, 7, 9, 10 or 11 point scale for each item.
+- Compute the correlations between each of the items (or, equivalently, use Principal Components Analysis).
+- Discard any items that are not correlated with all the other items.
+- Work out how many items you need to retain. If you are just after a very rough measurement, two or three may be sufficient. If you are wanting to make very precise statements about differences between people you will likely need at least 10. Special formula's have been developed for working out how many items you need and how accurate your ratings will be in multi-item scales, including Cronbach's Alpha.
+Finding existing multi-item scales
+Thousands of multi-item scales have been developed by academics, and their use can save many hours of time in questionnaire development. There are a number of handbooks containing many of the scales, and they are worthwhile investment for market researchers (sometimes there is a need to reword the questions to make them more consumer friendly). For example:
+Beardon, William O., Richard G. Netemeyer, and Mary F. Mobley (1993), Handbook of Marketing Scales: Multi-Item Measures for Marketing and Consumer Behavior Research. Newbury Park: Sage Publications
+Bruner, Gordon C. and Paul J. Hensel (1995), Marketing Scales Handbook. Chicago: American Marketing Association.
+Measuring Needs
+Multiple different multi-item scales have been developed for measuring needs. One of the more popular is Schwarz's Human Values Scale, which is used to understand differences between people in their values (i.e., their central goals in life). The scale contains ten different dimensions, as Schwarz's theory is that almost all differences between cultures can be explained using these ten dimensions. Each dimension is measured with two or more items, where people are asked to indicate whether the people described are:
+Very much like me
+Like me
+Somewhat like me
+A little like me
+Not like me
+Not like me at all 
+The items below are a version of the scale used in the European Social Survey:
+| VALUE and central goal | Items that measure each value | 
+| Power: Social status and prestige, control or dominance over people and resources. | It is important to him to be rich. He wants to have a lot of money and expensive things.It is important to him to get respect from others. He wants people to do what he says. | 
+| Achievement: Personal success through demonstrating competence according to social standards. | It is important to him to show his abilities. He wants people to admire what he does.Being very successful is important to him. He hopes people will recognize his achievements. | 
+| Hedonism: Pleasure and sensuous gratification for oneself. | He seeks every chance he can to have fun. It is important to him to do things that give him pleasure.Having a good time is important to him. He likes to "spoil" himself. | 
+| Stimulation: Excitement, novelty, and challenge in life | He likes surprises and is always looking for new things to do. He thinks it is important to do lots of different things in life.He looks for adventures and likes to take risks. He wants to have an exciting life. | 
+| Self-direction: Independent thought and action choosing, creating, exploring. | Thinking up new ideas and being creative is important to him. He likes to do things in his own original way.It is important to him to make his own decisions about what he does. He likes to be free and not depend on others. | 
+| Universalism: Understanding, appreciation, tolerance and protection for the welfare of all people and for nature. | He thinks it is important that every person in the world should be treated equally. He believes everyone should have equal opportunities in life.It is important to him to listen to people who are different from him. Even when he disagrees with them, he still wants to understand them. He strongly believes that people should care for nature. Looking after the environment is important to him. | 
+| Benevolence: Preservation and enhancement of the welfare of people with whom one is in frequent personal contact. | It is very important to him to help the people around him. He wants to care for their well-being.It is important to him to be loyal to his friends. He wants to devote himself to people close to him. | 
+| Tradition: Respect, commitment and acceptance of the customs and ideas that one's culture or religion impose on the individual. | It is important to him to be humble and modest. He tries not to draw attention to himself.Tradition is important to him. He tries to follow the custom handed down by his religion or his family. | 
+| Conformity: Restraint of actions, inclinations, and impulses likely to upset or harm others and violate social expectations or norms. | It is important to him always to behave properly. He wants to avoid doing anything people would say is wrong.He believes that people should do what they are told. He thinks people should follow rules at all times, even when no-one is watching. | 
+| Security: Safety, harmony and stability of society, of relationships, and of self. | It is important to him to live in secure surroundings. He avoids anything that might endanger his safety.It is important to him that the government ensures his safety against all threats. He wants the state to be strong so it can defend its citizens. | 
+Max-Diff
+Max-Diff is an alternative to rating scales which seeks to solve the same problem.
+A Max-Diff experiment presents respondents with a series of questions like the one shown below where the set of alternatives shown is varied from question-to-question so that it is possible to isolate the relative appeal of the different alternatives.
+What is the MOST and LEAST important factor to you when you choose a car?
+MOST LEAST
+ Price 
+ Top speed 
+ Fuel economy 
+ Emissions 
+ Paint color 
+For a detailed description of the design and analysis of max-diff experiments, see Max-Diff.
+It is sometimes described as a Choice Modeling method, as similar tools are used to create the experimental designs and to analyze the data.
+Pricing
+Price Sensitivity Meter
+The price sensitivity meter is a popular set of questions designed to provide assistance in understanding the range of prices that can be relevant for a completely new product. There are a few minor variants, but the standard wordings are:
+Q1. At what price would you consider this PRODUCT/BRAND to be so inexpensive that you would have doubts about its quality? ["Too cheap"]?
+Q2. At what price would you still feel this PRODUCT/BRAND was inexpensive yet have no doubts as to its quality? ["Cheap"]?
+Q3. At what price would you begin to feel this PRODUCT/BRAND is expensive but still worth buying because of its quality? ["Expensive"]?
+Q4. At what price would you feel that the PRODUCT/BRAND is so expensive that regardless of its quality it is not worth buying? ["Too expensive"]?
+The third question can be interpreted as collecting the reservation price (see Phrasing the Question), with the other questions framing this last question in much the same way that asking people which animal best represents a brand frames the "why" question with Brand Personification question.
+From-time-to-time the price sensitivity meter is used to generate price-demand curves and make predictions about sales at different price points. As the questions are clearly not incentive compatible and completely ignore the availability of substitutes, and predictions made using such a technique seem likely to have little prospect of being remotely accurate, except by chance.
+Also known as
+Van Westendorp's Price Sensitivity Meter.

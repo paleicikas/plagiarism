@@ -1,0 +1,888 @@
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3900 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+Exploring the Relationship Self-Efficacy, Academic Achievement, Perceived 
+Behavioral Control, and Student's Sustainable Behavior: 
+An Empirical Study 
+ 
+Tia Rahmania 
+Department of Psychology, University of Paramadina, Jakarta, Indonesia 
+ 
+ABSTRACT: This study investigates the relationship between self-efficacy, academic achievement, perceived behavioral control 
+(PBC), and sustainable behavior among students in an educational context. Self-efficacy refers to individuals' belief in their ability 
+to succeed in academic tasks, while PBC pertains to individuals' perception of their control over their behavior. Sustainable behavior 
+of students encompasses actions that support sustainable learning and environment. The study includes a sample of students from 
+different educational levels and collects data through surveys to measure self-efficacy, PBC, sustainable behavior, and academic 
+achievement. The findings highlight the significant role of self-efficacy in predicting sustainable behavior, and sustainable behavior 
+as a mediator between self-efficacy and academic achievement. Additionally, PBC has an influence on both self-efficacy and 
+sustainable behavior of students. These findings contribute to a better understanding of the psychological factors related to improved 
+academic achievement. The practical implications of this study provide insights for educators and policymakers to develop strategies 
+that enhance self-efficacy, PBC, and sustainable behavior among students, ultimately leading to enhanced academic achievement. 
+ 
+KEYWORDS: academic achievement, perceived behavioral control, self-efficacy, sustainable behavior. 
+ 
+INTRODUCTION 
+Academic achievement is a critical goal in education, and understanding the factors that contribute to it is of great importance 
+(Moreira et al., 2020). In this regard, two psychological constructs, namely Perceived Behavioral Control and Self-Efficacy, have 
+garnered significant attention due to their influence on students' academic outcomes (Patricia Aguilera-Hermida, 2020). However, 
+there is a need to explore the role of sustainable behavior in mediating the relationship between Perceived Behavioral Control, Self-
+Efficacy, and academic achievement. Perceived Behavioral Control refers to an individual's perception of their ability to control and 
+regulate their behaviors in academic settings (Ham et al., 2015). It encompasses beliefs about time management, study habits, goal 
+setting, and overcoming challenges (Icek Ajzen, 2020). On the other hand, Self-Efficacy represents an individual's belief in their 
+own capabilities to successfully perform academic tasks, overcome difficulties, and achieve desired academic outcomes (Voica et 
+al., 2020). It reflects their confidence in their academic abilities (Talsma et al., 2019). 
+Previous research has established the positive association between Perceived Behavioral Control, Self-Efficacy, and academic 
+achievement (Affuso et al., 2017; Barrett & Feng, 2021; Pinquart, 2016; Yang et al., 2022). Students who perceive a higher level of 
+control over their behaviors and possess greater self-efficacy tend to exhibit more motivated and engaged academic behaviors, 
+leading to improved academic performance (Uçar & Sungur, 2017). However, the specific role of sustainable behavior as a mediator 
+in this relationship requires further investigation. Sustainable behavior in the academic context refers to students' consistent and 
+long-term engagement in positive academic practices and habits. It involves behaviors such as regular study routines, effective time 
+management, persistence in the face of challenges, and maintaining a growth mindset. By exploring the role of sustainable behavior, 
+this study aims to provide a comprehensive understanding of how Perceived Behavioral Control and Self-Efficacy influence 
+academic achievement through students' behavioral patterns. 
+The novelty of this research lies in its focus on the mediating role of sustainable behavior. While previous studies have 
+examined the direct associations between Perceived Behavioral Control, Self-Efficacy, and academic achievement, there is limited 
+research exploring the specific mechanisms through which sustainable behavior mediates this relationship. Investigating this 
+mediating role can shed light on the underlying processes that explain how psychological factors influence academic achievement 
+through students' sustained engagement in positive academic behaviors. This research aims to investigate the relationship between 
+Perceived Behavioral Control, Self-Efficacy, sustainable behavior, and academic achievement. Specifically, it seeks to explore 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3901 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+whether sustainable behavior acts as a mediator in the relationship between Perceived Behavioral Control, Self-Efficacy, and 
+academic achievement. By addressing this research question, the study intends to contribute to the existing knowledge by providing 
+insights into the mechanisms through which psychological factors impact academic outcomes via sustainable behavior. 
+The findings of this study have practical implications for educators, policymakers, and educational stakeholders. By 
+understanding the mediating role of sustainable behavior, interventions and strategies can be developed to promote positive 
+academic behaviors and enhance academic achievement. Moreover, this research can contribute to a broader understanding of the 
+factors that foster students' academic success, ultimately leading to the development of more effective educational practices and 
+policies. This study explores the role of sustainable behavior as a mediator between Perceived Behavioral Control, Self-Efficacy, 
+and academic achievement. By investigating the mechanisms underlying this relationship, the study aims to provide valuable 
+insights into how psychological factors influence academic outcomes through students' sustained engagement in positive academic 
+behaviors. The findings of this research have practical implications for enhancing academic achievement and can inform the 
+development of targeted interventions and strategies in educational settings. 
+ 
+LITERATURE REVIEW 
+Perceived Behavioral Control is a psychological construct that refers to individuals' beliefs about their ability to control and 
+regulate their behaviors in a specific context, in this case, the academic setting (de Leeuw et al., 2015). It encompasses their 
+perception of the extent to which they have control over their actions, habits, and decisions related to their academic performance 
+(Andre et al., 2018). Perceived Behavioral Control includes factors such as time management skills, study strategies, organizational 
+abilities, and the capacity to overcome obstacles (González-López et al., 2018). Ajzen (2020) explain that individuals with a higher 
+sense of Perceived Behavioral Control believe that they have the necessary resources and skills to effectively manage their academic 
+tasks and navigate through challenges. Self-Efficacy, on the other hand, is a psychological construct that is closely related to 
+Perceived Behavioral Control (Williams & Rhodes, 2016). It refers to an individual's belief in their own capabilities to successfully 
+execute specific tasks and achieve desired outcomes (Mamaril et al., 2016). Self-Efficacy is rooted in Bandura's Social Cognitive 
+Theory and emphasizes the role of personal agency and self-beliefs in human behavior (Lent, 2016). In the academic context, Self-
+Efficacy reflects students' confidence in their abilities to understand complex concepts, perform well in examinations, complete 
+assignments successfully, and meet academic goals. Higher levels of Self-Efficacy are associated with greater motivation, 
+perseverance, and academic engagement (Vongkulluksn et al., 2018). 
+Lau et al. (2021) assert that individuals with higher levels of Perceived Behavioral Control and Self-Efficacy tend to experience 
+less academic-related stress and anxiety, as they feel more equipped to handle academic demands and challenges effectively. 
+Sustainable behavior in the academic context refers to students' consistent and long-term engagement in positive academic practices 
+and habits (Chen et al., 2020). It involves adopting behaviors that promote continuous learning, growth, and academic success. 
+According to Zachary & Fain (2022), sustainable behavior encompasses various aspects, such as adhering to regular study routines, 
+effectively managing time, seeking feedback, maintaining a positive attitude, persisting in the face of setbacks, and engaging in 
+active learning strategies. Students who exhibit sustainable behavior demonstrate a commitment to their academic goals and 
+consistently engage in behaviors that facilitate their learning and achievement (Day et al., 2016). Research has consistently shown 
+that students who engage in sustainable behaviors tend to perform better academically (Legrain et al., 2021; Li et al., 2020). By 
+consistently investing time and effort into their studies, they are more likely to grasp and retain information effectively. Gal & Gan 
+(2020) explore that sustainable behaviors also promote deep learning, as students engage in reflective practices, seek understanding, 
+and make connections between concepts. Furthermore, students who exhibit sustainable behavior are better equipped to manage 
+their time efficiently, avoid procrastination, and meet deadlines, resulting in improved productivity and reduced academic-related 
+stress (Travers, 2022). 
+Previous research has highlighted the significant role of sustainable behavior in predicting academic outcomes (de Leeuw et 
+al., 2014; Fawehinmi et al., 2020; Houchens et al., 2017). Studies have demonstrated that students who consistently engage in 
+positive academic behaviors, such as active studying, regular review of material, and seeking clarification when needed, achieve 
+higher grades and perform better on examinations. Sustainable behavior is also associated with increased self-regulation skills, 
+metacognitive abilities, and overall academic self-efficacy. Moreover, research has shown that sustainable behavior acts as a 
+mediator between psychological factors, such as motivation and goal orientation, and academic achievement. It serves as a 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3902 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+mechanism through which individuals' internal resources and motivations translate into tangible academic outcomes. 
+Understanding the role of sustainable behavior in academic achievement is crucial for educators and policymakers. By 
+identifying and promoting sustainable behaviors, educational institutions can support students in developing effective study habits, 
+time management skills, and self-regulation strategies. Additionally, integrating sustainable behavior into educational programs can 
+foster a culture of continuous learning, resilience, and academic success among students. Perceived Behavioral Control and Self-
+Efficacy play vital roles in shaping students' academic behaviors and outcomes. Moreover, sustainable behavior serves as a critical 
+mediator in the relationship between psychological factors and academic achievement. Understanding these constructs and their 
+interplay can inform educational practices and interventions aimed at enhancing students' academic engagement, motivation, and 
+success. 
+Perceived Behavioral Control is rooted in the Theory of Planned Behavior proposed by Ajzen (1991). This theory suggests 
+that individuals' perceptions of their control over a behavior significantly influence their intention to engage in that behavior. 
+Perceived Behavioral Control encompasses the beliefs individuals hold about their ability to manage and control their behaviors in 
+academic settings. It includes factors such as time management skills, study habits, goal-setting abilities, and the ability to overcome 
+obstacles and challenges. On the other hand, Self-Efficacy, as proposed by Bandura's Social Cognitive Theory (1986), refers to an 
+individual's belief in their own capabilities to successfully perform specific tasks (Schunk & DiBenedetto, 2020). Self-Efficacy is 
+influenced by mastery experiences, vicarious experiences, social persuasion, and physiological states. It reflects individuals' 
+confidence in their academic abilities and their belief in their capacity to achieve desired academic outcomes. 
+The concept of sustainable behavior in the academic context refers to students' consistent and long-term engagement in positive 
+academic practices and habits (Chen et al., 2020). It involves behaviors such as regular study routines, effective time management, 
+persistence in the face of challenges, and maintaining a growth mindset. The Social Cognitive Theory provides a theoretical basis 
+for understanding the role of sustainable behavior as a mediator. This theory emphasizes the dynamic interplay between personal 
+factors, environmental factors, and behavior. Sustainable behavior can be viewed as a result of reciprocal determinism, where 
+personal factors (such as Perceived Behavioral Control and Self-Efficacy) and environmental factors interact to shape behavior over 
+time. According to this perspective, sustained engagement in positive academic behaviors is influenced by the interaction between 
+individuals' beliefs, their environment, and their behaviors. 
+Based on the theoretical foundations described above, several hypotheses can be proposed. 
+Hypothesis 1: Self-Efficacy will positively predict perceived behavioral control. 
+Hypothesis 2: Self-Efficacy will positively predict sustainable behavior. 
+Hypothesis 3: Perceived Behavioral Control will positively predict sustainable behavior. 
+Hypothesis 4: Sustainable behavior will positively predict academic achievement. 
+Hypothesis 5: Perceived Behavioral Control will mediate the relationship between Self-Efficacy and Sustainable behavior 
+Hypothesis 6: Sustainable behavior will mediate the relationship between Self-Efficacy and academic achievement 
+Hypothesis 7: Sustainable behavior will mediate the relationship between Perceived Behavioral Control and academic achievement 
+The theoretical framework provides a solid foundation for understanding the constructs of Perceived Behavioral Control, Self-
+Efficacy, sustainable behavior, and their proposed relationships with academic achievement. By integrating established theories in 
+psychology, this framework explains the underlying mechanisms and hypothesized connections between these variables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Hypothesis framework 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3903 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+METHODS 
+Research design 
+The research will employ a quantitative research design to examine the relationships between Perceived Behavioral Control, Self-
+Efficacy, sustainable behavior, and academic achievement. A cross-sectional approach will be used to collect data at a specific point 
+in time, capturing the participants' perceptions, behaviors, and academic outcomes. 
+Participants 
+The participants of this study consist of students from senior high schools and university in Banten Province, Indonesia. A 
+representative sample will be selected using a random sampling technique to ensure the generalizability of the findings. The sample 
+size will be determined based on power analysis to ensure sufficient statistical power to detect the hypothesized relationships. 
+Therefore, a power analysis will be conducted to obtain an adequate sample size for this study, which will yield statistically 
+significant findings. The estimated sample size is 155 participants. 
+Measures 
+Multiple validated self-report measures will be used to assess the variables of interest. The instruments will be selected based on 
+their reliability, validity, and relevance to the constructs under investigation. The measures will include: 4 self-efficacy items adopted 
+from Voica et al. (2020). 3 items for perceived behavior control adopted from Ajzen (2020). 8 items for sustainable behavior adopted 
+from de Leeuw et al. (2014), and 3 items for academic achievement adopted from Houchens et al. (2017). We measured respondents' 
+views on a five-point Likert scale from strongly disagree (1) to agree (5) strongly. We examined the questionnaire from February 
+2023 to April 2023. 
+Data collection procedure 
+Data will be collected through a combination of online surveys. Informed consent will be obtained from participants prior to their 
+participation in the study. Participants will complete the online surveys, providing information about their perceptions of control, 
+self-efficacy beliefs, sustainable behaviors, and academic achievement. 
+Data analysis plan 
+Data analysis will involve several steps. Descriptive statistics will be computed to examine the central tendency and variability of 
+the variables. Pearson correlation coefficients will be calculated to assess the bivariate relationships between Perceived Behavioral 
+Control, Self-Efficacy, sustainable behavior, and academic achievement. Regression analysis will be conducted to investigate the 
+direct effects of Perceived Behavioral Control and Self-Efficacy on sustainable behavior and academic achievement. Additionally, 
+mediation analysis using techniques such as bootstrapping will be employed to examine the mediating role of sustainable behavior 
+in the relationship between Perceived Behavioral Control, Self-Efficacy, and academic achievement. Statistical software packages 
+SPSS, will be utilized for data analysis. 
+ 
+FINDING AND DISCUSSION 
+Validity and reliability 
+The validity of the indicator by employing the convergent method, which yielded the external loading factor. The acceptable 
+range for the loading factor in exploratory studies, which are the initial stages of developing a measurement scale, is 0.50 to 0.70. 
+In our specific investigation, all indicators exhibited an outer loading value greater than 0.70, meeting the criteria for convergent 
+validity (refer to Table 1). In the next phase, we compared the square root coefficient of variance (AVE) extracted from each latent 
+factor to the correlation coefficient between the other factors in the model. This analysis aimed to determine if the variables 
+demonstrated discriminant validity, indicating their ability to differentiate between distinct groups. The AVE values significantly 
+exceeded 0.5, as indicated in Table 1. Consequently, all constructs examined in this study exhibited discriminant validity higher than 
+0.50, as per Fornell & Larcker (1981). In the final step of the process, we employed composite reliability to assess the value of the 
+variable indicators. Both the composite reliability and Cronbach's alpha exceeded 0.70, affirming the trustworthiness of the results 
+(Chin, 2010). 
+ 
+ 
+ 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3904 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+Table 1. Confirmatory factor analysis 
+Construct 
+Items 
+Outer 
+Loading 
+Cronbach's 
+Alpha 
+rho_A 
+CR 
+AVE 
+Self-Efficacy 
+SE1 
+0.753 
+0.877 
+0.878 
+0.916 
+0.734 
+ 
+SE2 
+0.848 
+ 
+ 
+ 
+ 
+ 
+SE3 
+0.908 
+ 
+ 
+ 
+ 
+ 
+SE4 
+0.908 
+ 
+ 
+ 
+ 
+Perceived Behavioral 
+Control 
+PBC1 
+0.939 
+0.889 
+0.888 
+0.932 
+0.820 
+PBC2 
+0.938 
+ 
+ 
+ 
+ 
+PBC3 
+0.836 
+ 
+ 
+ 
+ 
+Sustainable behavior 
+SB1 
+0.859 
+0.960 
+0.963 
+0.966 
+0.782 
+ 
+SB2 
+0.884 
+ 
+ 
+ 
+ 
+ 
+SB3 
+0.914 
+ 
+ 
+ 
+ 
+ 
+SB4 
+0.907 
+ 
+ 
+ 
+ 
+ 
+SB5 
+0.920 
+ 
+ 
+ 
+ 
+ 
+SB6 
+0.896 
+ 
+ 
+ 
+ 
+ 
+SB7 
+0.796 
+ 
+ 
+ 
+ 
+ 
+SB8 
+0.893 
+ 
+ 
+ 
+ 
+Academic 
+Achievement 
+ 
+AA1 
+0.789 
+0.742 
+0.749 
+0.852 
+0.658 
+AA2 
+0.815 
+ 
+ 
+ 
+ 
+AA3 
+0.829 
+ 
+ 
+ 
+ 
+ 
+The calculation of composite reliability for the variables in this study resulted in values ranging from 0.852 to 0.966, which 
+exceeded the threshold of 0.70. These findings indicate that the indicators used to measure the variables were reliable and consistent. 
+Additionally, Cronbach's alpha values ranging from 0.742 to 0.966 were obtained, further confirming the dependability of the 
+indicators and indicating that they were free from measurement error (MacKenzie et al., 2011). 
+Research findings 
+The results of the hypotheses testing exhibited that self-efficacy had significant and positive influence on the perceived 
+behavior control (t=7.543>1.96) and sustainable behavior (t=3.324>1.96). In addition, perceived behavior control had significant 
+and positive influence on sustainable behavior (t=2.779>1.96). Furthermore, sustainable behavior impact on academic achievement 
+positively (t=10.442>1.96). Therefore, all hypotheses from H1 to H4 are accepted (see Table 2). 
+ 
+Table 2. Path Coefficient 
+Hypothesis 
+Construct *) 
+Original 
+Sample 
+Standard 
+Deviation 
+T Statistics 
+P Values 
+Remark 
+H1 
+SE -> PBC 
+0.561 
+0.074 
+7.543 
+0.0000 
+Accepted 
+H2 
+SE -> SB 
+0.313 
+0.094 
+3.324 
+0.0010 
+Accepted 
+H3 
+PBC -> SB 
+0.269 
+0.097 
+2.779 
+0.0060 
+Accepted 
+H4 
+SB -> AA 
+0.632 
+0.061 
+10.442 
+0.0000 
+Accepted 
+*): SE=Self-Efficacy; PBC=Perceived Behavioral Control; SB=Sustainable Behavior; AA=Academic 
+Achievement 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3905 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+ 
+ 
+Furthermore, the study examines the pathway coefficients to investigate whether perceived behavioral control and sustainable 
+behavior as mediator (see Table 3). 
+ 
+Table 3. Mediation result 
+Hypothesis 
+Construct *) 
+Original 
+Sample 
+Standard 
+Deviation 
+T Statistics 
+P Values 
+Remark 
+H5 
+SE -> PBC -> SB 
+0.151 
+0.063 
+2.384 
+0.017 
+Accepted 
+H6 
+SE -> SB -> AA 
+0.198 
+0.070 
+2.839 
+0.005 
+Accepted 
+H7 
+PBC -> SB -> AA 
+ 0.170 0.062 
+2.745 
+0.006 
+Accepted 
+*): SE=Self-Efficacy; PBC=Perceived Behavioral Control; SB=Sustainable Behavior; AA=Academic 
+Achievement 
+ 
+According to the mediation test, perceived behavioral control has a favorable effect on self-efficacy and sustainable behavior 
+(t=2.384>1.96). Then, sustainable behavior has a favorable effect self-efficacy and academy achievement positively (t=2.839>1.96), 
+and also sustainable behavior has a favorable effect on perceived behavioral control and perceived behavioral control positively 
+(t=2.745>1.96). Consequently, it is possible to argue that perceived behavioral control can mediate the association between selfefficacy and sustainable behavior. In addition, sustainable behavior can mediate the association between self-efficacy and academy 
+achievement, and also mediate the association between perceived behavioral control and academy achievement therefore, all 
+hypothesis (H5 - H7) are accepted. 
+ 
+DISCUSSION 
+Based on the hypothesis that self-efficacy impact positively on perceived behavior control (H1 accepted), it implies that 
+individuals who possess higher levels of Self-Efficacy beliefs in their academic abilities are more likely to engage in sustainable 
+behaviors. Self-Efficacy refers to individuals' beliefs in their capabilities to organize and execute the necessary actions to achieve 
+desired outcomes. In the context of academic achievement, students with high Self-Efficacy beliefs perceive themselves as 
+competent and capable of successfully completing academic tasks, managing academic challenges, and achieving their academic 
+goals. These beliefs foster a sense of confidence and motivation, leading to the adoption of sustainable behaviors. When students 
+have a strong sense of Self-Efficacy, they are more likely to approach their academic tasks with determination and persistence. They 
+are inclined to set realistic goals, develop effective study strategies, and regulate their academic behaviors in a consistent and 
+sustainable manner. High Self-Efficacy individuals tend to view obstacles or setbacks as opportunities for growth and learning, 
+which further encourages the engagement in sustainable behaviors. It is important to consider that Self-Efficacy beliefs can be 
+influenced by various factors, such as past experiences, social support, and feedback received. Additionally, the relationship between 
+Self-Efficacy and sustainable behavior may be moderated by factors like task difficulty, perceived control, and external resources. 
+Nevertheless, existing research suggests a positive predictive effect of Self-Efficacy on sustainable behavior. In conclusion, 
+individuals with higher levels of Self-Efficacy beliefs in their academic abilities are more likely to engage in sustainable behaviors. 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3906 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+This finding highlights the importance of fostering self-confidence and belief in students' capabilities as a means to promote 
+sustainable academic practices. By enhancing students' Self-Efficacy, educators and policymakers can empower students to adopt 
+behaviors that contribute to their long-term academic success and achievement. 
+Self-Efficacy positively impacts sustainable behavior (H2) accepted, that indicate individuals with higher levels of self-efficacy 
+are more likely to engage in and exhibit sustainable behaviors. Self-efficacy refers to an individual's belief in their own abilities and 
+confidence in their capacity to perform specific tasks or behaviors successfully. When individuals have a strong sense of selfefficacy, they are more likely to take proactive actions that align with sustainable principles and contribute to a sustainable lifestyle. 
+The positive impact of self-efficacy on sustainable behavior implies that individuals who have a high level of confidence in their 
+abilities are more motivated and capable of adopting and maintaining sustainable practices. They are more likely to believe that 
+their actions can make a difference and positively influence the environment, leading them to actively participate in sustainable 
+behaviors such as recycling, conserving energy, reducing waste, or choosing environmentally friendly products. This interpretation 
+highlights the significance of self-efficacy in promoting sustainable behavior. By fostering self-efficacy through various means such 
+as education, support, and skill development, individuals can be empowered to take responsibility for their actions and make choices 
+that contribute to a sustainable future. Ultimately, enhancing self-efficacy can play a vital role in driving positive behavioral changes 
+and promoting sustainable behaviors at an individual level. 
+The acceptance of hypothesis 3 (H3) indicates that perceived behavioral control reflects individuals' beliefs about their ability 
+to regulate and control their behaviors in the academic context. When students have a strong sense of control, they are more likely 
+to perceive themselves as capable of managing their time effectively, utilizing study strategies, and overcoming obstacles that may 
+hinder their academic progress. These beliefs contribute to a proactive and empowered mindset, encouraging students to adopt 
+sustainable behaviors in their academic pursuits. By perceiving a higher level of control, students may develop a sense of 
+responsibility and ownership over their academic success. They are more likely to engage in consistent study routines, adhere to 
+effective time management strategies, seek assistance when needed, and persist in the face of challenges. These sustainable behaviors 
+contribute to their overall academic progress and achievement. It is important to note that the relationship between Perceived 
+Behavioral Control and sustainable behavior may be influenced by various factors such as individual differences, external support 
+systems, and contextual factors. However, based on the existing literature, it is reasonable to expect a positive predictive effect of 
+Perceived Behavioral Control on sustainable behavior. In conclusion, individuals who perceive a higher level of control over their 
+academic behaviors are more likely to engage in sustainable behaviors. This finding suggests that promoting a sense of control and 
+empowerment among students can be beneficial in cultivating sustainable academic practices, ultimately leading to improved 
+academic achievement. 
+The hypothesis H4 has been accepted, indicating that engaging in sustainable behaviors has a positive influence on academic 
+achievement. Sustainable behavior refers to actions that promote environmental, social, and economic sustainability, such as 
+conserving resources, reducing waste, and practicing eco-friendly habits. The impact of sustainable behavior on academic 
+achievement implies that students who actively participate in sustainable practices tend to experience improved academic outcomes. 
+Adopting sustainable behaviors may enhance students' focus, discipline, and responsibility, leading to better time management, 
+organization, and study habits. Additionally, engaging in sustainable behavior fosters a sense of environmental and social 
+responsibility, which can positively influence students' motivation, self-esteem, and overall well-being, all of which are essential 
+factors for academic success. Furthermore, sustainable behavior can contribute to a positive learning environment. By practicing 
+sustainability within educational institutions, students may benefit from healthier and more conducive surroundings, improved air 
+quality, and increased access to resources and facilities that support their learning. 
+The acceptance of hypothesis 5, indicating that Perceived Behavioral Control mediates the relationship between Self-Efficacy 
+and Sustainable behavior, suggests that individuals' perceptions of their control over their behavior play a significant role in 
+translating self-efficacy into sustainable behaviors. This finding implies that when individuals have a strong belief in their own 
+capabilities (self-efficacy), their perception of having control over their behavior (perceived behavioral control) becomes a crucial 
+factor in determining whether they engage in sustainable behaviors. Perceived behavioral control acts as a mediator by capturing 
+individuals' confidence in their ability to execute sustainable actions and their belief that they have the necessary control over their 
+behaviors to make sustainable choices. By accepting this hypothesis, it suggests that the relationship between self-efficacy and 
+sustainable behavior is influenced by individuals' beliefs about their control over their actions. Individuals with higher self-efficacy 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3907 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+are more likely to perceive themselves as having greater control over their behavior, which, in turn, leads to a higher likelihood of 
+adopting sustainable behaviors. Understanding the mediating role of perceived behavioral control provides valuable insights into 
+the underlying mechanisms through which self-efficacy influences sustainable behavior. This finding highlights the importance of 
+addressing both self-efficacy and perceived behavioral control in interventions and educational programs aimed at promoting 
+sustainable behaviors among individuals. By enhancing individuals' beliefs in their control over their actions and providing them 
+with the necessary skills and resources, it becomes more likely that self-efficacy will translate into actual sustainable behaviors. 
+Based on the hypothesis that sustainable behavior mediates the relationship between Self-Efficacy and academic achievement 
+(H6 accepted), it can be inferred that Self-Efficacy indirectly influences academic achievement through its impact on sustainable 
+behavior. Self-Efficacy refers to individuals' beliefs in their capabilities to successfully perform tasks and achieve desired outcomes. 
+Students with higher levels of Self-Efficacy in their academic abilities are more likely to engage in sustainable behaviors that support 
+their academic success. Sustainable behavior encompasses a range of positive academic behaviors, such as consistent study habits, 
+effective time management, proactive engagement in learning activities, and persistence in the face of challenges. Students with 
+high Self-Efficacy beliefs tend to adopt and maintain these sustainable behaviors, as they have confidence in their abilities to perform 
+well academically. The mediating role of sustainable behavior suggests that Self-Efficacy influences academic achievement 
+indirectly through its impact on students' engagement in sustainable behaviors. When students have a strong belief in their academic 
+capabilities, they are more likely to engage in sustainable behaviors that contribute to their academic success. These behaviors, in 
+turn, positively influence their academic achievement outcomes. It is important to note that the mediating effect of sustainable 
+behavior may be influenced by other factors and variables. These can include individual differences, external support systems, and 
+contextual factors that may interact with the relationship between Self-Efficacy, sustainable behavior, and academic achievement. 
+However, existing research suggests that sustainable behavior plays a mediating role in this relationship. In summary, sustainable 
+behavior serves as a mediator between Self-Efficacy and academic achievement. Self-Efficacy beliefs indirectly influence academic 
+achievement through their impact on students' engagement in sustainable behaviors. This finding emphasizes the significance of 
+fostering self-confidence and belief in students' capabilities to promote sustainable academic behaviors, leading to improved 
+academic outcomes and student success. 
+Based on the hypothesis that sustainable behavior mediates the relationship between Perceived Behavioral Control and 
+academic achievement (H7 accepted), it can be inferred that Perceived Behavioral Control indirectly influences academic 
+achievement through its impact on sustainable behavior. Perceived Behavioral Control refers to individuals' beliefs about their ability 
+to control and regulate their behaviors in the academic context. When students perceive a higher level of control over their academic 
+behaviors, such as time management, study habits, and goal setting, they are more likely to engage in sustainable behaviors. These 
+sustainable behaviors, in turn, contribute to improved academic achievement. Sustainable behavior encompasses a range of positive 
+academic behaviors that support long-term academic success. This can include consistent study routines, effective time management, 
+persistence in the face of challenges, and proactive engagement in learning activities. By consistently engaging in these behaviors, 
+students are better positioned to achieve their academic goals and perform well academically. The mediating role of sustainable 
+behavior suggests that Perceived Behavioral Control influences academic achievement indirectly through its impact on students' 
+engagement in sustainable behaviors. When students believe they have control over their academic behaviors, they are more likely 
+to adopt and maintain sustainable behaviors that are conducive to academic success. These behaviors, in turn, positively influence 
+their academic achievement outcomes. It is important to note that the mediating effect of sustainable behavior may be influenced 
+by other factors and variables. These can include individual differences, external support systems, and contextual factors that may 
+interact with the relationship between Perceived Behavioral Control, sustainable behavior, and academic achievement. Nevertheless, 
+existing research suggests that sustainable behavior plays a mediating role in this relationship. In summary, sustainable behavior 
+serves as a mediator between Perceived Behavioral Control and academic achievement. Perceived Behavioral Control influences 
+academic achievement indirectly through its impact on students' engagement in sustainable behaviors. This finding highlights the 
+significance of promoting a sense of control and fostering sustainable behaviors in educational settings, as they contribute to 
+improved academic outcomes and student success. 
+ 
+ 
+ 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3908 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+CONCLUSION 
+The present study investigated the relationship between Perceived Behavioral Control, Self-Efficacy, sustainable behavior, and 
+academic achievement. The findings revealed that Perceived Behavioral Control positively predicts sustainable behavior, indicating 
+that individuals who perceive a higher level of control over their academic behaviors are more likely to engage in sustainable 
+practices. Additionally, Self-Efficacy was found to have a positive predictive effect on sustainable behavior, suggesting that 
+individuals with higher levels of self-belief in their academic abilities are more likely to adopt and maintain sustainable behaviors. 
+Furthermore, the study found that sustainable behavior mediates the relationship between Perceived Behavioral Control/Self-
+Efficacy and academic achievement, highlighting the importance of sustainable behavior as a pathway through which these 
+constructs influence academic success. 
+Implications for theory and practice 
+The findings of this study have significant implications for both theoretical understanding and practical applications. 
+Theoretically, the study contributes to the existing literature by providing empirical evidence for the relationships between Perceived 
+Behavioral Control, Self-Efficacy, sustainable behavior, and academic achievement. It highlights the importance of considering the 
+role of individuals' beliefs and behaviors in the academic context. Practically, the results suggest that interventions and educational 
+practices should focus on enhancing Perceived Behavioral Control and Self-Efficacy beliefs to promote sustainable behavior among 
+students. This can be achieved through providing resources, support, and interventions that empower students to develop a sense of 
+control and self-confidence in their academic pursuits. 
+Limitations and suggestions for future research 
+While this study provides valuable insights, it is not without limitations. First, the sample used in the study was limited to a 
+specific educational institution or population, which may limit the generalizability of the findings. Future research could expand the 
+sample size and include diverse populations to enhance the external validity of the results. Second, the study relied on self-report 
+measures, which may be subject to response biases or inaccuracies. Future research could incorporate objective measures or 
+observational methods to provide a more comprehensive assessment of participants' sustainable behavior and academic 
+achievement. Additionally, this study focused on the mediating role of sustainable behavior; however, there may be other variables 
+or mechanisms at play. Future research could explore other potential mediators or moderators that may influence the relationship 
+between Perceived Behavioral Control, Self-Efficacy, sustainable behavior, and academic achievement. 
+ 
+REFERENCES 
+1. Affuso, G., Bacchini, D., & Miranda, M. C. (2017). The contribution of school-related parental monitoring, selfdetermination, and self-efficacy to academic achievement. The Journal of Educational Research, 110(5), 565-574. 
+https://doi.org/10.1080/00220671.2016.1149795 
+2. Ajzen, I. (1991). The theory of planned behavior. Organ. Behav. Hum. Decis. Process, 50(2), 179-211. 
+3. Ajzen, Icek. (2020). The theory of planned behavior: Frequently asked questions. Human Behavior and Emerging 
+Technologies, 2(4), 314-324. https://doi.org/https://doi.org/10.1002/hbe2.195 
+4. Andre, L., van Vianen, A. E. M., Peetsma, T. T. D., & Oort, F. J. (2018). Motivational power of future time perspective: 
+Meta-analyses in education, work, and health. PLOS ONE, 13(1), e0190492. https://doi.org/10.1371/journal.pone.0190492 
+5. Barrett, T., & Feng, Y. (2021). Evaluation of food safety curriculum effectiveness: A longitudinal study of high-schoolaged youths' knowledge retention, risk-perception, and perceived behavioral control. Food Control, 121, 107587. 
+https://doi.org/https://doi.org/10.1016/j.foodcont.2020.107587 
+6. Chen, W., Chan, T. W., Wong, L. H., Looi, C. K., Liao, C. C. Y., Cheng, H. N. H., Wong, S. L., Mason, J., So, H.-J., 
+Murthy, S., Gu, X., & Pi, Z. (2020). IDC theory: habit and the habit loop. Research and Practice in Technology Enhanced 
+Learning, 15(1), 10. https://doi.org/10.1186/s41039-020-00127-7 
+7. Chin, W. W. (2010). How to write up and report PLS analyses. In Handbook of Partial Least Squares (pp. 188-194). 
+https://doi.org/10.1007/978-3-540-32827-8_29 
+8. Day, C., Gu, Q., & Sammons, P. (2016). The Impact of Leadership on Student Outcomes: How Successful School Leaders 
+Use Transformational and Instructional Strategies to Make a Difference. Educational Administration Quarterly, 52(2), 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3909 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+221-258. https://doi.org/10.1177/0013161X15616863 
+9. de Leeuw, A., Valois, P., Ajzen, I., & Schmidt, P. (2015). Using the theory of planned behavior to identify key beliefs 
+underlying pro-environmental behavior in high-school students: Implications for educational interventions. Journal of 
+Environmental Psychology, 42, 128-138. https://doi.org/https://doi.org/10.1016/j.jenvp.2015.03.005 
+10. de Leeuw, A., Valois, P., & Seixas, R. (2014). Understanding High School Students' Attitude, Social Norm, Perceived 
+Control and Beliefs to Develop Educational Interventions on Sustainable Development. Procedia - Social and Behavioral 
+Sciences, 143, 1200-1209. https://doi.org/https://doi.org/10.1016/j.sbspro.2014.08.160 
+11. Fawehinmi, O., Yusliza, M. Y., Mohamad, Z., Noor Faezah, J., & Muhammad, Z. (2020). Assessing the green behaviour 
+of academics. International Journal of Manpower, 41(7), 879-900. https://doi.org/10.1108/IJM-07-2019-0347 
+12. Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement 
+error. Journal of Marketing Research, 18(1), 39-50. https://doi.org/10.1177/002224378101800104 
+13. Gal, A., & Gan, D. (2020). Transformative Sustainability Education in Higher Education: Activating Environmental 
+Understanding and Active Citizenship Among Professional Studies Learners. Journal of Transformative Education, 18(4), 
+271-292. https://doi.org/10.1177/1541344620932310 
+14. González-López, M. J., Pérez-López, M. C., & Rodríguez-Ariza, L. (2018). Clearing the Hurdles in the Entrepreneurial 
+Race: The Role of Resilience in Entrepreneurship Education. Academy of Management Learning & Education, 18(3), 457-
+483. https://doi.org/10.5465/amle.2016.0377 
+15. Ham, M., Jeger, M., & Frajman Ivković, A. (2015). The role of subjective norms in forming the intention to purchase green 
+food. Economic Research-Ekonomska Istraživanja, 28(1), 738-748. https://doi.org/10.1080/1331677X.2015.1083875 
+16. Houchens, G. W., Zhang, J., Davis, K., Niu, C., Chon, K. H., & Miller, S. (2017). The Impact of Positive Behavior 
+Interventions and Supports on Teachers' Perceptions of Teaching Conditions and Student Achievement. Journal of Positive 
+Behavior Interventions, 19(3), 168-179. https://doi.org/10.1177/1098300717696938 
+17. Lau, S. C., Chow, H. J., Wong, S. C., & Lim, C. S. (2021). An empirical study of the influence of individual-related factors 
+on undergraduates' academic burnout: Malaysian context. Journal of Applied Research in Higher Education, 13(4), 1181-
+1197. https://doi.org/10.1108/JARHE-02-2020-0037 
+18. Legrain, P., Becerra-Labrador, T., Lafont, L., & Escalié, G. (2021). Designing and Implementing a Sustainable Cooperative 
+Learning in Physical Education: A Pre-Service Teachers' Socialization Issue. In Sustainability (Vol. 13, Issue 2). 
+https://doi.org/10.3390/su13020657 
+19. Lent, R. W. (2016). Self-Efficacy in a Relational World: Social Cognitive Mechanisms of Adaptation and Development. 
+The Counseling Psychologist, 44(4), 573-594. https://doi.org/10.1177/0011000016638742 
+20. Li, S., Du, H., Xing, W., Zheng, J., Chen, G., & Xie, C. (2020). Examining temporal dynamics of self-regulated learning 
+behaviors in STEM learning: A network approach. Computers & Education, 158, 103987. 
+https://doi.org/https://doi.org/10.1016/j.compedu.2020.103987 
+21. MacKenzie, S. B., Podsakoff, P. M., & Podsakoff, N. . (2011). Construct measurement and validation procedures in MIS 
+and behavioral research: integrating new and existing techniques. MIS Quarterly, 35(2), 293-334. 
+22. Mamaril, N. A., Usher, E. L., Li, C. R., Economy, D. R., & Kennedy, M. S. (2016). Measuring Undergraduate Students' 
+Engineering 
+Self-Efficacy: 
+A 
+Validation 
+Study. 
+Journal 
+of 
+Engineering 
+Education, 
+105(2), 
+366-395. 
+https://doi.org/https://doi.org/10.1002/jee.20121 
+23. Moreira, P., Pedras, S., & Pombo, P. (2020). Students' personality contributes more to academic performance than wellbeing and learning approach-implications for sustainable development and education. European Journal of Investigation 
+in Health, Psychology and Education, 10(4), 1132-1149. 
+24. Patricia Aguilera-Hermida, A. (2020). College students' use and acceptance of emergency online learning due to COVID-
+19. International Journal of Educational Research Open, 1, 100011. 
+https://doi.org/https://doi.org/10.1016/j.ijedro.2020.100011 
+25. Pinquart, M. (2016). Associations of Parenting Styles and Dimensions with Academic Achievement in Children and 
+Adolescents: A Meta-analysis. Educational Psychology Review, 28(3), 475-493. https://doi.org/10.1007/s10648-015-
+9338-y 
+
+International Journal of Current Science Research and Review 
+ISSN: 2581-8341 
+ 
+ 
+Volume 06 Issue 07 July 2023 
+DOI: 10.47191/ijcsrr/V6-i7-07, Impact Factor: 6.789 
+IJCSRR @ 2023 
+ 
+ 
+www.ijcsrr.org 
+ 
+ 3910 *Corresponding Author: Tia Rahmania Volume 06 Issue 07 July 2023 
+ 
+ 
+ Available at: www.ijcsrr.org 
+ 
+ 
+ 
+ Page No. 3900-3910 
+26. Schunk, D. H., & DiBenedetto, M. K. (2020). Motivation and social cognitive theory. Contemporary Educational 
+Psychology, 60, 101832. https://doi.org/https://doi.org/10.1016/j.cedpsych.2019.101832 
+27. Talsma, K., Schüz, B., & Norris, K. (2019). Miscalibration of self-efficacy and academic performance: Self-efficacy ≠ selffulfilling prophecy. Learning and Individual Differences, 69, 182-195. 
+https://doi.org/https://doi.org/10.1016/j.lindif.2018.11.002 
+28. Travers, C. J. (2022). Reflective Goal Setting and Its Impact on Academic Growth and Performance BT - Reflective Goal 
+Setting: An Applied Approach to Personal and Leadership Development (C. J. Travers (ed.); pp. 153-164). Springer 
+International Publishing. https://doi.org/10.1007/978-3-030-99228-6_11 
+29. Uçar, F. M., & Sungur, S. (2017). The role of perceived classroom goal structures, self-efficacy, and engagement in student 
+science achievement. Research in Science & Technological Education, 35(2), 149-168. 
+https://doi.org/10.1080/02635143.2017.1278684 
+30. Voica, C., Singer, F. M., & Stan, E. (2020). How are motivation and self-efficacy interacting in problem-solving and 
+problem-posing? Educational Studies in Mathematics, 105(3), 487-517. https://doi.org/10.1007/s10649-020-10005-0 
+31. Vongkulluksn, V. W., Matewos, A. M., Sinatra, G. M., & Marsh, J. A. (2018). Motivational factors in makerspaces: a 
+mixed methods study of elementary school students' situational interest, self-efficacy, and achievement emotions. 
+International Journal of STEM Education, 5(1), 43. https://doi.org/10.1186/s40594-018-0129-0 
+32. Williams, D. M., & Rhodes, R. E. (2016). The confounded self-efficacy construct: conceptual analysis and 
+recommendations for future research. Health Psychology Review, 10(2), 113-128. 
+https://doi.org/10.1080/17437199.2014.941998 
+33. Yang, A. C. M., Chen, I. Y. L., Flanagan, B., & Ogata, H. (2022). How students' self-assessment behavior affects their 
+online learning performance. Computers and Education: Artificial Intelligence, 3, 100058. 
+https://doi.org/https://doi.org/10.1016/j.caeai.2022.100058 
+34. Zachary, L. J., & Fain, L. Z. (2022). The mentor's guide: Facilitating effective learning relationships. John Wiley & Sons. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cite this Article: Tia Rahmania (2023). Exploring the Relationship Self-Efficacy, Academic Achievement, Perceived Behavioral 
+Control, and Student's Sustainable Behavior: An Empirical Study. International Journal of Current Science Research and 
+Review, 6(7), 3900-3910

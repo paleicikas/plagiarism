@@ -1,0 +1,121 @@
+62926-1
+PhenX - general self-efficacy - adult protocol 180601
+Discouraged
+Status Information
+- Status
+- DISCOURAGED
+Term Description
+This is a 10-item self-administered set of questions used to assess self-efficacy.
+Reference Information
+| Type | Source | Reference | 
+|---|---|---|
+| Citation | Consensus measures for Phenotypes and Exposures | Schwarzer, R., & Jerusalem, M. (1995). Generalized Self-Efficacy Scale. In J. Weinman, S. Wright, & M. Johnston (Eds.), Measures in health psychology: A user's portfolio. Causal and control beliefs (pp. 35-37). Windsor, England: NFER-NELSON. | 
+Panel Hierarchy
+Details for each LOINC in Panel LHC-Forms
+| LOINC | Name | R/O/C | Cardinality | Example UCUM Units | 
+|---|---|---|---|---|
+| 62926-1 | PhenX - general self-efficacy - adult protocol 180601 | | | | 
+| Indent66775-8 | I can always manage to solve difficult problems if I try hard enough. | | | | 
+| Indent66776-6 | If someone opposes me, I can find the means and ways to get what I want. | | | | 
+| Indent66777-4 | It is easy for me to stick to my aims and accomplish my goals. | | | | 
+| Indent66778-2 | I am confident that I could deal efficiently with unexpected events. | | | | 
+| Indent66779-0 | Thanks to my resourcefulness, I know how to handle unforeseen situations. | | | | 
+| Indent66780-8 | I can solve most problems if I invest the necessary effort. | | | | 
+| Indent66781-6 | I can remain calm when facing difficulties because I can rely on my coping abilities. | | | | 
+| Indent66782-4 | When I am confronted with a problem, I can usually find several solutions. | | | | 
+| Indent66783-2 | If I am in trouble, I can usually think of a solution. | | | | 
+| Indent66784-0 | I can usually handle whatever comes my way. | | | | 
+LOINC Names Get Info
+- Fully-Specified Name
+- PhenX - general self-efficacy - adult protocol 180601:-:Pt:^Patient:-:PhenX
+- Long Common Name
+- PhenX - general self-efficacy - adult protocol 180601
+- Short Name
+- Gen self-efficacy - adult proto
+Part Model Get Info
+ - Component
+ - PhenX - general self-efficacy - adult protocol 180601
+LP112461-1
+ - Analyte
+ - PhenX - general self-efficacy - adult protocol 180601
+LP112461-1
+ - Component Numerator
+ - PhenX - general self-efficacy - adult protocol 180601
+LP112461-1
+ - Component Numerator Core
+ - PhenX - general self-efficacy - adult protocol 180601
+LP112461-1
+ - Component Numerator Core Suffix
+ - NULL
+ - Component Denominator
+ - NULL
+ - Component Denominator Core
+ - NULL
+ - Component Denominator Core Suffix
+ - NULL
+ - Challenge
+ - NULL
+ - Adjustment
+ - NULL
+ - Count
+ - NULL
+ - Property
+ - -
+LP6769-6
+ - Time
+ - Pt
+LP6960-1
+ - Time Core
+ - Pt
+LP6960-1
+ - Time Modifier
+ - NULL
+ - System
+ - ^Patient
+LP310005-6
+ - System Core
+ - NULL
+ - Super System
+ - Patient
+LP6985-8
+ - Scale
+ - -
+LP7747-1
+ - Method
+ - PhenX
+LP95333-8
+Survey Question
+- PX180601
+Basic Attributes
+- Class
+- PANEL.PHENX
+- Type
+- Clinical
+- First Released
+- Version 2.36
+- Last Updated
+- Version 2.81 (MIN)
+- Change Reason
+- Release 2.81: Status: Changing concept status from Trial to Discouraged upon recommendation from RTI; concept is deprecated in PhenX toolkit; Previous Releases: Updated the PhenX ID from "PhenX.<ID>" to "PX<ID>" in Survey Question Source field to align with the variable identifier used in the PhenX Toolkit.; Added the PhenX protocol ID to the Component to clearly define the protocol version for which this panel is based upon.
+- Panel Type
+- Panel
+Member of these Panels
+| LOINC | Long Common Name | 
+|---|---|
+| 62911-3 | PhenX domain - Psychosocial | 
+Language Variants Get Info
+| Tag | Language | Translation | 
+|---|---|---|
+| el-GR | Greek (Greece) | PhenX - γενική αυτοαποτελεσματικότητα - πρωτόκολλο ενηλίκων 180601:-:Pt:^Ασθενής:-:PhenX Synonyms: - PANEL.PHENX PHENX PhenX - γενική αυτοαποτελεσματικότητα - πρωτόκολλο ενηλίκων 180601 Pt Ασθενής | 
+| es-MX | Spanish (Mexico) | PhenX - autoeficacia general - protocolo para adultos 180601:-:Punto temporal:^ Paciente:-:PhenX | 
+| it-IT | Italian (Italy) | PhenX - autoefficacia generale - adulto, protocollo:-:Pt:^Paziente:-:PhenX Synonyms: Panel PhenX paziente PhenX Punto nel tempo (episodio) | 
+| ru-RU | Russian (Russian Federation) | PhenX - общая самоэффективность - взрослый протокол:-:ТчкВрм:^Пациент:-:PhenX Synonyms: Точка во времени;Момент | 
+| zh-CN | Chinese (China) | PhenX - 总体自我效能 - 成年人方案 180601:-:时间点:^患者:-:PhenX Synonyms: Consensus measures for Phenotypes and eXposures;PhenX;暴露;接触;表型与暴露共识指标;表现型与暴露共识指标;表型与暴露公认指标 Consensus measures for Phenotypes and eXposures;表型与暴露共识指标;表现型与暴露共识指标;表型与暴露公认指标 PhenX - 总体自我效能 - 成年人(成人、成年者、大人)方案 180601;Consensus measures for Phenotypes and eXposures;PhenX;暴露;接触;表型与暴露共识指标;表现型与暴露共识指标;表型与暴露公认指标 医嘱套餐 医嘱套餐类 医嘱套餐组 医嘱组 医嘱组.PhenX;组套(组合、医嘱组、套餐、套餐医嘱、医嘱套餐、组合申请、组合项目).PhenX;Consensus measures for Phenotypes and eXposures;PhenX;表型与暴露共识指标;表现型与暴露共识指标;表型与暴露公认指标;PhenX 医嘱组 医嘱组合 医嘱组合类 医嘱组套 医嘱组套类 医嘱组类 医疗服务对象;客户;病人;病患;病号;超系统 - 病人 多重;多重型;多重标尺类型;多重精度类型 套餐 套餐医嘱 套餐医嘱组 套餐医嘱组类 实验室医嘱套餐 实验室医嘱套餐类 实验室医嘱组 实验室医嘱组合类 实验室医嘱组套 实验室医嘱组套类 实验室套餐医嘱组 实验室套餐医嘱组类 实验室检验项目医嘱组合类 实验室检验项目组合类 时刻;随机;随意;瞬间 检验医嘱组合类 检验项目医嘱组合类 检验项目组合类 组 组合 组合医嘱 组合类 组套 | 
+LOINC Terminology Service (API) using HL7® FHIR® Get Info
+Requests to this service require a free LOINC username and password. Below is a sample of the possible capabilities. See the LOINC Terminology Service documentation for more information.
+- CodeSystem lookup
+- https://fhir.loinc.org/CodeSystem/$lookup?system=http://loinc.org&code=62926-1
+- Questionnaire definition
+- https://fhir.loinc.org/Questionnaire/?url=http://loinc.org/q/62926-1
+LOINC Copyright
+Copyright © Regenstrief Institute, Inc. All Rights Reserved. To the extent included herein, the LOINC table and LOINC codes are copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee. See https://loinc.org/license for the full LOINC copyright and license.

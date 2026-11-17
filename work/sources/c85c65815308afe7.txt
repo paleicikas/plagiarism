@@ -1,0 +1,2862 @@
+Board of Governors of the Federal Reserve System
+International Finance Discussion Papers
+Number 849
+December 2005
+Interest Rate Rules, Endogenous Cycles and Chaotic Dynamics in Open Economies
+Marco Airaudo Luis-Felipe Zanna
+NOTE: International Finance Discussion Papers are preliminary materials circulated to stimulate discussion
+and critical comment. References in publications to International Finance Discussion Papers (other than an
+acknowledgment that the writer has had access to unpublished material) should be cleared with the author
+or authors. Recent IFDPs are available on the Web at www.federalreserve.gov/pubs/ifdp/.
+
+Interest Rate Rules, Endogenous Cycles and Chaotic Dynamics in
+Open Economies ∗
+Marco Airaudo† Luis-Felipe Zanna‡
+First Draft: January 2004
+This Draft: December 2005
+Abstract
+In this paper we present an extensive analysis of the consequences for global equilibrium determinacy
+of implementing active interest rate rules (i.e. monetary rules where the nominal interest rate responds
+more than proportionally to changes in inflation) in flexible-price open economies. We show that conditions under which these rules generate aggregate instability by inducing cyclical and chaotic equilibrium
+dynamics depend on particular characteristics of open economies such as the degree of (trade) openness
+and the degree of exchange rate pass-through implied by the presence of non-traded distribution costs.
+For instance, we find that a forward-looking rule is more prone to induce endogenous cyclical and chaotic
+dynamics the more open the economy and the higher the degree of exchange rate pass-through. The
+existence of these dynamics and their dependence on the degree of openness are in general robust to
+different timings of the rule (forward-looking versus contemporaneous rules), to the use of alternative
+measures of inflation in the rule (CPI versus Core inflation), as well as to changes in the timing of real
+money balances in liquidity services ("cash-when-I-am-done" timing versus "cash-in-advance" timing).
+Keywords: Small Open Economy, Interest Rate Rules, Taylor Rules, Multiple Equilibria, Chaos and
+Endogenous Fluctuations.
+JEL Classifications: E32, E52, F41
+∗The authors would like to thank the following people for comments and suggestions: Gian-Italo Bischi, David Bowman, Chris
+Erceg, Jon Faust, Laura Gardini, Dale Henderson, Salvatore Nisticò, and the seminar participants at the Board of Governors,
+the LUISS University, the University of Urbino, the 2004 Meeting of the Society for Nonlinear Dynamics and Econometrics
+(SNDE), the 2004 MMF Group Symposium on Banking and Monetary Economics and the 2004 Latin American Meeting of
+the Econometric Society.
+The views expressed in this paper are solely the responsibility of the authors and should not be
+interpreted as reflecting the view of the Institute of Economic Policy or the Board of Governors of the Federal Reserve System
+or of any other person associated with the Federal Reserve System.
+†Institute of Economic Policy I, Humboldt University,
+Spandauer Strasse 1,
+Berlin D-10178,
+Germany.
+Email:
+marco.airaudo@staff.hu-berlin.de
+‡Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue, NW, Washington, D.C., 20551.
+Phone: (202)452-2337. Fax: (202)736-5638. E-mail: Luis-Felipe.Zanna@frb.gov.
+
+1
+Introduction
+In recent years there has been a revival of theoretical and empirical literature aimed at understanding the
+macroeconomic consequences of implementing diverse monetary rules in the Small Open Economy (SOE).1
+In this literature the study of interest rate rules whose interest rate response coefficient to inflation is
+greater than one, generally referred to as Taylor rules or active rules, has received particular attention.2 To
+some extent the importance given to these rules in the SOE literature is just a consequence of some of the
+benefits that the closed economy literature has claimed for them. For instance, Bernanke and Woodford
+(1997) and Clarida, Galí and Gertler (2000), among others, have argued that active rules are desirable
+because they guarantee a unique Rational Expectations Equilibrium (REE) whereas rules whose interest
+rate response coefficient to inflation is less than one, also called passive rules, induce aggregate instability
+in the economy by generating multiple equilibria. Despite these arguments supporting active rules in closed
+economies, Benhabib, Schmitt-Grohé and Uribe (2001b, 2002a,b) have pointed out that they are based on
+results that rely on the type of equilibrium analysis that is adopted. In fact these policy prescriptions are
+usually derived from a local determinacy of equilibrium analysis, i.e. identifying conditions for rules that
+guarantee equilibrium uniqueness in an arbitrarily small neighborhood of the target steady state. In contrast
+by pursuing a global equilibrium analysis in tandem with the observation that nominal interest rates are
+bounded below by zero, Benhabib et al. have shown that active rules can induce aggregate instability in
+closed economies through endogenous cycles, chaotic dynamics and liquidity traps.3
+What motivates our paper is the fact that the open economy literature on interest rate rules has also
+restricted its attention to local dynamics and not to global dynamics, often disregarding the zero bound on
+the nominal interest rate. By doing this, the literature has gained in tractability but has also overlooked a
+possibly wider set of equilibrium dynamics.
+To the best of our knowledge, our work is the first attempt in the open economy literature to understand
+how interest rate rules may lead to global endogenous fluctuations.
+We pursue a global and non-linear
+equilibrium analysis of a traditional flexible-price SOE model with traded and non-traded goods, whose
+government follows an active forward-looking rule by responding to the expected future CPI-inflation. We
+show that conditions under which active rules induce aggregate instability by generating cyclical and chaotic
+dynamics depend on some specific features of an open economy such as the degree of openness of the economy
+(measured as the share of traded goods in consumption) and the degree of exchange rate pass-through into
+import prices (implied by the presence of non-traded distribution services).
+For example, we find that
+a forward-looking rule is more prone to induce cyclical equilibria and chaotic dynamics the more open the
+1See Ball (1999), Clarida, Galí and Gertler (1998, 2001), Galí and Monacelli (2004), Kollman (2002), Lubik and Schorfheide
+(2003), and Svensson (2000), among others.
+2See Taylor (1993).
+3In this context a liquidity trap is understood as a decelerating inflation dynamics where the economy is headed to a situation
+of low and possibly negative inflation and low and possibly zero interest rates and in which monetary policy is ineffective to
+stop this process.
+1
+
+economy and the higher the degree of exchange rate pass-through. If consumption and money are Edgeworth
+complements in utility these dynamics occur around an extremely low interest rate steady state. On the
+other hand if consumption and money are substitutes these dynamics appear around the high interest rate
+target set by the monetary authority.4
+For a given specification of the rule, we show that the existence of these dynamics and their dependence
+on the degree of openness are in general robust to different timings of the rule (forward-looking versus
+contemporaneous rules), to the use of alternative measures of inflation in the rule (CPI versus Core inflation),
+as well as to changes in the timing of real money balances in liquidity services ("cash-when-I-am-done" timing
+versus "cash-in-advance" timing.)
+Table 1:
+Country
+Degree of Openness
+Response Coefficient
+Type of Interest
+(Imports/GDP)
+to Inflation (ρπ)
+Rate Rule
+France
+0.22
+1.13†
+Forward-Looking
+Costa Rica
+0.42
+1.47∗
+Forward-Looking
+Colombia
+0.20
+1.31×
+Forward-Looking
+Chile
+0.28
+2.10◦
+Forward-Looking
+United Kingdom
+0.28
+1.84‡
+Contemporaneous
+Australia
+0.19
+2.10‡
+Contemporaneous
+Canada
+0.31
+2.24‡
+Contemporaneous
+New Zealand
+0.28
+2.49‡
+Contemporaneous
+Note: Data from IFS were used to calculate the Imports/GDP share, while the significant estimates for the
+interest rate response coefficient to the CPI-inflation (ρπ) come from : ×Bernal (2003),†Clarida et al. (1998),
+∗Corbo (2000),
+‡Lubik and Schorfheide (2003), and ◦Restrepo (1999). The degree of openness of the
+economy is the annual average of imports to GDP share for the period of time used for the estimation of ρπ.
+The relevance of our results stems from the fact that they point out the importance of considering
+particular features of the open economy in the design of monetary policy.
+Clearly both the degree of
+openness and the degree of exchange rate pass-through are open economy features that have been neglected
+by previous closed economy studies. Furthermore, both are characteristics that vary significantly among
+economies that follow (or followed) active interest rate rules. For instance Table 1 shows the diverse degrees
+of openness, measured as the share of imports to GDP, for some industrialized and developing economies
+that have been claimed to follow interest rate rules. In addition Campa and Goldberg (2004) and Frankel,
+4The existence of two stationary equilibria is a consequence of combining active interest rate rules with the zero lower bound
+on nominal interest rates as shown by Benhabib et al. (2001b).
+2
+
+Parsley and Wei (2005), among others, provide empirical evidence suggesting that the degree of exchange
+rate pass-through into import prices not only varies across industrialized and developing economies; but it
+has also varied over time within these economies.
+This paper is different from closed economy contributions such as Benhabib et al. (2002a) in some key
+aspects. First, our analysis shows that the assumption of money in the production function used by Benhabib
+et al. is not necessary to obtain cyclical and chaotic equilibrium dynamics under rules. We introduce money
+in the utility function and show that the existence of these global dynamics depends on whether consumption
+and money are Edgeworth complements or substitutes in the utility function. This observation was raised
+by Benhabib et al. (2001a) in the local determinacy of equilibrium analysis context but to the best of our
+knowledge it has not been raised in the context of a global equilibrium analysis.
+Second, we show that if consumption and money are complements then it is possible to have "nonmonotonic liquidity traps" featuring periodic and aperiodic oscillations around an extremely low interest
+rate steady state that is different from the target steady state. On the contrary if consumption and money
+are substitutes then cyclical and chaotic dynamics occur only around the target steady state. Although
+this case is reminiscent of the one in Benhabib et al. (2002a), it also presents a subtle difference. In their
+closed economy model period-3 cycles and therefore chaos always occur only for sufficiently low coefficients
+of relative risk aversion. Our results show that these dynamics can basically appear for any coefficient of
+relative risk aversion greater than one and provided that the economy is sufficiently open. In this sense open
+economies are more prone than closed economies to display these cyclical dynamics.
+Third, we identify necessary and sufficient conditions for the design of active forward looking rules that do
+not generate cyclical and chaotic equilibria. For some given structural parameters, these conditions generally
+entail an appropriate choice of the rule's responsiveness to inflation. Although cyclical dynamics can be ruled
+out, liquidity traps and (hyper) inflationary paths remain viable equilibria. Previous works on monetary
+economics, however, have proposed solutions on how to deal with these equilibria.5
+There are previous works in the SOE literature that have tried to identify conditions under which interest
+rate rules may lead to local multiple equilibria.6 For instance, De Fiore and Liu (2003), Linnemann and
+Schabert (2002), and Zanna (2003), among others, discuss the importance of the degree of openness of the
+economy in the local equilibrium analysis. The last work also points out the key role played by the degree of
+the exchange rate pass-through. Although our work is related to these previous studies it is different from
+them in the type of equilibrium analysis that is pursued. To the extent that our work considers the zero
+lower bound for the interest rate and pursues a global equilibrium analysis, it is able to focus on a wider set
+of equilibrium dynamics.
+In contrast to the above mentioned works in the SOE literature, this paper does not consider nominal price
+5See Alstadheim and Henderson (2004), Benhabib et al. (2002b) or Christiano and Rostagno (2001) for the liquidity traps
+case and Obstfelf and Rogoff(1983) for the inflationary paths case.
+6For two country models see Batini, Levine and Pearlman (2004) among others.
+3
+
+rigidities. In this sense it is similar to the closed economy works of Benhabib et al. (2002a,b), Carlstrom and
+Fuerst (2001), and Leeper (1991) among others. In Airaudo and Zanna (2005) we introduce price stickiness
+and study, through a Hopf bifurcation analysis, how rules can induce cyclical dynamics that never converge
+to the target steady state. As in the current paper, the existence of equilibrium cycles depends on some
+open economy features.
+The remainder of this paper is organized as follows. In Section 2 we present a flexible-price model with
+its main assumptions. We define the open economy equilibrium and derive some basic steady state results.
+In Section 3 we pursue a local and a global equilibrium analyses for an active forward-looking interest rate
+rule. In Section 4 we study active forward-looking rules that can preclude the existence of cyclical equilibria.
+In Section 5 we investigate how the degree of exchange rate pass-through can affect the existence of cyclical
+dynamics for forward-looking rules. We pursue a sensitivity analysis to gauge the robustness of our main
+results in Section 6. Finally Section 7 concludes.
+2
+A Flexible-Price Model
+2.1
+The Household-Firm Unit
+Consider a Small Open Economy (SOE) populated by a large number of infinitely lived household-firm
+units. They are identical. Each unit derives utility from consumption (ct), real money balances (md
+t ), and
+not working (1 -hT
+t -hN
+t ) according to
+E0
+∞
+X
+t=0
+βt
+
+
+
+
+
+h
+(ct)γ ¡
+md
+t
+¢1-γi1-σ
+-1
+1 -σ
++ ψ(1 -hT
+t -hN
+t )
+
+
+
+
+
+(1)
+ct = (cT
+t )α(cN
+t )(1-α)
+(2)
+where β, γ ∈(0, 1), and ψ, σ > 0 but σ 6= 1;7 E0 is the expectations operator conditional on the set of
+information available at time 0; cT
+t and cN
+t
+denote the consumption of traded and non-traded goods in
+period t respectively; md
+t = Md
+t
+pt are real money balances (domestic currency money balances deflated by the
+Consumer Price Index, CPI, pt, to be defined below); hT
+t and hN
+t stand for labor supplied to the production
+of traded and non-traded goods respectively and α ∈(0, 1) is the share of traded goods in the consumption
+aggregator (2). We interpret this share as a measure of the degree of (trade) openness of the economy. As α
+goes to zero, domestic agents do not value internationally traded goods for consumption. Then the economy
+is fundamentally closed. Whereas if α goes to one, non-traded goods are negligible in consumption. We refer
+7The case of σ = 1 corresponds to the case of separability among consumption and money in the utility function. It implies
+no distortionary effects of transaction money demand. It can be easily shown that no equilibrium cycles occur in this case.
+Hence, we do not consider it in the analysis.
+4
+
+to this case as the completely open economy.
+Although we use specific functional forms, they are general enough to convey the main message of this
+paper.
+They will allow us to show analytically how cyclical dynamics induced by the interest rate rule
+depend on the degree of openness α.8
+They also allow us to study how these dynamics are affected by
+whether consumption, ct, and money, mt, are either Edgeworth substitutes or complements. By defining
+U = (cγ
+t m1-γ
+t
+)
+1-σ-1
+1-σ
+and noticing that the sign of the cross partial derivative Ucm satisfies sign {Ucm} =
+sign {(1 -σ)} , then we can distinguish between the case of Edgeworth substitutes when Ucm < 0 (σ > 1)
+or the case of complements when Ucm > 0 (σ < 1). Moreover, given that γ ∈(0, 1) and that the coefficient
+of relative risk aversion (CRRA) can be expressed as eσ ≡-Uccc
+Uc = 1 -γ (1 -σ) , then σ T 1 implies eσ T 1.
+As a result of this we will refer to σ as the "risk aversion parameter."
+The representative unit produces traded and non-traded goods by employing labor according to the
+technologies
+yT
+t = zT
+t
+¡
+hT
+t
+¢θT
+and
+yN
+t = zN
+t
+¡
+hN
+t
+¢θN ,
+(3)
+where θT , θN ∈(0, 1) and zT
+t and zN
+t are productivity shocks following stationary AR(1) stochastic processes.
+We assume that these shocks are the sole source of fundamental uncertainty.
+As standard in the literature, we assume that the Law of One Price holds for traded goods and normalize
+the foreign price of the traded good to one.9 Hence P T
+t
+= Et, where P T
+t
+is the domestic currency price of
+traded goods and Et is the nominal exchange rate. This simplification together with (2) can be used to derive
+the Consumer Price Index (CPI)
+pt ≡(Et)α ¡
+P N
+t
+¢1-α
+αα(1 -α)1-α .
+(4)
+Using equation (4) and defining the gross nominal devaluation rate as t ≡Et/Et-1 and the gross non-traded
+goods inflation rate as πN
+t ≡P N
+t /P N
+t-1, we derive the gross CPI-inflation rate
+πt = α
+t (πN
+t )(1-α)
+(5)
+where πt ≡
+pt
+pt-1 . It is just a weighted average of different goods inflations whose weights are related to
+the degree of openness, α. The real exchange rate (et) is defined as the ratio of the price of traded goods
+(nominal exchange rate) and the price of non-traded goods
+et ≡Et/P N
+t .
+(6)
+8We could consider a CES function for aggregate consumption (2) to emphasize the fact that the intratemporal elasticity of
+substitution between the two types of consumption can be different from one. However, this would not affect our conclusions
+on the role of openness, but simply prevent us from obtaining analytical results.
+9In Section 5 we will relax the assumption of the Law of One Price" at the consumption level by introducing non-traded
+distribution costs. This will allow us to model an imperfect degree of exchange rate pass-through into import prices.
+5
+
+Then the gross real exchange rate depreciation,
+et
+et-1 , can be written as
+et
+et-1
+= t
+πN
+t
+.
+(7)
+As has become very common in the open economy literature such as Clarida et al. (2001) and Galí and
+Monacelli (2004) among others, we assume that the household-firm units have access to a complete set of
+internationally traded claims. In each period t ≥0 the agents can purchase two types of financial assets:
+fiat money Md
+t and nominal state contingent claims, Dt+1. The latter pay one unit of (foreign) currency for
+a specific realization of the fundamental shocks in t + 1. Although the existence of complete markets is a
+very strong assumption, it is well known that they can be approximated by a set of non-state contingent
+instruments featuring a wide range of maturities and indexations.10 In this paper the assumption of complete
+markets serves the sole purpose of ruling out the unit root problem of the small open economy, allowing us to
+pursue a meaningful local determinacy of equilibrium analysis. In this way, we can compare the results from
+the global equilibrium analysis to the ones from the local equilibrium analysis.11 Nevertheless our global
+results on the existence of cyclical and chaotic equilibrium dynamics will still hold if instead we assume
+incomplete markets, as we will show in Section 6.
+Under complete markets the representative agent's flow constraint for each period can be written as
+Md
+t + EtQt,t+1Dt+1 ≤Wt + EtyT
+t + P N
+t yN
+t -Etτ t -EtcT
+t -P N
+t cN
+t
+(8)
+where EtQt,t+1Dt+1 denotes the cost of all contingent claims bought at the beginning of period t and Qt,t+1
+refers to the period-t price of a claim to one unit of currency delivered in a particular state of period t + 1,
+divided by the probability of occurrence of that state and conditional of information available in period t.
+Constraint (8) says that the total end-of-period nominal value of the financial assets can be worth no more
+than the value of the financial wealth brought into the period, Wt, plus non-financial income during the
+period net of the value of taxes, Etτ t , and the value of consumption spending.
+To derive the period-by-period budget constraint, we use the definition of the total beginning-of-period
+wealth, in the following period, Wt+1 = Md
+t + Dt+1 and the fact that the period-t price of a claim that pays
+one unit of currency in every state in period t+1 is equal to the inverse of the risk-free gross nominal interest
+rate; that is EtQt,t+1 =
+1
+Rt . From this, the definition of Wt+1 and (8) we obtain
+EtQt,t+1Wt+1 ≤Wt + EtyT
+t + P N
+t yN
+t -Etτ t -Rt -1
+Rt
+Md
+t -EtcT
+t -P N
+t cN
+t .
+(9)
+10See Angeletos (2002).
+11See Schmitt-Grohé and Uribe (2003).
+6
+
+The representative unit is also subject to a Non-Ponzi game condition
+lim
+j→∞Etqt+jWt+j ≥0
+(10)
+at all dates and under all contingencies where qt represents the period-zero price of one unit of currency to
+be delivered in a particular state of period t divided by the probability of occurrence of that state and given
+information available at time 0. It satisfies qt = Q1Q2.....Qt with q0 ≡1.
+The problem of the representative household-firm unit reduces to choosing the sequences {cT
+t , cN
+t , hT
+t ,
+hN
+t , Md
+t , Wt+1}∞
+t=0 in order to maximize (1) subject to (2), (3), (9) and (10), given W0 and the time paths
+of Rt, Et, P N
+t , Qt+1 and τ t. Note that since the utility function specified in (1) implies that the preferences
+of the agent display non-satiation then both constraints (9) and (10) hold with equality.
+The first order conditions correspond to (9) and (10) with equality and
+αγ
+¡
+cT
+t
+¢αγ(1-σ)-1 ¡
+cN
+t
+¢(1-α)γ(1-σ) ¡
+md
+t
+¢(1-γ)(1-σ) = λt
+(11)
+αcN
+t
+(1 -α)cT
+t
+= et
+(12)
+λt
+et
+θN
+¡
+hN
+t
+¢(θN-1) = ψ = λtθT
+¡
+hT
+t
+¢(θT -1)
+(13)
+md
+t =
+μ1 -γ
+γ
+¶ μ1 -α
+α
+¶1-α μ
+Rt
+Rt -1
+¶
+cT
+t e1-α
+t
+(14)
+λt
+Et
+Qt,t+1 = β λt+1
+Et+1
+(15)
+where λt/Et is the Lagrange multiplier of the flow budget constraint.
+The interpretation of the first order conditions is straightforward. Equation (11) is the usual intertemporal
+envelope condition that makes the marginal utility of consumption of traded goods equal to the marginal
+utility of wealth measure in terms of traded goods (λt). Condition (12) implies that the marginal rate of
+substitution between traded and non-traded goods must be equal to the real exchange rate. Condition (13)
+equalizes the value of the marginal products of labor in both sectors. Equation (14) represents the demand
+for real money balances. And finally condition (15) describes a standard pricing equation for one-step-ahead
+nominal contingent claims for each period t and for each possible state of nature.
+2.2
+The Government
+The government issues two nominal liabilities: money, Ms
+t , and a one period risk-free domestic bond, Bs
+t ,
+that pays a gross risk-free nominal interest rate Rt. We assume that it cannot issue or hold state contingent
+claims. It also levies taxes, τ t, pays interest on its debt, (Rt -1)Bs
+t , and receives revenues from seigniorage.
+7
+
+Then the government's budget constraint can be written as Ls
+t = Rt-1Ls
+t-1 -(Rt-1 -1)Ms
+t-1 -Etτ t, where
+Ls
+t = Ms
+t + Bs
+t .
+We proceed to describe the fiscal and monetary policies. The former corresponds to a generic Ricardian
+policy: the government picks the path of the lump-sum transfers, τ t, in order to satisfy the intertemporal
+version of its budget constraint in conjunction with the transversality condition lim
+t→∞
+Ls
+t/Et
+tT
+k=0
+
+Rk
+k+1
+ = 0. The latter
+is described as an interest rate feedback rule whereby the government sets the nominal interest rate, Rt, as a
+continuous and increasing function of the deviation of the expected future CPI-inflation rate, Et (πt+1), from
+a target, π∗.12 For analytical and computational purposes, as in Benhabib et al. (2002a) and Christiano and
+Rostagno (2001), we use the following specific non-linear rule13
+Rt = ρ(Etπt+1) ≡1 + (R∗-1)
+μEtπt+1
+π∗
+¶
+A
+R∗-1
+(16)
+where R∗= π∗/β and R∗corresponds to the target interest rate. (16) always satisfies the zero bound on
+the nominal interest rate, i.e. Rt = ρ(Etπt+1) > 1. In addition we assume that the government responds
+aggressively to inflation.
+This means that at the inflation target, the rule's elasticity to inflation ξ ≡
+ρ0(π∗)π∗
+ρ(π∗)
+=
+A
+R∗is strictly bigger than 1. Following Leeper (1991) we call rules with this property active rules.
+Assumption 0:
+ξ =
+A
+R∗> 1. That is, the rule is active.
+2.3
+International Capital Markets
+Besides complete markets there is free international capital mobility. Then the no-arbitrage condition
+Qw
+t,t+1 = Qt,t+1
+Et+1
+Et
+holds, where Qw
+t,t+1 refers to the period-t foreign currency price of a claim to one unit
+of foreign currency delivered in a particular state of period t + 1 divided by the probability of occurrence of
+that state and conditional of information available in period t.
+Furthermore under the assumption of complete markets a condition similar to (15) must hold from the
+maximization problem of the representative agent in the Rest of The World (ROW). That is,
+λw
+t
+P T w
+t
+Qw
+t,t+1 =
+λw
+t+1
+P T w
+t+1 βw where λw
+t represents the marginal utility of nominal wealth in the ROW, βw denotes the subjective
+discount rate of the ROW and P Tw
+t
+is the foreign price of traded goods. Since we normalize this price to
+one (P Tw
+t
+= 1) then assuming that βw = β leads to λw
+t Qw
+t,t+1 = λw
+t+1β.
+Combining this last equation, with condition (15) and the fact that P T
+t = Et yields λt+1
+λt
+=
+λw
+t+1
+λw
+t , which
+holds at all dates and under all contingencies. This condition implies that the domestic marginal utility
+of wealth is proportional to its foreign counterpart: λt = Λλw
+t where Λ refers to a constant parameter that
+determines the wealth difference between the SOE and the ROW. From the perspective of a SOE, λw
+t can be
+taken as an exogenous variable. For simplicity we assume that λw
+t is constant and equal to λw. As a result
+12In the sensitivity analysis presented in Section 6 we also study contemporaneous and backward-looking rules.
+13Cycles and chaos would also occur if the interest rate rule was a linear function of inflation.
+8
+
+of this λt becomes a constant. Then
+λt = λ = Λλw.
+(17)
+This allows us to write condition (15) as Qt,t+1 =
+Et
+Et+1 β =
+β
+t+1 that together with EtQt,t+1 =
+1
+Rt yields
+Rt = β-1
+·
+Et
+1
+t+1
+ ̧-1
+(18)
+which is similar to an uncovered interest parity condition.
+2.4
+The Definition of Equilibrium
+In this paper we will focus on perfect foresight equilibria. In other words, we assume the all the agents
+in the economy, including the government, forecast correctly all the anticipated variables. Hence for any
+variable xt we have that Etxt+j = xt+j with j ≥0 implying that we can drop the expectation operator in
+the previous equations. For instance, under perfect foresight, condition (18) becomes
+Rt = β-1t+1
+(19)
+that corresponds to the typical uncovered interest parity condition as long as β-1 represents the foreign
+international interest rate.14
+In order to provide a definition of the equilibrium dynamics subject of our study, we find a reduced
+non-linear form of the model. To do so we use the definitions (5) and (7) together with conditions (11)-(14),
+(17), (19), and the market clearing conditions for money and the non-traded good, Md
+t = Ms
+t = Mt and
+yN
+t =
+¡
+hN
+t
+¢θN = cN
+t , to obtain
+πt+1
+μ
+Rt+1
+Rt+1 -1
+¶χ
+=
+μ
+Rt
+Rt -1
+¶χ
+βRt
+(20)
+where
+χ =
+(σ -1)(1 -α)(1 -γ)(1 -θN)
+σ[θN + α(1 -θN)] + (1 -α) (1 -θN).
+(21)
+Combining (16) and (20) and dropping the expectation operator yields
+μ
+Rt+1
+Rt+1 -1
+¶χ
+= Rt
+R∗
+μR∗-1
+Rt -1
+¶ R∗-1
+A
+μ
+Rt
+Rt -1
+¶χ
+(22)
+which corresponds to the reduced non-linear form of the model that can be used to pursue the local and
+global determinacy of equilibrium analyses.15
+We use this equation in order to provide a definition of a
+14This holds by the previous analysis since EtQw
+t,t+1 =
+1
+Rw
+t = β.
+15This equation abstracts from possible effects that fiscal policies can have on the equilibrium dynamics of the economy. The
+reason is that we have assumed a Ricardian fiscal policy under which the intertemporal version of the government's budget
+constraint and its transversality condition will be always satisfied.
+9
+
+Perfect Foresight Equilibrium (PFE).
+Definition 1 Given the target R∗and the initial condition R0, a Perfect Foresight Equilibrium (PFE) is a
+deterministic process {Rt}∞
+t=0, with Rt > 1 for any t, that satisfies equation (22) if the interest rate rule is
+forward-looking.
+Although Definition 1 is stated exclusively in terms of the nominal interest rate (Rt), it must be clear
+that multiple perfect foresight equilibrium solutions to (22) imply real local and/or global indeterminacy
+of all the endogenous variables.16
+In other words the indeterminacy of the nominal interest rate implies
+real indeterminacy in our model because of the non-separability in the utility function between money and
+consumption.17
+In order to pursue the equilibrium analysis we need to identify the steady state(s) of the economy. From
+(5), (7) and (20) we obtain that at the steady-state(s), πNss = ss = πss, and Rss = πss/β. Using these and
+the rule (16) we have that
+(R∗-1)
+R∗-1
+A
+Rss = R∗(Rss -1)
+R∗-1
+A
+.
+(23)
+Clearly Rss = R∗> 1 is a solution to (23), and therefore a feasible steady state. But if the rule is active at
+R∗, that is if ξ =
+A
+R∗> 1, then another lower steady state RL ∈(1, R∗) exists and it is unique. At this low
+steady state the elasticity of the rule to inflation satisfies ξ =
+A
+RL < 1. The following proposition formalizes
+the existence of the low steady state RL.
+Proposition 1 If
+A
+R∗> 1 (an active rule) and Rss > 1 (the zero lower bound) then there exists a solution
+Rss = RL ∈(1, R∗) solving (23) besides the trivial solution Rss = R∗.
+Proof. See the Appendix.
+The existence of two steady states plays a crucial role in the derivation of our results as in the closed
+economy model of Benhabib et al. (2002a). As a matter of fact, the steady state equation (23) of our SOE is
+identical to theirs. It is independent of the non-policy structural parameters. Hence no fold bifurcation (i.e.
+appearance/disappearance of steady states) occurs because of changes in these parameters. What distinguishes our model from theirs are the equilibrium dynamics offthe two steady states. This is a consequence
+of the following two features of our model. First, by introducing traded and non-traded goods we present an
+economy with two sectors that although homogeneous in terms of price setting behavior (both feature flexible
+prices), are fundamentally different in terms of the degree of openness to international trade. As we will see
+16By indeterminacy we refer to a situation where one or more real variables are not pinned down by the model. We use
+the terms indeterminacy and multiple equlibria interchangeably.
+The same comment applies to determinacy and a unique
+equilibrium.
+17In fact, for any given Rt, by simply manipulating equations (5), (7), (11)- (14), (17), (19), and the market clearing conditions
+for money and the non-traded good, we can obtain all the remaining real endogenous variables. For instance the labor allocated
+for the production of the non-traded good and the real exchange rate can be expressed as functions of the gross interest rate
+only, hN
+t
+= hN (Rt) and et = e (Rt), respectively, whereas from the market clearing condition, cN
+t
+= hN
+t
+θN , we obtain
+cN
+t = cN (Rt) .
+10
+
+below this degree, measured by α, will influence the equilibrium dynamics. Second, by considering money
+in the non-separable utility function we are able to study how the existence of cyclical dynamics depend on
+whether money and consumption are either Edgeworth complements (σ < 1) or substitutes (σ > 1).
+In the analysis to follow we will study how α and σ affect the local and global equilibrium dynamics in our
+SOE model while keeping constant the other structural parameters (β, γ and θN) and the policy parameters
+(A and R∗). This will allow us to compare economies that implement the same monetary rule but differ
+in the degree of openness α and the risk aversion parameter σ. To accomplish this goal we will proceed in
+two steps. First we will analyze how these dynamics are affected by the composite parameter χ defined in
+(21). Second by taking into account the dependence of χ on both α and σ we will unveil the effect of the
+degree of openness and the risk aversion parameter on the existence of local and global dynamics (cycles and
+chaos). In this sense we will regard χ as a function of α and σ.18 That is χ(α, σ). For the second step we will
+use and refer to (21), and to Lemmata 4 and 5 in the Appendix. In turn, these Lemmata and subsequent
+propositions will use the following definitions
+χmax ≡(1 -γ)(1 -θN)
+θN
+∈(0, +∞)
+χmin ≡-(1 -γ) ∈(-1, 0)
+(24)
+μ(σ) = (σ -1)(1 -γ)(1 -θN)
+σθN + (1 -θN)
+(25)
+where χmax and χmin are considered scalars and μ(σ) is considered a function of σ.
+Definition 2 Using (24) and (25) define the scalars σi ≡
+1-
+Υi
+χmin
+1-
+Υi
+χmax
+and the functions αi(σ) ≡
+1-Υi
+μ(σ)
+1-
+Υi
+χmin
+for
+i = w, k, f, d where Υw ≡RL 3
+1 -R∗-1
+A
+ ́
+-1 < 0, Υk ≡
+3
+1 -R∗
+A
+ ́
+(R∗-1) > 0, Υf ≡Υw
+2
+and Υd ≡Υk
+2 ;
+and the functions αi(σ) are characterized in Lemma 4 when σ > 1 and in Lemma 5 when σ ∈(0, 1).
+3
+Equilibrium Dynamics under Forward-Looking Rules
+Our study of forward-looking rules is motivated by the evidence provided by Clarida et al. (1998) for
+industrialized economies and by Corbo (2000) for developing economies. Both works suggest that these
+economies have followed forward-looking rules.
+In order to derive analytical results for both the local and the global equilibrium analyses we will assume
+that the constant parameters γ, θN, A and R∗satisfy the following assumptions.19,20
+18χ also depends on γ and θN. However we will not pursue any bifurcation analysis with respect to these parameters.
+19Assumption 1 is necessary and sufficient for the existence of ranges of α and σ where local indeterminacy occurs, as well as
+for the existence of a flip bifurcation frontier in the case of σ > 1. Assumption 2 allows monotonic liquidity traps for low values
+of σ. It could therefore be dropped without affecting the possibility of cycles around the passive steady state. Assumption 3 which basically requires enough separation between the two steady states - is useful in proving the existence of a flip bifurcation
+frontier in the case of σ < 1. Extensive algebra (not reported here for reasons of space) shows that Assumption 3 holds if, for a
+given target R∗, the rule is sufficiently active.
+20The calibration exercise that we present below suggests that these assumptions are not unrealistic. For given monetary
+11
+
+Assumption 1: χmax > 1
+2(R∗-1)
+3
+1 -R∗
+A
+ ́
+.
+Assumption 2: χmin < 1-R∗
+A
+.
+Assumption 3: R∗-1 > A
+¡
+RL -1
+¢
+.
+3.1
+The Local Determinacy of Equilibrium Analysis
+The local determinacy of equilibrium analysis for forward-looking rules is pursued by log-linearizing
+equation (22) around the target steady state R∗, yielding
+ˆRt+1 =
+"
+1 +
+R∗
+A -1
+χ
+R∗-1
+#
+ˆRt.
+(26)
+Since Rt is a non-predetermined variable, studying local determinacy is equivalent to finding conditions that
+make the linear difference equation (26) explosive. The next Lemma shows how local equilibrium determinacy
+depends on χ.
+Lemma 1 Define Υd ≡1
+2(R∗-1)
+3
+1 -R∗
+A
+ ́
+> 0 and consider χ ∈R. Suppose the government follows an
+active forward-looking rule then: 1) the equilibrium is locally unique if χ < Υd; 2) there exist locally multiple
+equilibria if χ > Υd.
+Proof. See the Appendix.
+These simple determinacy of equilibrium conditions for χ can be reinterpreted in terms of the degree of
+openness α and the risk aversion parameter σ in the following Proposition.
+Proposition 2 Consider σd and αd(σ) in Definition 2 where σd > 1 and αd : (1, +∞) →(-∞, 1). Suppose
+that the government follows an active forward-looking rule.
+1. There exists a locally unique equilibrium
+(a) if consumption and money are Edgeworth complements, i.e. σ ∈(0, 1) , and for any degree of
+openness, i.e. α ∈(0, 1);
+(b) if consumption and money are Edgeworth substitutes, i.e. σ > 1, and the economy is sufficiently
+open satisfying α > αd
+min; where αd
+min ≡max
+©
+0, αd(σ)
+a
+is positive and strictly increasing for
+σ > σd, but constant and equal to zero for any σ ∈
+¡
+1, σd¤
+.
+2. There exist locally multiple equilibria if consumption and money are Edgeworth substitutes satisfying
+σ > σd, and the economy is sufficiently closed satisfying α ∈(0, αd(σ)).
+policy parameters and for given θ, both Assumptions 1 and 2 imply a minimum share of real balances in utility. We can in fact
+rewrite Assumption 1 as (1 -γ) > 1
+2
+θN
+(1-θN )
+
+R∗-1
+A
+
+(A -R∗) . For the calibration used in Table 2, the right hand side of this
+inequality is about 0.006, while we set 1 -γ = 0.03 consistently with the literature. Similarly, Assumption 2 can be written as
+1 -γ > R∗-1
+A
+, with the right hand side equal to 0.007 in our calibration.
+12
+
+Proof. See the Appendix.
+The results of this proposition show the importance of α and σ in the local characterization of the
+equilibrium. In a nutshell, active forward-looking rules guarantee local uniqueness in the following cases:
+when regardless of the degree of openness the risk aversion parameter σ is sufficiently low; and when the
+economy is sufficiently open for high values of σ.21 It is in this sense that an active rule might be viewed as
+stabilizing. Local equilibrium determinacy, however, does not guarantee global equilibrium determinacy. To
+see this we pursue a global characterization of the equilibrium dynamics in the following subsection.
+3.2
+The Global Determinacy of Equilibrium Analysis
+To pursue the global equilibrium analysis we rewrite equation (22) as the forward mapping Rt+1 = f (Rt)
+where
+f (Rt) ≡
+1
+1 -J (Rt)
+1
+χ
+(27)
+and
+J (Rt) ≡
+R∗
+[R∗-1]
+R∗-1
+A
+[Rt -1]χ+ R∗-1
+A
+R1+χ
+t
+.
+(28)
+Then the global analysis corresponds to studying the global PFE dynamics that satisfy Rt+1 = f (Rt) given
+an initial condition R0 > 1 and subject to the zero-lower-bound condition fn (R0) > 1 for any n ≥1.
+The types of cyclical and chaotic dynamics we will be referring to are those conforming to the following
+definitions.
+Definition 3 Period-n cycle. A value "R" is a point of a period-n cycle if it is a fixed point of the n-th
+iterate of the mapping f(.), i.e. R = fn (R) , but not a fixed point of an iterate of any lower order. If "R"
+is such, we call the sequence
+©
+R, f (R) , f2 (R) , ..., f n-1 (R)
+a
+a period-n cycle.
+Definition 4 Topological chaos. The mapping f(.) is topologically chaotic if there exists a set "S" of
+uncountable many initial points, belonging to its domain, such that no orbit that starts in "S" will converge
+to one another or to any existing period orbit.
+The global analysis requires a full characterization of f(.) in (27) not only around its stationary solutions,
+like in the local analysis, but over its entire domain. In this characterization it is useful to take into account
+that a necessary condition for the existence of cyclical dynamics in continuously differentiable maps is that
+the mapping f (.) slopes negatively at either one of the two steady states.22
+Lemma 6 in the Appendix
+investigates the properties of the mapping f(.) showing that they depend critically on χ. Here we only
+21In fact this result is more general since a quick inspection of Proposition 2 suggests that if the the economy is very open,
+an active rule leads to a unique equilibrium regardless of the values of the other structural parameters.
+22See Lorenz (1993).
+13
+
+Rt
+1 
+Rt+1
+RL
+R*
+RJ
+f(Rt) 
+1 Rl RL RJ R* Ru Rt 
+Rt+1
+1
+1
+f(Rt) 
+χ > 0 
+χ < 0 
+Figure 1: This Figure shows the mapping Rt+1 = f(Rt) for χ > 0, and χ < 0 but χ + R∗-1
+A
+> 0. Rt
+denotes the nominal interest rate. A formal characterization of this mapping is provided in Lemma 6 in the
+Appendix.
+provide a big picture of the analysis. First of all, the Lemma specifies conditions under which f (.) satisfies
+the zero-lower-bound requirement. Second, it makes use of the following conditions
+sign {f0 (Rt)} = sign
+1⁄2J0 (Rt)
+χ
+3⁄4
+and
+sign {J0 (Rt)} = sign
+(
+1 + χ
+1 -R∗-1
+A
+-Rt
+)
+(29)
+which imply that for χ 6= 0 then RJ ≡
+1+χ
+1-R∗-1
+A
+is a critical point of f (.) as long as RJ > 1. With these
+conditions the Lemma shows that the mapping Rt+1 = f (Rt) is always single-peaked for χ > 0 whereas for
+χ < 0 it is single-troughed only if χ + R∗-1
+A
+> 0.
+Figure 1 displays a graphical representation of the cases where the equilibrium mapping Rt+1 = f (Rt) has
+a critical point between the two steady states. The right panel considers the case of χ < 0 and χ+ R∗-1
+A
+> 0,
+while the left panel the case of χ > 0. In the left one, f (.) always satisfies the equilibrium conditions for
+any Rt ∈(1, +∞) and crosses the 45 degree line twice at RL > 1 and R∗> RL (the two steady states).
+Furthermore,
+lim
+Rt→1f (Rt) =
+lim
+Rt→+∞f (Rt) = 0 and there is a maximum at RJ ∈
+¡
+RL, R∗¢
+. In the right
+panel, all equilibrium conditions are satisfied only within a subset
+¡
+Rl, Ru¢
+⊂(1, +∞) defined in Lemma
+6. Within that set, f (.) crosses the 45 degree line at RL > 1 and R∗> RL, as in the previous case, but
+now RJ ∈
+¡
+RL, R∗¢
+is a minimum and
+lim
+Rt→Rl+f (Rt) =
+lim
+Rt→Ru-f (Rt) = +∞. These are clearly the cases in
+which we are interested, as they imply a negative derivative of f(.) at either one of the two steady states.
+Figure 1 together with Lemma 6 suggest that depending on the sign of χ, cycles may appear around either
+the active steady state or the passive steady state. Hence we proceed to look for flip bifurcation thresholds
+for χ i.e. critical values of χ that determine a change in the stability properties of the steady state where
+14
+
+the map f (.) is negatively sloped. If the steady state is stable, any equilibrium orbit, that starts in a map
+invariant set centered around this state, will asymptotically converge to the steady state itself, monotonically
+or spirally. Thus equilibrium cycles are impossible. On the contrary if the steady state is unstable, such
+orbit will keep oscillating within the map invariant set and either it converge to a stable n-period cycle, or
+not converge at all displaying aperiodic but bounded dynamics (chaotic equilibrium paths). We first consider
+the case of χ ∈
+3
+RL 3
+1 -R∗-1
+A
+ ́
+-1, 0
+ ́
+and show that endogenous cyclical dynamics of period 2 can occur
+around the passive steady state.
+Lemma 2 Let Υw ≡RL 3
+1 -R∗-1
+A
+ ́
+-1, and define the points R ≡f
+¡
+RJ¢
+, i.e. the image of RJ (the critical
+point of f (.)), and eR ≡f-1 (R∗) , i.e. the inverse image of the high steady state. Consider χ ∈(Υw, 0) and
+assume that fmin ≡f
+¡
+RJ¢
+≥eR.23 Then:
+1. RL ∈
+¡
+R, RJ¢
+and RL > eR;
+2. the set [R, R∗] is invariant under the mapping f (.) and attractive for any Rt ∈
+h
+eR, R
+i
+where eR < R;
+3. period-2 cycles within [R, R∗] and centered around the passive steady state occur when χ ∈
+¡ Υw
+2 , 0
+¢
+.
+Proof. See Appendix.
+For the case of χ ∈
+3
+0,
+3
+1 -R∗
+A
+ ́
+(R∗-1)
+ ́
+endogenous cyclical dynamics of period 2 exist around the
+active steady state, instead.
+Lemma 3 Let Υk ≡
+3
+1 -R∗
+A
+ ́
+(R∗-1) , and define the points R ≡f
+¡
+RJ¢
+, i.e. the image of RJ (the critical
+point of f (.)) and eR ≡f-1 (R∗) , i.e. the inverse image of the high steady state. Consider χ ∈
+¡
+0, Υk¢
+and
+assume fmax ≡f
+¡
+RJ¢
+≤eR. Then:
+1. R∗∈
+¡
+RJ, R
+¢
+and eR > RL;
+2. the set
+£
+RL, R
+¤
+is invariant under the mapping f(.) and attractive for any Rt ∈(R, eR] where R < eR;
+3. period-2 cycles within
+£
+RL, R
+¤
+and centered around the active steady state occur when χ ∈
+¡
+0, 1
+2Υk¢
+.
+Proof. See Appendix.
+Similarly to the local determinacy analysis, the conditions for endogenous cycles derived in terms of χ
+can be easily translated into conditions described in terms of the degree of openness α and the risk aversion
+parameter σ. The next Proposition accomplishes this goal.
+23This assumption rules out explosive paths for initial conditions between the two steady states. It is similar in flavor to the
+one used by Boldrin et al. (2001) and Matsuyama (1991). If fmin = f RJ < hR there would not be a non-trivial mappinginvariant set. This case displays a different type of multiplicity. It can be shown that there exists a set of points within the
+set [R, R∗] that leave such a set after a finite number of iterations, and settle to an exploding path diverging from the active
+steady state (see Matsuyama, 1991).
+15
+
+Proposition 3 Suppose that the government follows an active forward-looking rule.
+1. Consider σf and αf(σ) in Definition 2 where σf ∈(0, 1) and αf : (0, 1) →(-∞, 1) and assume that
+consumption and money are Edgeworth complements, i.e. σ ∈(0, 1) . Then period-2 equilibrium cycles
+exist around the passive steady state if the economy is sufficiently open satisfying α > αf
+min, where
+αf
+min ≡max
+©
+0, αf(σ)
+a
+is positive and strictly decreasing for σ ∈
+¡
+0, σf¢
+, but constant and equal to
+zero for any σ ∈
+£
+σf, 1
+¢
+.
+2. Consider σd and αd(σ) in Definition 2 where σd > 1 and αd : (1, +∞) →(-∞, 1) and assume
+that consumption and money are Edgeworth substitutes, i.e. σ > 1. Then period-2 equilibrium cycles
+exist around the active steady state if the economy is sufficiently open satisfying α > αd
+min, where
+αd
+min ≡max
+©
+0, αd(σ)
+a
+is positive and strictly increasing for σ > σd, but constant and equal to zero for
+any σ ∈
+¡
+1, σd¤
+.
+Proof. See the Appendix.
+Proposition 3 is one of the main contributions of our paper. It states that at either sufficiently low or
+sufficiently high risk aversion coefficients (σ), forward looking rules are more prone to induce endogenous
+cyclical dynamics the more open the economy; while for σ sufficiently close to 1, but different from it, forward
+looking rules will lead to those dynamics regardless of the degree of openness.24
+The second point of this Proposition is also useful to make the following interesting argument. The
+sufficient condition for the existence of period-2 cycles when σ > 1 and the local determinacy condition
+stated in Point 1b) of Proposition 2 are exactly the same. This is a clear example of why local analysis can
+be misleading. By log-linearizing around the steady state, local analysis implicitly assumes that any path
+starting arbitrarily close to it and diverging cannot be part of an equilibrium since it will eventually explode
+and thus violate some transversality condition. This is not the case here as the global analysis proves that
+the true non-linear map features a bounded map-invariant and attractive set around the active steady state.
+It is then possible to have equilibrium paths that starting arbitrarily close to the target steady state will
+converge to a stable deterministic cycle.
+Given the functional form of f (.) in (27) it is very difficult to derive analytical conditions for α and σ
+under which forward-looking rules induce either cycles of period higher than 2 or chaotic dynamics. Therefore
+in order to shed some light on the role of both α and σ in delivering these dynamics, as well as to find some
+empirical confirmation of our analytical results, we pursue a simple calibration-simulation exercise.
+24As mentioned before, the discountinuity of the model with respect to σ = 1 corresponds to a utility function that is separable
+in money and consumption. In this case it is possible to show that no cyclical dynamics can occur.
+16
+
+Table 2: Parametrization
+θN
+β
+π∗
+R∗
+1 -γ
+A
+R∗
+0.56
+0.99
+1.031
+1
+4
+1.072
+1
+4
+0.03
+2.24
+We set the time unit to be a quarter and use Canada as the representative economy. From Mendoza
+(1995) we borrow the labor income shares for the non-traded sector and set θN = 0.56. The steady-state
+inflation, π∗, and the steady state nominal interest rate, R∗, are calculated as the average of the CPI-inflation
+and the Central Bank discount rate between 1983-2002. This yields π∗= 1.031
+1
+4 and R∗= 1.072
+1
+4 . Then the
+subjective discount rate is determined by β = π∗/R∗. We use the estimate of Lubik and Schorfheide (2003)
+for the Canadian interest rate response coefficient to inflation which corresponds to
+A
+R∗= 2.24. Estimates
+for the share of expenditures on real money balances, 1 -γ, for Canada are not available. For the US,
+estimates of this parameter vary from 0.0146 to 0.039 depending on the specification of the utility function
+and method of estimation. We set 1 -γ equal to 0.03 that is in line with the estimates provided by previous
+works.25 Table 2 gathers the parametrization.
+As in the analytical study, in the simulation exercise we vary α and σ keeping the remaining parameters
+as in Table 2. Nevertheless, an estimate of α for Canada can be obtained from the average imports to GDP
+share during 1983-2002, yielding α = 0.31. In contrast, obtaining an estimate of σ is more difficult. As
+explained before, σ is related to the CRRA coefficient eσ through eσ = 1 -γ (1 -σ) which spans over a wide
+range. The RBC literature usually sets eσ = 2. This value and 1 -γ = 0.03 imply σ = 2.03. Since the
+value of σ determines whether consumption and real money balances are either Edgeworth substitutes or
+complements we will use different values for the CRRA eσ. For instance, we let eσ ∈{0.8, 1.5, 2, 2.5} which in
+tandem with 1 -γ = 0.03 leads to σ ∈{0.79, 1.51, 2.03, 2.55} respectively.
+Given σ ∈{0.79, 2.03} which corresponds to CRRA of ̃σ ∈{0.8, 2} we construct Figure 2. It presents the
+bifurcation (or orbit) diagrams for the degree of openness α. The left panel considers the case when money
+and consumption are complements by setting ̃σ = 0.8. The right panel corresponds to the case when they
+are substitutes as ̃σ = 2. With α ∈(0, 1) on the horizontal axis and Rt > 1 on the vertical axis, the solid
+lines in the diagram correspond to stable solutions of period n. The left and right panels of the figure show
+how by increasing α an active forward-looking rule can drive the economy into period-2 cycles, period-4
+cycles,...period-n cycles and eventually chaotic dynamics. Starting from α = 0, both panels show that for
+low degrees of openness the economy, that is described by the mapping Rt+1 = f(Rt) in (27), always settles
+on a stable steady state equilibrium after a long enough series of iterations. It settles on the passive steady
+state, RL, for ̃σ = 0.8 and on the active steady state, R∗, for ̃σ = 2. Once α reaches some threshold a
+25See Holman (1998) among others.
+17
+
+Figure 2: Orbit-bifurcation diagrams for the degree of openness, α. Rt denotes the nominal interest rate.
+The diagrams show the set of limit points as a function of α, under two different coefficients of risk aversion
+(CRRA) ̃σ = 0.8 and ̃σ = 2, and under an active forward-looking rule. Depending on α, an active forwardlooking rule may drive the economy into period-2 cycles, period-4 cycles,...period-n cycles and even chaotic
+dynamics.
+stable period-2 cycle appears, as indicated by the first split into two branches in both panels. As we increase
+α further in both panels, both branches split again yielding a period-4 stable cycle. A cascade of further
+period doubling occurs as we keep increasing α, yielding cycles of period-8, period-16 and so on. Finally for
+sufficiently high α values, the rule produces aperiodic chaotic dynamics, i.e. the attractor of the map (27)
+changes from a finite to an infinite set of points.
+From Figure 2 we also see that when consumption and money are complements then cyclical and chaotic
+dynamics occur around the passive steady state; whereas if they are substitutes then these dynamics appear
+around the target active steady state. Nevertheless for both cases, forward-looking rules are more prone to
+induce cycles and chaos the more open the economy.
+In order to summarize and compare the results of the local and global determinacy of equilibrium analyses
+we construct Figure 3. It shows the combinations of the degree of openness and the risk aversion parameter,
+α and σ, for which there is local and/or global (in)determinacy. For σ ≥0 and α ∈[0, 1] we plot two
+threshold frontiers: the flip bifurcation frontier for period-2 cycles around the passive steady state, αf(σ)
+and the frontier αd(σ) for both local determinacy and period-2 cycles around the active steady state. Regions
+featuring a locally unique equilibrium are labeled with a "U", while those featuring locally multiple equilibria
+are labeled with an "M". Clearly, "U" appears everywhere but below the curve αd(σ) implying that local
+18
+
+ 
+ 
+ 
+ 
+0
+α 
+σd
+Flip 
+Bifurcation 
+Frontier αf(σ) 
+ 
+U
+U
+σ 
+1
+1
+U
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+Flip 
+Bifurcation and 
+Local 
+Indeterminacy 
+Frontier αd(σ) 
+σf
+Cycles and Chaos 
+Around the Active SS
+Cycles and Chaos 
+Around the 
+Passive SS 
+Figure 3: Equilibrium analysis for an active forward-looking interest rate rule. This figure shows a comparison
+between the local equilibrium analysis and the global equilibrium analysis as the degree of openness α and
+the coefficient of risk aversion σ vary. "M" stands for local multiple equilibria and "U" stands for a local
+unique equilibrium.
+determinacy occurs for a wide range of (α, σ) combinations. In fact note how local determinacy coexists
+with global indeterminacy.
+It is also interesting to compare our results with the ones in Benhabib et al. (2002a). There are some
+important differences. First our results derived in a money-in-the-utility-function set-up point out that it
+is not necessary to assume a productive role for money to obtain cyclical and chaotic equilibria. Second
+if consumption and money are complements then it is possible to have liquidity traps as in Benhabib et
+al. (2002a). But some of them may be "non-monotonic" and converge to a cycle around an extremely low
+interest rate steady state. On the contrary if consumption and money are substitutes then cyclical and
+chaotic dynamics occur only around the active steady state. Although this case is reminiscent of the one in
+Benhabib et al. (2002a), it also presents a subtle difference. In their closed economy model period-3 cycles
+always occur only for sufficiently low σ, while our results show that they can basically appear for any σ > 1
+provided that there is enough degree of openness in the economy. In this sense and with respect to closed
+economies, open economies are more prone to display these cyclical dynamics.
+4
+Stabilizing Endogenous Fluctuations
+The rule's elasticity to inflation was treated as given in the previous analysis, since the objective was to
+compare the performance of a particular rule across economies differing in trade openness and risk aversion.
+But this parameter is actually a policy choice. Recognizing this poses the following question. Given all
+19
+
+the non-policy structural parameters, in particular, given the degree of openness α and the risk aversion
+parameter σ, what elasticity to inflation will eliminate cyclical and chaotic dynamics?
+To answer this
+question we can do the following simple exercise.26
+The bifurcation thresholds that determine the existence of cyclical dynamics can be implicitly represented
+by χ = Υ where χ depends on α, σ, γ, and θN and Υ depends on R∗and
+A
+R∗. Then we can keep R∗fixed
+as well as α, σ, γ, and θN (that determine χ) and use χ = Υ to solve for the bifurcation thresholds in terms
+of the elasticity ξ ≡
+A
+R∗, subject to ξ > 1. This will help us to find values of ξ that preclude the existence of
+cycles.
+It is simple to show that, for the case of χ < 0, there cannot exist cycles when27
+χ ≤RL
+μ
+1 -R∗-1
+A
+¶
+-1
+(30)
+and for the case of χ > 0 when
+χ ≥
+μ
+1 -R∗
+A
+¶
+(R∗-1)
+(31)
+Let's consider the case of χ > 0. We notice that if the interest rate target is set such that R∗< 1 + χ,
+then inequality (31) always holds for any active interest rate rule. If instead, R∗> 1 + χ, then inequality
+(31) is equivalent to ξ ≤
+1
+1-
+χ
+R∗-1 , which means that cycles are ruled out if the interest rate rule is not too
+active. To illustrate this we use the calibration in Table 2 and set α = 0.4 and CRRA = 2 (or equivalently
+σ = 2.03). Under this parametrization χ > 0 and the right panel of Figure 2 suggests that there are period-2
+cycles around the active steady state. In order to rule out them the elasticity to inflation should be below
+1.35.
+In the case of χ < 0, inequality (30) can be written as RL ≥
+1+χ
+1-Υ, for Υ ≡R∗-1
+A
+= R∗-1
+R∗ξ . First of
+all we notice that, since in equilibrium RL > 1, then the last inequality always holds when
+1+χ
+1-Υ ≤1, i.e.
+χ + Υ ≤0. Given the definition of elasticity, the latter can also be written as ξ ≥ξH where ξH ≡
+R∗-1
+R∗(-χ).
+Hence a sufficiently active rule satisfying ξ > ξH does not allow for equilibrium cycles. Nevertheless, even
+if we had ξ <
+R∗-1
+R∗(-χ), still RL ≥1+χ
+1-Υ could hold. From the implicit definition of RL in equation (23) and
+the related proof in Proposition 1, the last inequality is equivalent to
+1
+1-Υ
+h
+R∗-1
+1-Υ (χ + Υ)
+iΥ
+≥
+R∗
+1+χ, which
+depends solely on χ, R∗and ξ. This inequality defines implicitly a threshold ξL below which cycles are ruled
+out. Summarizing when χ < 0 then rules with elasticities ξ > 1 that satisfy either ξ > ξH or ξ < ξL will
+preclude the existence of cyclical dynamics. For instance, using the calibration in Table 2 and setting α = 0.4
+and CRRA= 0.8 (or equivalently σ = 0.79), we know that the left panel of Figure 2 suggests that there
+are chaotic dynamics around the passive steady state. But for this parametrization we obtain ξH = 8.75
+and ξL = 1.22. Thus these complex dynamics can be ruled out as long as the elasticity to inflation is either
+26Assumptions 0-3 will not be violated by the following analysis.
+27The formal derivation is available upon request.
+20
+
+ξ < 1.22 or ξ > 8.75.
+According to these results, the Taylor principle ξ ≡
+A
+R∗> 1 can be still a viable policy recommendation
+for equilibrium determinacy, even from a global equilibrium dynamics perspective. But there is an additional
+requirement: an upper bound on the rule's elasticity to inflation.28
+5
+Distribution Costs and Imperfect Exchange Rate Pass-Through
+The previous results were derived assuming that the Law of One Price held at the consumption level
+for traded goods and normalizing their foreign price to one. This in turn implied that there was a perfect
+exchange rate pass-through into import prices. In this Section we relax this assumption by introducing
+non-traded distribution costs which in turn implies imperfect exchange rate pass-through into import prices.
+Our goal is to understand how this can affect the previous global results of Section 3.
+We follow Burnstein, Neves and Rebelo (2003) by assuming that the traded good needs to be combined
+with some non-traded distribution services before it is consumed. In order to consume one unit of the traded
+good it is required η units of the non-traded good. Let ̃P T
+t and P T
+t be the prices in the domestic currency of
+the small open economy that producers of traded goods receive and that consumers pay, respectively. Hence
+the consumer price of the traded good can be written as
+P T
+t = ̃P T
+t + ηP N
+t .
+(32)
+To simplify the analysis we assume that the Law of One Price holds for traded goods at the production level
+and normalize the foreign price of the traded good to one ( ̃P Tw
+t
+= 1). Thus ̃P T
+t = Et ̃P Tw
+t
+= Et.
+The presence of distribution services leads to imperfect exchange rate pass-through into import prices.
+To see this we combine (32), ̃P T
+t = Et and et = Et/P N
+t
+to obtain
+πT
+t =
+μ
+et-1
+et-1 + η
+¶
+t +
+μ
+η
+et-1 + η
+¶
+πN
+t
+where πT
+t ≡
+P T
+t
+P T
+t-1 , t ≡
+Et
+Et-1 and πN
+t ≡
+P N
+t
+P N
+t-1 correspond to the (gross) inflation of import prices, the (gross)
+nominal depreciation rate and the (gross) non-traded inflation respectively. Clearly if η = 0 then there is
+perfect pass-through of the nominal depreciation rate into the inflation of import prices and it is measured
+by dπT
+t
+dt = 1. This is the case that we already studied. But if η > 0 then we obtain imperfect exchange rate
+pass-through measured by dπT
+t
+dt =
+3
+et-1
+et-1+η
+ ́
+∈(0, 1). As the parameter of distribution costs, η, increases then
+the degree of exchange rate pass-through decreases.
+In order to pursue a determinacy of equilibrium analysis we proceed as before. We obtain a reduced non-
+28Note that although it is possible to rule out cyclical and chaotic dynamics, liquidity traps are still feasible. To eliminate
+them it is necessary to implement some of the fiscal-monetary regimes proposed by Benhabib et al. (2002a).
+21
+
+Figure 4: Orbit-bifurcation diagrams for the distribution costs parameter (η).
+Rt denotes the nominal
+interest rate. The diagrams show the set of limit points as a function of η, under two different sets of values
+of the degree of openness and the CRRA, ( ̃σ, α) = (0.8, 0.4) and ( ̃σ, α) = (2, 0.4), and under an active
+forward-looking rule. Depending on η, which is related to the degree of exchange rate pass-through, an
+active forward-looking rule may lead the economy into cyclical and chaotic dynamics.
+linear form of the model that describes the dynamics of this economy. Nevertheless in contrast to the case
+of perfect exchange rate pass-through it is not possible to derive explicitly a difference equation similar to
+(22) that depends exclusively on the nominal interest rate Rt. Under imperfect exchange rate pass-through
+the dynamics of the economy are determined by the system
+μet+1 + η
+et + η
+¶α μ et
+et+1
+¶
+=
+μR∗
+Rt
+¶ μ Rt -1
+R∗-1
+¶ R∗-1
+A
+μ et + η
+et+1 + η
+¶[α(1-σ)+σ] μ(1 -α)et+1 + η
+(1 -α)et + η
+¶σ μet+1
+et
+¶
+
+1+ σθN
+1-θN
+
+=
+·μRt+1 -1
+Rt+1
+¶ μ
+Rt
+Rt -1
+¶ ̧(1-γ)(1-σ)
+.
+Since it is not possible to derive analytical results we rely on numerical simulations. The objective of the
+simulations is to assess the impact of varying the distribution costs parameter η (and therefore the degree of
+exchange rate pass-through) on the previous results about cyclical and chaotic dynamics. To do so we use
+the parametrization of Table 2 and construct Figure 4.
+We use two pairs of values for the degree of openness and the CRRA (that depends on σ). The first
+pair sets α = 0.4 and CRRA=0.8. According to the left panel of Figure 2 for theses values there are chaotic
+dynamics around the passive steady state. The second pair sets α = 0.4 and CRRA=2. For these values the
+22
+
+right panel of Figure 2 suggests that there are period-2 cycles around the active steady state. In the context
+of the present discussion these results associated with the selected pairs correspond to perfect exchange rate
+pass-through or η = 0. Increasing η, or in other words decreasing the degree of exchange rate pass-through,
+has a non-trivial impact on these results as can be confirmed by Figure 4. Consider the left panel first,
+where α = 0.4 and CRRA=0.8. Starting from η = 0 as η increases (as the degree of exchange rate passthrough declines) then the economy moves from displaying chaotic dynamics into displaying periodic cyclical
+dynamics. As η continues increasing the period of cycles decrease. Beyond η ≈0.6 cycles disappear and the
+only fixed point that subsists corresponds to the passive steady state. On the other hand, the right panel
+of Figure 4 shows the results for α = 0.4 and CRRA=2. For η = 0 the economy presents period-2 cycles
+around the active steady state as mentioned before. However as η increases (as the degree of exchange rate
+pass-through declines) cycles also disappear and the only attractor that subsists is the active steady state.
+The results of this analysis can be summarized in the following Proposition.
+Proposition 4 Forward-looking rules are more prone to induce cyclical and chaotic dynamics the higher the
+degree of exchange rate pass-through.
+6
+Sensitivity Analysis
+Throughout the whole paper, the analysis was pursued under the following assumptions: 1) international
+complete financial markets, 2) the measure of inflation in the rule was the CPI-inflation, 3) a forward-looking
+rule and 4) real money balances entered into utility via what Carlstrom and Fuerst (2001) call a "cash-when-
+I'm-done" timing. In this section, we study the consequences of relaxing these assumptions. To simplify the
+analysis we still assume perfect exchange rate pass-through. We will show that our previous global findings
+of Section 3 hold even if we consider incomplete financial markets or if we introduce a forward-looking rule
+that responds to a different measure of inflation such as the non-traded inflation. That is, the degree of
+openness still plays an important role for the existence of cyclical and chaotic dynamics.
+We also argue that cyclical and chaotic dynamics are less likely to occur under backward-looking rules
+while they can still appear under contemporaneous rules depending on the degrees of trade openness and risk
+aversion. And finally we prove that the alternative timing for real money balances, known as the "Cash-in-
+Advance" timing, affects the previously derived bifurcation thresholds, but does not preclude the existence
+of cyclical and chaotic dynamics.
+6.1
+Incomplete Markets
+The assumption about complete markets is not essential for the results derived in Section 3 about cyclical
+and chaotic dynamics. Assuming incomplete markets leads to the same global dynamics results. To see this
+assume that the agent is blessed with perfect foresight and has access to an international bond bw
+t and a
+23
+
+domestic bond Bt issued by the government. The former pays a constant international interest rate, Rw, and
+the latter pays an interest rate, Rt. Using this and the assumptions in the Subsection 2.1 we can rewrite the
+agent's budget constraint as
+Bt + Etbw
+t + Mt = RwEtbw
+t-1 + Mt-1 + Rt-1Bt-1 + EtyT
+t + P N
+t yN
+t -Etτ t -EtcT
+t -P N
+t cN
+t
+The agent chooses the sequences {cT
+t , cN
+t , hT
+t , hN
+t , Md
+t , bw
+t , Bt}∞
+t=0 in order to maximize (1) subject to
+(2) and (3), the previously mentioned budget constraint and corresponding transversality conditions, given
+Md
+-1, bw
+-1, and B-1 and the time paths of Rt, Et, P N
+t , Rw and τ t. The first order conditions of this problem
+for bw
+t and Bt correspond to
+λt = βRwλt+1
+(33)
+λt = βRtλt+1
+t
+(34)
+whereas the conditions for {cT
+t , cN
+t , hT
+t , hN
+t , Md
+t } can be written as (11)-(14).
+As is common in the small open economy literature, we assume βRw = 1, which implies by (33) that
+λt = λt+1. This in turn means that there is a unit root in the system of equations that describe the dynamics
+of the economy. This prevents us from using (log)linearization techniques in order to pursue a meaningful
+local determinacy of equilibrium analysis. Hence we cannot derive local results similar to the ones in the
+Subsection 3.1.
+But this does not change the previous results from the global determinacy of equilibrium analysis, since
+the global dynamics are still governed by (22). To see this use λt = λt+1 and (34) to obtain t = βRt which is
+identical to (19). This condition together with λt = λt+1, (5), (7), (11)-(14), and market clearing conditions
+can be used to derive an identical equation to (20) which in tandem with a forward-looking rule allows us to
+find an identical difference equation to (22). Then the cyclical and chaotic dynamics results that we derived
+before still hold under incomplete markets.
+Nevertheless, introducing incomplete markets has an interesting consequence for the behavior of the
+current account. To explore this, recall that indeterminacy of the nominal interest rate in our model implies
+real indeterminacy because of the non-separability in the utility function between consumption and money.
+That is, one can obtain all the remaining real endogenous variables as a functions of Rt.
+In particular
+hN
+t = hN (Rt), cT
+t =
+α
+1-α
+ψ
+λθN hN
+t and hT
+t = hT . Using these and the definition of the current account
+bw
+t -bw
+t-1 = (Rw -1)bw
+t-1 +
+¡
+hT
+t
+¢θT -cT
+t
+we can deduce that cycles of the nominal interest rate may cause cycles of the accumulation of foreign bonds
+and therefore cycles of the current account.
+24
+
+6.2
+Choosing A Different Measure of Inflation: The Core Inflation
+In the specification of the rule, the government can react to a measure of inflation different from the
+CPI-inflation. For instance it can respond to the core-inflation which can be defined as either the inflation
+of the traded goods or the inflation of the non-traded goods. These two cases can be considered as extreme
+cases of cases of a rule that reacts to the full-inflation πf
+t ≡ω
+t
+¡
+πN
+t
+¢1-ω when the government picks the
+weight ω ∈[0, 1] .29 In the former case it picks ω = 1, whereas in the latter case it chooses ω = 0.
+To analyze these cases we derive a difference equation similar to (22) where the only difference is that
+the parameter χ is substituted by
+χf ≡
+(σ -1)(1 -ω)(1 -γ)(1 -θN)
+σ[θN + α(1 -θN)] + (1 -α) (1 -θN).
+Using this difference equation and setting sequentially ω = 1 and ω = 0 in χf we obtain the following.
+Cyclical and chaotic dynamics are not present under a rule that reacts to the future traded inflation, t+1
+(ω = 1); only liquidity traps are possible in this case. Nevertheless by reacting to the future non-traded
+inflation πN
+t+1, forward-looking rules can still induce cycles and their existence can depend on the degree of
+openness of the economy.
+To illustrate this point we rely on simulations and using the parametrization in Table 2 we construct
+Figure 5. It presents the orbit-diagram for a forward-looking rule that reacts exclusively to the non-traded
+inflation where the relative risk aversion coefficient CRRA is ̃σ = 1.5 (or equivalently σ = 1.51). From this
+figure it is clear that for low degrees of openness (α), the previously mentioned rule leads the economy to
+the active steady state. But as the degree of openness increases the same rule can induce period-2 cycles in
+the economy. Hence the appearance of these cycles depend on the degree of openness.
+6.3
+Contemporaneous and Backward-Looking Rules
+In this subsection we consider varying the timing of the rule.
+We will study contemporaneous and
+backward-looking rules that still respond to the CPI inflation.
+6.3.1
+Contemporaneous Rules
+Motivated by the recent estimations by Lubik and Schorfheide (2003) for the United kingdom, Canada,
+Australia and New Zealand, we study the determinacy of equilibrium for rules that respond to current CPI
+inflation: Rt = 1 + (R∗-1)
+¡ πt
+π∗
+¢
+A
+R∗-1 with R∗= π∗/β and Rt > 1. Under these rules the equilibrium
+29CPI inflation is clearly a specific case of full inflation for ω = α.
+25
+
+Figure 5: Orbit-bifurcation diagram for the degree of openness, α. Rt denotes the nominal interest rate.
+The diagram shows the set of limit points as a function of α, when the coefficient of relative risk aversion
+(CRRA) ̃σ = 1.5 and when the active forward-looking rule responds exclusively to the non-traded inflation.
+Depending on α this rule can induce cyclical dynamics in the economy.
+dynamics are described by
+·Rt+1 -1
+Rt+1
+ ̧χ · R∗-1
+Rt+1 -1
+ ̧ R∗-1
+A
+=
+·Rt -1
+Rt
+ ̧χ R∗
+Rt
+(35)
+where χ defined in (21) depends on α and σ. An explicit representation for either the forward or the backward
+dynamics of (35) is not available in this case. Although it is feasible to derive some analytical results as
+before, for reasons of space, we only present some numerical simulations. These are sufficient to make the
+point that the degree of openness still affects the appearance of complex dynamics.30
+In addition in the subsequent analysis we will focus on characterizing the existence of cycles of period 2
+and 3 because of the following reasons. By Sarkovskii (1964)'s Theorem the existence of period-2 cycles is a
+necessary (but not a sufficient) condition for the existence of cycles of any higher order, while the existence
+of period-3 cycles implies the existence of cycles of every possible period. Furthermore, by Li and Yorke
+(1975), if a map possesses a period-3 cycle then it also features topologically chaotic trajectories.31
+Using the parametrization of Table 2 we construct Figure 6.
+This Figure presents some qualitative
+properties of the global dynamics of the model for contemporaneous rules for different degrees of openness
+while setting σ = 2.55 (when consumption and money are Edgeworth substitutes). Each row of panels in
+Figure 6 contains plots of the map Rt+1 = f (Rt) implicitly defined in the difference equation (35), its second
+iterate Rt+2 = f2(Rt) and its third iterate Rt+3 = f3(Rt), respectively, for a given degree of openness α.
+Going from the bottom to the top row we increase openness by considering α = {0.01, 0.38, 0.90}. In
+30The analytical results of this part of the paper are available upon request.
+31See Lorenz (1993) for a precise statement of these two theorems.
+26
+
+1
+1.01
+1.02
+1.03
+1
+1.01
+1.02
+1.03
+1.04
+α = 0.01
+1
+1.01
+1.02
+1.03
+1
+1.01
+1.02
+1.03
+1.04
+1
+1.01
+1.02
+1.03
+1
+1.01
+1.02
+1.03
+1.04
+1
+1.01
+1.02
+1
+1.01
+1.02
+1.03
+1.04
+α = 0.38
+1
+1.01
+1.02
+1
+1.01
+1.02
+1.03
+1
+1.005
+1.01
+1.015
+1
+1.02
+1.04
+1.06
+1.08
+1
+1.01
+1.02
+1
+1.005
+1.01
+1.015
+1.02
+1.025
+Rt+1 = f (Rt) 
+α = 0.9
+1
+1.01
+1.02
+1
+1.005
+1.01
+1.015
+1.02
+1.025
+Rt+2 = f 2(Rt) 
+1
+1.005
+1.01
+1.015
+1
+1.005
+1.01
+1.015
+1.02
+1.025
+Rt+3 = f 3(Rt) 
+Active Contemporaneous Rules 
+Figure 6: This graph shows the first, the second and the third iterates of the implicit mapping Rt+1 = f(Rt)
+defined in (35) for different degrees of openness of the economy (α). From the figure it is possible to infer
+that depending on α, two-period cycles and three-period cycles around the active and the passive steady
+states may arise.
+27
+
+all the panels the straight line corresponds to the 45o degree line. The first result to notice is that for
+α = {0.01, 0.38}, namely an almost closed and moderately open economy respectively, the second and third
+iterates, Rt+2 = f2(Rt) and Rt+3 = f3(Rt), have fixed points different from the steady state values R∗and
+RL, implying the existence of cycles of period-2 and 3. Then by the Sarkovskii's (1964) Theorem and the
+Li and Yorke's (1975) Theorem, f(Rt) features cycles of any order, as well as aperiodic cyclical dynamics
+(chaos). But there is an important difference between the dynamics for α = 0.01 and those for α = 0.38.
+In the former case, cycles and chaos appear around the active steady state, while in the latter they occur
+around the passive steady state. Finally, for very open economies (α = 0.90), no cycles and chaotic dynamics
+appear at all. The monotonicity of the map f(Rt) implies that liquidity traps are the only type of global
+equilibrium multiplicity in this case.
+Given σ = 2.55 (or equivalently eσ = 2.5) it is possible to find the exact numerical values of the α
+thresholds triggering a qualitative switch in dynamics.
+We find that period-2 cycles appear around the
+active steady state when α ∈(0.001, 0.22); and period-3 cycles occur around the active steady state when
+α ∈(0.001, 0.16). Pushing α up, period-2 cycles appear around the passive steady state for α ∈(0.25, 0.43),
+whereas period-3 cycles (and therefore chaos) exist for α ∈(0.33, 0.38). Finally for α > 0.39 only liquidity
+traps exist.
+Overall the existence of cyclical and chaotic dynamics is robust to changing the timing of the rule from
+forward-looking to contemporaneous. The key difference is that now endogenous global fluctuations can
+only occur for the case when consumption and money are Edgeworth substitutes. Nevertheless for this case
+conclusions are quite different in the following sense: very open economies seem to be the less prone to
+endogenous cycles. Furthermore the qualitative changes induced by a variation in the degree of openness,
+for a fixed σ > 1, can be even more dramatic under a contemporaneous rule since they might even trigger a
+switch from one steady state to the other as the focus of fluctuations.
+The following proposition summarizes these results.
+Proposition 5 Suppose the government follows an active contemporaneous rule. Then:
+1. if consumption and money are Edgeworth complements, i.e. σ ∈(0, 1), there cannot be equilibrium
+cycles of any periodicity for any degree of openness α ∈(0, 1) ;
+2. if consumption and money are Edgeworth substitutes, i.e. σ > 1,
+(a) there cannot be equilibrium cycles of any periodicity if the economy is sufficiently open;
+(b) cyclical and chaotic dynamics occur around the passive steady state for intermediate degrees of
+openness;
+(c) cyclical and chaotic dynamics appear around the active steady state occur if the economy is sufficiently closed.
+28
+
+6.3.2
+Backward-Looking Rules
+We conclude the analysis of different timings for the rule by studying backward-looking rules defined as
+Rt ≡1 + (R∗-1)
+¡ πt-1
+π∗
+¢
+A
+R∗-1 with ξ ≡
+A
+R∗> 1. This specification in tandem with (20) conform a system of
+two first-order difference equations that can be used to pursue the global determinacy of equilibrium analysis.
+Since it is very difficult to derive analytical results, we rely on simulations in order to assess whether for
+different values of α and σ, the system presents cycles or chaos. The simulation results show that these
+types of dynamics are not present regardless of the degree of openness α when σ ∈{0.79, 1, 51, 2.03, 2.55}
+(or equivalently when the CRRA coefficient eσ ∈{0.8, 1.5, 2, 2.5}). The interest rate converges to either the
+active or the passive steady-state.
+Nevertheless this is not sufficient evidence to conclude that backward-looking rules will preclude the
+existence of cyclical dynamics. In fact in Airaudo and Zanna (2005) we show that these rules may still lead
+to these dynamics in open economies that face nominal price rigidities.
+6.4
+Real money balances timing and cycles
+In our set-up the real money balances that provide transaction services, and therefore utility, are those left
+after leaving the goods market. This is the traditional timing adopted in money-in-utility-function models.
+Carlstrom and Fuerst (2001) call this timing the "Cash-When-I'm-Done" (CWID) timing and argue that
+is counterintuitive.32 They suggest an alternative timing: the standard "Cash-In-Advance" (CIA) timing,
+where the real money balances entering the agent's utility are those left after leaving the bond market but
+before entering the goods market.
+In this Subsection we construct a simple example showing that the results presented in Section 3 for
+active forward-looking rules are not driven by the CWID timing. Following Woodford (2003), we introduce
+a CIA timing by altering the budget constraint of the representative agent as follows
+EtQt,t+1Wt+1 ≤Wt -Etτ t -Rt -1
+Rt
+Md
+t + 1
+Rt
+¡
+EtyT
+t + P N
+t yN
+t -EtcT
+t -P N
+t cN
+t
+¢
+while leaving unchanged all the remaining elements of the model presented in Section 2. By the same analysis
+we pursued in that section we obtain the non-linear reduced form
+·Rt+1 -1
+RΨ
+t+1
+ ̧χ
+=
+R∗
+(R∗-1)
+R∗-1
+A
+(Rt -1)
+R1+Ψχ
+t
+χ+ R∗-1
+A
+(36)
+that describes the equilibrium dynamics of the economy under forward-looking rules. The difference between
+32A discussion on money-in-utility timing and cycles is already present in the papers of Fukuda (1993, 1995), pointing out
+that, under money growth rules, non-separability between consumption and real balances is not a necessary condition for cycles
+to exist (as one might have conjectured from the previous works of Matsuyama (1991) and Obstfeld and Rogoff(1983)). Under
+CIA timing cycles occur even under full separability.
+29
+
+(36) and its CWID counterpart (22) is the coefficient Ψ ≡
+1-θN(1-σ)
+(1-σ)(1-γ)(1-θN), which is positive for σ ∈(0, 1)
+and negative for σ > 1.33 The structural parameter χ is unchanged and still defined by (21). The following
+Proposition suggests that under the CIA timing, cycles are still possible and their existence depends on the
+degree of openness α. Nevertheless this different timing implies different bifurcation thresholds for α from
+the ones derived in Section 3.
+Proposition 6 Consider the definition of χ in (21) and define Υcia ≡
+
+1-R∗-1
+A
+
+R∗-1
+2R∗
+. Suppose Υcia > 0
+and that the government follows an active forward-looking rule. If consumption and money are Edgeworth
+substitutes, i.e. σ > 1, then there exist period-2 cycles when χ < Υcia, a condition that is satisfied for
+sufficiently open economies, i.e α > ˆα.
+Proof. See the Appendix.
+7
+Conclusions
+In this paper we show that active interest rate rules can have perverse effects in a small open economy
+by inducing endogenous cyclical and chaotic dynamics. Our main contribution is to show that the existence
+of these dynamics depends on some particular features of open economies such as the degree of openness
+(measured by the share of tradable goods in consumers' preferences) and the degree of exchange rate passthrough (implied by the presence of non-traded distribution services). In our model a forward-looking rule
+that responds to CPI-inflation is more prone to lead to cyclical and chaotic dynamics the more open the
+economy and the higher the degree of exchange rate pass-through. If consumption and money are Edgeworth
+complements these dynamics occur around an extremely low interest rate steady state. On the other hand
+if consumption and money are substitutes these dynamics appear around the interest rate target set by the
+monetary authority.
+We also discuss how the government could design a forward-looking rule in order to rule out complex
+dynamics, while still preserving the Taylor principle at the target steady state.
+The analysis implies a
+"modified Taylor principle": for a given interest rate target, the interest rate rule responsiveness to CPI
+inflation should satisfy some lower (upper) bound depending on whether consumption and real balances are
+Edgeworth complements or substitutes.
+The existence of cyclical and chaotic dynamics and their dependence on the degree of openness are in
+general robust to different inflation timings in the rule (forward-looking versus contemporaneous rules), to
+the use of alternative measures of inflation (CPI versus Core inflation), as well as to changes in the timing of
+real money balances in liquidity services ("Cash-When-I'm-Done" timing versus "Cash-In-Advance" timing).
+Clearly the analytical tractability of our model comes from one of its limitations: we are considering
+a flexible price and perfectly competitive economy. Without any sort of nominal rigidity, monetary policy
+33One could think of the CWID set up as one where Ψ = 1.
+30
+
+does not have any role for active stabilization. Nevertheless as we show in Airaudo and Zanna (2005), the
+existence of cycles induced by interest rate rules and the important role played by some open economy
+features in the characterization of the equilibrium are not precluded by introducing sticky-prices.
+This paper leaves open some interesting research questions. First as standard in the literature, we model
+the government as an automaton that always follows the same monetary rule. That is, it implements an
+active interest rate rule with a given parametrization, independently from the evolution of inflation itself
+and other monetary variables. One might consider the possibility of an endogenous monetary policy regime
+switching featuring a change in the monetary instrument (from an interest rate rule to money growth and
+viceversa) or a change in the responsiveness to inflation triggered by an endogenous variable monitored by
+the central bank.
+Finally we have implicitly assumed that agents in the economy can coordinate their actions and learn the
+particular equilibria that we studied. Relaxing this assumption and introducing learning as in Evans and
+Honkapojha (2001) can be another avenue to explore in future research.
+A
+Appendix
+This first part of the appendix presents the statements of some Lemmata and their proofs as well as
+some of the proofs of the Lemmata stated in the paper. The second part presents the proofs of the main
+Propositions of the paper.
+A.1
+Lemmata and Proofs
+A.1.1
+Proof of Lemma 1
+Proof. Let φf ≡1 +
+R∗
+A -1
+χ
+R∗-1 be the slope of (26) and define Υd ≡1
+2(R∗-1)
+3
+1 -R∗
+A
+ ́
+> 0. Since Rt is
+a non-predetermined variable, the equilibrium is locally unique if and only if
+ ̄ ̄ ̄φf ̄ ̄ ̄ > 1, i.e. the linearized
+mapping (26) is explosive and therefore the target steady state is the unique bounded PFE.
+First suppose that χ < 0. This together with Assumption 0 ( A
+R∗> 1) and the zero lower bound Rt > 1,
+implies that φf > 1. Hence the equilibrium is locally unique. Now suppose that χ > 0. This in tandem with
+Assumption 0 and the zero lower bound leads to φf < 1, meaning that in order to have a unique equilibrium
+we need φf < -1. Simple algebra shows that χ < Υd implies φf < -1. Then the map is explosive and the
+equilibrium is unique.
+On the other hand, it is simple to show that if χ > Υd then -1 < φf < 1. Hence the map is non-explosive,
+i.e. from any initial condition R0 offthe target steady state R∗, Rt will eventually converge to R∗. This
+continuity of PFE paths is the source of local multiple equilibria.
+A.1.2
+Proof of Lemma 2
+Proof. From point 2 of Lemma 6, the assumption χ ∈(Υw, 0) implies that the mapping f (.) satisfies
+the zero-lower-bound condition only for Rt ∈
+¡
+Rl, Ru¢
+⊂(1, +∞) . Moreover within
+¡
+Rl, Ru¢
+the mapping
+31
+
+f (.) looks like an inverted logistic mapping with a minimum at RJ and f0(RL) < 0 (see the right panel of
+Figure 1). With these properties of f (.) , the proof of Point 1 follows from the fact that f0 (Rt) < 0 for any
+Rt ∈
+¡
+Rl, RJ¢
+.
+To prove Point 2, take any Rt ∈[R, R∗] whose first iterate is Rt+1 =
+h
+1 -J (Rt)
+1
+χ(α,σ)
+i-1
+. If Rt ∈
+£
+R, RJ¤
+, then Rt+1 = f (Rt) > f
+¡
+RJ¢
+≡R since f0 (Rt) < 0 for any Rt < RJ; moreover Rt+1 < R∗if
+fmin ≥eR. Similarly, if Rt ∈(RJ, R∗] then Rt+1 = f (Rt) < f (R∗) = R∗since f0 (Rt) > 0 for Rt > RJ, as well
+as Rt+1 = f (Rt) > f
+¡
+RJ¢
+= R. Hence we have shown that for any Rt ∈[R, R∗] , Rt+1 = f (Rt) ∈[R, R∗] .
+Then f : [R, R∗] →[R, R∗] . The attractive property of the set is straightforward to show and therefore
+omitted.
+Point 3 is based on the fact that a sufficient condition for the existence of period-2 cycles is f0(RL) < -1
+which implies an unstable passive steady state.
+To show this we define an auxiliary function g (Rt) ≡
+Rt -f2 (Rt) such that period-2 cycles are the zeros of g(Rt). The assumption fmin ≡f
+¡
+RJ¢
+≥eR requires a
+distinction between the two cases: a) f
+¡
+RJ¢
+> eR and b) f
+¡
+RJ¢
+= eR.
+In case a), the map-invariant set is [R, R∗] . Clearly g
+¡
+RL¢
+= g (R∗) = 0 and g (R) ≤0. Also, by the chain
+rule, g0 (Rss) = 1-[f0 (Rss)]2 , with Rss being either one of the two steady states. But then f0 (R∗) =
+A
+R∗> 1
+implies that g0 (R∗) < 0. What is ambiguous is the sign of g
+¡
+RJ¢
+. If g
+¡
+RJ¢
+= 0 then the period-2 cycle is
+obviously
+©
+RJ, R
+a
+. If g
+¡
+RJ¢
+< 0, by continuity of f(Rt) on [R, R∗], then there exists a point Rc ∈
+¡
+RJ, R∗¢
+such that g (Rc) = 0. Since the set [R, R∗] is map invariant the second point of the period-2 cycle belongs
+to the same set.34 If instead g
+¡
+RJ¢
+> 0, nothing guarantees that the function g(.) has zeros other than the
+two steady states. A sufficient condition for having another zero is that g0 ¡
+RL¢
+= 1 -
+£
+f0 ¡
+RL¢¤2 < 0, i.e.
+f0 ¡
+RL¢
+< -1. If this holds, then g (R) = 0 at some point between RL and RJ. From the definition of f(.) it
+is simple to show that f0(RL) < -1 is equivalent to χ > 1
+2Υw where Υw ≡RL 3
+1 -R∗-1
+A
+ ́
+-1. Since we are
+considering χ > Υw, in case a) period-2 cycles around the passive steady state occur when χ ∈
+¡ 1
+2Υw, 0
+¢
+.
+In case b) all conditions of case a) hold, although in this case g
+¡
+RJ¢
+< 0 is always true. Therefore by a
+similar argument there are always period-2 cycles.
+A.1.3
+Proof of Lemma 3
+Proof. Let Υk ≡
+3
+1 -R∗
+A
+ ́
+(R∗-1) . The restriction χ ∈
+¡
+0, Υk¢
+implies, by Point 1 of Lemma 6, that the
+mapping f (.) looks like a logistic map with a maximum at RJ, f0(RL) > 1 and f0(R∗) < 0 (see the left
+panel of Figure 1).
+The proofs of Points 1 and 2 are similar to their counterparts in Lemma 2, so both are omitted.
+Point 3 involves searching for a flip bifurcation at the active steady state.
+Let's define an auxiliary
+function g (Rt) ≡Rt -f2 (Rt) . Period 2 cycles are then zeros of g (Rt) . The assumption fmax ≡f
+¡
+RJ¢
+≤eR
+requires a distinction between the two cases: f
+¡
+RJ¢
+= eR and f
+¡
+RJ¢
+< eR.
+If f
+¡
+RJ¢
+< eR, the set invariant under mapping f(.) is
+£
+RL, R
+¤
+. Clearly g
+¡
+RL¢
+= g (R∗) = 0, and
+g0 ¡
+RL¢
+< 0, but g
+¡
+RJ¢
+R 0. If g
+¡
+RJ¢
+= 0, a period-2 cycle is, by construction,
+©
+RJ, R
+a
+. If g
+¡
+RJ¢
+> 0, by
+continuity of the function g (.) there must exist a point Rc ∈
+¡
+RL, RJ¢
+such that g (Rc) = 0. As Rc belongs
+to the map invariant set
+£
+RL, R
+¤
+, f2 (Rc) ∈
+£
+RL, R
+¤
+as well: a period-2 cycle exists. If instead g
+¡
+RJ¢
+< 0,
+by continuity, a sufficient condition for period-2 cycles is that g0 (R∗) = 1 -[f0 (R∗)]2 < 0, i.e. f0 (R∗) < -1
+34We could actually show that this second point belong to the intervak R, RL , meaning that the equilibrium path jumps
+deterministically from the left to the right neighborhood of the passive steady state.
+32
+
+given that over these parametric ranges f0 (R∗) < 0 always. Using the definition of f (.) in (27) and by
+simple differentiation, this is in fact equivalent to χ < Υk
+2 .
+The case of f
+¡
+RJ¢
+= eR
+is trivial. All the properties of the previous case hold, but now g
+¡
+RJ¢
+=
+RJ -RL > 0 always. So by similar arguments, a period-2 cycle always exists.
+A.1.4
+Lemma 4
+Lemma 4 Keep γ and θN constant and let χ (α, σ) , χmax, χmin and μ(σ) be defined as in (21), (24) and
+(25). Consider any real number Υi ∈(0, χmax) and define a function αi(σ) ≡
+k
+1-Υi
+μ(σ)
+l
+k
+1-
+Υi
+χmin
+l for σ > 1.
+1. Over the domain (1, +∞) , the function αi(σ) satisfies the following properties:
+(a) it is continuously differentiable, strictly increasing and strictly concave;
+(b)
+lim
+σ→1+αi(σ) = -∞and
+lim
+σ→+∞αi(σ) =
+h
+1 -
+Υi
+χmin
+i-1 h
+1 -
+Υi
+χmax
+i
+∈(0, 1)
+(c) αi(σ) T 0 for σ T σi where σi ≡
+k
+1-
+Υi
+χmin
+l
+k
+1-
+Υi
+χmax
+l > 1;
+2. For any given σ > 1, χ (α, σ) T Υi if and only if α S αi(σ).
+3. For α ∈(0, 1) and σ > 1 we have that χ (α, σ) < Υi if and only if α > max
+©
+0, αi (σ)
+a
+.
+Proof. First of all recall the definitions of χ (α, σ) , χmax, χmin and μ(σ) in (21), (24) and (25). Then take
+any real number Υi ∈(0, χmax) and any σ > 1. If we solve explicitly the equation χ (α, σ) = Υi with respect
+to α, for a given σ, after some simple algebra, the solution is a function αi(σ) ≡
+h
+1 -
+Υi
+χmin
+i-1 h
+1 -
+Υi
+μ(σ)
+i
+.
+We first prove point 1 for σ ∈(1, +∞) .
+The statement that αi(σ) is continuously differentiable, strictly increasing and strictly concave over the
+domain (1, +∞) , follows from its definition, χmax ∈(0, +∞), χmin ∈(-1, 0) , Υi ∈(0, χmax) , and the fact
+that for σ > 1, the function μ(σ), defined in (25) satisfies the following. μ : (1, ∞) →R, it is continuously
+differentiable, strictly increasing and strictly concave with respect to σ and satisfies
+lim
+σ→1+μ(σ) = 0 and
+lim
+σ→+∞μ (σ) = χmax ∈(0, +∞). This proves Point 1(a).
+Given that lim
+σ→1+μ(σ) = 0 and
+lim
+σ→+∞μ (σ) = χmax then for Υi ∈(0, χmax) and χmin ∈(-1, 0) we have
+that
+lim
+σ→1+αi(σ) = -∞and
+lim
+σ→+∞αi(σ) =
+h
+1 -
+Υi
+χmin
+i-1 h
+1 -
+Υi
+χmax
+i
+.
+The assumption of Υi ∈(0, χmax)
+together with χmin ∈(-1, 0) guarantees that
+h
+1 -
+Υi
+χmin
+i-1 h
+1 -
+Υi
+χmax
+i
+∈(0, 1) . This proves Point 1(b).
+Point 1(c) follows from solving μ(σ) = Υi with respect to σ and obtaining σi =
+k
+1-
+Υi
+χmin
+l
+k
+1-
+Υi
+χmax
+l. As Υi ∈
+(0, χmax) and χmin ∈(-1, 0) , it must be that σi > 1. Using the definition of σi and the previous two points
+1(a) and 1(b) then the rest of 1(c) follows.
+Since for σ > 1 and α ∈(0, 1) , the function χ : (0, 1) × (1, ∞) →R is continuously differentiable, strictly
+decreasing with respect to α and satisfies χ (α, σ) > 0 then it follows that χ (α, σ) T Υi if and only if
+α S αi(σ). This proves Point 2.
+To prove Point 3 we proceed as follows. From point 2 of the present Lemma, we know that χ (α, σ) < Υi
+if and only if α > αi(σ). From point 1(c) of the same Lemma we have also that αi(σ) T 0 for σ T σi. Since
+33
+
+α ∈(0, 1) then χ (α, σ) < Υi for any α ∈(0, 1) when σ ≤σi, as in this case αi(σ) ≤0; while χ (α, σ) < Υi
+only for α > αi(σ) > 0 if σ > σi. If we write this compactly, we have that χ (α, σ) < Υi if and only if
+α > max
+©
+0, αi (σ)
+a
+.
+A.1.5
+Lemma 5
+Lemma 5 Keep γ and θN constant and let χ (α, σ) , χmax, χmin and μ(σ) be defined as in (21), (24) and
+(25). Consider any real number Υi ∈(χmin, 0) and define a function αi(σ) ≡
+k
+1-Υi
+μ(σ)
+l
+k
+1-
+Υi
+χmin
+l for σ ∈(0, 1) .
+1. Over the domain (0, 1) , the function αi(σ) satisfies the following properties:
+(a) it is continuously differentiable, strictly decreasing and strictly concave;
+(b) lim
+σ→0αi(σ) = 1 and lim
+σ→1-αi(σ) = -∞;
+(c) αi(σ) T 0 for σ S σi where σi ≡
+k
+1-
+Υi
+χmin
+l
+k
+1-
+Υi
+χmax
+l ∈(0, 1) .
+2. For any given σ ∈(0, 1) , χ (α, σ) R Υi if and only if α T αi(σ).
+3. For α ∈(0, 1) and σ ∈(0, 1) we have that χ (α, σ) > Υi if and only if α > max
+©
+0, αi (σ)
+a
+.
+Proof. The proof is omitted since it is very similar to the proof of Lemma 4.
+A.1.6
+Lemma 6
+Lemma 6 Define the scalars Υp ≡R∗-1
+A
+> 0, Υk ≡
+3
+1 -R∗
+A
+ ́
+(R∗-1) > 0 and RJ ≡
+1+χ
+1-Υp . Recall the
+definition of f(Rt) in (27)-(28) for Rt ∈(1, +∞) .
+1. Suppose that χ > 0. Then a) f : (1, +∞) →(1, +∞) and it is continuously differentiable; b) f(.) has
+a global maximum at RJ with RJ > RL; c)
+lim
+Rt→1+f (Rt) =
+lim
+Rt→∞f (Rt) = 0; d) f0 ¡
+RL¢
+> 1 always,
+while f0 (R∗) T 0 depending on χ T Υk.
+2. Suppose that χ ∈(-Υp, 0) . Let Rl and Ru be the solutions to J (Rt) = 1 with Rl ∈
+¡
+1, RL¢
+and
+Ru > R∗. Then a) f :
+¡
+Rl, Ru¢
+→(1, +∞) and it is continuously differentiable ; b) within
+¡
+Rl, Ru¢
+,
+f(.) has a unique minimum at RJ; c)
+lim
+Rt→Rl+f (Rt) =
+lim
+Rt→Ru-f (Rt) = +∞; d) f0 (R∗) > 1 always,
+while f0 ¡
+RL¢
+T 0 depending on χ S Υw with Υw ≡RL (1 -Υp) -1 ∈(-Υp, 0) .
+Proof. In order to simplify the notation in the proof and the statements, we define the following scalars:
+Υp≡R∗-1
+A
+, Υw ≡RL (1 -Υp) -1 and Υk ≡
+3
+1 -R∗
+A
+ ́
+(R∗-1) . From the zero-lower-bound restriction and
+the assumption of an active rule, it is clear that Υp > 0 and Υk > 0.
+Recall the definition of f (Rt) in (27). From (28), J (Rt) is always positive and continuously differentiable
+for any Rt ∈(1, +∞) and any χ ∈R. Furthermore, since
+R∗
+[R∗-1]
+R∗-1
+A
+> 1 and Υp∈(0, 1) (as A > R∗> 1)
+then
+lim
+Rt→+∞J (Rt) = 0 for any χ ∈R
+(37)
+34
+
+and
+lim
+Rt→1+J (Rt) =
+(
+0
+if χ > -Υp
++∞if χ < -Υp
+(38)
+From (29) we also observe that J0 (Rt) T 0 if and only if Rt S
+1+χ
+1-Υp , as well as that
+1+χ
+1-Υp T 1 if and only
+if χ + Υp T 0. As a consequence of these inequalities, when χ + Υp < 0 we have
+1+χ
+1-Υp < 1, and therefore
+J0 (Rt) < 0 for any Rt > 1.
+Next we prove point 1. Suppose that χ > 0. As χ + Υp > 0 then from (29) and (37) we infer that
+J (Rt) is single-peaked at RJ ≡
+1+χ
+1-Υp > 1, with
+lim
+Rt→1+J (Rt) =
+lim
+Rt→+∞J (Rt) = 0. An inspection of (27)
+shows that for χ > 0, f (Rt) > 1 and it is continuous over the domain (1, +∞) if and only if J (Rt) ∈(0, 1) .
+But J (Rt) > 0 and with a maximum at RJ when χ > 0. Then since J
+¡
+RJ¢
+< 1 holds, we have that
+J (Rt) ∈(0, 1) for any Rt ∈(1, +∞).35 This in turn implies that f : (1, +∞) →(1, +∞) . Furthermore,
+f (.) is continuously differentiable since J (.) is continuously differentiable as well. This proves Point 1(a).
+Point 1(b) follows from (29) together with χ > 0; while Point 1(c) is obtained from the definition of f (.)
+in (27) and (37)-(38). The complete characterization of f (.) for χ > 0 is achieved by noticing that being
+continuous and crossing the 45 degree line twice within its domain (see Proposition 1) it must necessarily be
+that RJ > RL. But then f (.) must cross the 45 degree line at the low steady state RL with a slope bigger
+than 1. That is f0 ¡
+RL¢
+> 1.36 Nevertheless the sign of f0 (R∗) remains ambiguous because sign {f0 (R∗)} =
+sign {J0 (R∗)} = sign
+©
+RJ -R∗a
+and RJ T R∗. Simple algebra shows that this last inequality is equivalent
+to χ T Υk. This proves Point 1(d).
+Suppose that χ ∈(-Υp, 0) then the function J (.) has the same properties we derived at the beginning of
+the proof for the case of χ > 0. Thus J (.) is single-peaked at RJ > 1, with
+lim
+Rt→1+J (Rt) =
+lim
+Rt→+∞J (Rt) = 0.
+However the fact that RL < R∗(see Proposition 1) combined with χ < 0 imply that although RJ ∈
+¡
+RL, R∗¢
+we now have that J
+¡
+RL¢
+> J (R∗) > 1. As RJ is a global maximum, J
+¡
+RJ¢
+> 1 as well. These properties
+together with
+lim
+Rt→1+J (Rt) =
+lim
+Rt→+∞J (Rt) = 0 imply that there exist two values, Rl and Ru, such that
+J
+¡
+Rl¢
+= J (Ru) = 1 where Rl ∈
+¡
+1, RL¢
+and Ru > R∗37 Given the definition (27) of f (.) we can see
+that it is not well-defined at both Rl and Ru. Moreover, as
+lim
+Rt→Rl-f (Rt) =
+lim
+Rt→Ru+f (Rt) = -∞and
+f (Rt) < 0 for any Rt > Ru and any Rt ∈
+¡
+1, Rl¢
+, then any initial condition R0 /∈
+¡
+Rl, Ru¢
+would violate
+the zero-lower-bound condition and therefore cannot be part of a PFE of our model.
+The range Rt ∈
+¡
+Rl, Ru¢
+is therefore necessary for an iterated sequence to be supported as an equilibrium. Within the
+interval
+¡
+Rl, Ru¢
+, J (.) satisfies J(Rt) > 1 and is continuously differentiable, implying J (Rt)
+1
+χ ∈(0, 1)
+for any χ < 0. It follows that f (Rt) > 1 and f (.) is continuously differentiable for any Rt ∈
+¡
+Rl, Ru¢
+.
+This proves Point 2(a). Point 2(b) follows from (29) together with χ < 0, while Point 2(c) is obtained
+from the definition of f (.) in (27) and (37)-(38). Since f (.) crosses the 45 degree line at both RL and
+R∗(see Proposition 1) it must be that f0 (R∗) > 1. Nevertheless the sign of f0 ¡
+RL¢
+remains ambiguous
+as sign
+©
+f0 ¡
+RL¢a
+= -sign
+©
+J0 ¡
+RL¢a
+= sign
+©
+RL -RJa
+and RL T RJ. Simple algebra shows that this
+last inequality is equivalent to χ S RL (1 -Υp) -1. Finally Observe that an active rule implies -Υp <
+RL (1 -Υp) -1 = Υw and that, from Assumption 3, RL-1
+RL
+< RL -1 < Υp. Then RL (1 -Υp) -1 < 0 such
+35Proving that J RJ < 1 involes some algebra. It is available from us upon request.
+36Simple algebra also proves that
+lim
+Rt→1f0 (Rt) ∈(0, 1) .
+37This should be clear from drwaing the function J (.) , which is continous, hump-shaped, with maximum bigger than 1 and
+limits equal to zero.
+35
+
+that Υw < Υf < 0. Using this and -Υp < RL (1 -Υp) -1 = Υw we conclude that Υw ∈(-Υp, 0) . This
+completes the proof for Point 2(d).
+For χ ≤-Υp < 0, it can be shown that the mapping f (.) features no critical point and it is strictly
+increasing.
+A.2
+Proofs of the Propositions
+A.2.1
+Proof of Proposition 1
+Proof.
+Let the left hand side and the right hand side of equation (23) be denoted as LHS(Rss) and
+RHS(Rss) respectively. Since R∗> 1 we have that
+lim
+Rss→1LHS(Rss) = (R∗-1)
+R∗-1
+A
+> 0
+and
+lim
+Rss→1RHS(Rss) = 0.
+It is simple to verify that given R∗> 1 and Rss > 1 then LHS(Rss) is linear in Rss with slope (R∗-1)
+R∗-1
+A
+>
+0 and RHS(Rss) slopes upwards as well,
+∂RHS(Rss)
+∂Rss
+= R∗R∗-1
+A
+(Rss -1)
+R∗-1
+A
+-1 > 0.
+Moreover
+A
+R∗> 1, R∗> 1 and Rss > 1 are sufficient conditions for RHS(RSS) to be strictly concave. That
+is ∂2RHS(Rss)
+∂(Rss)2
+= R∗R∗-1
+A
+(Rss -1)
+R∗-1
+A
+-2 3
+R∗-1
+A
+-1
+ ́
+< 0.
+Given that LHS(Rss) is continuous and linear and RHS(Rss) is continuous and strictly concave for any
+Rss > 1, a sufficient condition for a second solution Rss = RL ∈(1, R∗) to exist is that the slope of the
+RHS(Rss) at R∗is smaller than the slope of LHS(Rss) at R∗. In other words, R∗R∗-1
+A
+(R∗-1)
+R∗-1
+A
+-1 <
+(R∗-1)
+R∗-1
+A
+, or equivalently
+A
+R∗> 1. Moreover since RHS(Rss) is strictly concave then no other solution
+to (23) different from R∗and RL exists.
+A.2.2
+Proof of Proposition 2
+Proof. Recall the definition of χ (α, σ) in (21). For σ ∈(0, 1) and α ∈(0, 1) we have that χ : (0, 1) ×
+(0, 1) →R. Then Point 1(a) follows from point 1 of Lemma 1 and the fact that χ (α, σ) < 0 if σ ∈(0, 1) and
+α ∈(0, 1).
+Next we prove point 1(b). For σ ∈(1, ∞) and α ∈(0, 1) we have that χ : (0, 1) × (1, ∞) →R. Define
+Υd ≡1
+2(R∗-1)
+3
+1 -R∗
+A
+ ́
+. The proof of point 1(a) of Lemma 1 makes clear that χ = Υd is the threshold value
+of χ that differentiates between active rules leading to either a unique equilibrium or multiple equilibria. Since
+we are interested in how the pair (α, σ) affects local equilibrium determinacy, we look for values of α that,
+for given σ, solve χ (α, σ) = Υd. Simple algebra shows that this solution is αd(σ) =
+h
+1 -
+Υd
+χmin
+i-1 h
+1 -
+Υd
+μ(σ)
+i
+,
+a function relating α to σ. Since Assumption 1 holds, that is Υd ∈(0, χmax) , then we can use Lemma 4 to
+deduce that the function αd(σ) is equivalent to the function αi(σ), defined in that Lemma, for Υi = Υd.
+Therefore, αd(σ) inherits all the properties of αi(σ).
+From Point 3 of Lemma 4, we can conclude that for any σ > 1 then α > αd
+min with αd
+min ≡max
+©
+0, αd(σ)
+a
+.
+This is a necessary and sufficient condition for χ (α, σ) < Υd to hold. Which, by Lemma 1, implies local
+equilibrium determinacy.
+36
+
+To prove point 2 we follow the same steps of proving 1(b) taking into account that from point 2 of Lemma
+4 we can deduce that σ > σd and α ∈(0, αd(σ)) leads to χ (α, σ) > Υd. Which by point 2 of Lemma 1
+implies multiple equilibria.
+A.2.3
+Proof of Proposition 3
+Proof. The proof of Point 1 combines the results of Point 3 in Lemma 2 with Lemma 5.
+Define Υp ≡R∗-1
+A
+, Υw ≡RL (1 -Υp)-1 and Υf ≡1
+2Υw. From Point 3 of Lemma 2, the flip bifurcation
+threshold is χ = Υf. Since χ is a function of α and σ then this threshold can be expressed in the (α, σ)-space
+as the solution to χ (α, σ) = Υf with respect to α, for any arbitrary σ ∈(0, 1). Simple algebra shows that
+the solution is a function αf(σ) ≡
+h
+1 -
+Υf
+χmin
+i-1 h
+1 -
+Υf
+μ(σ)
+i
+. Observe that an active rule implies -Υp <
+RL (1 -Υp)-1 = Υw and that, from Assumption 3, RL-1
+RL
+< RL -1 < Υp. Then RL (1 -Υp)-1 < 0 which
+implies that Υw < Υf < 0. Using this and -Υp < RL (1 -Υp) -1 = Υw we conclude that Υw ∈(-Υp, 0) .
+From this and Assumption 2 we can see that Υf ∈(χmin, 0) satisfying the assumptions in Lemma 5. Hence
+αf(σ) shares all the properties of the function αi(σ) for Υi = Υf stated in that Lemma. By Point 3 of
+Lemma 5, for an arbitrary σ ∈(0, 1) , the flip bifurcation condition χ (α, σ) > Υf in Lemma 2 is therefore
+equivalent to α > αf
+min where αf
+min ≡max
+©
+0, αf(σ)
+a
+. From an application of Point 1 of Lemma 5 we can
+also see that such minimum degree of openness, αf
+min, is positive and decreasing in σ, for σ ∈
+¡
+0, σf¢
+, but
+constant and equal to zero for σ ∈
+£
+σf, 1
+¢
+.
+The proof of Point 2 is omitted since it is very similar to the proof of Point 1. But it uses the fact that
+σ > 1 and Point 3 of Lemma 3 together with Lemma 4 instead.
+A.2.4
+Proof of Proposition 6
+Proof. We provide a sketch of the proof. Let K (Rt+1) and J (Rt) be the left and the right hand sides of
+(36) respectively. First of all notice that for σ > 1, we have Ψ < 0 and χ > 0. To simplify the notation let
+Γ ≡(1 -Ψ) χ.
+Then consider the function K (.) . Since Γ > 0, it is simple to show that
+lim
+Rt+1→1+K (Rt+1) = 0 and
+lim
+Rt+1→+∞K (Rt+1) = +∞. Furthermore simple algebra shows that K (.) is strictly increasing over the entire
+domain (1, +∞). But then K (.) is also globally invertible such that there exist a well defined function
+f (Rt) = K-1 (J (Rt)) describing the forward equilibrium dynamics.
+Then consider the function J (Rt) . Since χ + R∗-1
+A
+> 0 for any α ∈(0, 1), then
+lim
+Rt→1+J (Rt) = 0, while:
+lim
+Rt→+∞J (Rt) =
+
+
+
++∞if Γ >
+3
+1 -R∗-1
+A
+ ́
+0
+if Γ <
+3
+1 -R∗-1
+A
+ ́
+Using the definition of Γ, let's consider the case of χ <
+
+1-R∗-1
+A
+
+(1-Ψ)
+such that
+lim
+Rt→+∞J (Rt) = 0. It is possible
+to show that J (.) has a critical point at RJ =
+1+Ψχ
+(1-R∗-1
+A ) > 1. Therefore if χ <
+
+1-R∗-1
+A
+
+(1-Ψ)
+the function J (.)
+is single-peaked. This in turn in tandem with the fact that K (.) is strictly increasing over the entire domain
+(1, +∞) implies that the equilibrium mapping f (.) looks like a logistic map. Then if cycles exist they have to
+be centered around the active steady state. To show this we can use a similar argument to the one developed
+37
+
+in Lemma 3. That is a sufficient condition for period-2 cycles to exist is f0 (R∗) < -1. By computing this
+derivative at the target steady state and after some algebra this condition is equivalent to χ <
+
+1-R∗-1
+A
+
+R∗-1
+2R∗
+.
+Given σ > 1 it is possible to show that there exists ˆα ∈(0, 1) such that χ =
+
+1-R∗-1
+A
+
+R∗-1
+2R∗
+and that for
+α > ˆα, χ <
+
+1-R∗-1
+A
+
+R∗-1
+2R∗
+.
+References
+[1] Airaudo, M. and L.F. Zanna, (2005), "Stabilizing Taylor Rules in Open Economies: Finding the 'Right'
+Measure of Inflation for the Rules," Manuscript, Board of Governors of the Federal Reserve System.
+[2] Alstadheim, R. and D. Henderson, (2004), "Price-level Determinacy, Lower Bounds on the Nominal
+Interest Rate, and Liquidity Traps," IFDP No. 795, Board of Governors of the Federal Reserve System.
+[3] Angeletos, M. (2002), "Fiscal Policy with Non-Contingent Debt and the Optimal Maturity Structure",
+Quarterly Journal of Economics, 117 (2).
+[4] Azariadis, C. (1993), Intertemporal Macroeconomics, Blackwell, Cambridge, Massachusetts.
+[5] Ball, L. (1999), "Policy Rules for Open Economies," in Monetary Policy Rules, edited by John B. Taylor,
+Chicago, National Bureau of Economic Research, 127-144.
+[6] Batini, N., P. Levine and J. Pearlman, (2004), "Indeterminacy with Inflation-Forecast-Based Rules in
+a Two-Bloc Model," IFDP No. 797, Board of Governors of the Federal Reserve System.
+[7] Benhabib, J., S. Schmitt-Grohé and M. Uribe (2001a), "Monetary Policy Rules and Multiple Equilibria,"
+American Economic Review, 91, 167-184.
+[8] Benhabib, J., S. Schmitt-Grohé and M. Uribe (2001b), "The Perils of the Taylor Rules," Journal of
+Economic Theory, 96, 40-69.
+[9] Benhabib, J., S. Schmitt-Grohé and M. Uribe (2002a), "Chaotic Interest Rate Rules," American Economic Review Papers and Proceedings, 92, 72-78.
+[10] Benhabib, J., S. Schmitt-Grohé and M. Uribe (2002b), "Avoiding Liquidity Traps", Journal of Political
+Economy, 110, 3, 535-563.
+[11] Bernal, R. (2003), "Monetary Policy Rules in Practice: The Case of Colombia," Desarrollo y Sociedad,
+Universidad de Los Andes, 51, 37-53.
+[12] Bernanke, B. and M. Woodford, (1997). "Inflation Forecasts and Monetary Policy," Journal of Money,
+Credit and Banking, 29(4), 653-684.
+[13] Burnstein, A., Neves J. and S. Rebelo (2003), "Distribution Costs and Real Exchange Rate Dynamics,"
+Journal of Monetary Economics, Forthcoming.
+[14] Boldrin, M., K. Nishimura, T. Shigoka and M. Yana (2001), "Chaotic Equilibrium Dynamics in Endogenous Growth Models", Journal of Economic Theory, 96, 97-132.
+38
+
+[15] Campa, J. M. and L. Goldberg (2004), " Exchange Rate Pass-Through into Import Prices: A Macro or
+a Micro Phenomenon," NBER Working Paper No. 8934.
+[16] Carlstrom, C. and T. Fuerst (2001), "Timing and Real Indeterminacy in Monetary Models," Journal of
+Monetary Economics, 47, 285-298.
+[17] Clarida, J., J. Galí and M. Gertler (1998), "Monetary Policy Rules in Practice: Some International
+Evidence," European Economic Review, 42, 1033-1067.
+[18] Clarida, J., J. Galí and M. Gertler (2000), "Monetary Policy Rules and Macroeconomic Stability:
+Evidence and Some Theory," Quarterly Journal of Economics, 115, 147-180.
+[19] Clarida, J., J. Galí and M. Gertler (2001), "Optimal Monetary Policy in Open vs Closed Economies:
+An Integrated Approach," American Economic Review, 91, 248-252.
+[20] Christiano, L. and M. Rostagno (2001), "Money Growth Monitoring and the Taylor Rule", NBER
+Working Paper 8539.
+[21] Corbo, V. (2000), "Monetary Policy in Latin America in the 90s," Working Papers, No. 78, Central
+Bank of Chile.
+[22] De Fiore, F.and L. Zheng (2003), "Does Trade Openness Matters for Aggregate Instability?," Manuscript, Emory University.
+[23] Evans, G, and S. Honkapohja (2001), Learning and Expectations in Macroeconomics, Princeton University Press, New Jersey.
+[24] Frankel, J., D. Parsley and S. Wei (2005), "Slow Passthrough Around the World: A New Import for
+Developing Countries?," NBER Working Paper 11199.
+[25] Fukuda, S. (1993), "The Emergence of Equilibrium Cycles in a Monetary Economy with a Separable
+Utility Function", Journal of Monetary Economics, 32, 321-334.
+[26] Fukuda, S. (1997), "The Role of Monetary Policy in Eliminating Nonconvergent Dynamic Paths",
+International Economic Review, 38, 249-261.
+[27] Galí, J. and T. Monacelli (2004), "Monetary Policy and Exchange Rate Volatility in a Small Open
+Economy," Manuscript, CREI, forthcoming Review of Economic Studies.
+[28] Holman, J. (1998), "GMM Estimation of a Money-in-the-Utility-Function Model: The Implications of
+Functional Forms," Journal of Money, Credit and Banking, 30(4), 679-698.
+[29] Kollmann, R. (2002), "Monetary Policy Rules in the Open Economy: Effects on Welfare and Business
+Cycles," Journal of Monetary Economics, 49(5), 989-1015.
+[30] Leeper, E. (1991), "Equilibria Under 'Active' and 'Passive' Monetary and Fiscal Policies," Journal of
+Monetary Economics, 27(1), 129-147
+[31] Li, T. and J. Yorke, (1975), "Period Three Implies Chaos," American Mathematical Monthly, 82, 985-
+992.
+39
+
+[32] Linnemann, L. and L. Schabert (2002), "Monetary Policy, Exchange Rates and Real Indeterminacy,"
+University of Cologne, Manuscript.
+[33] Lorenz, H. (1993), Nonlinear Dynamical Economics and Chaotic Motion, Springer-Verlag, New York.
+[34] Lubik, T and F. Schorfheide (2003), "Do Central Banks Target Exchange Rates? A Structural Investigation", Manuscript, University of Pennsylvania.
+[35] Matsuyama, K. (1991), "Endogenous Price Fluctuations in an Optimizing Model of a Monetary Economy", Econometrica, 59, 6, 1617-1631.
+[36] Mendoza, E. (1995), "The Terms of Trade, The Real Exchange rate and Economic Fluctuations,"
+International Economic Review, 36, 101-137.
+[37] Obstfeld, M. and K. Rogoff(1983), "Speculative Hyperinflations in Maximizing Models: Can We Rule
+Them Out?", Journal of Political Economy, 91, 675-687.
+[38] Restrepo-Londono, J. (1999), "Monetary Rules in Colombia and Chile", Departamento Nacional de
+Planeacion, Colombia, Manuscript.
+[39] Sarkovskii, A. (1964), "Coexistence of Cycles of a Continuous Map of the Line Into Itself," Ukraine
+Math. Zhur., 16, 61-71.
+[40] Schmitt-Grohé, S. and M. Uribe (2003), "Closing Small Open Economy Models," Journal of International Economics, 59,137-139.
+[41] Svensson, L. E. O. (2000), "Open-economy Inflation Targeting," Journal of International Economics,
+50, 155-184.
+[42] Taylor, J. B. (1993), "Discretion Versus Policy Rules in Practice," Carnegie-Rochester Conference Series
+on Public Policy, 39, 195-214.
+[43] Woodford, M. (2003), Interest and Prices: Foundations of a Theory of Monetary Policy, Princeton,
+Princeton University Press.
+[44] Zanna, L. F. (2003), "Interest Rate Rules and Multiple Equilibria in the Small Open Economy", IFDP
+No. 785, Board of Governors of the Federal Reserve System.
+40

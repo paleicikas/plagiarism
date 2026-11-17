@@ -1,0 +1,825 @@
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+226 
+ 
+ 
+Available online at 
+http://journaleacademiauitmt.uitm.edu.my 
+e-Academia Journal 
+ 
+ 
+e-Academia Journal of UiTM Cawangan Terengganu 11 (2) 226-237, November 2022 
+ 
+ 
+A Survey on the Role of Demographic Factors and University 
+Students' Level of Nomophobia 
+ 
+ 
+Nur Aliff Husniesham1, *Mohd Nazir Rabun2 & Sheila Emilly Syazwan Lai3 
+ 
+ 
+2Faculty of Administrative Science and Policy Studies, 
+Universiti Teknologi MARA, Cawangan Kedah, Kampus Sungai Petani, Malaysia 
+nazir2623@uitm.edu.my 
+1,3Faculty of Administrative Science and Policy Studies, 
+Universiti Teknologi MARA, Cawangan Negeri Sembilan, Kampus Seremban, Malaysia 
+ 
+ 
+*Corresponding author's email: nazir2623@uitm.edu.my 
+ 
+ 
+Submission date: 14th September 2022 
+Accepted date: 11th November 2022 
+Published date: 23rd November 2022 
+ 
+ABSTRACT 
+ 
+The popularity of smartphones among university students is associated with the numerous features and functionalities 
+they provide. A smartphone is the best example in this study since it is a much close gadget to people. It is an essential 
+part to be tackled by everyone to sustain a better and more harmonious interaction among students especially. As a 
+consequence, nomophobia is one of the symptoms of a bad disease that is happening around the world since 
+technology has become a vital thing in our daily life. This study examined the level of nomophobia in one of the public 
+universities located in Selangor, Malaysia. A cross-sectional survey among undergraduate and postgraduate students 
+was approached for this study. Among 300 questionnaires distributed and employed, only 271 were useable. Results 
+found that most of the students had a moderate level of nomophobia. Gender, age, and current academic undertaking 
+were tested to observe whether they played a significant difference in their level of nomophobia. Surprisingly, only 
+their current academic undertaking had a significant difference. This study is very crucial for the university authorities 
+to intervene and find a solution to overcome the growing trends of nomophobia among students when they depend 
+too much on the usage of smartphones. 
+ 
+Keywords: Nomophobia, age, gender & education 
+ 
+1.0 INTRODUCTION 
+Nomophobia is a global phenomenon explaining a growing fear in today's world where the fear of being 
+disconnected from a mobile device. Nomophobia or also known by the acronym "No Mobile Phone 
+Phobia" is a disease when an individual is unable to be far away from mobile phone dependence suffered 
+by an individual on his or her mobile phone, so they can bring concerns that excessive if his or her mobile 
+phone is not with them. Most people who are addicted to their cell phones are not even conscious of what 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+227 
+they are doing to their lives, especially their loved ones, friends, and children. Usually, individuals who are 
+diagnosed with nomophobia will consume more time with mobile phones rather than interacting with 
+people surrounding them (Yildirim, 2014). This has become a worrying issue among today's high school 
+and college students worldwide. A report by Kleiner Perkins Caufield & Byers showed that an average 
+person would check his mobile phone 150 times a day (Aljomaa et al., 2016). 
+Nomophobia is a new phenomenon and a rising global issue where some researchers are reluctant to agree 
+to consider that as a new category in the literature and this problem may cause due to the lack of adequate 
+studies. Furthermore, findings from a range of countries and cultures proved that nomophobia is a prevalent 
+issue in the world and an up-to-date topic (Chóliz, 2010; King & et al., 2013; Oksman & Turtiainen, 2004; 
+Sharma & et al., 2015; Tavolacci & et al. 2015; Toda & et al., 2006). There are current studies examining 
+that the prevalence of nomophobia has been increasing. In a study conducted in England, among 1,000 
+participants, 66 percent of them are nomophobic as the results showed that they feel anxious and fearful of 
+being away from mobile phones (SecurEnvoy, 2012). Another study carried out with 200 medical students 
+in Bangalore, India, resulted in 39.5 percent of the students being nomophobia (Pavithra & Madhukumar, 
+2015). Furthermore, a study by the Medical College and Associated Hospital of Central India by Dixit 
+(2010) revealed that 20 percent responded that they were unable to concentrate and become stressed out 
+when they get disconnected from their devices or when it has run out of battery. Moreover, in a study of 
+1600 professionals and managers by Perlow (2012), the Konsuke Matsushita Professor of Leadership at 
+Harvard Business School revealed 70 percent said that they checked their mobile phones for an hour before 
+getting up, 26 percent revealed to sleeping with their mobile phones and 56 percent checked their phones 
+for an hour before going to sleep. Meanwhile, a study by Smith (2012), revealed 44 percent said that they 
+have slept with their phones next to their bed meanwhile 90 percent of individuals aged 18 to 29 year-old 
+slept with their phones. 
+As smartphone penetrations spread across the globe, so does nomophobia. The seriousness of nomophobia 
+or the fear of being out of mobile phone contact is on the rise across the globe. For this reason, it has 
+triggered more and more people's fear of being without or losing their mobile devices (Gezgin, 2017). 
+Simply put, some people get panic attacks when they are not on their phones. It is viewed by Yildirim 
+(2014) in his study that people who are diagnosed with nomophobia will spend more time with mobile 
+phones rather than interacting with the people around them. This concern is not without prior evidence. An 
+earlier study conducted in the UK in 2008 revealed that 66 percent of the teenagers and younger population 
+are troubled by the idea of losing their mobile phones (Pavithra et al., 2015). 
+It is observed by Gezgin (2016) where they have found that individuals, especially young people, who are 
+exposed to nomophobia express few incidents. For instance, they experience anxiety about not being able 
+to communicate or access information when they forget to take their mobile phones with them, when the 
+phone's battery charge is depleted, or when they are out of physical range for signal coverage. Hence, it 
+leads to the conclusion whereby anxiety symptoms from nomophobia such as fear, dizziness, difficulty in 
+breathing, stomach cramps, etc. have negative effects (Thomée et al., 2011). Further to that, it is also 
+emphasized that as time progresses, this situation causes users to continually check their phones, even when 
+the devices are right next to them (Adnan & Gezgin, 2016; Algül, 2014; Dixit et al., 2010; Gezgin & Cakir, 
+2016; Pavithra et al. 2015; Sharma et al, 2015; Yildirim et al., 2016). This scenario worsens whereby the 
+individual should switch off the phone, especially while driving as they become very anxious and make all 
+endeavors to locate the mobile phone. 
+In addition to that, it is also possible to find studies that emphasize the negative effects of nomophobia on 
+young people's academic achievement (Erdem et al., 2016). Moreover, Alijoma et al., (2016) have revealed 
+that bachelor's degree students have the highest degree of addiction. A more recent finding has shown no 
+significant association between nomophobia and gender, however, the number of nomophobes was 
+certainly higher among males compared to females (Emanuel & Richard, 2015). Moreover, a study has 
+found that the level of nomophobia is increasing as the technologies of mobile phones expand (Adnan & 
+Gezgin, 2016; Emanuel & Richard (2015). This means that when technology is increasing and expanding, 
+the level of nomophobia is worsened for all. Similarly, another scholar mentioned that the prevalence of 
+nomophobia is generally observed among the young generation (Kaur & Sharma, 2015; Pavithra & 
+Madhukumar, 2015). This has shown that the negative impacts of using smartphones are critically bad and 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+228 
+may cause nomophobia. To some extent, nomophobia would make the individual start feeling anxious in 
+several scenes such as forgetting it at home, running out of battery, or when the mobile phone losses its 
+signal. These demotivate individuals to focus on their daily routines (Dixit et al., 2010). Apart from that, 
+frequencies of checking the phone for messages, emails, or calls in an hour were assessed, for which 49 
+percent responded that they would check the phone 2-3 times in an hour (Pavithra et al., 2017). This means 
+that the number of respondents towards playing phones are regularly used for the same purpose as stated 
+by the researcher. 
+Essentially, the objectives of this study are based on the following: 1) to examine the level of nomophobia 
+among university students; 2) to identify the differences in terms of the level of nomophobia among 
+students across age, gender and education level. The methodology, results, discussion, and conclusion at 
+the end of this study are also discussed. 
+ 
+2.0 LITERATURE REVIEW 
+2.1 Nomophobia Phenomenon and Students 
+There are many different views and studies related to nomophobia that aims to understand what people 
+perceive about this phenomenon. The concept of nomophobia is a phobia of the current time and is termed' 
+no mobile phobia or' no mobile phone phobia and is defined as the fear of deprivation of a mobile phone 
+(Gezgin, 2017). Another finding also defined nomophobia as a disconnection to mobile phones and 
+standing off from them or the fear of being disconnected from the Internet (King et al., 2010). It is viewed 
+that based on the discussion, the definition of nomophobia can be defined as people who are also known 
+better as nomophobic, they cannot be separated from their smartphones. This indicates that individuals who 
+are diagnosed with nomophobia will consume more time with mobile phones rather than interacting with 
+people surrounding them (Yildirim, 2014). One of the studies shows that nomophobia can be categorized 
+as a disorder for people who experienced this symptom (Pavithra et al., 2015). 
+In other words, nomophobia can also cause negative impacts on the user as people who are addicted to 
+mobile phones are unable to be disconnected from their smartphones. Given that the technology revolution 
+is rampantly rising in this new era, invention and innovation towards new technology can cause both good 
+and bad impacts on using the smartphone these days (Ahmed et al., 2011). Based on the findings obtained 
+by Young (1998), when the use of the Internet or smartphones becomes addictive, this can result in negative 
+effects on the financial, physical, psychological, and social aspects of life. In other words, people who are 
+addicted to smartphones will become uncomfortable and anxious if the smartphone is not with them. 
+There are several studies showing the use of smartphones among people nowadays which causes addiction 
+in using them. There have been a few studies that have focused on the addiction to smartphones and mobile 
+phones (Bian & Leung, 2015; Chiu, 2014; Chóliz, 2012), they are problematic use Pavithra et al., (2015), 
+or their excessive use (Ha et al., 2008; Lee et al., 2014). Another contrary issue about using smartphones 
+is that despite many advantages, overuse uncontrolled, and problematic usage of mobile technologies 
+causes psychological disorders or an increase in such symptoms (Chòliz, 2012). 
+It is shown that people will tend to be close to smartphones or touch their phone when it is near them which 
+caused them to check their smartphone regularly and continually (Adnan & Gezgin, 2016; Algül, 2014; 
+Dixit et al., 2010; Gezgin & Cakir, 2016; Pavithra et al., 2015; Sharma & Wavare, 2015; Yildirim et al., 
+2016). In other words, nomophobia negatively affects individuals' routines both psychologically and 
+physically. There has been an increasing number of studies regarding nomophobia handled by technology 
+research organizations and in the literature. On the other hand, there is a debate in the literature that said 
+nomophobia is a new phenomenon. 
+In addition, it is observed that from another study as indicated by Homée et al., (2011) anxiety symptoms 
+such as fear, dizziness, difficulty in breathing, stomach cramps, etc. have negative effects. Also, as 
+discussed in a previous study, they have found that in nomophobia, individuals start to feel anxious in a 
+variety of situations: forgetting it at home, running out of battery, or when mobile phones lose their signal. 
+This anxiety demotivates individuals to focus more on their daily routines (Dixit et al., 2010). This means 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+229 
+that for people who are always with their smartphones regardless of time and place, the tendency for them 
+to have nomophobia symptoms is quite high rather to people who are less attached to their devices. 
+From a different perspective, South Korea has found that smartphone addiction has genuine consequences 
+affecting students' success (Kaur et al., (2015). It implied that they are unable to do something that is not 
+related to their smartphone for instance not going to school, interpersonal relationships suffered, and feeling 
+anxiety and loneliness without their smartphones. In research on undergraduate students in the US, it is 
+found that one-fifth of respondents were classed as totally dependent on their smartphones and about onehalf were overly dependent (Emanuel et al., 2015). It can be retrieved the studies showed that nomophobia 
+levels of individuals place an amount of concern with the excessive use of smartphones (Dixit et al., 2010; 
+Gezgin et al., 2016; Gezgin et al., 2017; Gupta et al., 2016; Krajewska-Kułak et al., 2012; Lee et al., 2014; 
+Park, 2005; Pavithra et al., 201; Szpakow et al., 2011; Yildirim et al., 2016). 
+Besides, in the previous study, it is also shown how common and broad nomophobia is with its findings 
+shown by the studies conducted in various cases across countries and different cultures (Chóliz, 2010; King 
+et al. 2013; Oksman & Turtiainen, 2004; Tavolacci, et al., 2015). This means that different sampling sizes 
+and different countries are increasing especially among the younger generation (Dixit et al. 2010). 
+Nomophobia can cause some symptoms and problems such as feeling restless without a phone, feeling 
+obsessive about their smartphones, feeling worried if the battery is about to die and fear of forgetting to put 
+the phone somewhere else (Deniz et al., 2017). Furthermore, when the studies on nomophobia are 
+examined, it can be determined that almost half of university students (Erdem et al., 2016; Yildirim et al., 
+2016) display nomophobic behaviors above that of a moderate level (Adnan & Gezgin, 2016; Akilli & 
+Gezgin, 2016; Gezgin et al., 2017; Uysal et al., 2016). 
+Moreover, studies have shown that the duration of mobile internet ownership is more influential on 
+nomophobia than the period of having a smartphone (Gezgin & Cakir, 2016; Gezgin et al., 2017). Another 
+study shows that 67 percent of the students said they purchased mobile phones to keep in touch with family 
+members, 26 percent for calling and texting friends, and 7 percent for other reasons (Pavithra et al., 2015). 
+Moreover, in terms of duration use among the students, it is shown that the total duration of time spent on 
+using a mobile phone per day majority of 48 percent responded that they use mobile phones for a duration 
+of 1-3 hours per day followed by 31 percent who used it for only half an hour to one hour, whereas 16 
+percent used it for 3-5hours and 5 percent used a mobile phone for more than 5 hours in a day (Pavithra et 
+al., 2015). For online learning among students, a recent study by Kaur et al., (2021) reported that due to the 
+growing trends of use of technology in daily routines during COVID-19 pandemic, the virtual world has 
+forced parents to expose their young children to smartphones at earlier ages which may inflate the 
+prevalence and hazardous outcomes of nomophobia among them. 
+2.3 Demographic Factors 
+There were plenty of studies that associated nomophobia with demographic factors. The first is gender, it 
+was stated that females are more likely to be more nomophobic than males (Gezgin & Cakir, 2016; 
+SecurEnvoy, 2012; Tavolacci et al., 2015; Yildirim et al., 2015). On the other hand, some different studies 
+and reports that claimed that there was no significant difference in terms of gender (Adnan & Gezgin, 2016; 
+Dixit et al., 2010; Uysal et al., 2016) nor stated that males are more affected by nomophobia than females 
+(Mail Online, 2008). Another study conducted by Yildirim et al., (2015) showed that the response of 
+students towards the attitude and associated anxiety with mobile phones in terms of mean scores based on 
+their gender, and it was found that there was a statistically significant difference among males and females 
+in questions related to worry when running out of battery and if they could not stay up to date with social 
+media, women have more sleep loss when using the phone at night as compared to males, also females 
+hardly use a mobile phone to download educational material and used their phone mostly not to feel lonely 
+in public places as compared to males (p<0.05). According to Pavithra et al., (2015) in their research, it is 
+shown that among the nomophobic students, 59.5 percent were males and 40.5 percent were females, 36.7 
+percent were residing in hostels and 63.3 percent were day scholars and 31.6 percent were postgraduate 
+students whereas 68.4 percent students were interns and undergraduates. 
+Secondly is in terms of age. A previous study found by Pavithra et al, (2015), which investigated the 
+differences between 1,420 adults' Internet and mobile phone addiction in South Korea, reported that the 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+230 
+factors that caused Internet and mobile phone dependencies were similar and related. Next, in Turkey, 
+Gezgin et al., (2016) conducted a study with the participation of 929 high school students and showed a 
+moderately positive relationship between nomophobia prevalence and Internet addiction among the 
+adolescent participants. Furthermore, in one study, nomophobia levels of the participants were investigated 
+and it is claimed that nomophobia levels of 18 - 24-year-old participants' (77 percent) are higher than the 
+25 - 34-year-old group (68 percent) (Secur Envoy, 2012). 
+On the other hand, Yildirim et al., (2015) have found that there is no significant difference between those 
+aged below 20-year-old group and above those aged 20-year-old group in terms of nomophobia level. 
+Similarly, Adnan and Gezgin (2016) also found no significant differences in nomophobia levels of 433 
+higher education students concerning their ages. As reported by Aparna, et al., (2017) in their study found 
+that the data was collected using a questionnaire which also included a test on mobile phone addiction. 
+1/10th of the students had the symptoms of addiction. 68.11 percent belonged to the age group of 18-20 
+years, and 1/3rd of them had two mobile phones. Nearly half (43.16 percent) of the sample knew about 
+mobile phone addiction and only 28.8 percent were familiar with the term Nomophobia. Hence, it was 
+concluded that the majority of youngsters are addicted to mobile phones and were unaware of Nomophobia. 
+Lastly is in terms of academic attainment. A past report by Pavithra & Madhukumar (2015) showed that 
+the population of 200 students comprised 31.5 percent of postgraduate students and 68.5 percent of 
+undergraduates were analyzed in terms of their nomophobia level. Based on the findings, this study tried 
+to analyze the level of nomophobia between undergraduate and postgraduate levels to indicate their 
+significant differences. Furthermore, a previous study conducted by Szpakow et al., (2011) reported that 
+most university students had a mobile phone regardless of their current academic attaintment of which, 109 
+(68.1 percent). Almost 1/3 of the students had two mobile phones. Significantly more respondents owned 
+mobile phones from 2 to five years 111 (69.4 percent), from 6 to 10 years 46 (28.8 percent), and above 10 
+years only 3 (1.8 percent) students. 
+ 
+3.0 METHODOLOGY 
+This is a quantitative nature with a cross-sectional study. The study was carried out to examine the level of 
+nomophobia among university students. The use of questionnaires through a self-administered and online 
+survey was used to gather data from undergraduate and postgraduate students at one of the public 
+universities in the central region over the course of two weeks. For this study, the total population refers to 
+all students in the university, which consisted of 10,134 students as recorded on the Official Website of the 
+university. As suggested by Saunders et al., (2016) for a population over 10,000, thus the sample size 
+consists of 300 respondents who are students at this university. Thus, 300 questionnaires were distributed 
+to the students in the university and only 271 were useable to fulfil this study's objectives. The constructs 
+in this study were measured by using 7 points Likert scale. 
+Essentially, levels of nomophobia were adapted from Yildirim's (2014) study. The students were asked to 
+evaluate their level of nomophobia based on the statements such as Twenty items were measured to assess 
+the strength of nomophobia levels. "I would feel uncomfortable without constant access to information 
+through my smartphone" 1 strongly disagree to 7 strongly agree, "I would be annoyed if I could not look 
+information up on my smartphone when I wanted to do so." 1 strongly disagree to 7 strongly agree, "Being 
+unable to get the news (e.g., happenings, weather, etc.) on my smartphone would make me nervous" 1 
+strongly disagree to 7 strongly agree, "I would be annoyed if I could not use my smartphone and/or its 
+capabilities when I wanted to do so" 1 strongly disagree to 7 strongly agree, "Running out of battery in my 
+smartphone would scare me" 1 strongly disagree to 7 strongly agree, "If I were to run out of credits or hit 
+my monthly data limit, I would panic" 1 strongly disagree to 7 strongly agree, "If I did not have a data 
+signal or could not connect to Wi-Fi, then I would constantly check to see if I had a signal or could find a 
+Wi-Fi network" 1 strongly disagree to 7 strongly agree, "If I could not use my smartphone, I would be 
+afraid of getting stranded somewhere" 1 strongly disagree to 7 strongly agree, "If I could not check my 
+smartphone for a while, I would feel a desire to check it" 1 strongly disagree to 7 strongly agree, "I would 
+feel anxious because I could not instantly communicate with my family and/or friends" 1 strongly disagree 
+to 7 strongly agree, "I would be worried because my family and/or friends could not reach me." 1 strongly 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+231 
+disagree to 7 strongly agree, "I would feel nervous because I would not be able to receive text messages 
+and calls." 1 strongly disagree to 7 strongly agree, "I would be anxious because I could not keep in touch 
+with my family and/or friends." 1 strongly disagree to 7 strongly agree, "I would be nervous because I 
+could not know if someone had tried to get a hold of me" 1 strongly disagree to 7 strongly agree, "I would 
+feel anxious because my constant connection to my family and friends would be broken." 1 strongly 
+disagree to 7 strongly agree, "I would be nervous because I would be disconnected from my online 
+identity." 1 strongly disagree to 7 strongly agree, "I would be uncomfortable because I could not stay upto-date with social media and online networks" 1 strongly disagree to 7 strongly agree, "I would feel 
+awkward because I could not check my notifications for updates from my connections and online networks" 
+1 strongly disagree to 7 strongly agree, "I would feel anxious because I could not check my email messages" 
+1 strongly disagree to 7 strongly agree, "I would feel weird because I would not know what to do." 1 
+strongly disagree to 7 strongly agree. All these items were adapted from Yildirim (2014). As for data 
+analysis, descriptive analysis was carried out by looking at percentages, frequencies, means, and standard 
+deviations to investigate the profile and level of nomophobia among students. This was followed by 
+inferential statistics to look at the differences using Independent Samples T-Test Analysis. The data were 
+run and analysed using Statistical Package for Social Sciences (SPSS) version 22. 
+ 
+4.0 RESULT AND DISCUSSION 
+4.1 Demographic Profile 
+Table 1 presents the summary of the respondents' backgrounds. Based on the reported result, most of the 
+respondents were female 60.9 percent respondents. While there were only 39.1 percent of respondents were 
+represented as male. In terms of the respondents' age, most of the respondent's 93.7 percent were 
+represented by young respondents. Meanwhile, the majority of students 95.2 percent were undergraduate 
+level and there was only 4.8 percent represented the postgraduate category. 
+Table 1: Profile of Respondents 
+Demographic Profile 
+Frequency 
+Percentage 
+Gender 
+ 
+ 
+Male 
+106 
+39.1 
+Female 
+165 
+60.9 
+ 
+ 
+ 
+Age 
+ 
+ 
+Young 
+254 
+93.7 
+(18 - 24 years old) 
+ 
+ 
+Adult 
+17 
+6.3 
+(25 - 30 years old and above) 
+ 
+ 
+ 
+ 
+ 
+Current academic undertaking 
+Undergraduate 
+(Foundation, Diploma & Degree) 
+ 
+258 
+ 
+95.2 
+ 
+Postgraduate 
+(Masters & PhD) 
+13 
+ 
+4.8 
+ 
+4.2 Descriptive Analysis 
+Table 2 explains the summary of the descriptive analysis respectively. Based on the result in Table 2, the 
+item 'I would be worried because my family and/or friends could not reach me.' has recorded the first 
+highest mean value of 5.35 and a standard deviation of 1.18. It is followed by the second highest 'I would 
+be anxious because I could not keep in touch with my family and/or friends in which the mean value is 
+5.27 and the standard deviation of 1.24. However, item 'I would be nervous because I would be 
+disconnected from my online identity has recorded the lowest mean value of 4.49 and standard deviation 
+of 1.51 followed by the second lowest on item 'Being unable to get the news (e.g., happenings, weather, 
+etc.) on my smartphone would make me nervous' the mean is 4.51 and the standard deviation is 1.46. The 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+232 
+overall level of nomophobia among university students was reported to be moderate (M= 4.89, SD= 0.94). 
+Thus, it shows that majority of the respondents had a moderate level of nomophobia. 
+This present finding is consistent with a past study that revealed the usage of smartphones among people 
+nowadays causes addiction to use smartphones for instance excessive use and problematic use. 
+Furthermore, a study by the Medical College and Associated Hospital of Central India by Dixit (2010) 
+discovered that 20 percent responded that they were unable to concentrate and become stressed out when 
+they get disconnected from their devices or when it has run out of battery. In addition to that, one of the 
+studies shows that nomophobia can be categorized as a disorder for people who experienced this symptom 
+(Pavithra et al., 2015). In other words, nomophobia also can harm the user or so-called nomophobia which 
+person who is addicted to a phone and cannot be distanced from their Smartphone. There have been several 
+studies that have focused on the addiction to smartphones and mobile phones (Bian & Leung, 2015; Chiu, 
+2014; Kwon et al., 2013), their problematic use (Takao et al., 2009; Wang et al., 2015), or their excessive 
+use (Ha et al., 2008; Lee et al., 2014). 
+Another finding from a previous study also claimed that people tend to be close to smartphones or touch 
+their phone is when the smartphone is near to them which can cause them to check on their smartphones 
+regularly and continually (Adnan & Gezgin, 2016; Algül, 2014; Dixit et al., 2010; Gezgin & Cakir, 2016; 
+Pavithra et al., 2015; Sharma & Wavare, 2015; Yildirim et al., 2016). In other words, nomophobia 
+negatively affects individuals' routine lives both psychologically and physically. There has been an 
+increasing number of studies regarding nomophobia handled by technology research organizations and in 
+the literature. On the other hand, there is a debate in the literature due to nomophobia being a new 
+phenomenon. 
+Table 2: Summary of Mean(M), Standard Deviation (SD) 
+Items 
+Mean 
+Std. Deviation 
+I would feel uncomfortable without constant access to 
+information through my smartphone. 
+4.87 
+1.35 
+I would be annoyed if I could not look information up on my 
+smartphone when I wanted to do so. 
+5.19 
+1.36 
+Being unable to get the news (e.g., happenings, weather, etc.) 
+on my smartphone would make me nervous. 
+4.51 
+1.46 
+I would be annoyed if I could not use my smartphone and/or 
+its capabilities when I wanted to do so. 
+5.12 
+1.23 
+Running out of battery in my smartphone would scare me. 
+5.07 
+1.46 
+If I were to run out of credits or hit my monthly data limit, I 
+would panic 
+4.59 
+1.44 
+If I did not have a data signal or could not connect to Wi-Fi, 
+then I would constantly check to see if I had a signal or could 
+find a Wi-Fi network. 
+4.84 
+1.51 
+If I could not use my smartphone, I would be afraid of getting 
+stranded somewhere. 
+4.64 
+1.39 
+If I could not check my smartphone for a while, I would feel 
+a desire to check it 
+4.87 
+1.51 
+I would feel anxious because I could not instantly 
+communicate with my family and/or friends 
+5.09 
+1.35 
+I would be worried because my family and/or friends could 
+not reach me. 
+5.35 
+1.18 
+I would feel nervous because I would not be able to receive 
+text messages and calls. 
+I would be anxious because I could not keep in touch with 
+my family and/or friends. 
+I would be nervous because I could not know if someone had 
+tried to get a hold of me 
+I would feel anxious because my constant connection to my 
+family and friends would be broken 
+5.15 
+ 
+5.27 
+ 
+5.03 
+ 
+4.91 
+ 
+4.49 
+1.28 
+ 
+1.24 
+ 
+1.35 
+ 
+1.29 
+ 
+1.51 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+233 
+I would be nervous because I would be disconnected from 
+my online identity. 
+I would be uncomfortable because I could not stay up-to-date 
+with social media and online networks 
+I would feel awkward because I could not check my 
+notifications for updates from my connections and online 
+networks 
+I would feel anxious because I could not check my email 
+messages 
+I would feel nervous because I would not be able to receive 
+text messages and calls. 
+ 
+4.54 
+ 
+4.67 
+ 
+ 
+4.53 
+ 
+4.89 
+ 
+1.41 
+ 
+1.44 
+ 
+ 
+1.45 
+ 
+1.42 
+Scale for the items were from Strongly disagree (1) to Strongly Agree (7) 
+ 
+4.3 Differences in the level of nomophobia among university students across gender, age, and 
+education level 
+The demographic factors of gender, age and academic undertaking were selected to observe the differences 
+across the level of nomophobia among university students. Table 3 shows the test of equality variances 
+(Levene Test) that variances in the total overall level of nomophobia across gender (male and female) are 
+equal, ρ > 0.05. Based on the reported result, it can be implied that there are no significant differences in 
+the level of nomophobia across gender (male and female) respondents which have shown by ρ-value >0.05. 
+Therefore, there is no significant difference in the level of nomophobia across gender. This can be implied 
+being either a male or a female will not impact the level of nomophobia a person has. 
+Similarly, this result is in line with the finding indicated by Pavithra et al., (2015) where there was no 
+significant result found in nomophobia levels across gender. The result of the current research is also 
+consistent with the findings of a few different studies and reports which claimed that there are no significant 
+differences in terms of gender (Adnan & Gezgin, 2016; Dixit et al., 2010; Uysal et al., 2016). Previously, 
+it was indicated by Bianchi and Phillips (2005) in their study where they also found that there was no 
+difference between females and males regarding mobile phone addiction. In contrast, the present finding is 
+not similar to few studies conducted by Arpaci et al., (2017), Erdem et al., (2017), SecurEnvoy (2012), 
+Tavolacci et al., (2015), Yildirim et al., (2016) and Pavithra and Madhukumar (2015) found that women 
+had a higher rate of nomophobia than men in their study. The most probable explanation for the current 
+result showed that mobile phone use is universal and also equally distributed among male and female 
+students in universities. 
+Table 3: Summary of Differences in terms Level of Nomophobia across Gender (Male and Female) 
+Variable 
+Mean 
+t-value 
+df 
+p-value 
+Decision 
+Gender 
+Male 
+Female 
+ 
+99.877 
+96.170 
+1.587 
+269 
+0.114 
+No Significant 
+Difference 
+ 
+Table 4 shows the test of equality variances (Levene Test) that variances in the total overall level of 
+intention across ages are equal. ρ > 0.05. Based on the reported result, it can be implied that there is no 
+significant differences in the level of nomophobia across age (young and adult) respondents which has 
+shown ρ-value >0.05. Therefore, there is no significant difference in the level of nomophobia across ages. 
+This can be implied that the level of nomophobia did not associate with both young and adults. This current 
+study is parallel with the previous study in which Yildirim et al., (2015) found no significant difference 
+was found between those aged below 20-year-old group and those aged above 20-year-old group in terms 
+of nomophobia levels. Similarly, Adnan and Gezgin (2016) also found no significant differences in 
+nomophobia levels of 433 higher education students concerning their ages. Moreover, these findings are 
+congruent with a study conducted by Beranuy, et al., (2009) on college students. They reported no 
+significant association of nomophobia with the age of participants. 
+ 
+ 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+234 
+Table 4: Summary of Differences in terms of Level of Nomophobia across Age (Young and Adult) 
+Variables 
+Mean 
+t-value 
+df 
+p-value 
+Decision 
+Age 
+Young 
+(18-23 years old) 
+Adult 
+(24-30 years old) 
+ 
+ 
+97.276 
+ 
+102.765 
+-1.165 
+269 
+0.245 
+No Significant 
+Difference 
+As shown in Table 5, Levene's test has a probability greater than 0.05. It is assumed that the variances in 
+the total overall level of nomophobia across levels of education attainment (undergraduate and 
+postgraduate) are equal. Based on the reported result, it can be implied that there is a significant difference 
+in the level of nomophobia across levels of education attainment (undergraduate and postgraduate) 
+respondents which have shown ρ-value <0.05. Therefore, there is a significant difference in the level of 
+nomophobia across levels of education attainment (undergraduate and postgraduate). This present finding 
+is in line with where apparently, this has become a worrying issue among today's high school and college 
+students worldwide. A report by Kleiner Perkins Caufield & Byers showed that an average person would 
+check his mobile phone 150 times a day (ABC News, 2015). In addition to that, it is also possible to find 
+studies that emphasize the negative effects of nomophobia on young people's academic achievement 
+(Erdem et al., 2016). Moreover, Alijoma et al., (2016) have revealed that bachelor's degree students have 
+the highest degree of addiction. 
+However, the present findings are in contrast with the findings by Pavithra et al., (2015). In their research, 
+it was found that no significant difference in nomophobia levels between undergraduates and postgraduates. 
+The difference between the current findings with the previous study could happen due to the different 
+backgrounds of respondents, socio-cultural differences, and changes in the condition of the research. For 
+instance, the previous study was conducted among students in particular faculty which might result in an 
+insignificant association between current academic undertaking and level of nomophobia. 
+Table 5: Summary of Differences in terms of Level of Nomophobia across Education Level 
+Variables 
+Mean 
+t-value 
+df 
+p-value 
+Decision 
+Level of Education 
+Attainment 
+Undergraduate 
+Postgraduate 
+ 
+ 
+97.10 
+107.85 
+-2.019 
+269 
+0.045 
+Significant 
+Difference 
+ 
+5.0 CONCLUSION 
+Firstly, the study was conducted in one of the public universities with 271 respondents. Based on the results, 
+it showed that most of the university's students had a moderate level of nomophobia. Interestingly, in this 
+study, it was found that only educational attainment had been significant difference across the level of 
+nomophobia among students. However, results showed that age and gender did not play a significant 
+difference in the level of nomophobia among students. There are a few limitations in this study that limit 
+its generalizability. In this present study, firstly, the study population was limited to a small number of 
+students from a single university only; therefore, the findings of the study cannot be generalized to other 
+settings. The second limitation was the study's sample was mainly comprised of undergraduate students 
+using cross-sectional study. Further cross-sectional studies involving all the undergraduates and 
+postgraduates' group of students throughout the country are required to understand the broader trends in 
+this particular issue. Lastly, the study variables only employed a few variables and further study that 
+includes more variables such as attitudes, and social interaction anxiety should be recommended to enrich 
+better findings. Moreover, future studies can also be conducted to determine the prevalence of nomophobia, 
+and its correlates also. 
+Therefore, the researchers believe that there should be strong support provided by the university especially 
+to continue the effort in promoting awareness of nomophobia issue among students. The university should 
+provide relevant information on the growing trends of nomophobia. This is to ensure the problem would 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+235 
+not worse and cause a harmful health outcome for the students soon. To some extent, the university 
+authorities must devise mechanisms for restrictions on mobile phone usage among students. 
+Academics should remember that they are role model for the students and should know that they cannot 
+teach efficiently and cannot motivate themselves to deliver lessons due to anxiety and fears caused by 
+nomophobia. Hence, first, they should be made aware of the trends of nomophobia and the university 
+authorities must devise mechanisms for restrictions on mobile phone usage among students. 
+It is thought that some technology usage rules should be enforced in the classroom, and finally, it should 
+not be forgotten that there is a real world out there; that there is life other than virtual reality. Real-time 
+social relations, sportive activities, listening to peaceful music, and reading beautiful books should be 
+regarded as valuable for students in terms of their spiritual well-being. Moreover, family and friends as 
+well as community surroundings, also need to play a major part in reducing the upcoming ill effects of 
+excess mobile phone usage. 
+ 
+ACKNOWLEDGEMENTS 
+The authors would like to express their gratitude to the university students for participating voluntarily in 
+the research project. A special thank you to all who were directly and indirectly involved in completing this 
+research. 
+ 
+REFERENCES 
+ 
+Adnan, M., & Gezgin, D. M. (2016). A Modern Phobia: Prevalence of Nomophobia among College
+ 
+Students [Modern Çağın Yeni Fobisi: Üniversite Öğrencileri Arasında Nomofobi Prevalansı].
+ 
+Ankara University Journal of Faculty of Educational Sciences, 49 (1), 141 158. 
+Ahmed, I., Ramzan, M., Qazi, T. F., & Jabeen, S. (2011). An investigation of mobile phone
+ 
+consumption patterns among students and professionals; is there any difference? European Journal
+ 
+of Economics, Finance & Administrative Sciences, 39, 136-143. 
+Aljomaa, S. S., Qudah, M. F. A., Albursan, I. S., Bakhiet, S. F., & Abduljabbar, A. S. (2016).
+ 
+Smartphone addiction among university students in the light of somevariables. Computers in
+ 
+Human Behavior, 61, 155-164 
+Ashvneet Kaur, Alvin Ani, Aaiena Sharma , Vinay Kumari (2021). Nomophobia and social interaction
+ 
+anxiety among university students. International Journal of Africa Nursing Sciences 15
+ 
+(2021)100352 https://doi.org/10.1016/j.ijans.2021.100352 
+Bian, M., & Leung, L. (2015). Linking loneliness, shyness, smartphone addiction symptoms, and patterns
+ 
+of smartphone use to social capital. Social Science Computer Review, 33(1), 61-79. 
+Beranuy et al., M. Beranuy, U. Oberst, X. Carbonell, A. Chamarro (2009) Problematic internet and mobile
+ 
+phone use and clinical symptoms in college students: The role of emotional intelligence Computers
+ 
+in Human Behavior, 25 (5) (2009), pp. 1182-1187, 10.1016/j.chb.2009.03.001 
+Chóliz, M. (2012). Mobile-phone addiction in adolescence: The Test of Mobile Phone Dependence (TMD).
+ 
+Progress in Health Sciences, 2(1). 
+Dixit, S., Shukla, H., Bhagwat, A., Bindal, A., Goyal, A., Zaidi, A., & Shrivastava, A. 
+(2010). A study
+ 
+to evaluate mobile phone dependence among students of a medical college and associated hospital
+ 
+of central India. Indian Journal of community Medicine,35(2), 339 341. 
+Emanuel, Richard. (2015). The truth about smartphone addiction. College student journal. 49. 291-299. 
+Erdem, H., Kalkin, G., Turen, U., & Deniz, M. (2016). The Effects of No Mobile PhonePhobia
+ 
+(Nomofobi) on Academic Performance among Undergraduate Students [Üniversite Öğrencilerinde
+ 
+Mobil Telefon Yoksunluğu Korkusunun (nomofobi) Akademik Başarıya Etkisi]. Süleyman
+ 
+Demirel University. Journal of Faculty of Economics and Administrative Sciences, 21(3), 923-936. 
+Gezgin, D. M., Cakir, O., & Yildirim, S. (2016, June). The Relationship between Levels of Nomophobia
+ 
+Prevalence and Internet Addiction among Adolescents 
+[Ergenlerarasında Nomofobi Yaygınlık
+ 
+Düzeyinin İnternet Bağımlılığı ile İlişkisi]. Paper presented at the 3rd International Eurasian
+ 
+Educational Research Congress, Ejer 2016, Muğla, Turkey. 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+236 
+Gezgin, D. M., Sahin, Y. L., & Yildirim, S. (2017). The Investigation of Social Network Users'
+ 
+Nomophobia Levels regarding to various Factors [Sosyal Ağkullanıcıları arasinda nomofobi
+ 
+yayginliğinin çeşitli faktörler açısından incelenmesi]. Educational Technology Theory and
+ 
+Practice, 7(1), 1-15. 
+ 
+Gezgin, D. M., Sumuer, E., Arslan, O., & Yildirim, S. (2017). Nomophobia Prevalence among Pre-service
+ 
+Teachers: A case of Trakya University [Öğretmen Adayları Arasında Nomofobi Yaygınlığı: Trakya
+ 
+Üniversitesi Örneği]. Trakya University Journal of Education Faculty, 7(1), 86-95. 
+Ha J. H., Chin B., Park D. H., Ryu S. H., Yu J. (2008). Characteristics of excessive cellular phone use in
+ 
+Korean adolescents. Cyber Psychology & Behavior, 11(6), 783-784 
+Kaur, A., Sharma, P. & Manu (2015). A Descriptive Study to Assess the Risk of Developing Nomophobia
+ 
+among Students of Selected Nursing Colleges Ludhiana, Punjab. International Journal of
+ 
+Psychiatric Nursing, 1(2), 1-6 
+King, A.L.S., Valença, A.M., Silva, A.C., Baczynski, T., Carvalho, M.R. & Nardi, A.E. (2013).
+ 
+Nomophobia: dependency on virtual environments or social phobia? Computers in Human
+ 
+Behavior, 29(1), 140-144. 
+Kwon, M., Lee, J.-Y., Won, W.-Y., Park, J.-W., Min, J.-A., Hahn, C<.Kim, D.-J (2013).Development and
+ 
+validation of a smartphone addiction scale (SAS).PloS One, 8(2), e56936 
+Lee, D., Rheeand, Y., & Dunham, R. B. (2009). The role of organizational and individual characteristics in
+ 
+technology acceptance. International Journal of Human-Computer Interaction, 25, 623-646. 
+Mason, W. A., Conrey, F. D., & Smith, E. R. (2007). Situating social influence processes: dynamic,
+ 
+multidirectional flows of influence within social networks. Personality and Social Psychology
+ 
+Review, 11(3), 279-300. 
+Oksman, V. & Turtiainen, J. (2004) Mobile communication as a social stage. The meanings of mobile
+ 
+communication amongst teenagers in Finland. N MedSoc, 6,319-339.Park, J. C., Hyun, S. J., & 
+Ha, H. (2014). Comparison between the internet and mobile phone addiction of adolescent with structural
+ 
+equation model and dominance analysis. The Journal of Korean Association of Computer
+ 
+Education, 16(1), 11-22. 
+Pavithra, M. B., Madhukumar, S., & Mahadeva, M. (2015). A Study on Nomophobia- Mobile Phone
+ 
+Dependence, Among Students of a Medical College in Bangalore. 
+National 
+Journal 
+of
+ 
+Community Medicine, 6(3), 340-344. 
+Perlow, L. A. (2012). Sleeping with your smartphone: How to break the 24/7 habit and change the way you
+ 
+work. Harvard Business Review Press 
+SecurEnvoy. (2012). 66% of the population suffer from Nomophobia the fear of being without their phone.
+ 
+Retrieved 
+from 
+http://www.securenvoy.com/blog/2012/02/16/66-of-the-population-suffer
+ 
+fromnomophobia-the-fear-of-being-without-their-phone/ 
+Smith., A. (2010), Mobile Access 2010 (Washing, DC: Pew Internet & American Life 
+Project, 
+2010).
+ 
+Retrieved from http://www.pewinternet.org/2010/07/07/mobile-access-2010/ 
+Sharma, N., Sharma, P., Sharma, N., & Wavare, R. R. (2015). Rising concern of nomophobia amongst
+ 
+Indian medical students. International Journal of Research in Medical Sciences, 3(3), 705-707. 
+Suliman S. Aljomaa, Mohammad F. Al.Qudah, Ismael S. Albursan, Salaheldin F. Bakhiet, and Adel S.
+ 
+Abduljabbar. (2016). Smartphone addiction among university students in the light of some
+ 
+variables. Comput. Hum. Behav. 61, C (August 2016), 155-164. 
+Szpakow A., S. A. (2011). Evaluation of threat of mobile phone - addition among Belarusian. Progress in
+ 
+Health Sciences, 96-101 
+Tavolacci, M. P., Grigioni, S., Richard, L., Meyrignac, G., Déchelotte, P. And Ladner, J. Eating Disorders
+ 
+and Associated Health Risks Among University Students 2015 - Journal of Nutrition Education
+ 
+and Behavior 
+Thomée, Sara & Härenstam, Annika & Hagberg, Mats. (2011). Mobile phone use and stress,sleep
+ 
+disturbances, and symptoms of depression among young adults - A prospective cohort 
+study.
+ 
+BMC public health. 
+Toda, M., Monden, K., Kubo, K., & Morimoto, K. (2006) Mobile phone dependence and health-related
+ 
+life-style of university students. Soc Behav Pers, 34, 1277-1284. 
+Uysal, Ş., Özen, H., & Madenoğlu, C. (2016). Social Phobia in Higher Education: The Influence of
+ 
+Nomophobia on Social Phobia. The Global e-learning Journal, 5(2), 1-8. 
+
+Volume 11 Issue 2 : Year 2022 
+eISSN : 2289 - 6589 
+Copyright © UiTM Press 2022, e-Academia Journal of Universiti Teknologi MARA Cawangan Terengganu 
+237 
+Yildirim, C., & Correia, A.-P. (2015). Exploring the dimensions of nomophobia: Development 
+and 
+validation of a self-reported questionnaire. Computers in Human Behavior, 49, 130 137 
+Young, K. S. (1998). Caught in the net. New York, NY: John Wiley & Sons, Inc.

@@ -1,0 +1,7297 @@
+FACULTY OF ECONOMICS AND BUSINESS ADMINISTRATION 
+VILNIUS UNIVERSITY 
+ 
+ 
+MARKETING AND INTEGRATED COMMUNICATION 
+ 
+ 
+Anastasiia Synhaivska 
+MASTER THESIS 
+ 
+ASMENINIŲ VARTOTOJO 
+SAVYBIŲ ĮTAKA "ŽALIAJAM" 
+VARTOJIMUI: MODERUOJANTIS 
+ĮMONIŲ SOCIALINĖS 
+ATSAKOMYBĖS SUVOKIMO 
+VAIDMUO 
+THE IMPACT OF PERSONAL 
+CHARACTERISTICS ON GREEN 
+CONSUMPTION BEHAVIOR: 
+THE MODERATING EFFECT OF 
+PERCEPTION OF CSR 
+ 
+Master degree students______________ 
+ 
+Supervisor______________ 
+ 
+Assist. Dr. Karina Adomavičiūtė 
+ 
+Date of submission of Master Thesis: 
+ 
+Ref. No 
+ 
+ 
+ 
+ 
+Vilnius, 2021 
+
+2 
+ 
+TABLE OF CONTENTS 
+LIST OF TABLES AND FIGURES ............................................................................................... 3 
+INTRODUCTION ........................................................................................................................... 4 
+1. 
+THEORETICAL ANALYSIS: GREEN CONSUMPTION BEHAVIOR AND FACTORS 
+INFLUENCING IT ......................................................................................................................... 7 
+1.1. 
+Theoretical analysis of green consumption behavior ....................................................... 7 
+1.2. Personal factors impacting green consumption behavior ................................................... 15 
+1.3. Consumer Perception of Corporate Social Responsibility (CSR) ...................................... 18 
+2. 
+METHODOLOGY ................................................................................................................ 22 
+2.1. 
+Research Model and Hypotheses .................................................................................... 22 
+2.2. 
+Research Method, Questionnaire Design and Measurement Scales ............................... 26 
+2.3. 
+Sampling process and sample size .................................................................................. 28 
+2.4. 
+Data analysis methods .................................................................................................... 29 
+3. 
+EMPIRICAL RESEARCH RESULTS OF THE IMPACT OF PERSONAL 
+CHARACTERISTICS ON THE GREEN CONSUMER BEHAVIOR ........................................ 30 
+3.1. 
+Description of the research sample ................................................................................. 30 
+3.2. 
+Reliability test ................................................................................................................. 31 
+3.3. 
+Normality test ................................................................................................................. 32 
+3.4. 
+Hypotheses testing .......................................................................................................... 33 
+3.4.1. 
+Analysis of personal characteristics' impact on the intention to purchase fast fashion 
+clothes, intention to purchase sustainable clothes and intention to reduce clothing purchase and 
+consumption............................................................................................................................... 33 
+3.4.2. 
+Analysis of the perception of CSR as a moderating effect. ........................................ 37 
+3.4.3. 
+Analysis of demographic characteristics impact on consumer green purchasing and 
+consumption behavior................................................................................................................ 41 
+4. 
+FINDINGS AND CONCLUSIONS ...................................................................................... 43 
+REFERENCES .............................................................................................................................. 47 
+SUMMARY IN ENGLISH ........................................................................................................... 57 
+SUMMARY IN LITHUANIAN ................................................................................................... 58 
+APPENDIX 1. QUESTIONNAIRE .............................................................................................. 59 
+APPENDIX 2. SAMPLE DEMOGRAPHIC CHARACTERISTICS........................................... 64 
+APPENDIX 3. RELIABILITY TESTS ........................................................................................ 66 
+APPENDIX 4. REGRESSION AND CORRELATION TESTS .................................................. 69 
+APPENDIX 5. MODERATION ANALYSIS .............................................................................. 73 
+APPENDIX 6. EVALUATION OF DIFFERENCES BETWEEN DEMOGRAPHIC AND 
+DEPENDENT VARIABLES ........................................................................................................ 82 
+
+3 
+ 
+ 
+LIST OF TABLES AND FIGURES 
+Table 1. Anticonsumption umbrella and related concepts .............................................................. 9 
+Figure 1.Carroll's Model of CSR. Carroll, 1991........................................................................... 20 
+Figure 2. Research Model. ............................................................................................................ 24 
+Table 2. Structure of the questionnaire. ....................................................................................... 27 
+Table 3. Sample size of comparable research on anticonsumption. .............................................. 28 
+Table 4. Demographic characteristics of the respondents. ............................................................ 31 
+Table 5. Cronbach's Alpha of measurement scales. ..................................................................... 32 
+Table 6. Tests of normality. .......................................................................................................... 33 
+Table 7. Regression coefficients between consumers' personal characteristics and the intention to 
+purchase fast fashion clothing. ...................................................................................................... 34 
+Table 8. Regression coefficients between consumers' personal characteristics and the intention to 
+purchase sustainable clothing. ....................................................................................................... 35 
+Table 9. Regression coefficients between consumers' personal characteristics and the intention to 
+reduce clothing purchase and consumption. ................................................................................. 36 
+Table 10. Results of the hypotheses testing. ................................................................................. 39 
+Table 11. Regression model of the intention to purchase sustainable clothing and CSR. ............ 41 
+Table 12. Regression model of the intention to reduce clothing purchase and consumption and 
+CSR. .............................................................................................................................................. 41 
+Figure 3. Final model of green consumption behavior. ................................................................ 43 
+ 
+ 
+ 
+
+4 
+ 
+INTRODUCTION 
+Environmental crisis and social inequalities are a continuously growing concern in our 
+society. Overconsumption and the excessive amount of options for satisfying personal needs and 
+wants put an extreme pressure on the environment and developing countries. The clothing industry 
+of today has moved well beyond merely satisfying basic needs, especially due to the rise of fast 
+fashion. Fast fashion corporations manage to spit new collections of clothing items with a shelf 
+life of less than a month. As a result, 75% of textile supply chain ends up thrown away amounting 
+to the equivalent of one garbage truck of fabric per second (Stanton, n.d.). Moreover, the 
+production of this vast amount of clothing puts heavy pressure on the environment through the 
+extensive use of energy, water, chemicals and pesticides (Choudhury, 2014). Besides, the textile 
+production, which is frequently outsourced to developing countries, raises major social concerns 
+including extremely low wages, unsafe working conditions, long working hours, child labor, and 
+overall violation of labor rights (Dickson et al., 2009). 
+Fashion industry has become a major subject of criticism amidst the ecological crisis and 
+the increased awareness social issues. Many clothing companies have been seen making attempts 
+to reshape their manufacturing system towards more sustainable, fair, and organic production but 
+were frequently met with backlash for greenwashing consumers. Nevertheless, sustainable growth 
+via more efficient technology or sustainable innovations has failed to deliver urgently needed 
+changes towards genuinely sustainable and fair production and consumption (Brown and Vergragt, 
+2016; Hueting, 2010; Kalmykova et al., 2016; Martínez-Alier et al., 2010). In fact, due to the 
+outbreak of Covid-19, the industry is expected to pause its corporate investing in sustainability for 
+an undefined period viewing it as additional expenses that slow down the recovery from the 
+pandemic (Roshitsh, 2020). Not surprisingly, scholarly attention has been drawn towards 
+alternative forms of consumption that would either cut on the acquisition of specific unethical and 
+environmentally harmful products or reduce overall consumption levels (Kavaliauske, 2017; 
+Joanes, 2019; Kaynak & Eksi, 2011). Joanes (2019) believed that focusing on the problem of 
+overconsumption and discovering the drivers of anticonsumption is a promising research path 
+towards sustainable society solutions. 
+Consumers' view of buying more, consuming more, and throwing away more began to 
+shift primarily due to the rise of the ecological and environmental consumer behavior back in the 
+70s (Peattie & Crane, 2005). However, modern expression of sustainable consumption considers 
+the effect of individual actions of consumers on the areas of acquisition, usage and disposal of 
+products and services not only on ecological but also on social and economic conditions for present 
+and future generations (Geiger et al., 2018). The sheer breadth of activities associated with 
+
+5 
+ 
+sustainable consumption caused an explosion of terms to describe this type of behavior. Literature 
+review revealed several terms for describing environmentally and socially oriented consumption 
+including organic, green, ethical/moral, socially conscious (responsible), sustainable consumption 
+and even anticonsumption. Though sharing many similarities, the terms sometimes vary in their 
+emphasis of either environmental or socioeconomic impacts. 
+As the consumers' sensitivity to and awareness of the social and environmental issues 
+increases, it becomes important to recognize what factors motivate them to react against 
+overconsumption. The need to understand consumers' intentions to consume certain products or 
+not to consume in general has prompted many previous scholars to study the role of personal 
+characteristics in the green consumption intentions. For example, Kaynak and Eksi (2011) 
+observed an impact of ethnocentrism on the intention to avoid not locally produced products, while 
+Lee et al. (2016) linked spirituality as a predictor of negative attitude towards non-sustainable 
+behaviors. Some authors, however, demonstrated controversial results about the influence of other 
+internal characteristics - such as religiosity, skepticism, environmental consciousness - on green 
+consumption behaviors. Therefore, it has been impossible to make conclusive arguments about the 
+impact of certain personal factors on the green consumption behaviors. As a result, there is a clear 
+necessity to reexamine and add to the pool of knowledge what consumers' personal characteristics 
+lead them to the purchase of sustainable products and even motivate them to reduce their purchase 
+and consumption of products. 
+In the environment, where consumers feel more empowered by means like globalization 
+and media to make smarter, and including greener, decisions about their purchases, holding and 
+increasing the number of loyal customers becomes more competitive and complex. In addition to 
+improving their supply chains, many fashion producers, including fast fashion companies, make 
+sure to make their sustainable efforts visible to consumers by communicating their corporate social 
+responsibility (CSR). However, throughout the years, certain brands, fashion brands in particular, 
+have been caught on greenwashing, which increased skepticism of consumers towards green 
+products (Do Paco & Reis, 2012). Despite that, CSR continues to be an essential predictor of 
+consumers' perceptions of and attitudes towards the brand, which is directly linked to their 
+purchase intentions (Suki et al., 2016). Therefore, it becomes important to examine how CSR 
+affects the interactions between certain consumer characteristics and their green consumption 
+motives. 
+Fashion industry is an exciting field for exploring the dynamics of overconsumption, green 
+consumption and reduction of consumption because it is an industry that promotes consumption 
+as a social practice that is essential for self-expression. Therefore, the focus of this research is on 
+
+6 
+ 
+the consumers' intentions to express alternative consumption behaviors based on environmental 
+and social concerns, which can be achieved by using and purchasing sustainable clothes, or fewer 
+clothing items including but not limited to the ones that are deemed problematic. As a result, this 
+research aims to analyze the impact of consumer personal characteristics on the intentions to 
+express green consumption behaviors. Firstly, it is the intention to purchase sustainable clothing. 
+Secondly, it is the low intention to purchase fast fashion clothing. Thirdly, it is the intention to 
+reduce overall purchase and consumption of clothes. The research also anticipates to discover how 
+the relationships are moderated by consumers' perception of CSR. Therefore, the present study 
+poses the following research objectives: 
+1. To analyse theoretical aspects of green consumption behaviours; 
+2. To analyse factors influencing the intention to purchase sustainable clothes and to reduce 
+overall purchase and consumption of clothes; 
+3. To identify the importance of CSR in the context of green clothing consumption; 
+4. To prepare the methodology for analysing the impact of consumers' personal 
+characteristics on the intention to purchase sustainable clothes and to reduce overall 
+clothing purchase and consumption when the relationship is moderated by consumers' 
+perception of CSR; 
+5. To perform the research to determine the effect of consumers' personal characteristics on 
+the intention to purchase sustainable clothes and to reduce overall clothing purchase and 
+consumption when the relationship is moderated by consumers' perception of CSR. 
+
+7 
+ 
+1. THEORETICAL ANALYSIS: GREEN CONSUMPTION BEHAVIOR 
+AND FACTORS INFLUENCING IT 
+ 
+1.1. Theoretical analysis of green consumption behavior 
+ 
+Consumption of goods and services has always been the essential function for meeting 
+basic physiological human needs, such as food and shelter, as well as psychological needs, such 
+as boosting confidence or gaining the feeling of accomplishment. Today, the market offers an 
+endless amount of options to fulfill and even create desires beyond basic needs. These 
+developments can be seen explicitly in the clothing industry (Connell, 2010; Lueg et al., 2015) 
+where fast fashion has become a well-established and a highly profitable business model (Kim et 
+al., 2013) yet extremely unsustainable one (Joanes, 2000). The countless tempting choices for selfactualization through consumption have resulted in intensive consumption. Thus, the conventional 
+concept of consumption has acquired a rather negative meaning in the past decade. The term has 
+been increasingly used in the context of overconsumption, particularly in the Western societies. 
+Ehrlich and Ehrlich (2004) defined overconsumption as acquisition of goods that go 
+beyond the basic needs and reasonable comfort. The authors also stressed the negative 
+consequences of overconsumption for the environment. However, the ecological and social 
+measures of overconsumption continue to be debatable because sustainably produced and 
+distributed products can still be overconsumed. Therefore, amidst the ongoing critical discourse 
+about global sustainable development, the role of the individual consumer should continue to be 
+addressed as much as the issues of unethical production, corporations' green washing, etc. 
+Overconsumption has been criticized not only by scientists or academic scholars but also 
+various political groups, international organizations, social networks and associations, and even 
+more so by the increasing civic engagement of individuals. Their views against overconsumption 
+result in anticonsumption manifestations, such as advocacy for ethical consumption, resistance to 
+brands and retailers that carry negative associations or meanings, slow living lifestyles and 
+voluntary simplicity, development of sustainable communities etc. On the national or global levels, 
+the anticonsumerism initiatives take forms of legislation changes, advertisement control, 
+environmental taxes, etc. However, there are certain types of behavioral patterns that consumers 
+choose to follow in their individual lifestyles for anticonsumerism reasons. Therefore, behaviors, 
+such as buying less, avoiding certain products or brands, or deciding not to buy specific 
+environmentally and ethically questionable products has previously caught scholarly attention. 
+
+8 
+ 
+The literature review has revealed a variety of alternative forms to consumption, which, as it's 
+been already stated, is frequently understood within the idea of overconsumption, based on social 
+or environmental considerations. For the sake of cohesiveness, this paper classifies the numerous 
+alternatives to consumption as green consumption behaviors. This section presents a brief review 
+of the various terms and forms previous researchers used to examine green consumption behaviors, 
+including organic consumption, green consumption, ethical/moral consumption, socially 
+conscious (responsible) consumption, sustainable consumption, consumer resistance, voluntary 
+simplicity, boycotts/consumer activism, symbolic consumption, and brand/product/product 
+category avoidance. 
+The most profound analysis of the existing literature on the alternative forms of 
+consumption was done by Makri et al. (2020). The work stands out for the clarity it managed to 
+give to the concept of anticonsumption that for a long time lacked clear definition. The authors 
+finally shed light to the field by delineating the constructs that embody anticonsumption 
+manifestations from anticonsumption. Makri et al. (2020) defined anticonsumption as 
+"intentionally and meaningfully excluding or cutting goods from one's consumption routine or 
+reusing once‐acquired goods with the goal of avoiding consumption" (Makri et al., 2020, p. 178). 
+It is worth noting that intentionality and meaningfulness are the unique characteristics of 
+anticonsumption. Unintentional acts of consumption reduction caused by incidental or situational 
+reasons, such as unavailability or inaccessibility of a product or brand, are not considered as 
+anticonsumption acts (Makri et al., 2020). Likewise, the absence of deliberate motives for reducing 
+overall consumption is not considered anticonsumption (Makri et al., 2020). For example, 
+intentional excluding or cutting specific products or product categories from one's consumption, 
+such as dairy products, can be done with the goal of avoiding consumption (e.g., to support animal 
+rights) but not necessarily (e.g., lactose intolerance). 
+Due to a variety of its manifestation, Makri et al. (2020) viewed anticonsumption as a large 
+umbrella that can comprise numerous conceptually related constructs, such as green consumption, 
+ethical consumption, consumer resistance, voluntary simplicity, boycotts/consumer activism, etc. 
+Table 1 provides a summary of the comprehensive review of anticonsumption and related 
+constructs constructed by Makri et al. (2020). 
+ 
+ 
+ 
+ 
+
+9 
+ 
+Table 1. 
+Anticonsumption umbrella and related concepts. Makri et al., 2020 
+ 
+It is also worth noting that the grounds for anticonsumption appear to differ in terms of 
+intensity of "reasons for" and "reasons against" consumption. Let's review it on the example of 
+two particular behaviors that kept reoccurring as expressions of anticonsumption and its related 
+constructs - reduction and avoidance. For instance, reduction of consumption is still consumption, 
+and, in fact, the ethical or environmental grounds may be causing it too. In contrast, avoidance is 
+a complete elimination of a brand, product, or product category from one's consumption routine. 
+Therefore, it seems fair to conclude that "reasons against" and "reasons for" consumption can vary 
+inside the anticonsumption construct itself. That is to say that avoidance (excluding) and reduction 
+(cutting goods) are based on different reasons. Moreover, it appears that reduction is still 
+predominantly concerned with "reasons for" consumption rather than "reasons against," while the 
+primary focus of avoidance is on "reasons against." Makri et al. (2020) stressed that an individual 
+who decides to express anticonsumption behavior is not only lacking motivation to consume 
+(reasons for) but may also have stronger motivations for not consuming (reasons against). It seems 
+safe to assume that an individual that chooses to reduce (cut goods) is not lacking motivation to 
+consume and has weaker motivation to not consume, compared to an individual who chooses to 
+
+10 
+ 
+avoid (exclude). In either scenario, there are intentional and deliberate motives behind any 
+anticonsumption manifestation. 
+This chapter continues with a detailed description of the various forms of green 
+consumption behavior including anticonsumption manifestations found throughout the literature. 
+ 
+Organic consumption 
+The concept of organic consumption, also known as ecological consumption, begins with 
+defining organic products. The common understanding of organic products is that no conventional 
+fertilizers, pesticides, hormones, or genetically modified components are used in their production 
+(Ngobo, 2011). Instead, the production system of organic goods aims to sustain ecological balance 
+by causing minimal damage to environment and maintaining biological diversity (Winter and 
+Davis, 2006). 
+The market for organic goods continues to grow in both food and non-food products. 
+According to Organic Processing and Trade Association Europe (2020), the USA and the EU are 
+the biggest organic markets globally. In 2018, the U.S. organic market reached the 50 billion 
+dollars mark for the first time (Organic Trade Association, 2019), while the European organic 
+market broke through 40.7 billion euros (Research Institute of Organic Agriculture, 2020). Along 
+with consumers' growing preference for organic products, researchers observed other linked 
+consumption habits, such as buying eco-friendly, ethical, and fair-trade products (Carrigan & 
+Attalla, 2001; Honkanen et al, 2006; McEachern & McClean, 2002). Therefore, organic 
+consumption is an important aspect of the broader analysis of environmentally and socially 
+oriented consumption. 
+ 
+Green consumption 
+Another popular term among marketers and researchers is green consumption. The major 
+focus of the consumption behavior is on protecting and preserving the natural environment. Green 
+consumption comes in a wide variety of practices and includes a broad range of products. For 
+example, green consumers may prefer to buy the same organic food while at the same time 
+shopping package-free in order to minimize waste. The extensive literature on green consumption 
+moved beyond the research of social and demographic characteristics of green consumers (Barber 
+et al, 2009; Jansson et al., 2010; Lee, 2008; Paco & Raposo, 2009; Mostafa, 2007) and extended 
+to studying green consumers' values, skills, and unmet needs and desires (Cornelissena et al., 
+2008; Goldstein et al., 2008; Moisander, 2007; Tabernero & Hernandez, 2011). 
+ 
+
+11 
+ 
+Ethical/moral consumption 
+Traditional consumerism has long been raising moral debates around its motives and 
+outcomes. In her book The Travels of a T-Shirt in the Global Economy (2014), Rivoli makes a 
+great and dramatic illustration how looking at almost any commodity chain, one can trace 
+connections across the globe, linking groups of people who may not even know of each other's 
+existence but that all get affected to different extents in the process of getting a single piece of 
+commodity to its final consumer. For instance, the pursuit of convenience through fast-food meals, 
+besides fueling an epidemic of obesity, has driven the complete reorganization of agriculture in 
+the United States and many other countries, concentrating ownership in corporate hands, 
+disempowering labor, increasing pollution, and compromising the quality of the entire food chain 
+(Schlosser, 2001). As a result of being so far removed from the preconditions and the following 
+consequences of their consumption, most people, even with the best intentions, may simply lack 
+access to the information necessary to make ethical choices about their own consumption (Coles 
+& Crang, 2011; Wilk, 2001). Therefore, at the core of ethical consumption is said to be a very 
+strong political frame, questioning the existing social and economic structures that continue 
+allowing consumption being morally ambiguous and problematic (Lewis & Potter, 2011). 
+In ethical consumption, one's conscience and one's ethical grounds can affect decisions 
+about brands or products choice, the amount of product's use, and further disposal of used goods 
+(Reczek & Irwin, 2015). As a result, ethical consumers prefer acquiring goods that reflect their 
+concern with a specific ethical issue (Reczek & Irwin, 2015). Many consumers report that they 
+care about ethical issues such as climate crisis and labor rights and that it impacts their purchase 
+behavior (Reczek & Irwin, 2015). However, it rarely leads to the actual purchase of an ethical 
+product alternative due to many barriers such as greenwashing and trade-offs between ethical 
+attributes and other attributes like cost and convenience (Parkins & Craig, 2011; Reczek & Irwin, 
+2015). 
+Finally, one's ethical grounds can equally lead to either of two consequences - 
+anticonsumption or consumption. On the one hand, ethical consumers may choose to express 
+anticonsumption behavior by, for example, resisting purchasing a desirable piece of clothing made 
+in unfair labor conditions. On the other hand, ethical grounds can lead to consumption behavior, 
+such as choosing to buy second-hand goods. 
+ 
+Socially conscious (responsible) consumption 
+The term of socially conscious or responsible consumer dates back as early as 1970s 
+(Anderson & Cunningham, 1972; Anderson et al., 1974; Brooker, 1976). Webster (1975) defined 
+
+12 
+ 
+the socially responsible consumer as one "who takes into account the public consequences of his 
+or her private consumption or who attempts to use his or her purchasing power to bring about 
+social change" (p. 188). It appears that the concept of socially conscious (responsible) 
+consumption is interchangeable with the concept of ethical consumption as both take a step further 
+from solely green consumption behaviors. While a green consumer concerns primarily about the 
+environmental impacts of consumption, socially conscious or ethical consumer additionally 
+considers the people-related aspect of manufacturing, use and disposal. 
+ 
+Sustainable consumption 
+To not compromise the ability of future generations to meet their needs has become the 
+maxim of sustainable consumption. With long-term goals in mind, sustainable consumers have 
+become influential market actors who use their purchasing power to bring down negative 
+consequences of their private consumption. Sustainable consumers simultaneously optimize the 
+environmental, social, and economic consequences of acquisition, use and disposition in order to 
+meet the needs of both current and future generations (Luchs et al., 2011; Yanarella et al., 2009). 
+Going sustainable has also created opportunities for individuals to compensate for their 
+often-inevitable negative consequences of their consumption through investing in footprint 
+offsetting projects. Earlier, only businesses could reduce if not balance out the damage from their 
+production by getting, for example, the Green Dot license (Packaging Recovery Organization 
+Europe, n.d.). Footprint offset projects, on the other hand, allowed individuals as well as 
+companies to balance out their impact by funding an equivalent of their damage to environmental 
+projects around the world (Clark, 2011). Moreover, conscious consumers were found to require 
+reporting from companies for their carbon offsetting (Little, 2008). Many agree that sustainable 
+consumption is beneficial, important and vital but these positive attitudes do not necessarily 
+translate into sustainable consumption behaviors (Parkins & Craig, 2011; Prothero et al., 2011; 
+Reczek & Irwin, 2015). 
+ 
+Consumer resistance 
+Another form of expressing anticonsumption attitude is through consumer resistance. 
+Consumer resistance implies cutting goods from consumption routine because of symbolic 
+incongruity, negative experiences, or value inadequacy (Makri et al., 2020). Sometimes, however, 
+consumer resistance can still be expressed through consumption, rather than anticonsumption 
+(Fournier, 1998; Lee et al., 2011). Such an active form of consumer resistance is expressed through 
+so-called "buycotts." In this case, certain consumers decide to switch to certain brands or products 
+
+13 
+ 
+in a concerted action to decrease power imbalances in the market or support changes for the benefit 
+of the environment or society (Cromie & Ewing, 2009; Hoffmann et al, 2018). For instance, 
+consumers may oppose the dominant channel of intermediaries in the agriculture industry by 
+purchasing directly from farmers. 
+ 
+Boycotts/consumer activism 
+Primarily known as consumer response to corporate social irresponsibility, boycotts 
+represent consumers' collective self-restraint from purchasing certain products from certain brands 
+due to ideological discontent with an organization or country (Klein et al., 2004). So-called "dollar 
+voting," is one of the well-known forms of consumer activism, where consumers choose to 
+collectively punish companies for unacceptable behavior by not buying their products (Buchanan, 
+1954). Contrary to anticonsumption, however, boycotting allows for the recovery of a company's 
+balance in the marketplace once certain conditions are met (Hirschman, 1970). In 
+anticonsumption, according to Makri et al. (2020), "there is no expectation of the consumption 
+relationship resuming" (p. 183). 
+ 
+Voluntary simplicity 
+Yet another form of anticonsumption behavior, voluntary simplicity refers to the reduction 
+(or simplification) of consumption patterns by free will "to limit expenditures on consumer goods 
+and services, and to cultivate nonmaterialistic sources of satisfaction and meaning" (Etzioni, 1998, 
+p.620). Etzioni (1998) argued that the pursuit of ever-higher levels of consumption is challenged 
+to be considered a road to a more fulfilling and satisfactory life. Therefore, voluntary simplicity 
+points to sources of satisfaction in their lives other than overconsumption and reckless 
+overspending by pursuing purposes other than materialistic. According to Huneke (2005), 
+individuals that adopt simple living lifestyle - frequently referred to as minimalists and simplifiers 
+- express anticonsumption behavior deliberately choosing to purchase less and/or simply using 
+resources more efficiently. Besides engaging in anticonsumption through minimizing 
+consumption of material goods, simplifiers and minimalists were also found to display a unique 
+characteristic, which is to engage in developing their intellect and exercising self‐reliance and 
+achieving a sense of authenticity (Zavestoski, 2002). Moreover, Ballantine and Creery (2010) 
+found that simplifiers and minimalists appear to base their consumption decisions on such factors 
+as product quality, environmental concerns, shared ownership and self-sufficiency. Kavaliauske 
+(2017) pointed that the care for the environment drives simple living consumers to buy products 
+
+14 
+ 
+of higher quality, share goods with others, use secondhand products, and repair their belongings 
+in order to limit the amount of waste and consequently reduce the need for new purchases. 
+ 
+Symbolic consumption 
+The idea that one's consumption choices form individual's self-image and identity has been 
+thoroughly discussed throughout marketing literature (Aaker, 1999). Of the many works in the 
+area, Makri et al. (2020) identified the "undesired self" (Ogilvie, 1987) as the most relevant 
+psychological concept to anticonsumption. The "undesired self" is the primary consumer's motive 
+to resist specific brands, products, or consumption habits that do not seem to match their self‐
+concept. The type of behavior grounded in the rejection of goods for symbolic reasons that are 
+personally or socially important to the consumer is one way to express symbolic consumption. On 
+the other hand, it can still be expressed through consumption of goods that are important for the 
+formation of the consumer's preferred identity, which is not the logical opposite of 
+anticonsumption (Makri et al., 2020). 
+ 
+Brand/product/product category avoidance 
+Banister and Hogg (2004) argued that knowing what consumers do not want is as important as 
+knowing what consumers want. Like symbolic consumption, avoidance of certain brands, 
+products, or product categories is strongly related to consumer's desired or undesired self-image. 
+Consumers avoid the brands or products that shape their identities in an undesirable way. Hogg et 
+al. (2009) indicated that negative associations with brands or products are consumers' primary 
+motives for avoidance. The associations include negative corporate reputation, negative user 
+stereotypes, and negative product features. Makri et al. (2020) noted that only those cases, in which 
+consumers deliberately avoid consumption due to the negative associations with brands or 
+products are considered anticonsumption manifestations. Otherwise scenarios, in which 
+consumers avoid consumption for the lack of choice (e.g., unaffordable, unavailable or 
+inaccessible product), do not represent anticonsumption. 
+In conclusion, the sheer breadth of activities associated with sustainable consumption 
+caused an explosion of terms to describe this type of behavior. Literature review revealed several 
+terms for describing green consumption behaviors including organic, green, ethical/moral, socially 
+conscious (responsible), and sustainable consumption. Though sharing many similarities, the 
+terms sometimes vary in their emphasis of either environmental or socioeconomic impacts. 
+
+15 
+ 
+ 
+1.2. Personal factors impacting green consumption behavior 
+ 
+Environmental consciousness 
+Environmental consciousness as an idea has appeared in many studies loosely combining 
+such concepts as environmental knowledge, environmental concern, and attitudes towards 
+environment and environmental protection (Dunlap, 2008; Follows & Jobber, 2000; Kavaliauske, 
+2017; Kwong & Balaji, 2016; Lee, 2008; Mostafa, 2007). In an attempt to bring clarity to the pool 
+of the interchangeably used concepts, Kaynak and Eksi (2011) defined environmental 
+consciousness as the degree to which awareness of ecological impacts shapes a person's daily 
+activities and, in particular, his or her purchasing and consuming decisions. A distinctive 
+characteristic of such environmentally conscious consumers is their disposition to participate in 
+boycotts for brands and manufacturers, as well as actively support the nature's protection through 
+their individual anticonsumption efforts (Chen & Chai, 2010). Frequently referred to as green 
+consumers, these individuals change their consumption behavior in favor of anticonsumption 
+practices to advocate for a better world and a better self as an integral part of it (Kaynak & Eksi, 
+2011; Schultz & Zelezny, 2000). Surprisingly enough, Kavaliauske (2017) discovered that 
+environmental anti-consciousness, which is individual's rejection of the importance of 
+environmental issues, had a positive impact on one's intention to reduce purchase and consumption 
+of both usual and green products. 
+ 
+Health consciousness 
+Many researchers have repeatedly shown the significance of health factor for alternative 
+forms of consumption especially of such product categories like food, cosmetics, and household 
+chemicals (Hughner, 2007; Kavaliauskė & Ubartaitė, 2014; Magnusson et al., 2003; Verhoef, 
+2005). Mihaelidou and Hassan (2008), however, rejected a significant effect of health concerns on 
+the intention to buy green or organic produce. Instead, the authors discovered a linkage of health 
+to anticonsumption behavior. In their study, individuals with higher motivation to maintain a 
+healthy lifestyle were found to be consuming with greater consciousness, which led to fewer 
+instances of overconsumption (Michaelidou & Hassan, 2008). In more recent studies, Kaynak and 
+Eksi (2011) confirmed the positive relationship between health consciousness and 
+anticonsumption intentions, whereas Kavaliauske (2017) reported the opposite. 
+ 
+Green Skepticism 
+
+16 
+ 
+Media has repeatedly publicized cases when companies marketed their products by means 
+of deceptive green claims, confusing half-truths and exaggerations of sustainable performance of 
+their products, which overtime resulted in decreased green purchase intentions. Scepticism about 
+companies' true motivation to engage in socially responsible activities has been discussed by a 
+great number of authors in literature. Webb and Mohr (1998) found that consumers perceive the 
+for-profit companies' social motivations as mainly self-serving and thus are more sceptical of their 
+initiatives. The authors also pointed out that consumers fear that companies utilize corporate social 
+responsibility (CSR) to manipulate them, which results in negative attitudes toward such firms 
+(Mohr et al., 2001). Scholars note that some the reasons why corporate messages about 
+environmental or social causes are often met with intense scepticism is that publics perceive 
+problems with brand-cause fit (Rekom et al., 2014), the organization's motives (Vanhamme & 
+Grobben, 2009; Habel et al., 2016), and inflated claims of CSR impact (Skarmeas & Leonidou, 
+2013). 
+Scepticism refers to a person's tendency to doubt, disbelieve, and question (Skarmeas & 
+Leonidou, 2013). Despite the increasing academic interest in scepticism as a response to numerous 
+instances of greenwashing (Skarmeas & Leonidou, 2013), also known as green scepticism, there 
+has been a limited empirical evidence of its role for anticonsumption behaviour. Kwong and Balaji 
+(2016) claimed that a high level of skepticism is directly linked to lower concern and lower 
+knowledge about environmental issues. The authors found a reduced intention of highly skeptical 
+consumers to purchase green products but it did not necessarily show an intention to avoid or 
+reduce purchase of regular products. The research performed by Kavaliauske (2017) offered 
+similar results but also provided additional evidence on the relation of green scepticism to 
+anticonsumption. The author highlighted that even when consumers are not sceptical of green 
+products, they perceive the green products as having a better quality and therefore use in smaller 
+quantities, which automatically leads to reduced purchase and consumption. 
+ 
+Ethnocentrism 
+The concept of ethnocentrism has been a subject of numerous works on consumer choice 
+and behavior (Kaynak & Eksi, 2011; Klein & Ettenson, 1999; Shimp & Sharma, 1987). 
+Ethnocentric individuals view their group as superior with a value system, which could be used as 
+a reference for evaluation of all things around (Kaynak & Eksi, 2011). Consequently, ethnocentric 
+consumers tend to revalue the products that belong to their group and devalue the ones produced 
+by the out-groups, like foreign-made goods. Even though ethnocentrism usually results in 
+increased collaboration inside the group, it may also cause manifestations of hostile attitudes 
+
+17 
+ 
+towards out-groups (Kaynak & Eksi, 2011). For instance, ethnocentric consumers were found to 
+reject particular brands and avoid particular companies, especially the foreign ones, because they 
+were perceived as damaging to local businesses and also the employees (Kaynak & Eksi, 2011). 
+Other ethnocentric consumers reported to preferring their domestically produced goods due to the 
+perception of its superior quality (Klein et al., 1998). 
+ 
+Religiosity 
+Religion is commonly understood as an institutionalized system of beliefs, attitudes, and 
+practices that reflect one's faith. Few of the widely known religions are Christianity, Islam, 
+Hinduism, Judaism, Buddhism, Taoism, etc. Religiosity, on the other hand, also known as a 
+religious commitment, is a degree to which person adheres to the beliefs, practices, and doctrines 
+of one's religion. Essoo and Dibb (2004) argued that consumers' attitudes towards certain products 
+and services are usually based on the morals and values defined by their religion. Therefore, one's 
+religious commitment was claimed to be a crucial antecedent of customer behavior (Huneke, 2005; 
+Mokhlis, 2009). Kaynak and Eksi (2011) demonstrated that religiosity plays an important role in 
+shaping peoples' commitment to restoring ecological balance. For example, many world religions 
+emphasize stewardship in their doctrines, which obliges humans to care for creation and protect 
+the environment. Moreover, other theological beliefs encourage rejecting materialistic lifestyle 
+and overconsumption. Finally, the role of religion in anticonsumption has been previously assessed 
+only to a very limited extent and showed no relation between the factors (Kaynak & Eksi, 2011; 
+Lee et al., 2016). Nevertheless, it can be considered as a first step towards a more profound 
+understanding. 
+ 
+Spirituality 
+Lee et al. (2016) were among the few that recognized the distinct characteristics of 
+religiosity and spirituality and presented their insights about the impact of spirituality trait on 
+sustainable consumption behavior. Though the concept of spirituality is hard to grasp, the authors 
+viewed it as an individual's searching for a sense of personal meaning and purpose, genuineness 
+and wholeness, as well as building relationships with the power that transcends human existence. 
+Furthermore, spirituality does not necessarily imply individual's belonging to any organized 
+religions, yet, just like religion, it is believed to drive ethical and socially responsible attitudes that 
+motivate sustainable behavior, including consumption behavior (Lee et al., 2016). The authors also 
+noted that in addition to increasing sustainable behavior in consumers, such as being conscious of 
+
+18 
+ 
+the health and ethical impact of their purchases, spirituality was found to reduce consumers' nonsustainable behaviors, such as compulsive buying and materialism. 
+ 
+Susceptibility to interpersonal influence 
+A personality trait typical for members of collectivistic cultures, susceptibility to 
+interpersonal influence implies that social norms, groups and close people affect behavior of an 
+individual (Gupta, 2011; Khare, 2014). According to Bearden et al. (1989), susceptibility to 
+interpersonal influence is a construct that measures consumer behavior that is prompted by "the 
+need to identify with or enhance one's image in the opinion of significant others through the 
+acquisition and use of products and brands, the willingness to confirm to the expectations of others 
+regarding purchase decisions and/or tendency to learn about products and services by observing 
+others or seeking information from others" (p. 474). Studies have repeatedly confirmed the 
+significance of the susceptibility to interpersonal influence trait to environmentally or socially 
+responsible consumer behavior (Chang, 2015; Gupta, 2011; Khare, 2014). For example, Chang 
+(2015) revealed that environmental communication from opinion leaders had a positive impact on 
+consumers' purchase intention of green products. However, the consumer trait has previously 
+never been addressed in relation to anticonsumption. The reason for that is likely to be the interest 
+of scholars in anticonsumption that has only recently started to grow due to the critical 
+environmental situation of the past decades, and, consequently, the increased awareness of it in 
+society. Therefore, future research should explore the relevance of the internal factor to the 
+extreme manifestation of sustainable consumer behavior, that is reduction of purchase and 
+consumption. 
+ 
+1.3. Consumer Perception of Corporate Social Responsibility (CSR) 
+ 
+As a response to the increasing public concerns about companies' responsibility for society, 
+Corporate Social Responsibility (CSR) has become more essential for modern organizations 
+(Carroll, 1991). O'Keefe (2017) reported that acknowledging the importance of CSR has driven 
+Fortune 500 companies spend more than $15 billion per year on CSR activities. Furthermore, the 
+positive results of these efforts for organizational performance is said to further encourage 
+companies to increase the amount of monetary investment in CSR area (O'Keefe, 2017). 
+Moreover, after recognizing the impact of CSR on the institutional level, the European 
+Commission obliged enterprises to "have in place a process to integrate social, environmental, 
+ethical human rights and consumer concerns into their business operations and core strategy in 
+
+19 
+ 
+close collaboration with their stakeholders" (European Commission, 2012, para.4). The role of 
+CSR has been further emphasized with the launch of the recent deal by European Commission - 
+the European Green Deal - that aims to set standards on goods manufacturing for the purpose of 
+combating climate change and environmental pollution (European Commission, 2019). Due to the 
+requests to meet both local and global business regulations and ethical standards, companies are 
+striving to incorporate global CSR principles in order to be better positioned in global markets 
+(Woo & Jin, 2016). 
+Due to the constant development of the concept, the concept of CSR continues to lack 
+universal definition. Even though the idea of CSR has undergone several decades of research with 
+the roots found as early as in the 1950's when companies have begun to represent a substantial 
+force in the social sector (Carroll, 1999), it remains problematic to define CSR for several reasons. 
+One of the reasons is the broad variety of CSR activities that organization apply (Chapple & Moon, 
+2005). Also, the ambiguity in the meaning of CSR is related with the various groups of a company's 
+stakeholders and their expectation for a company's CSR behaviour (Jonker & Marberg, 2007). 
+Finally, Coombs and Holladay (2012) observed that one other reason for the disputes within the 
+study area is the cultural divergence in the view of CSR. 
+Despite the inconsistences in the definition, many modern researches and practitioners 
+relied on the Archie B. Carroll's model of CSR (Figure 1) in their works (Oh & Ki, 2019; Woo & 
+Jin, 2016). According to the model, CSR should address economic, ethical, legal, ethical, and 
+philanthropic responsibilities of an organization in relation to its stakeholders and its groups 
+(Carroll 1991). In this same article, Carroll (1991) emphasized that "There is a natural fit between 
+the idea of corporate social responsibility and an organization's stakeholders" (p. 43). As a result, 
+many researchers seem to consistently provide the evidence for the two following 
+conceptualizations of CSR proposed by Carroll. First is the idea that there are areas for which a 
+company is responsible beyond its profitability. Related to the first, the second idea is that a 
+company is accountable to its stakeholders as well as its owners. 
+Nevertheless, a few works have repeatedly shown that the dimensions of corporate 
+responsibility proposed in Carroll's model are not adequate for analysing consumer perception of 
+CSR (Maignan, 2001; Maignan & Ferrell, 2003; David et al., 2005; Garcia de los Salmones, et al., 
+2005). For example, some authors overlooked the economic dimension of CSR in their research, 
+as it did not appear to form a part of the CSR construct for a group of stakeholders, such as 
+consumers (Maignan, 2001; Maignan & Ferrell, 2003). In response, Alvarado-Herrera et al. (2017) 
+argued that there is no logical or theoretical justification for eliminating financial viability from 
+the CSR construct, as doing so "would destroy the content validity of the construct itself" (p. 259). 
+
+20 
+ 
+Therefore, Alvarado-Herrera et al. (2017) developed a scale for measuring customers' perceptions 
+of CSR, permitting correct discrimination between different dimensions of CSR initiatives. The 
+scale helps to determine real consumer perceptions of a firm's CSR performance based on three 
+dimensions: corporate environmental protection, social equity, and economic development 
+responsibilities (Alvarado-Herrera et al., 2017). Except for a few works, however, that 
+demonstrated consumer response to corporate attempts to communicate environmental 
+motivations for anticonsumption actions (Sekhon & Armstrong Soule, 2020), no research to date 
+has investigated the relationship between consumer perception of CSR and green consumption 
+behaviour. 
+ 
+Figure 1. 
+Carroll's Model of CSR. Carroll, 1991. 
+ 
+The impact of CSR has been also been explored in prior studies in the context of the fashion 
+industry. Within the modern context, the questions about the sources and conditions of textile are 
+progressively resonating in the media space and thus among consumers. In his work, Cho (2014) 
+claimed that less environmentally conscious consumers are more likely to be impressed by 
+corporate environmental claims, while the consumers with high environmental consciousness 
+expect from companies more reliable references. Since apparel supply chain is labor-intensive and 
+sensitive to environment and society, consumers increasingly demand from fashion companies to 
+
+21 
+ 
+regulate their supply chains within a sustainable business framework. As a result, textile 
+manufacturers and designer brands are challenged to deliver the industry. 
+Here are some of the actions fashion retailers and manufacturers take to meet the soically 
+responsible business framework. For example, they develop their own codes of conducts to 
+regulate ethical, economic, and social aspects of their supply chains by developing that are based 
+on international standards, such as The Sustainability Society, United Nations Global Compact, 
+International Labor Organization, etc. However, due to the numerous failures to keep up with the 
+regulations - such as the 2013 Dhaka garment factory collapse (Manik & Yardley, 2013) or H&M 
+greenwashing controversy (Wicker, 2020) - the efficacy of methods like codes of conducts is 
+currently debatable. 
+Other corporate social responsibility actions in the fashion industry include building a longterm relationship between companies and manufacturers in order to improve control and visibility 
+of sustainability issues (Perry & Towers, 2013), eliminating the chemicals from supply chains, 
+using waterless dyeing, non-toxic dyeing, using organic cotton, recycled synthetic fibers, and ecotextiles (Kozlowski et al., 2012). 
+Some other organizations have also started participating in the regulation and improvement 
+of the situation in the industry. For instance, The Higg Index 2.0 developed by Sustainable Apparel 
+Coalition analyzes the sustainability level of the production by measuring the apparel supply chain 
+from the environmental and the social perspectives. Likewise, Good On You mobile app has been 
+available for consumers as a trusted source of sustainability ratings for fashion. Its ratings pull all 
+the social responsibility information available about the brand and use expert analysis to give each 
+brand an easy-to-understand score in terms of environmental and social impact. 
+
+22 
+ 
+2. METHODOLOGY 
+ 
+2.1. Research Model and Hypotheses 
+ 
+The literature review showed that the continuously growing concern about sustainable use 
+of resources and ethical production has been prompting the change towards behavior alternatives 
+to conventional consumerism. Depending on the intensity of their motivations, buyers can choose 
+to intentionally and deliberately reduce their consumption and purchase or give preference to more 
+sustainable alternatives. For example, Kavaliauske (2017) discovered that environmental anticonsciousness, health consciousness and life simplification practices have a strong impact on the 
+intention to reduce overall purchase and consumption. To deepen the understanding of consumers' 
+efforts to reduce consumption based on environmental and social concerns, Joanes (2019) 
+narrowed her study observation to clothing industry. However, a closer look to the literature has 
+revealed many gaps and shortcomings. Therefore, the current research aims to address them in 
+order to provide further insights about green consumption intentions. 
+The most radical opposition to the "all-pervasive, nihilistic culture of consumption" (Clark, 
+1998, p.335) has been found to be anticonsumption. Yet, Makri et al. (2020) illustrated that not a 
+single green consumption behavior known to a modern consumer carries out anticonsumption 
+perfectly. Moreover, Chatzidakis and Lee (2013) noted that unlike green consumption behaviors 
+such as ethical or sustainable consumption, real anticonsumption is predominantly concerned with 
+"reasons against" rather than "reasons for" consumption. Considering this and the nature of the 
+product under research - that being clothing - which in modern realities is hard to anticonsume 
+perfectly, helped to make the following decision. It was decided to make the primary focus of this 
+study not on the real anticonsumption per se, which would limit it to only reasons against 
+consumption, but rather on the green consumption behaviors that carry both reasons for and 
+reasons against consumption. In the context of the current research, these include the intention to 
+purchase sustainable clothing and the intention to reduce overall purchase and consumption of 
+clothes. 
+Previous studies on the intentional and deliberate motives to reduce consumption cannot 
+be considered as conclusive for several reasons. Firstly, research model used by Kavaliauske 
+(2017) could be adjusted to identify additional factors that influence consumer intention to reduce 
+purchase and consumption intentions. Secondly, the analysis of consumers' internal characteristics 
+could be prioritized over external factors to broaden our understanding of consumers' intention to 
+reduce purchase and consumption. Also, while Kavaliauske (2017) in her study analyzed low 
+
+23 
+ 
+involvement and low visibility goods like detergent, Joanes (2019) observed clothing items, which 
+requires higher involvement and visibility decisions from buyers. Therefore, it is worth looking at 
+whether certain types of goods are more susceptible to reduction by consumers under the same 
+research framework. 
+Another question that has previously never been addressed is how businesses or 
+organizations can stimulate consumers' intention to reduce consumption or prefer higher quality 
+sustainable products through CSR as, for example, an effort to reduce overconsumption. The 
+limitations of the past research signal the need to expand the knowledge of the relationship between 
+consumers' personal characteristics and their intentions to reduce purchase and consumption of 
+high visibility and high involvement goods with an additional impact of perceived CSR 
+performance. Therefore, the aim of this research is to determine how consumer personal 
+characteristics impact the intentions to purchase sustainable clothes and to reduce clothing 
+purchase and consumption. This study also considers how the relationships are moderated by 
+consumers' perception of brand CSR. 
+Based on the literature review, four independent variables were selected for inclusion in 
+this study: environmental consciousness, susceptibility to interpersonal influence, religiosity and 
+consumer perception of CSR. These concepts are not meant to fully cover the idea of the intention 
+to reduce clothing purchase and consumption. This portion of sustainable consumer traits has been 
+seldom addressed, and thus provides opportunities to contribute to the literature. Firstly, 
+environmental consciousness is expected to be at the core of decision-making process in favor of 
+green consumption behavior, therefore the variable is essential. Secondly, since clothing is a high 
+visibility product, susceptibility to interpersonal influence is an important variable to test in 
+relation to clothing purchase and consumption reduction. Thirdly, the impact of religiosity has 
+been found contradictor in various studies. Finally, consumer perception of CSR has been selected 
+as an additional independent variable to be analyzed in this study. This is due to the companies' 
+increasing efforts to emphasize their CSR practices (Hawkins, 2018; Hodgson, 2018; Peters, 
+2018), including the corporate initiatives to reduce the barriers to anticonsumption practices 
+(Sekhon & Armstrong Soule, 2020). As for the independent variables, it was decided to select the 
+intention to purchase sustainable clothing, the intention to reduce purchase and consumption of 
+clothes, as well as the intention to purchase fast fashion brands for a contrast. 
+After analyzing existing literature and identifying key gaps, a research model was 
+constructed (Figure 2). In accordance with the Theory of Planned Behavior (TPB) (Ajzen, 1991), 
+the model anticipates certain consumer personality traits to act as determinants of willingness 
+towards expressing certain behavior, which in the framework of this research is the intention to 
+
+24 
+ 
+purchase fast fashion clothing, sustainable clothing, the intention to reduce purchase and 
+consumption of clothes. TPB has been widely used for determining environmentally cautious 
+behavior (Chan & Bishop, 2013; Han et al., 2010; Kavaliauske, 2017). Klockner (2013), however, 
+criticized this theory as being not very suitable for analysis of repeated behaviors as it does not 
+consider habitual behaviors. Within the TBP, the model expects consumers to engage in green 
+consumption behavior if they have a positive attitude towards it, if they believe that other people 
+expect them to act in that way, or show their support for this kind of behavior, and if the consumers 
+feel like capable of manifesting green consumption behavior. 
+The selected consumer personal characteristics are environmental consciousness, 
+susceptibility to interpersonal influence, and religiosity. The model also anticipates that 
+consumers' perception of clothing companies' CSR will act as a moderator of the relationship 
+between consumers' characteristics and consumption behaviors. 
+ 
+Figure 2. 
+Research Model. 
+ 
+The research model (Figure 2) also illustrates the hypotheses tested in the following 
+empirical research part of the thesis. This study proposes the hypotheses as follows: 
+H1. Susceptibility to interpersonal influence has bigger impact on the intention to purchase fast 
+fashion clothes than religiosity and environmental consciousness. 
+H1a. The higher is the environmental consciousness of consumer, the lower is the intention 
+to purchase fast fashion clothes. 
+H1b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to purchase fast fashion clothes. 
+H1c. The higher is the consumer's religious commitment, the higher is the intention to 
+purchase fast fashion clothes. 
+
+25 
+ 
+H2. Environmental consciousness has bigger impact on the intention to purchase sustainable 
+clothes than susceptibility to interpersonal influence and religiosity. 
+H2a. The higher is the environmental consciousness of consumer, the higher is the intention 
+to purchase sustainable clothes. 
+H2b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to purchase sustainable clothes. 
+H2c. The higher is the consumer's religious commitment, the higher is the intention to 
+purchase sustainable clothes. 
+H3. Environmental consciousness has bigger impact on the intention to reduce clothing purchase 
+and consumption than susceptibility to interpersonal influence and religiosity. 
+H3a. The higher is the environmental consciousness of consumer, the higher is the intention 
+to reduce purchase and consumption of clothes. 
+H3b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to reduce purchase and consumption of clothes. 
+H3c. The higher is the consumer's religious commitment, the higher is the intention to 
+reduce purchase and consumption of clothes. 
+H4. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to purchase fast fashion clothes. 
+H5. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to purchase sustainable clothes. 
+H6. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to reduce clothing purchase and consumption. 
+H7. Consumer perception of CSR moderates the relationship between consumers' susceptibility 
+to interpersonal influence and the intention to purchase fast fashion clothes. 
+H8. Consumer perception of CSR moderates the relationship between consumers' susceptibility 
+to interpersonal influence and the intention to purchase sustainable clothes. 
+H9. Consumer perception of CSR moderates the relationship between consumers' susceptibility 
+to interpersonal influence and the intention to reduce clothing purchase and consumption. 
+H10. Consumer perception of CSR moderates the relationship between consumers' religious 
+commitment and the intention to purchase fast fashion clothes. 
+H11. Consumer perception of CSR moderates the relationship between consumers' religious 
+commitment and the intention to purchase sustainable clothes. 
+H12. Consumer perception of CSR moderates the relationship between consumers' religious 
+commitment and the intention to reduce clothing purchase and consumption. 
+
+26 
+ 
+ 
+2.2. Research Method, Questionnaire Design and Measurement Scales 
+ 
+A quantitative method, specifically survey, is used for testing the research model (Figure 
+2). The method allows to test hypothesis derived from existing theories and to explore the 
+relationships between variables. Since the hypotheses were developed based on the comprehensive 
+review of literature on anticonsumption, the deductive research method is appropriate for this study 
+and is also preferred for several reasons. Firstly, because of a clearly structured form, the 
+quantitative data collection method is cheap to use and easy to administer while covering large 
+geographic area (Walliman, 2011). Secondly, the method is convenient to participate in for survey 
+respondents and it also eliminates personal bias from a researcher (Walliman, 2011). 
+There are several characteristics of the quantitative research method that are important for 
+this study. Firstly, the method uses numerical evaluations of variables and attempts to identify 
+frequent responses to certain questions to test the acceptance or rejection of constructed 
+hypotheses. Secondly, using close-ended questions in the quantitative type of research ensures all 
+responses are standardized and contamination is avoided. Furthermore, the research method carries 
+the potential to generalize the key findings based on the results of research sample to overall 
+population. The current research design uses the causal method because it allows to investigate the 
+relationships among variables while using regression analysis. 
+The primary data for research will be collected through online survey using selfadministered questionnaire. This surveying method has been chosen considering its timing and 
+usability convenience, as well as cost-effective benefits. The questionnaire was designed based on 
+the scales developed by previous researchers and their relevance to the developed research model 
+(Figure 2). It is important to make sure the data does not contain any errors or missing values. 
+Therefore, for the respondent to submit their responses, it will be constrained by the online survey 
+tool that answers to all the questions have to be provided. 
+The anonymous questionnaire used for data collection for this research consists of closedend type questions with possible response options provided. The response options for questions 
+that measure respondents' opinion are designed using 7-point Likert scale, which provides 
+respondents with degrees to express their agreement with a provided statement. This type of 
+questioning was chosen because data gathered using Likert scale is less subject to contamination 
+(Little, 2013). The questionnaire consists of 66 items which cover the following parts: 
+susceptibility to interpersonal influence, environmental consciousness, religiosity, consumer 
+perception of CSR as independent variables; intention to purchase fast fashion clothing, intention 
+
+27 
+ 
+to purchase sustainable clothing, and the intention to reduce purchase and consumption of clothes 
+as dependent variable; and, finally, demographic variables (sex, age, education, and income per 
+person per household). The original texting of questionnaire is provided in the Appendix 1. 
+Following are the measurement scales used for the independent types of constructs in this 
+study. The level of susceptibility to interpersonal influence is assessed using the 12-item 
+measurement scale developed by Bearden et al. (1989). Environmental consciousness is measured 
+using the 15-item New Ecological Paradigm Scale developed by Dunlap et al. (2000). To measure 
+consumer's religiosity, this study uses the 8-item scale adapted from prior research on 
+anticonsumption by Mokhlis (2009). The scale by Herrera et al. (2017) is adapted to measure 
+consumer perceptions of different dimensions of CSR - social, environmental, and economic - of 
+a clothing brand that a respondent prefers to buy the most. It consists of 18 statements. It is also 
+worth noting that the section about the consumers' perceived CSR starts with a nominal question 
+about the clothing brand they purchase from the most often. It is meant to help the respondent 
+imagine a particular brand in order to answer the following questions about the brand's CSR. 
+Despite giving some familiar brand options, like Zara, H&M, and Humana, to choose from, 
+respondents are welcome to present their own option. 
+Moving on to the dependent types of constructs used in this research. The intention to 
+purchase fast fashion clothes is measured using a standard purchase intention scale developed by 
+Dodds et al. (1991). It consists of 3 items. Likewise, the intention to purchase sustainable clothes 
+is measured using purchase intention scales developed by Putrevu and Lord (1994). It consists of 
+3 items. The reason this study uses two different scales to measure purchase intention of two 
+different product categories is to avoid respondent's confusion over two sets of similar questions. 
+Finally, the intention to reduce clothing purchase and consumption is assessed using the 2-item 
+scale from Joanes (2019). Table 2 summarizes the structure of the questionnaire. 
+ 
+Table 2. 
+Structure of the questionnaire. 
+Construct 
+Type of construct 
+No. of 
+items 
+Author 
+Question 
+No. 
+Susceptibility to 
+interpersonal influence 
+Independent 
+4 
+Bearden et al. 
+(1989) 
+1-12 
+Environmental 
+consciousness 
+Independent 
+15 
+Dunlap et al. 
+(2000) 
+13-27 
+Perception of CSR 
+Independent 
+18 
+Herrera et al. 
+(2017) 
+29-46 
+Religiosity 
+Independent 
+8 
+Kaynak & Eksi 
+(2011) 
+47-54 
+
+28 
+ 
+Intention to purchase fast 
+fashion clothes 
+Dependent 
+3 
+(Dodds et al., 
+1991) 
+55-57 
+Intention to purchase 
+sustainable clothes 
+Dependent 
+3 
+(Putrevu & Lord, 
+1994) 
+58-60 
+Intention to reduce purchase 
+and consumption of clothes 
+Dependent 
+2 
+Joanes (2019) 
+61-62 
+Demographic and lead 
+questions 
+Independent 
+5 
+ 
+28, 63-66 
+ 
+2.3.Sampling process and sample size 
+ 
+The execution of the research requires defining the research sample, which would ensure 
+the representativeness and reliability of the data collected. The subject of the research is the 
+consumers of clothes. The object of the research is the relationship between consumers' personal 
+traits such as environmental consciousness, susceptibility to interpersonal influence, religiosity, 
+and consumers' perception of CSR, as well as their intentions to reduce clothing purchase and 
+consumption. 
+The non-probability sampling method used for this research is the convenience sampling. 
+Even though non-probability sampling is criticized for not being sufficiently representative of the 
+population, the sampling technique is most convenient, least time-consuming, and also least 
+expensive (Malhorta, 2010). Based on works of previous researchers, the average sample size for 
+a similar study on anticonsumption is 380 respondents. The sample sizes of previous researches 
+are presented in Table 3. 
+ 
+Table 3. 
+Sample size of comparable research on anticonsumption. 
+Authors 
+Method used 
+Sample size 
+Sampling method 
+Kavaliauske (2017) 
+Survey 
+438 
+Non-probability 
+Kaynak & Eksi (2011) 
+Survey 
+503 
+Non-probability 
+Sekhon & Armstrong Soule 
+(2020) 
+Survey 
+199 
+Non-probability 
+Iyer & Muncy (2009) 
+Survey 
+504 
+Non-probability 
+Ozanne & Ballantine (2010) 
+Survey 
+397 
+Non-probability 
+ 
+The final sample size for his research was determined using Survey Monkey calculator. 
+The target population of this study is Ukrainian and Lithuanian residents aged 18-60, since this is 
+the age category with the major purchasing power in the market. According to the 2020 
+
+29 
+ 
+Lithuanian national statistics, the total number of the population in Lithuania aged 18-60 is 
+2794090 people (Official Statistics Portal, 2020). According to the 2020 Ukrainian national 
+statistics, the total number of the population in Ukraine aged 18-60 is 24827079 people (State 
+Statistics Service of Ukraine, 2020). With 95% confidence level, a total of 385 participants is 
+required for this study. 95% commitment level means that the sample takes 95% of the 
+population's opinion with 5 % of error. 
+ 
+2.4. Data analysis methods 
+ 
+The data of the main quantitative study will be analyzed with the data analysis and 
+statistical software IBM SPSS Statistics in order to test the research model illustrated in Figure 2 
+and to test the hypotheses presented in the Subchapter 2.1. The research model and hypotheses 
+were designed to answer the research question: how consumer personal characteristics impact the 
+intentions to purchase sustainable clothes and to reduce clothing purchase and consumption, when 
+the relationships are moderated by consumers' perception of CSR. The following methods of data 
+analysis will be used: 
+• Cronbach's alpha (scale reliability analysis). Measuring the reliability of the scales used in 
+the main quantitative study. 
+• The normality test using Kolmogorov-Smirnov and Shapiro-Wilk tests in order to check 
+whether collected data is normally distributed. 
+• Regression analysis. Measuring the influence of respondents' environmental 
+consciousness, susceptibility to interpersonal influence and religiosity on the intention to 
+purchase clothing from major fast-fashion brands, the intention to purchase sustainable 
+clothes and the intention to reduce purchase and consumption of clothes. 
+• Moderator effect analysis. Determination of perceived CSR moderating effect. 
+ 
+ 
+ 
+
+30 
+ 
+3. EMPIRICAL RESEARCH RESULTS OF THE IMPACT OF 
+PERSONAL CHARACTERISTICS ON THE GREEN CONSUMER 
+BEHAVIOR 
+ 
+3.1. Description of the research sample 
+ 
+In total, 402 respondents participated in this study. Upon the review, 20 questionnaires 
+were identified as having incomplete or illogical responses. Therefore, they were removed from 
+further analysis in order to have thorough empirical analysis. As a result, 382 completed 
+questionnaires were used to carry out the calculations. As it was previously stated in Subchapter 
+2.3, the research is carried out at 95% confidence level with a 5% error. 
+The participants of the survey were asked to indicate certain demographic characteristics 
+to help assess the representativeness of the sample size. These characteristics included age, sex, 
+income, and level of education. The summary of the demographic variable analysis is presented in 
+Table 5. The detailed assessment of the demographic variables is provided in Appendix 2. 
+Among 382 participants of the survey, there were 78.5% of females (300 responses), 19.6% 
+of males (75 responses), and 1.8% of participants who preferred not to mention their sex (7 
+responses). This representation of the sample size was quite predictable since the majority of the 
+platforms used for the survey distribution were mainly visited by women. 
+In terms of age, all the respondents of the online questionnaire were between 13 and 69 
+years old. The majority of the respondents (79.6%) were less than 25 years old. The second biggest 
+category of respondents (18.1%) were between 26 to 40 years old. The least number of respondents 
+(2.4%) were older than 41 years old. 
+As for the level of the respondents' education, the biggest share of the sample belonged to 
+the respondents holding a Bachelor's degree (47.1%), followed by the share of respondents 
+holding Master's degree or higher (18.8%). 13.4% of participants had college or high education, 
+10.7% - secondary education, 8.9% - higher or special secondary education, and 1% - primary 
+education. 
+In terms of income per person per household, the biggest share (19.4%) is represented by 
+respondents whose income is 251 and 500 Eur. 17.5% of respondents indicated their income as 
+being between 501 and 700 Eur per person. Slightly smaller number of respondents (17.3%) 
+indicated an income between 1001 and 1500 Eur. 16.2% of participants had income between 751 
+and 1000 Eur, and 14.1% - up to 250 Eur. The smallest number of the survey participants indicated 
+income of more than 1501 Eur. 
+
+31 
+ 
+Table 4. 
+Demographic characteristics of the respondents. 
+Demographic Variable 
+Sample Size Distribution (in %) 
+Sex 
+Male 
+19,6 
+Female 
+78,5 
+Prefer not to say 
+1,8 
+Age 
+<25 years old 
+79,6 
+26-40 years old 
+18,1 
+>41 years old 
+2,4 
+Level of education 
+Primary 
+1,0 
+Secondary 
+10,7 
+Higher or special secondary 
+8,9 
+College of high education 
+13,4 
+Bachelor degree 
+47,1 
+Master degree and higher 
+18,8 
+Income per person 
+Up to 250 Eur 
+14,1 
+251-500 Eur 
+19,4 
+501-750 Eur 
+17,5 
+751-1000 Eur 
+16,2 
+1001-1500 Eur 
+17,3 
+1501-2000 Eur 
+4,7 
+2001-2500 Eur 
+3,4 
+2501-3000 Eur 
+2,9 
+More than 3000 Eur 
+4,5 
+ 
+3.2. Reliability test 
+ 
+To test the reliability of data, the Cronbach's alpha values ware calculated for the research 
+variables. The test shows whether a scale consistently reflects the variable it is and whether the set 
+
+32 
+ 
+of items within that scale are sufficiently related as a group. The assessment of the reliability 
+coefficient was performed considering that a coefficient of 0.7 or higher is viewed as acceptable 
+in most social science research situations. The summary of the results of the reliability test are 
+presented in Table 5 while detailed calculations are provided in Appendix 3. 
+ 
+Table 5. 
+Cronbach's Alpha of measurement scales. 
+Scale 
+No. of Items 
+Cronbach's 
+Alpha 
+Susceptibility to interpersonal influence 
+12 
+.877 
+Environmental consciousness 
+11 
+.628 
+Perception of CSR 
+18 
+.899 
+Religiosity 
+8 
+.947 
+Intention to purchase fast fashion clothing 
+3 
+.928 
+Intention to purchase sustainable clothing 
+3 
+.889 
+Intention 
+to 
+reduce 
+clothing 
+purchase 
+and 
+consumption 
+2 
+.736 
+ 
+ 
+The reliability of scales showed a high Cronbach's Alpha coefficient ranging from .628 to 
+.947). The reliability of the environmental consciousness scale, however, had to be improved since 
+the original scale of 15 items showed insufficient coefficient of .479. The decision was made based 
+on the scale purification framework developed by Wieland et al. (2017). Using the framework, it 
+was possible to apply both judgmental and statistical criteria to eliminate certain items from the 
+scale. These criteria for elimination were, firstly, nonessential measurement for capturing the 
+construct's meaning and, secondly, the high number of items per construct. Therefore, 4 items 
+were removed from the environmental consciousness scale including the following questions: 
+"Humans have the right to modify the natural environment to suit their needs", "The balance of 
+nature is strong enough to cope with the impacts of modern industrial nations", "The so called 
+'ecological crisis' facing humankind has been greatly exaggerated", "Humans were meant to rule 
+over the rest of nature". As a result, the reliability of the environmental consciousness scale was 
+improved to .628. The rest of the variables remained unchanged. 
+ 
+ 
+3.3. Normality test 
+ 
+ 
+
+33 
+ 
+Using SPSS tool, the normality test was performed to check whether collected data was 
+normally distributed. The results showed that the significance according to both Kolmogorov-
+Smirnov and Shapiro-Wilk are smaller than the alpha level of p<0.05 chosen for this study. Thus, 
+it can be concluded that the tested data is not from a normally distributed population. Yet, it is 
+important to recognize that not all human characteristics or behaviors are normally distributed. 
+Therefore, the analysis is carried out further bearing this in mind. 
+ 
+Table 6. 
+Tests of normality. 
+ 
+Kolmogorov-Smirnova 
+Shapiro-Wilk 
+Statistic 
+df 
+Sig. 
+Statistic 
+df 
+Sig. 
+FastF 
+,126 
+382 
+,000 
+,908 
+382 
+,000 
+Sustain 
+,072 
+382 
+,000 
+,963 
+382 
+,000 
+Reduce 
+,102 
+382 
+,000 
+,945 
+382 
+,000 
+Interp 
+,048 
+382 
+,033 
+,986 
+382 
+,001 
+Envir 
+,055 
+382 
+,007 
+,992 
+382 
+,050 
+CSR 
+,060 
+382 
+,002 
+,992 
+382 
+,043 
+Relig 
+,132 
+382 
+,000 
+,905 
+382 
+,000 
+a. Lilliefors Significance Correction 
+ 
+ 
+3.4. Hypotheses testing 
+ 
+3.4.1. Analysis of personal characteristics' impact on the intention to 
+purchase fast fashion clothes, intention to purchase sustainable 
+clothes and intention to reduce clothing purchase and consumption 
+ 
+In order to analyze what impact personal characteristic had on the intention to purchase 
+fast fashion clothing, sustainable clothing, or the intention to reduce overall clothing purchase and 
+consumption, regression analysis was carried out. The summary of the results from testing the 
+hypotheses is presented in Table 10. 
+It is also worth noting that the answers to the question "What brand do you purchase 
+clothes most often from?" were encoded to fit into the 2 categories: "fast fashion clothing purchase 
+and consumption" and "sustainable clothing purchase and consumption". The categorization was 
+performed using Good On You platform, which is the world's leading source for fashion brand 
+ratings. If the brand wasn't listed on the platform, it's official corporate social responsibility 
+claims, as well as the brand's publicity in media was reviewed to determine their belonging to 
+either of the categories. As a result, well-known, mass-market, global brands, such as Zara, 
+Michael Kors, H&M, Tommy Hilfiger, Reserved, Forever 21, to name a few, were identified as 
+
+34 
+ 
+fast fashion clothing. On the other hand, second hand thrift stores, local, organic or ethical brands, 
+as well as handmade clothes were classified as sustainable clothing. 
+H1. Susceptibility to interpersonal influence has bigger impact on the intention to purchase 
+fast fashion clothes than religiosity and environmental consciousness (rejected). 
+Just 2 predictors had impact on the intention to purchase fast fashion clothing, R2=.107, 
+F(1)=15.068, p<.001. Therefore, H1 is rejected. Environmental consciousness (B=.502, p<.001) 
+had bigger impact on the intention to purchase fast fashion clothing than susceptibility to 
+interpersonal influence (B=.376, p<0.001). Religiosity had no significant impact (B= -0.013, 
+p=.791). The equation appears to be the following: fast fashion clothing purchase intention = 
+1.455 + .376*interpersonal influence + .502*environmental consciousness. The calculations are 
+summarized in Table 7. 
+Based on the determination coefficient value, this regression model explains only 10.7% 
+of the data scatter. This mean, that there are other variables, which can explain intention to 
+purchase fashion clothes better, but this study was limited to three specific personal characteristics 
+as justified by the theory. 
+ 
+Table 7. 
+Regression coefficients between consumers' personal characteristics and the intention to 
+purchase fast fashion clothing. 
+Coefficientsa 
+Model 
+Unstandardized 
+Coefficients 
+Standardiz
+ed 
+Coefficient
+s 
+t 
+Sig. 
+95,0% Confidence 
+Interval for B 
+B 
+Std. 
+Error 
+Beta 
+Lower 
+Bound 
+Upper 
+Bound 
+1 
+(Constant) 
+1,455 
+,743 
+ 
+1,958 
+,051 
+-,006 
+2,917 
+Interp_influe
+nce 
+,376 
+,076 
+,251 
+4,945 
+,000 
+,226 
+,525 
+Env_Consc 
+,502 
+,158 
+,159 
+3,175 
+,002 
+,191 
+,812 
+Religiosity 
+-,013 
+,049 
+-,013 
+-,266 
+,791 
+-,109 
+,083 
+a. Dependent Variable: FastFashion_Int 
+ 
+H1a. The higher is the environmental consciousness of consumer, the lower is the intention 
+to purchase fast fashion clothes (accepted). 
+The results of the correlation analysis showed the opposite of the expected, that is that the 
+higher is the environmental consciousness of consumer, the higher is the intention to purchase fast 
+fashion clothes (R=0.220, p<.001). Therefore, H1a is accepted. 
+H1b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to purchase fast fashion clothes (accepted). 
+
+35 
+ 
+The correlation analysis showed that the stronger respondents' susceptibility to 
+interpersonal influence was, the higher intention they showed for purchasing fast fashion clothes 
+(R=0.288, p<.001). Therefore, H1b is accepted. 
+H1c. The higher is the consumer's religious commitment, the higher is the intention to 
+purchase fast fashion clothes (rejected). 
+The analysis showed no significant correlation between respondents' religious 
+commitment and their intention to purchase fast fashion clothes (R=0.034, p=.507). Therefore, 
+H1c is rejected. 
+H2. Environmental consciousness has bigger impact on the intention to purchase 
+sustainable clothes than susceptibility to interpersonal influence and religiosity (rejected). 
+None of the predictors had a significant impact on the intention to purchase sustainable 
+clothing, R2=.011, F(1)=1.426, p=.235. Therefore, H2 is rejected. Environmental consciousness 
+(B=.251, p<.052), susceptibility to interpersonal influence (B=.000, p<.994), religiosity (B=.017, 
+p<.666). The calculations are provided in Table 8. 
+ 
+Table 8. 
+Regression coefficients between consumers' personal characteristics and the intention to 
+purchase sustainable clothing. 
+Coefficientsa 
+Model 
+Unstandardized Coefficients 
+Standardized 
+Coefficients 
+t 
+Sig. 
+B 
+Std. Error 
+Beta 
+1 
+(Constant) 
+3,740 
+,605 
+ 
+6,176 
+,000 
+Interp_influence 
+,000 
+,062 
+,000 
+-,007 
+,994 
+Env_Consc 
+,251 
+,129 
+,103 
+1,949 
+,052 
+Religiosity 
+,017 
+,040 
+,022 
+,432 
+,666 
+a. Dependent Variable: Sustainable_Int 
+ 
+H2a. The higher is the environmental consciousness of consumer, the higher is the intention 
+to purchase sustainable clothes (accepted). 
+The correlation analysis indicated a positive relationship between environmental 
+consciousness and the intention to purchase sustainable clothes (R=0.103, p=.043). Therefore, H2a 
+is accepted. 
+H2b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to purchase sustainable clothes (rejected). 
+The test of the relationship between susceptibility to interpersonal influence and the 
+intention to purchase sustainable clothes showed that there is no relationship between the variables 
+(R=0.028, p=.581). Therefore, H2b is rejected. 
+
+36 
+ 
+H2c. The higher is the consumer's religious commitment, the higher is the intention to 
+purchase sustainable clothes (rejected). 
+ 
+In determining the relationship between religiosity and the intention to purchase 
+sustainable clothes, no relationship was found (R=0.026, p=.617). Therefore, H2c is rejected. 
+H3. Environmental consciousness has bigger impact on the intention to reduce clothing 
+purchase and consumption than susceptibility to interpersonal influence and religiosity (rejected). 
+None of the predictors had a significant impact on the intention to reduce clothing purchase 
+and consumption, R2=.003, F(1)=.330, p=.804. Therefore, H3 is rejected. Environmental 
+consciousness (B=.098, p<.491), susceptibility to interpersonal influence (B=-.001, p<.988), 
+religiosity (B=-.031, p<.478). Table 9 provides the summary of the calculations. 
+ 
+Table 9. 
+Regression coefficients between consumers' personal characteristics and the intention to reduce 
+clothing purchase and consumption. 
+Coefficientsa 
+Model 
+Unstandardized Coefficients 
+Standardized 
+Coefficients 
+t 
+Sig. 
+B 
+Std. Error 
+Beta 
+1 
+(Constant) 
+4,506 
+,672 
+ 
+6,708 
+,000 
+Interp_influence 
+-,001 
+,069 
+-,001 
+-,015 
+,988 
+Env_Consc 
+,098 
+,143 
+,037 
+,690 
+,491 
+Religiosity 
+-,031 
+,044 
+-,037 
+-,710 
+,478 
+a. Dependent Variable: Reduce_Int 
+ 
+H3a. The higher is the environmental consciousness of consumer, the higher is the intention 
+to reduce purchase and consumption of clothes (rejected). 
+While testing the relationship between environmental consciousness and the intention to 
+reduce purchase and consumption of clothes, no relationship between the variables was confirmed 
+(R=0.035, p=.493). Therefore, H3a is rejected. 
+H3b. The higher is the consumer's susceptibility to interpersonal influence, the higher is 
+the intention to reduce purchase and consumption of clothes (rejected). 
+The test of the relationship between susceptibility to interpersonal influence and the 
+intention to reduce clothing purchase and consumption showed that there is no relationship 
+between the variables (R=0.002, p=.971). Therefore, H3b is rejected. 
+H3c. The higher is the consumer's religious commitment, the higher is the intention to 
+reduce purchase and consumption of clothes (rejected). 
+
+37 
+ 
+In determining the relationship between religiosity and the intention to reduce clothing 
+purchase and consumption, no relationship was found (R=-0.036, p=.483). Therefore, H3c is 
+rejected. 
+ 
+Detailed results of the regression and correlation analyses are presented in Appendix 4. 
+ 
+3.4.2. Analysis of the perception of CSR as a moderating effect. 
+ 
+In order to check the moderating impact of the perception of CSR on the interactions 
+between personal characteristic and the intention to purchase fast fashion clothing, sustainable 
+clothing, or the intention to reduce overall clothing purchase and consumption, the PROCESS 
+regression plug‐in for SPSS was used to run the multiple regression analysis (Hayes & Preacher, 
+2014). Detailed calculations are provided an Appendix 5. 
+H4. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to purchase fast fashion clothes (rejected). 
+The moderation effect of CSR on the relationship between environmental consciousness 
+and the intention to purchase fast fashion clothes showed that the effect of CSR (b = -0.1310, 95% 
+CI [-0.4394, 0.1775], t = -0.8349, p = .4043) is statistically insignificant. This means that the 
+relationship between environmental consciousness and the intention to purchase fast fashion 
+clothes is not moderated by CSR. Therefore, H4 is rejected. 
+H5. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to purchase sustainable clothes (rejected). 
+The moderation effect of CSR on the relationship between environmental consciousness 
+and the intention to purchase sustainable clothes showed that the effect of CSR (b = -0.0316, 95% 
+CI [-0.2673, 0.2042], t = -0.2635, p = .7923) is statistically insignificant. This means that the 
+relationship between environmental consciousness and the intention to purchase sustainable 
+clothes is not moderated by CSR. Therefore, H5 is rejected. 
+H6. Consumer perception of CSR moderates the relationship between environmental 
+consciousness and the intention to reduce clothing purchase and consumption (rejected). 
+The moderation of CSR on the relationship between environmental consciousness and the 
+intention to reduce clothing purchase and consumption revealed that the effect of CSR (b = 0.1190, 
+95% CI [-0.1452, 0.3832], t = 0.8859, p = .3763) is statistically insignificant. This means that the 
+relationship between environmental consciousness and the intention to reduce clothing purchase 
+and consumption is not moderated by CSR. Therefore, H6 is rejected. 
+
+38 
+ 
+H7. Consumer perception of CSR moderates the relationship between consumers' 
+susceptibility to interpersonal influence and the intention to purchase fast fashion clothes 
+(rejected). 
+The moderation of CSR on the relationship between susceptibility to interpersonal 
+influence and the intention to purchase fast fashion clothes indicated that the effect of CSR (b = -
+0.0242, 95% CI [-0.1684, 0.1200], t = -0.3297, p = .7418) is statistically insignificant. This means 
+that the relationship between susceptibility to interpersonal influence and the intention to purchase 
+fast fashion clothes is not moderated by CSR. Therefore, H7 is rejected. 
+H8. Consumer perception of CSR moderates the relationship between consumers' 
+susceptibility to interpersonal influence and the intention to purchase sustainable clothes 
+(rejected). 
+The moderation of CSR on the relationship between susceptibility to interpersonal 
+influence and the intention to purchase sustainable clothes indicated that the effect of CSR (b = 
+0.0202, 95% CI [-0.0918, 0.1328], t = 0.3591, p = .7197) is statistically insignificant. This means 
+that the relationship between susceptibility to interpersonal influence and the intention to purchase 
+sustainable clothes is not moderated by CSR. Therefore, H8 is rejected. 
+H9. Consumer perception of CSR moderates the relationship between consumers' 
+susceptibility to interpersonal influence and the intention to reduce clothing purchase and 
+consumption (rejected). 
+The moderation of CSR on the relationship between susceptibility to interpersonal 
+influence and the intention to reduce clothing purchase and consumption showed that the effect of 
+CSR (b = 0.0594, 95% CI [-0.0662, 0.1851], t = 0.9300, p = .3530) is statistically insignificant. 
+This means that the relationship between susceptibility to interpersonal influence and the intention 
+to reduce clothing purchase and consumption is not moderated by CSR. Therefore, H9 is rejected. 
+H10. Consumer perception of CSR moderates the relationship between consumers' 
+religious commitment and the intention to purchase fast fashion clothes (rejected). 
+The moderation of CSR on the relationship between religiosity and the intention to 
+purchase fast fashion clothes revealed that the effect of CSR (b = -0.0025, 95% CI [-0.1064, 
+0.1014], t = -0.0468, p = .9627) is statistically insignificant. This means that the relationship 
+between religiosity and the intention to purchase fast fashion clothes is not moderated by CSR. 
+Therefore, H10 is rejected. 
+H11. Consumer perception of CSR moderates the relationship between consumers' 
+religious commitment and the intention to purchase sustainable clothes (rejected). 
+
+39 
+ 
+The moderation of CSR on the relationship between religiosity and the intention to 
+purchase sustainable clothes indicated that the effect of CSR (b = 0.0481, 95% CI [-0.0724, 
+0.1687], t = 0.78466, p = .4332) is statistically insignificant. This means that the relationship 
+between religiosity and the intention to purchase sustainable clothes is not moderated by CSR. 
+Therefore, H11 is rejected. 
+H12. Consumer perception of CSR moderates the relationship between consumers' 
+religious commitment and the intention to reduce clothing purchase and consumption (rejected). 
+The moderation of CSR on the relationship between religiosity and the intention to reduce 
+clothing purchase and consumption showed that the effect of CSR (b = 0.0239, 95% CI [-0.0899, 
+0.1377], t = 0.4128, p = .6800) is statistically insignificant. These results identify perceived CSR 
+as a non-moderator of the relationship between the susceptibility interpersonal influence and the 
+intention to the intention to reduce purchase and consumption of clothes. Therefore, H12 is 
+rejected. 
+ 
+Table 10. 
+Results of the hypotheses testing. 
+Hypothesis 
+Status 
+H1. Susceptibility to interpersonal influence has bigger impact on the 
+intention to purchase fast fashion clothes than religiosity and 
+environmental consciousness. 
+Rejected. 
+H1a. The higher is the environmental consciousness of consumer, the 
+lower is the intention to purchase fast fashion clothes. 
+Accepted. 
+H1b. The higher is the consumer's susceptibility to interpersonal 
+influence, the higher is the intention to purchase fast fashion clothes. 
+Accepted. 
+H1c. The higher is the consumer's religious commitment, the higher is 
+the intention to purchase fast fashion clothes. 
+Rejected. 
+H2. Environmental consciousness has bigger impact on the intention to 
+purchase sustainable clothes than susceptibility to interpersonal 
+influence and religiosity. 
+Rejected. 
+H2a. The higher is the environmental consciousness of consumer, the 
+higher is the intention to purchase sustainable clothes. 
+Accepted. 
+H2b. The higher is the consumer's susceptibility to interpersonal 
+influence, the higher is the intention to purchase sustainable clothes. 
+Rejected. 
+H2c. The higher is the consumer's religious commitment, the higher is 
+the intention to purchase sustainable clothes. 
+Rejected. 
+H3. Environmental consciousness has bigger impact on the intention to 
+reduce clothing purchase and consumption than susceptibility to 
+interpersonal influence and religiosity. 
+Rejected. 
+
+40 
+ 
+H3a. The higher is the environmental consciousness of consumer, the 
+higher is the intention to reduce purchase and consumption of clothes. 
+Rejected. 
+H3b. The higher is the consumer's susceptibility to interpersonal 
+influence, the higher is the intention to reduce purchase and consumption 
+of clothes. 
+Rejected. 
+H3c. The higher is the consumer's religious commitment, the higher is 
+the intention to reduce purchase and consumption of clothes. 
+Rejected. 
+H4. Consumer perception of CSR moderates the relationship between 
+environmental consciousness and the intention to purchase fast fashion 
+clothes. 
+Rejected. 
+H5. Consumer perception of CSR moderates the relationship between 
+environmental consciousness and the intention to purchase fast fashion 
+clothes. 
+Rejected. 
+H6. Consumer perception of CSR moderates the relationship between 
+environmental consciousness and the intention to reduce clothing 
+purchase and consumption. 
+Rejected. 
+H7. Consumer perception of CSR moderates the relationship between 
+consumers' susceptibility to interpersonal influence and the intention to 
+purchase fast fashion clothes. 
+Rejected. 
+H8. Consumer perception of CSR moderates the relationship between 
+consumers' susceptibility to interpersonal influence and the intention to 
+purchase sustainable clothes. 
+Rejected. 
+H9. Consumer perception of CSR moderates the relationship between 
+consumers' susceptibility to interpersonal influence and the intention to 
+reduce clothing purchase and consumption. 
+Rejected. 
+H10. Consumer perception of CSR moderates the relationship between 
+consumers' religious commitment and the intention to purchase fast 
+fashion clothes. 
+Rejected. 
+H11. Consumer perception of CSR moderates the relationship between 
+consumers' religious commitment and the intention to purchase 
+sustainable clothes. 
+Rejected. 
+H12. Consumer perception of CSR moderates the relationship between 
+consumers' religious commitment and the intention to reduce clothing 
+purchase and consumption. 
+Rejected. 
+ 
+The series of regression analyses, however, revealed an unexpected relationship between 
+consumers' perception of CSR and the intention to purchase sustainable clothes and the intention 
+to reduce overall clothing purchase and consumption. In fact, the CSR perception variable, which 
+was initially assumed to have a moderating effect, has been found to be an independent variable 
+with an impact on two dependent variables. Firstly, the analysis revealed a relationship between 
+consumers' perception of CSR and the intention to purchase sustainable clothes (R2=.071, 
+p<.001). Perceived CSR was found to be a significant predictor of the intention to purchase 
+
+41 
+ 
+sustainable clothes (B=0.380, p<.001) (Table 11). Secondly, the analysis also showed a surprising 
+relationship between perceived CSR and the intention to reduce clothing purchase and 
+consumption (R2=.045, p<.001). It was found that consumers' perception of CSR has a positive 
+impact on the intention to reduce clothing purchase and consumption (B=.334, p<.001 (Table 12). 
+ 
+Table 11. 
+Regression model of the intention to purchase sustainable clothing and CSR. 
+Coefficientsa 
+Model 
+Unstandardized 
+Coefficients 
+Standardize
+d 
+Coefficients 
+t 
+Sig. 
+95,0% Confidence Interval 
+for B 
+B 
+Std. Error 
+Beta 
+Lower 
+Bound 
+Upper 
+Bound 
+1 
+(Consta
+nt) 
+3,277 
+,322 
+ 
+10,184 
+,000 
+2,645 
+3,910 
+CSR 
+,380 
+,070 
+,267 
+5,407 
+,000 
+,242 
+,518 
+a. Dependent Variable: Sustain 
+ 
+Table 12. 
+Regression model of the intention to reduce clothing purchase and consumption and CSR. 
+Coefficientsa 
+Model 
+Unstandardized 
+Coefficients 
+Standardize
+d 
+Coefficients 
+t 
+Sig. 
+95,0% Confidence Interval 
+for B 
+B 
+Std. Error 
+Beta 
+Lower 
+Bound 
+Upper 
+Bound 
+1 
+(Constan
+t) 
+3,380 
+,361 
+ 
+9,375 
+,000 
+2,671 
+4,089 
+CSR 
+,334 
+,079 
+,213 
+4,248 
+,000 
+,180 
+,489 
+a. Dependent Variable: Reduce 
+ 
+3.4.3. Analysis of demographic characteristics impact on consumer 
+green purchasing and consumption behavior 
+ 
+It was also discovered that the intention to purchase fast fashion clothes differs depending 
+on the respondents' age (F(2)=14.030, p<.001). Bonferoni test showed that respondents that are 
+less than 25 years old are the most willing to purchase fast fashion clothing (M=5.24) comparing 
+with respondents of 26-40 years old (M=4.24, p<.001) and respondents of more than 41 years old 
+(M=3.44, p=.005). On the other hand, no significant relation was found between the variables of 
+age and the intention to purchase sustainable clothes or the intention to reduce overall clothing and 
+consumption. 
+The analysis showed a significant difference in respondents' intention to purchase fast 
+fashion clothes, sustainable clothes, and the intention to reduce purchase and consumption of 
+
+42 
+ 
+clothes depending on their sex. Respondents that preferred not to mention their sex - in total - 
+were excluded from this analysis. Female respondents were more willing to purchase fast fashion 
+clothing (M=5.17) than male respondents (M=4.51), t(373)=-3.036, p=.003. Likewise, female 
+respondents were had a bigger intention to purchase sustainable clothing (M=4.52) than males 
+(M=5.10), t(373)=-3.437, p<.001. This observation is totally justifiable considering that females 
+make three-quarters of all purchases on the planet (TED, 2015). Surprisingly, similar trend was 
+also observed for the intention to reduce purchase and consumption of clothes, with females 
+showing significantly higher willingness to anticonsume (M=5.04) than males (M=4.33), t(373)=-
+3.804, p<.001. 
+Research didn't show any significant relations between the respondents' level of education 
+and their intention to purchase fast fashion clothing (p=.893), sustainable clothes (p=.977), or the 
+intention to reduce clothing purchase and consumption (p=.849). Likewise, the respondents' 
+monthly income was equally important for the intention to purchase fast fashion clothing (p=.191), 
+sustainable clothes (p=.196), or the intention to reduce clothing purchase and consumption 
+(p=.227). Similar results were given when analyzed in respect to the category of clothing most 
+frequently purchased and consumed - fast fashion or sustainable. That is to say, the intention to 
+purchase and consume either fast fashion or sustainable clothes does not differ depending on age 
+(χ2(2)=3.241, p=.198), sex (χ2(1)=1.811, p=.178), income (χ2(8)=7.084, p=.528), or level of 
+education (χ2(5)=8.163, p=.147). 
+The detailed evaluations of the differences between demographic and dependent variables 
+are provided in Appendix 6. 
+ 
+ 
+
+43 
+ 
+4. FINDINGS AND CONCLUSIONS 
+ 
+The current paper identified personal factors that are related to a person's green 
+consumption behavior intentions. The novelty of the research was already combined in the model 
+built on the scientific literature analysis. That is to say, unlike the majority of previos studies, this 
+research analyzed the intentions to purchase or to reduce purchase and consumption of high 
+visibility and high involvement product - that being clothes. Moreover, it attempted to determine 
+the influence of CSR perception as a moderator to identify additional relations between the factors. 
+The revised model after completion of the data analysis is presented in Figure 3. 
+ 
+Figure 3. 
+Final model of green consumption behavior. 
+ 
+ 
+Previous scholars have claimed that certain personal characteristics are among the most 
+important predictors of anticonsumption manifestations, like sustainable consumption or 
+consumption reduction. This study aimed to provide additional evidence about the most debatable 
+factors. Therefore, the results of this study are helpful to understanding the role of personal 
+characteristics along with the moderating impact of the perception of CSR in the context of earlier 
+neglected industry of fashion. 
+ 
+Firstly, environmental consciousness was found to have no impact on the intention to 
+purchase sustainable clothing or the intention to reduce clothing purchase and consumption. This 
+observation is in line with the findings by Kavaliauske (2017) who also rejected the hypothesis in 
+her research of green detergents consumption and Joanes (2019) that found the relationship 
+insignificant. The results, however, somewhat contradict the findings by Kaynak and Eksi (2011) 
+and Chen and Chai (2010), who identified environmental consciousness as a significant predictor 
+of anticonsumption attitudes, considering that attitudes are usually powerful predictors of 
+behavioral intentions. Moreover, the environmental consciousness was found to be strongly linked 
+
+44 
+ 
+to the intention to purchase fast fashion clothes, which is an unexpected outcome that is totally 
+inconsistent with the original research model. 
+ 
+Secondly, susceptibility to interpersonal influence was found to be an insignificant 
+predictor of green consumption behavior, in contrast to prior research. Even though the importance 
+of the susceptibility to interpersonal influence trait to environmentally or socially responsible 
+consumer behavior was repeatedly confirmed by previous scholars (Chang, 2015; Gupta, 2011; 
+Khare, 2014), this study did not discover such a connection. Furthermore, since susceptibility to 
+interpersonal influence was never previously addressed in the context of purchase and 
+consumption reduction, this research fills the gap by identifying the factor as a non-significant 
+predictor of the behavioral intention. The impact of susceptibility to interpersonal influence, 
+however, was important for predicting the willingness to purchase fast fashion clothing, which is 
+consistent with the original research model. 
+ 
+According to the results of the regression analysis, there was no significant relationship 
+between religiosity and any of the dependent variables. Even though the impact of religion on the 
+anticonsumption intentions was previously assessed only to a very limited extent, the finding of 
+the current research confirms the results of previous studies (Kaynak & Eksi, 2011; Lee et al., 
+2016). Having this additional evidence gives us a more profound understanding of the role of the 
+religious commitment in green consumption behavior. 
+Next, the results of the analysis showed inconsistency with the hypothesis that the 
+consumers' perception of CSR moderated the relationships under research. The analysis revealed 
+that the perceived CSR was a non-moderator of the relationships between personal characteristics 
+and the green consumption behavior intentions. However, the consumers' perception of CSR had 
+a significant impact on the intention to purchase sustainable clothes and the intention to reduce 
+overall clothing purchase and consumption. On the one hand, the analysis revealed that consumers' 
+perception of CSR impacts their intention to purchase sustainable clothes. On the other hand, the 
+analysis also showed that the consumers' perception of CSR is linked with their intentions to 
+reduce clothing purchase and consumption. These distinguishable findings certainly make a further 
+step towards our understanding of green consumption behavior motivations. 
+Finally, the aim of this research was to determine how personal characteristics and the 
+perception of CSR impact consumers' intention to purchase sustainable clothing and the intention 
+to reduce clothing purchase and consumption. Therefore, after carrying out an in-depth analysis of 
+scientific literature, developing a research model, performing empirical research, it can be 
+concluded that the intention to purchase sustainable products and to reduce purchase and 
+consumption are manifestations of green consumer behavior that are both impacted by the 
+
+45 
+ 
+perception of CSR. Moreover, the study provides conclusive evidence to the disputes about the 
+influence of personal characteristics - environmental consciousness, susceptibility to interpersonal 
+influence, and religiosity - on green consumption behavior intentions. 
+This study has several limitations that may affect the generalization of the results. First of 
+all, data was collected through a self-administrated online questionnaire, which could have resulted 
+in the distortion of the sample representation. Using self-reported data always carries the risk of 
+social desirability bias leading to an over- or underestimation of actual intentions, which can be 
+especially relevant for green consumption behaviors. Secondly, the CSR perception measurement 
+scale required a clearer presence of a certain brand to base opinions on. Otherwise, respondents 
+could have considered a group of brands or no brand in particular to answer this question, which 
+would distort the results. Thirdly, for the lack of better measurement scales, the intention to reduce 
+clothing purchase and consumption was measured using single items representing problematic 
+(due to environmental or social concerns) and overall less consumption. The item formulation for 
+reduced consumption intentions does not fully represent deliberate motives of respondents to 
+consume fewer items. Therefore, possible alternative explanations, such as personal preferences 
+or saving money, cannot be ruled out. Plus, the wording of 'usually/before' can be understood 
+differently for each participant. Future studies, therefore, are strongly recommended to aim at 
+improving the measurement of reduced consumption. 
+This research has made a first step in terms of revealing perception of CSR as a motivator 
+of sustainable purchase and reduction of purchase and consumption intentions. However, more 
+research is needed to further justify the findings with consideration of the issues highlighted in the 
+research limitations. Future studies could also research the effects of CSR perception on green 
+consumption behaviors in context of various industries or specific companies' cases. Finally, 
+another research design such as in-depth interviews in qualitative research could be considered on 
+the same topic. It has a potential to uncover some other reasoning why personal characteristics, 
+such as environmental consciousness, religiosity, or susceptibility to interpersonal influence, do 
+not have expected effect on consumer behavior. 
+Conclusions 
+1. A thorough scientific literature review was performed to establish the gaps in the field of 
+green consumption behaviors. Environmental consciousness, religiosity, susceptibility to 
+interpersonal influence, and the perception of CSR were identified as the most 
+controversial or underrepresented concepts in relation to green consumption behavior. 
+Moreover, the effects were studied only to a very limited extent in the context of fashion 
+industry. 
+
+46 
+ 
+2. Based on the theoretical analysis, a research model was developed to test the impact of 
+environmental consciousness, religiosity, susceptibility to interpersonal influence, and the 
+perception of CSR on the intention to purchase fast fashion clothing, sustainable clothing, 
+and the intention to reduce overall purchase and consumption of clothes. 
+3. Empirical research results revealed a significant relation between the consumers' 
+perception of CSR and their intention to purchase sustainable clothing and to reduce 
+clothing purchase and consumption. 
+4. The results of the current research deepen the knowledge of green consumption behavior 
+intention in the fashion industry. Furthermore, the results were discussed providing 
+recommendations for future research. 
+ 
+ 
+
+47 
+ 
+References 
+Aaker, J. L. (1999). The malleable self: The role of self‐expression in persuasion. Journal of 
+Marketing Research, 36(1), 45-57. 
+Ajzen, I. (1991). The theory of planned behaviour. Organizational Behaviour and Human 
+Decision Processes, 50(2), 179-211. 
+Anderson, W. T., & Cunningham, W.H. (1972). The Socially Conscious Consumer. Journal of 
+Marketing, 36, 23-31. 
+Anderson, W. T., Henion, K. E., & Cox, E. P. (1974). Socially vs. Ecologically Conscious 
+Consumer. AMA Combined Conference Proceeding, 36, 304-311. 
+Aydemir, M., & Eğilmez, O. (2010). An Important Antecedent of Ethical/Unethical Behavior: 
+Religiosity. Eurasian Journal of Business and Economics, 3(6), 71-84. 
+Banister, E., & Hogg, M. (2004). Negative symbolic consumption and consumers' drive for self‐
+esteem. 
+European 
+Journal 
+of 
+Marketing, 
+38(7), 
+850-868. 
+https://doi.org/10.1108/03090560410539285 
+Barber, N., Taylor, C., Strick, S. (2009) Wine consumers' environmental knowledge and attitudes: 
+influence on willingness to purchase. International Journal of Wine Research, 1(1), 59-
+72. 
+Bearden, W. O., Netemeyer, R. G., & Teel, J. E. (1989). Measurement of Consumer Susceptibility 
+to Interpersonal Influence. Journal of Consumer Research, 15(4), 473-481. 
+https://www.jstor.org/stable/2489543 
+Black, I. R., Cherrier, H. (2010). Anti‐consumption as part of living a sustainable lifestyle: daily 
+practices, contextual motivations and subjective values. Journal of Consumer Behaviour, 
+9(6), 437-453. 
+Brooker, G. (1976). The Self Actualizing Socially Conscious Consumer. Journal of Consumer 
+Research, 3, 107-112. 
+Brown, H.S., & Vergragt, P.J. (2016). From consumerism to wellbeing: toward a cultural 
+transition? J. Clean. Prod., 132, 308-317. https://doi.org/10.1016/j.jclepro.2015.04.107 
+Buchanan, J. (1954). Individual Choice in Voting and the Market. Journal of Political Economy, 
+62(4), 334-343. Retrieved May 5, 2020, from www.jstor.org/stable/1827235 
+Carrigan, M., & Attalla, A. (2001). The myth of the ethical consumer-do ethics matter in purchase 
+behaviour? Journal of consumer marketing, 18(7), 560-578. 
+Carroll, A. B. (1991). The Pyramid of Corporate social Responsibility, Toward the Moral 
+Management of Organizational Stakeholders. Business Horizon. doi:10.1016/0007-
+6813(91)90005-G 
+
+48 
+ 
+Carroll, A.B. (1999). Corporate Social Responsibility: The Evolution of a Definitional Construct. 
+Business and Society, 38(3), 268-295. 
+Chan, L., Bishop, B. (2013). A moral basis for recycling: Extending the theory of planned 
+behaviour. Journal of Environmental Psychology, 36, 96-102. 
+Chapple, W., & Moon, J. (2005). Corporate social responsibility (CSR) in Asia: a seven-country 
+study of CSR web site reporting. Business and Society, 44(4), 415-441. 
+Chen, T.B., & Chai, L.T. (2010). Attitude towards the Environment and Green Products: 
+Consumers' Perspective. Management Science and Engineering, 4(2), 27-39. 
+Choudhury, A.K.R. (2014). Environmental impacts of the textile industry and its assessment 
+through life cycle assessment. In S.S. Muthu (Ed.), Roadmap to Sustainable Textiles and 
+Clothing - Environmental and Social Aspects of Textiles and Clothing Supply Chain 
+(pp.1-39). Springer. 
+Clark, J. (1998). Political Ecology: Introduction. In M. E. Zimmerman (Ed.), Environmental 
+Philosophy. Prentice Hall. 
+Clark, D. (2011, September 16). A complete guide to carbon offsetting. The Guardian. 
+https://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbonemissions 
+Cohen, A.B., & Hill, P.C. (2007). Religion as culture: religious individualism and collectivism 
+among American Catholics, Jews, and Protestants. Journal of Personality, 75(4), 709-
+742. 
+Coles, B., & Crang, P. (2011). Placing alternative consumption: commodity fetishism in Borough 
+Fine Foods Market, London. In T. Lewis & E. Potter (Eds.), Ethical consumption: a 
+critical introduction, (87-102). Routledge. 
+Coombs, W. T., & Holladay, S. J. (2012). Managing Corporate Social Responsibility: A 
+Communication Approach. Wiley. 
+Cornelissena, G., Pandelaereb, M., Warlopb, L., & Dewitteb, S. (2008). Positive cueing: 
+Promoting sustainable consumer behaviour by cueing common environmental behaviours 
+as environmental. International Journal of Research in Marketing, 25(1), 46-55. 
+Cromie, J. G., & Ewing, M. T. (2009). The rejection of brand hegemony. Journal of Business 
+Research, 62(2), 218-230. https://doi.org/10.1016/j.jbusres.2008.01.029 
+Dickson, M.A., Loker, S., & Eckman, M. (2009). Social Responsibility in the Global Apparel 
+Industry. Fairchild Books. 
+
+49 
+ 
+Dodds, W. B., Monroe, K. B., & Grewal, D. (1991). Effects of Price, Brand, and Store Information 
+on Buyers' Product Evaluations. Journal of Marketing Research, 28(3), 307-319. 
+https://doi.org/10.2307/3172866 
+Do Paco, A. M. & Reis, R. (2012). Factors affecting skepticism toward green advertising. Journal 
+of Advertising, 41(4), 147-155. 
+Dunlap, R. E. (2008). The new environmental paradigm scale: From marginality to worldwide use. 
+The journal of environmental education, 40(1), 3-18. 
+Dunlap, R. E., Van Liere, K. D., Mertig, A. G., Jones, R. E. (2000). New trends in measuring 
+environmental attitudes: measuring endorsement of the new ecological paradigm: a 
+revised NEP scale. Journal of Social Issues, 56(3), 425-442. 
+Durham, C. A., & Andrade, D. (2005, July 24-27). Health vs. Environmental motivation in organic 
+preferences and purchases [Conference session]. American Economics Association 
+Annual 2005 Meeting, Providence, RI, United States. DOI: 10.22004/ag.econ.19221 
+Essoo, N., & Dibb, S. (2004). Religious influences on shopping behavior: An exploratory study. 
+Journal of Marketing Management, 20, 683-712. 
+Etzioni, A. (1998). Voluntary simplicity: Characterization, select psychological implications, and 
+societal 
+consequences. 
+Journal 
+of 
+Economic 
+Psychology, 
+19, 
+619-643. 
+https://doi.org/10.1016/S0167-4870(98)00021-X 
+European 
+Commission. 
+(2012). 
+Responsible 
+industry. 
+Retrieved 
+from 
+https://ec.europa.eu/growth/content/responsible-business-key-competitiveness-0_en 
+European Commision. (2019). What is the European Green Deal? Retrieved from 
+https://ec.europa.eu/commission/presscorner/detail/en/fs_19_6714 
+Follows, S.B., Jobber, D. (2000). Environmentally responsible purchase behaviour: a test of a 
+consumer model. European Journal of Marketing, 34(5/6), 723-747. 
+Fournier, S. (1998). Special session summary consumer resistance: Societal motivations, 
+consumer manifestations, and implications in the marketing domain. ACR North 
+American Advances, 25, 88-90. 
+Garcia de los Salmones, M., Herrero Crespo, A., & Rodriguez del Bosque, I. (2005). Influence of 
+corporate social responsibility on loyalty and valuation of services. Journal of Business 
+Ethics, 61, 369-385. 
+Geiger, S. M., Fischer, D., & Schrader, U. (2018). Measuring what matters in sustainable 
+consumption: an integrative framework for the selection of relevant behaviors. Sustain. 
+Dev., 26, 18-33. 
+
+50 
+ 
+Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A Room with a Viewpoint: Using 
+Social Norms to Motivate Environmental Conservation in Hotels. Journal of Consumer 
+Research, 35, 472-482. 
+Habel, J., Schons, L. M., Alavi, S., & Wieseke, J. (2016). Warm glow or extra charge? The 
+ambivalent effect of corporate social responsibility ativities on customers' perceived price 
+fairness. Journal of Marketing, 80, 84-105. https://doi.org/10.1509/jm.14.0389 
+Han, H., Hsu, L. T. J., Sheu, C. (2010). Application of the theory of planned behaviour to green 
+hotel choice: Testing the effect of environmentally friendly activities. Tourism 
+Management, 31(3), 325-334. 
+Hawkins, A. J. (2018, April 19). Lyft will invest 'millions' in effort to become completely carbon 
+neutral. The Verge. https://www.theverge.com/2018/4/19/17254902/lyft-carbon-neutraloffset-3degrees 
+Hayes, A. F., & Preacher, K. J. (2014). Statistical mediation analysis with a multicategorical 
+independent variable. British Journal of Mathematical and Statistical Psychology, 67, 
+451-470. 
+Herrera, A. A., Bigne, E., Aldas-Manzano, J., & Curras-Perez, R. (2017). A Scale for Measuring 
+Consumer Perceptions of Corporate Social Responsibility Following the Sustainable 
+Development 
+Paradigm. 
+Journal 
+of 
+Business 
+Ethics, 
+140(2), 
+243-262. 
+doi:10.1007/s10551-015-2654-9 
+Hodgson, C. (2018, March 19). UPS moves to using only electric vehicles in London. Financial 
+Times. https://www.ft.com/content/fe262594-2904-11e8-b27e-cc62a39d57a0 
+Hoffmann, S., Balderjahn, I., Seegebarth, B., Mai, R., & Peyer, M. (2018). Under which conditions 
+are consumers ready to boycott or buycott? The roles of hedonism and simplicity. 
+Ecological Economics, 147, 167-178. https://doi.org/10.1016/j.ecolecon.2018.01.004 
+Hogg, M. K., Banister, E. N., & Stephenson, C. A. (2009). Mapping symbolic (anti‐) consumption. 
+Journal 
+of 
+Business 
+Research, 
+62(2), 
+148-159. 
+https://doi.org/10.1016/j.jbusres.2008.01.022 
+Honkanen, P., Verplanken, B., Olsen, S. O. (2006). Ethical values and motives driving organic 
+food choice. Journal of Consumer Behaviour, 5, 420-430. 
+Hueting, R. (2010). Why environmental sustainability can most probably not be attained with 
+growing 
+production. 
+J. 
+Clean. 
+Prod.,18(6), 
+525-530. 
+https://doi.org/10.1016/j.jclepro.2009.04.003 
+Hughner, R. S. (2007). Who are organic food consumers? A compilation and review of why people 
+purchase organic food. Journal of Consumer Behaviour, 6(2/3), 94-110. 
+
+51 
+ 
+Huneke, M. E. (2005). The face of the un‐consumer: An empirical examination of the practice of 
+voluntary simplicity in the United States. Psychology and Marketing, 22(7), 527-550. 
+https://doi.org/10.1002/mar.20072 
+Iyer, R., & Muncy, J. A. (2009). Purpose and object of anti-consumption. Journal of Business 
+Research, 62, 160-168. 
+Jansson, J., Marell, A., & Nordlund, A. (2010). Green consumer behaviour: determinants of 
+curtailment and eco-innovation adoption. Journal of Consumer Marketing, 27(4), 358-
+370. 
+Jonker, J., & Marberg A. (2007). Corporate Social Responsibility: Quo Vadis? Journal of 
+Corporate Citizenship, 27, 107-118. 
+Kalmykova, Y., Rosado, L., & Patrício, J. (2016). Resource consumption drivers and pathways to 
+reduction: economy, policy and lifestyle impact on material flows at the national and 
+urban scale. J. Clean. Prod., 132, 70-80. https://doi.org/10.1016/j.jclepro.2015.02.027 
+Kavaliauske, M. (2017). Influence of Personal and External Factors on Green Consumer Behavior 
+[Unpublished doctoral dissertation]. Vilnius University. 
+Kavaliauskė M., & Ubartaitė S. (2014). Ethical Behaviour: Factors Influencing Intention to Buy 
+Organic Products in Lithuania. Economics and Management, 19(1), 72-83. 
+Kaynak, R., & Eksi, S. (2011). Ethnocentrism, Religiosity, Environmental and Health 
+Consciousness: Motivators for Anti-Consumers. Eurasian Journal of Business and 
+Economics, 
+4(8), 
+31-50. 
+Retrieved 
+May 
+26, 
+2020, 
+from 
+https://www.researchgate.net/publication/228437888 
+Klein, J.G. & Ettenson, R. (1999). Consumer Animosity and Consumer Ethnocentrism: An 
+analysis of unique antecedents. Journal of International Consumer Marketing, 11, 5-24. 
+Klein, J. G., Smith, N. C., & John, A. (2004). Why we boycott: Consumer motivations for boycott 
+participation. 
+Journal 
+of 
+Marketing, 
+68(3), 
+92-109. 
+https://doi.org/10.1509/jmkg.68.3.92.34770 
+Klöckner, C. A. (2013). A comprehensive model of the psychology of environmental behaviour-
+A meta-analysis. Global Environmental Change, 23(5), pp. 1028-1038. 
+Kozlowski, A., Bardecki, M., & Searcy, C. (2012). Environmental Impacts in the Fashion Industry. 
+Journal of Corporate Citizenship, 45, 16-36. doi: 10.9774/GLEAF.4700.2012.sp.00004 
+Kwong, G. S., & Balaji, M. S. (2016). Linking Green Skepticism to Green Purchase Behavior. 
+Journal of Cleaner Production, 131, 629-638. DOI: 10.1016/j.jclepro.2016.04.122 
+
+52 
+ 
+Lee, J. D., Bahl, A., Black, S. G., Duber-Smith, D. C., & Vowles, N. S. (2016). Sustainable and 
+non-sustainable consumer behavior in young adults. Young Consumers, 17(1), 78-93. 
+DOI 10.1108/YC-08-2015-00548 
+Lee, K. (2008). Making Environmental Communications Meaningful to Female Adolescents: A 
+Study in Hong Kong. Science Communication, 30(2), 147-176. 
+Lee, M., Roux, D., Cherrier, H., & Cova, B. (2011). Anti‐consumption and consumer resistance: 
+Concepts, concerns, conflicts and convergence. European Journal of Marketing, 
+45(11/12), 1680-1687. https://doi.org/10.1108/ejm.2011.00745kaa.001 
+Lewis, T., & Potter, E. (2011). Ethical consumption: a critical introduction. Routledge. 
+Little, K. (2008). The Complete Idiot's Guide to Socially Responsible Investing: Put Your Money 
+Where Your Values Are. Penguin. 
+Little, T. D. (Ed.). (2013). The Oxford Handbook of Quantitative Methods. Volume 1: 
+Foundations. Oxford University Press. 
+Luchs, M. G., Naylor, R. W., Rose, R. L., Catlin, J. R., Gau, R., & Kapitan, S. (2011). Toward a 
+sustainable marketplace: Expanding options and benefits for consumers. Journal of 
+Research for Consumers, 19, 1-12. 
+Magnusson, M. K., Arvola, A., Hursti, U. K. K., Åberg, L., & Sjödén, P. O. (2003). Choice of 
+organic foods is related to perceived consequences for human health and to 
+environmentally friendly behaviour. Appetite, 40(2), 109-117. 
+Maignan, I. (2001). Consumer perceptions of corporate social responsibility: A cross cultural 
+comparison. Journal of Business Ethics, 30(1), 57-73. 
+Maignan, I., & Ferrell, O. C. (2003). Nature of corporate responsibilities: Perspectives from 
+American, French, and German consumers. Journal of Business Research, 56(1), 55-67. 
+Makri, K., Schlegelmilch, B. B., Mai, R., & Dinhof, K. (2020). What we know about 
+anticonsumption: An attempt to nail jelly to the wall. Psychology & Marketing, 37, 177-
+215. DOI: 10.1002/mar.21319 
+Malhotra, N. K. (2010). Marketing research: an applied orientation (6th ed.). Prentice Hall. 
+Manik, J. A., & Yardley, J. (2013, May 10). 17 Days in Darkness, a Cry of 'Save Me,' and Joy. 
+The New York Times. https://www.nytimes.com/2013/05/11/world/asia/bangladeshcollapse-death-toll.html 
+Martínez-Alier, J., Pascual, U., Vivien, F.D., & Zaccai, E. (2010). Sustainable de-growth: mapping 
+the context, criticisms and future prospects of an emergent paradigm. Ecol. Econ., 69(9), 
+1741-1747. https://doi.org/10.1016/j.ecolecon.2010.04.017 
+
+53 
+ 
+McEachern, M. G., & Mcclean, P. (2002). Organic purchasing motivations and attitudes: are they 
+ethical? International Journal of Consumer Studies, 26(2), 85-92. 
+Michaelidou, N., & Hassan, L. (2008). The Push and Pull towards Organic: Clarifying the Roles 
+of Health Consciousness Food Safety Concern and Ethical Identity. International Journal 
+of Consumer Studies, 32, 163-170. 
+Mohr, L. A., Eroǧlu, D., & Ellen, P. S. (1998). The development and testing of a measure of 
+skepticism toward environmental claims in marketers' communications. The Journal of 
+Consumer Affairs, 32(1), 30-55. 
+Mohr, L., Webb, D., & Harris, K. (2001). Do Consumers Expect Companies to be Socially 
+Responsible? The Impact of Corporate Social Responsibility on Buying Behavior. 
+Journal of Consumer Affairs, 35(1), 45-72. 
+Moisander, J. (2007). Motivational complexity of green consumerism. International Journal of 
+Consumer Studies, 31(4), 404-409. 
+Mokhlis, S. (2009). Relevancy and Measurement of Religiosity in Consumer Behavior Research. 
+International Business Research, 2(3), 75-84. 
+Mostafa, M. M. (2007). Gender differences in Egyptian consumers' green purchase behaviour: the 
+effects of environmental knowledge, concern and attitude. International Journal of 
+Consumer Studies, 31,220-229. 
+Ngobo, P. V. (2011). What Drives Household Choice of Organic Products in Grocery Stores? 
+Journal of Retailing, 87(1), 90-100. https://doi.org/10.1016/j.jretai.2010.08.001. 
+Official Statistics Portal. (2020). Resident population by sex and age at the beginning of the year. 
+https://osp.stat.gov.lt/ 
+Ogilvie, D. M. (1987). The undesired self: A neglected variable in personality research. Journal 
+of Personality and Social Psychology, 52(2), 379-385. https://doi.org/10.1037/0022‐
+3514.52.2.379 
+Oh, J., & Ki, E.J. (2019). Factors affecting social presence and word-of-mouth in corporate social 
+responsibility communication: Tone of voice, message framing, and online medium type. 
+Public Relations Review, 45(2), 319-331. 
+O'Keefe, L. N. (2017). CSR grows in 2016 as companies embrace employees' values. Huffington 
+Post. Retrieved from https://www.huffingtonpost.com/ 
+Organic Processing and Trade Association Europe. (2020). EU And USDA Changes In The 
+Regulation 
+Provide 
+New 
+Challenges 
+For 
+Trade 
+And 
+Processing. 
+http://opta.bio/2020/02/21/eu-and-usda-changes-in-the-regulation-provide-newchallenges-for-trade-and-processing/ 
+
+54 
+ 
+Organic Trade Association. (2019). U.S. organic sales break through $50 billion mark in 2018. 
+https://ota.com/news/press-releases/20699 
+Ottman, J.A. (1993). Green marketing: Opportunity for innovation (2nd ed.). New York: Book-
+Surge, LLC. 
+Ozanne, L. K., & Ballantine, P. W. (2010). Sharing as a form of anticonsumption? An examination 
+of toy library users. Journal of Consumer Behaviour, 9(6), 485-498. 
+Packaging Recovery Organization Europe. (n.d.). The Green Dot Trademark. Retrieved from 
+https://www.pro-e.org/the-green-dot-trademark 
+Paco, A., & Raposo, M. (2009). Green segmentation: an application to the Portuguese consumer 
+market. Marketing Intelligence & Planning, 27(3), 364-379. 
+Parkins, W., & Craig, G. (2011). Slow living and the temporalities of sustainable consumption. In 
+T. Lewis & E. Potter (Eds.), Ethical consumption: a critical introduction, (189-201). 
+Routledge. 
+Peattie, K., Crane, A. (2005). Green marketing: legend, myth, farce or prophesy? Qualitative 
+Market Research: An International Journal, 8(4), 357-370. 
+Perry, P., & Towers, N. (2013). Conceptual framework development: CSR implementation in 
+fashion supply chains. International Journal of Physical Distribution & Logistics 
+Management, Ethics, 43, 478-501. https://doi.org/10.1108/IJPDLM-03-2012-0107 
+Peters, A. (2018, September 13). Ikea is quickly shifting to a zero-emissions delivery fleet. Fast 
+Company. https://www.fastcompany.com/90236539/ikea-is-quickly-shifting-to-a-zeroemissions-delivery-fleet 
+Prothero, A., Dobscha, S., Freund, J., Kilbourne, W. E., Luchs, M. G., Ozanne, L. K. (2011). 
+Sustainable consumption: Opportunities for consumer research and public policy. 
+Journal 
+of 
+Public 
+Policy 
+& 
+Marketing, 
+30(1), 
+31-38. 
+https://doi.org/10.1509/jppm.30.1.31 
+Putrevu, S., & Lord, K. R. (1994). Comparative and Noncomparative Advertising: Attitudinal 
+Effects under Cognitive and Affective Involvement Conditions. Journal of Advertising, 
+23(2), 77-91. DOI: 10.1080/00913367.1994.10673443 
+Reczek, R., & Irwin, J. (2015). Ethical Consumption. In M. Norton, D. Rucker, & C. Lamberton 
+(Eds.), The Cambridge Handbook of Consumer Psychology (Cambridge Handbooks in 
+Psychology, 
+pp. 
+507-529). 
+Cambridge: 
+Cambridge 
+University 
+Press. 
+doi:10.1017/CBO9781107706552.019 
+
+55 
+ 
+Research Institute of Organic Agriculture. (2020). European organic market grew to 40.7 billion 
+euros in 2018. https://www.fibl.org/en/info-centre/news/european-organic-market-grewto-40-7-billion-euros-in-2018.html 
+Rivoli, P. (2014). The Travels of a T-Shirt in the Global Economy: An Economist Examines the 
+Markets, Power, and Politics of World Trade. New Preface and Epilogue with Updates 
+on Economic Issues and Main Characters. Hoboken, NJ: John Wiley & Sons. 
+Roshitsh, K. (2020, March 15). Tipping Point: After the Pandemic, Will the Fashion Industry 
+Rebuild 
+Sustainably? 
+WWD. 
+https://wwd.com/business-news/businessfeatures/pandemic-fashion-industry-sustainability-
+1203545783/?cx_testId=5&cx_testVariant=cx_1&cx_artPos=3#cxrecs_s 
+Schlosser, E. (2001). Fast Food Nation. Houghton Mifflin. 
+Schultz, P. W., & Zelezny, L. (2000). Promoting environmentalism. Journal of Social Issues, 
+56(3), 365-578. 
+Sekhon, T. S., & Armstrong Soule, C. A. (2020). Conspicuous anticonsumption: When green 
+demarketing brands restore symbolic benefits to anticonsumers. Psychology Marketing, 
+37, 278-290. DOI: 10.1002/mar.21299 
+Shimp, T. & Sharma, S. (1987). Consumer Ethnocentrism: Construction and Validation of the 
+CETSCALE. Journal of Marketing Research, 24, 280-289. 
+Skarmeas, D., & Leonidou, C. N. (2013). When consumers doubt, Watch out! The role of CSR 
+skepticism. 
+Journal 
+of 
+Business 
+Research, 
+66(10), 
+1831-1838. 
+https://doi.org/10.1016/j.jbusres.2013.02.004 
+Stanton, A. (n.d.). What Does Slow Fashion Actually Mean? The Good Trade. 
+https://www.thegoodtrade.com/features/what-is-slow-fashion 
+State Statistics Service of Ukraine. (2020). 0204. Distribution of permanent population by gender, 
+age groups and area type (0,1). http://www.ukrcensus.gov.ua/eng/ 
+Suki, N. M., Suki, N. M., & Azman, N. S. (2016). Impacts of Corporate Social Responsibility on 
+the Links Between Green Marketing Awareness and Consumer Purchase Intentions. 
+Procedia Economics and Finance, 37, 262-268. doi: 10.1016/S2212-5671(16)30123-X 
+Tabernero, C., & Hernández, B. (2011). Self-efficacy and intrinsic motivation guiding 
+environmental behaviour. Environment and Behaviour, 43(5), 658-675. 
+TED. (2015, July). Conscious consumerism - time to shop & live - our values, Diane Ridgway-
+Cross, 
+TEDxMontrealWomen 
+[Video 
+file]. 
+YouTube. 
+https://www.youtube.com/watch?v=Y35Wa-UQxMQ 
+
+56 
+ 
+Vanhamme, J., & Grobben, B. (2009). "Too good to be true!". The effectiveness of CSR history 
+in countering negative publicity. Journal of Business Ethics, 85(2), 273. 
+doi:10.1007/s10551-008-9731-2 
+Verhoef, P.C. (2005). Explaining purchases of organic meat by Dutch consumers. European 
+Review of Agricultural Economics, 32(2), 245-267. 
+Vitell, S.J., Singh,J.J. & Paolillo, J.G.P. (2007). Consumers' Ethical Beliefs: The Roles of Money, 
+Religiosity and Attitude toward Business. Journal of Business Ethics, 73(4), 369-379. 
+Walliman, N. (2011). Research methods: the basics. Taylor & Francis e-Library. 
+Webb, D. J., & Mohr, L. A. (1998) A Typology of Consumer Responses to Cause-Related 
+Marketing: From Skeptics to Socially Concerned. Journal of Public Policy & Marketing 
+17(2), 226-238. 
+Webster Jr, F. E. 1975. Determining the characteristics of the socially conscious consumer. 
+Journal of Consumer Research, 2, 188-196. 
+Wicker, A. (2020, April 16). The flawed ways brands talk about sustainability. Vogue Business. 
+https://www.voguebusiness.com/sustainability/the-flawed-ways-brands-talk-aboutsustainabilitycoronavirus#:~:text=In%20August%2C%20the%20Norwegian%20Consumer,cotton%2
+C%20recycled%20polyester%20and%20Tencel.&text=%E2%80%9CThere%20is%20s
+o%20much%20noise,what's%20real%20and%20what's%20fake.%E2%80%9D 
+Wieland, A., Durach, C. F., Kembro, J., & Treiblmaier, H. (2017). Statistical and judgmental 
+criteria for scale purification. Supply Chain Management, 22(4), 321-328. 
+https://doi.org/10.1108/SCM-07-2016-0230 
+Winter, C. K., Davis, S. F. (2006). Organic foods. Journal of Food Science, 71(9), 117-124. 
+Woo, H., & Jin, B. (2016). Apparel firms' corporate social responsibility communications: Cases 
+of six firms from an institutional theory perspective. Asia Pacific Journal of Marketing 
+and Logistics, 28(1), 37-55. 
+Yanarella, E. J., Levine, R. S., & Lancaster, R. W. (2009). Green versus Sustainability: From 
+Semantics to Enlightenment. Sustainability: The Journal of Record, 2(5), 296-302. DOI: 
+10.1089/SUS.2009.9838 
+Zavestoski, S. (2002). The social‐psychological bases of anticonsumption attitudes. Psychology 
+and Marketing, 19(2), 149-165. https://doi.org/10.1002/mar.10007 
+ 
+
+57 
+ 
+THE IMPACT OF PERSONAL CHARACTERISTICS ON GREEN CONSUMPTION 
+BEHAVIOR: THE MODERATING EFFECT OF PERCEPTION OF CSR 
+ 
+Anastasiia SYNHAIVSKA 
+Master Thesis 
+Marketing and Integrated Communication Program 
+Faculty of Economics and Business Administration, Vilnius University 
+Supervisor Assist. Dr. Karina Adomavičiūtė, Vilnius, 2021 
+ 
+SUMMARY IN ENGLISH 
+ 
+97 pages, 3 figures, 12 tables, 6 appendices 
+The main purpose of this master thesis is to explore the impact of consumer personal characteristics 
+on the intentions to express green consumption behaviors and to evaluate how the relationships 
+are moderated by the perception of corporate social responsibility (CSR) in the context of fashion 
+industry. The master thesis consists of four main parts: the analysis of scientific literature, the 
+preparation of the methodology, the results of the research, and the interpretation of the findings 
+and conclusions. 
+The analysis of literature provides an overview of the main trends and concepts related to green 
+consumption behavior, lists consumers' personal characteristics that were previously studied in 
+context of green consumption, and outlines the main ideas about the CSR and its role in the fashion 
+industry. 
+Following the literature analysis, the author prepared a methodology for researching the impact of 
+consumer personal characteristics - environmental consciousness, susceptibility to interpersonal 
+influence, and religiosity - on the intention to purchase fast fashion clothes, the intention to 
+purchase sustainable clothes, and the intention to reduce overall clothing purchase and 
+consumption. Also, the relationships were to be observed under the moderating effect of 
+consumers' perception of CSR. 
+The primary data from the survey was statistically processed with the SPSS tool and the 
+calculations are presented in the following chapter of the empirical research results. The analysis 
+revealed that the consumers' personal characteristics had no or very limited effect on the green 
+purchase and consumption intentions. However, the consumers' perception of CSR was found to 
+have a significant impact on the intention to purchase sustainable clothes and the intention to 
+reduce overall clothing purchase and consumption. The results of the research were compared to 
+the similar studies performed in the context of green consumption. 
+The final chapter of the thesis provides an interpretation and summary of the results of the 
+performed research. The research limitations and recommendations for the future research are 
+listed. 
+ 
+
+58 
+ 
+ASMENINIŲ VARTOTOJO SAVYBIŲ ĮTAKA "ŽALIAJAM" VARTOJIMUI: 
+MODERUOJANTIS ĮMONIŲ SOCIALINĖS ATSAKOMYBĖS SUVOKIMO VAIDMUO 
+ 
+Anastasiia SYNHAIVSKA 
+Magistro darbas 
+Rinkodara ir integruota kominikacija 
+Ekonomikos ir verslo administravimo fakultetas, Vilniaus Universitetas 
+Vadovas Assist. Dr. Karina Adomavičiūtė, Vilnius, 2021 
+ 
+SUMMARY IN LITHUANIAN 
+ 
+97 puslapiai, 3 paveikslai, 12 lentelių, 6 priedai 
+Pagrindinis šio magistro darbo tikslas - ištirti vartotojų charakterio savybių įtaką renkantis 
+žaliąjį vartotojiškumą ir įvertinti, kaip korporatyvinė socialinė atsakomybė (toliau ĮSA) skatina 
+ekologišką vartojimą. Magistro darbą sudaro keturios pagrindinės dalys: mokslinės literatūros 
+analizė, metodikos parengimas, tyrimo rezultatai ir išvados bei išvadų aiškinimas. 
+Literatūros analizė apima pagrindines tendencijas ir sąvokas, susijusias su žaliojo vartotojiškumo 
+elgesiu, pateikia vartotojo charakterio savybes, kurios prieš tai buvo nagrinėtos ekologiško 
+vartojimo kontekste. Taip pat, literatūros analizė pabrėžia pagrindines ĮSA idėjas ir jos rolę 
+mados industrijoje. 
+Literatūros analizėje autorius pateikia metodiką, skirtą tirti vartotojo savybes: aplinkos 
+sąmoningumą, jautrumą tarpasmeninei įtakai ir religingumui, ir intencijas įsigyjant greitosios 
+mados ar tvarius drabužius ir mažinant bendrą rūbų pirkimą ir naudojimą. Taip pat, šis santykis 
+buvo stebimas kartu su vartotojų suvokimu apie ĮSA. 
+Apklausoje surinkti pirminiai duomenys buvo suvesti ir statistiškai apdoroti per SPSS programą, 
+o skaičiavimai pateikti kitame empirinių tyrimų rezultatų skyriuje. Analizė atskleidė, kad 
+vartotojų charakterio savybės neturėjo jokio arba labai riboto poveikio ekologiškam pirkimui ir 
+vartojimui. Tačiau statistiniai duomenys atskleidė, kad ĮSA turi įtakos vartotojų pasirinkimui 
+įsigyti tvarius drabužius ir sumažinti bendrą jų pirkimą bei naudojimą. Tyrimo rezultatai buvo 
+lyginami su panašiais tyrimais, atliktais ekologiško vartojimo kontekste. 
+Paskutiniame darbo skyriuje pateikiama atliktų tyrimų rezultatų interpretacija ir santrauka. Taip 
+pat, pateikti tyrimų apribojimai ir rekomendacijos galimiems tyrimams ateityje. 
+
+59 
+ 
+Appendix 1. Questionnaire 
+Susceptibility to interpersonal influence 
+On a scale of 1 to 7 (where "1" is totally disagree, "7" is totally agree, and "4" is "neither agree 
+nor disagree") please express your opinion for each statement. 
+1. I rarely purchase the latest fashion styles until I am sure my friends approve of them. 
+2. It is important that others like the products and brands I buy. 
+3. When buying products, I generally purchase those brands that I think others will approve 
+of. 
+4. If other people can see me using a product, I often purchase the brand they expect me to 
+buy. 
+5. I like to know what brands and products make good impressions on others. 
+6. I achieve a sense of belonging by purchasing the same products and brands that others 
+purchase. 
+7. If I want to be like someone, I often try to buy the same brands that they buy. 
+8. I often identify with other people by purchasing the same products and brands they 
+purchase. 
+9. To make sure I buy the right product or brand, I often observe what others are buying and 
+using. 
+10. If I have little experience with a product, I often ask my friends about the product. 
+11. I often consult other people to help choose the best alternative available from a product 
+class. 
+12. I frequently gather information from friends or family about a product before I buy it. 
+Environmental consciousness 
+On a scale of 1 to 7 (where "1" is totally disagree, "7" is totally agree, and "4" is "neither agree 
+nor disagree") please express your opinion for each statement. 
+13. We are approaching the limit of the number of people the earth can support. 
+14. Humans have the right to modify the natural environment to suit their needs. 
+15. When humans interfere with nature it often produces disastrous consequences. 
+16. Human ingenuity will ensure that we do NOT make the earth unlivable. 
+17. Humans are severely abusing the environment. 
+18. The earth has plenty of natural resources if we just learn how to develop them. 
+19. Plants and animals have as much right as humans to exist. 
+20. The balance of nature is strong enough to cope with the impacts of modern industrial 
+nations. 
+
+60 
+ 
+21. Despite our special abilities, humans are still subject to the laws of nature. 
+22. The so called ''ecological crisis'' facing humankind has been greatly exaggerated. 
+23. The earth is like a spaceship with very limited room and resources. 
+24. Humans were meant to rule over the rest of nature. 
+25. The balance of nature is very delicate and easily upset. 
+26. Humans will eventually learn enough about how nature works to be able to control it. 
+27. If things continue their present course, we will soon experience a major ecological 
+catastrophe. 
+Perception of CSR 
+28. What brand do you purchase clothes MOST OFTEN from? Only one answer is possible. 
+Zara 
+Michael Kors 
+H&M 
+Jack & Jones 
+Tommy Hilfiger 
+Reserved 
+Humana 
+Urban Outfitters 
+Asos 
+Forever 21 
+GAP 
+Apranga 
+Massimo Dutti 
+Bershka 
+Mango 
+Stradivarius 
+Pull and Bear 
+S. Oliver 
+Other ______________ 
+Having in mind your answer to the previous question (#28), on a scale of 1 to 7 (where "1" is 
+totally disagree, "7" is totally agree, and "4" is "neither agree nor disagree") please express your 
+opinion about the following statement: 
+In my opinion, regarding SOCIETY, the brand I purchase clothing the most from is really... 
+29. Trying to sponsor educational programs. 
+
+61 
+ 
+30. Trying to help to improve the quality of life in the local community. 
+31. Trying to make financial donations to social causes. 
+32. Trying to sponsor public health programs. 
+33. Trying to be highly committed to well-defined ethical principles. 
+34. Trying to sponsor cultural programs. 
+In my opinion, regarding the environment, the brand I purchase clothing the most from is 
+really... 
+35. Trying to recycle its waste materials properly. 
+36. Trying to use only the necessary natural resources. 
+37. Trying to sponsor pro-environmental programs. 
+38. Trying to allocate resources to offer services compatible with the environment. 
+39. Trying to carry out programs to reduce pollution. 
+40. Trying to protect the environment. 
+In my opinion, regarding the economy, the brand I purchase clothing the most from is really... 
+41. Trying to do its best to be more productive. 
+42. Trying to always improve its financial performance. 
+43. Trying to maximize profits in order to guarantee its continuity. 
+44. Trying to build solid relations with its customers to assure its long-term economic 
+success. 
+45. Trying to continuously improve the quality of the services that they offer. 
+46. Trying to have a competitive pricing policy. 
+Religiosity 
+On a scale of 1 to 7 (where "1" is totally disagree, "7" is totally agree, and "4" is "neither agree 
+nor disagree") please express your opinion for each statement. 
+47. My religious beliefs lie behind my whole approach to life. 
+48. I spend time trying to grow in understanding of my faith. 
+49. It is important for me to spend periods of time in private religious thought and reflection. 
+50. Religious beliefs influence all my dealings in life. 
+51. Religion is especially important to me because it answers many questions about the 
+meaning of life. 
+52. I often read books and magazines about my faith. 
+53. I enjoy working in the activities of my religious organization. 
+54. I enjoy spending time with others of my religious affiliation. 
+Intention to purchase clothing from major fast-fashion brands (X 1-3) 
+
+62 
+ 
+Please, take a look at the logos of brands below and express your opinion on the following 
+statements on a scale of 1 to 7 (where "1" is very low and "7" is very high) please express your 
+opinion 
+for 
+each 
+statement.
+ 
+55. The likelihood that I am going to purchase clothes from any of these brands is: 
+56. The probability that I would consider buying clothes from any of these brands is: 
+57. My willingness to buy clothes from any of these brands is: 
+Intention to purchase sustainable clothing 
+58. It is very likely that I will buy sustainable clothes 
+59. I will purchase sustainable clothes the next time I need such a product 
+60. I will definitely purchase sustainable clothes 
+Intention to reduce purchase and consumption of clothes 
+61. In the next three months, when buying clothing items, I intend to refrain from buying 
+clothing about which I have environmental or social concerns. 
+62. In the next three months, when buying clothing items, I intend to buy fewer clothing 
+items than usually/before. 
+Demographical characteristics 
+63. Your gender: 
+• Female 
+• Male 
+• Prefer not to say 
+
+63 
+ 
+• Other 
+64. Please, write how old you are: 
+65. Your education: 
+• Primary 
+• Secondary 
+• Higher or special secondary 
+• College of high education 
+• Bachelor degree 
+• Master degree and higher 
+66. Income for a person in your household: 
+• Up to 250 Eur 
+• 251-500 Eur 
+• 501-750 Eur 
+• 751-1000 Eur 
+• 1001-1500 Eur 
+• 1501-2000 Eur 
+• 2001-2500 Eur 
+• 2501-3000 Eur 
+• More than 3000 Eur 
+
+64 
+ 
+Appendix 2. Sample demographic characteristics 
+Age 
+agecat 
+ 
+Frequency 
+Percent 
+Valid Percent 
+Cumulative 
+Percent 
+Valid 
+<25 
+304 
+79,6 
+79,6 
+79,6 
+26-40 
+69 
+18,1 
+18,1 
+97,6 
+>41 
+9 
+2,4 
+2,4 
+100,0 
+Total 
+382 
+100,0 
+100,0 
+ 
+ 
+ 
+ 
+Sex 
+sexcat 
+ 
+Frequency 
+Percent 
+Valid Percent 
+Cumulative 
+Percent 
+Valid 
+Male 
+75 
+19,6 
+19,6 
+19,6 
+Female 
+300 
+78,5 
+78,5 
+98,2 
+Prefer not to say 
+7 
+1,8 
+1,8 
+100,0 
+Total 
+382 
+100,0 
+100,0 
+ 
+ 
+ 
+ 
+
+65 
+ 
+Education 
+educ_cat 
+ 
+Frequency 
+Percent 
+Valid Percent 
+Cumulative 
+Percent 
+Valid 
+Primary 
+4 
+1,0 
+1,0 
+1,0 
+Secondary 
+41 
+10,7 
+10,7 
+11,8 
+Higher or special secondary 
+34 
+8,9 
+8,9 
+20,7 
+College of high education 
+51 
+13,4 
+13,4 
+34,0 
+Bachelor degree 
+180 
+47,1 
+47,1 
+81,2 
+Master degree and higher 
+72 
+18,8 
+18,8 
+100,0 
+Total 
+382 
+100,0 
+100,0 
+ 
+ 
+ 
+Income 
+ 
+income_cat 
+ 
+Frequency 
+Percent 
+Valid Percent 
+Cumulative 
+Percent 
+Valid 
+Up to 250 Eur 
+54 
+14,1 
+14,1 
+14,1 
+251-500 Eur 
+74 
+19,4 
+19,4 
+33,5 
+501-750 Eur 
+67 
+17,5 
+17,5 
+51,0 
+751-1000 Eur 
+62 
+16,2 
+16,2 
+67,3 
+1001-1500 Eur 
+66 
+17,3 
+17,3 
+84,6 
+1501-2000 Eur 
+18 
+4,7 
+4,7 
+89,3 
+2001-2500 Eur 
+13 
+3,4 
+3,4 
+92,7 
+2501-3000 Eur 
+11 
+2,9 
+2,9 
+95,5 
+More than 3000 Eur 
+17 
+4,5 
+4,5 
+100,0 
+Total 
+382 
+100,0 
+100,0 
+ 
+ 
+
+66 
+ 
+Appendix 3. Reliability Tests 
+Susceptibility to interpersonal influence 
+ 
+Scale Mean if 
+Item Deleted 
+Scale Variance 
+if Item 
+Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+1.I rarely purchase the 
+latest fashion styles until I am sure my friends approve of 
+them. 
+36,17 
+167,429 
+,485 
+,873 
+2.It is important that others like the products and brands 
+I buy. 
+36,10 
+162,843 
+,627 
+,864 
+3.When buying products, I generally purchase those 
+brands that I think others will approve of. 
+36,26 
+160,772 
+,688 
+,861 
+4.If other people can see me using a product, I often 
+purchase the brand they expect me to buy. 
+36,71 
+168,082 
+,608 
+,866 
+5.I like to know what brands and products make good 
+impressions on others. 
+35,49 
+158,728 
+,620 
+,864 
+6.I achieve a sense of belonging by purchasing the same 
+products and brands that others purchase. 
+35,98 
+160,624 
+,653 
+,862 
+7.If I want to be like someone, I often try to buy the same 
+brands that they buy. 
+36,30 
+159,238 
+,643 
+,863 
+8.I often identify with other people by purchasing the 
+same products and brands they purchase. 
+36,30 
+161,330 
+,639 
+,863 
+9.To make sure I buy the right product or brand, I often 
+observe what others are buying and using. 
+35,38 
+160,174 
+,608 
+,865 
+10.If I have little experience with a product, I often ask 
+my friends about the product. 
+33,93 
+170,814 
+,432 
+,875 
+11.I often consult other people to help choose the best 
+alternative available from a product class. 
+34,49 
+169,857 
+,431 
+,876 
+12.I frequently gather information from friends or family 
+about a product before I buy it. 
+34,64 
+169,502 
+,429 
+,876 
+ 
+Environmental consciousness 
+ 
+Scale Mean if 
+Item Deleted 
+Scale Variance 
+if Item Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if Item 
+Deleted 
+13.We are approaching the limit of the number of people 
+the earth can support. 
+53,68 
+43,746 
+,391 
+,580 
+15.When humans interfere 
+with nature it often produces disastrous consequences. 
+53,25 
+46,506 
+,447 
+,574 
+16.Human ingenuity will ensure that we do NOT make 
+the earth unlivable. 
+54,59 
+55,176 
+-
+,023 
+,665 
+17.Humans are severely abusing the environment. 
+52,73 
+48,352 
+,473 
+,579 
+18.The earth has plenty of natural resources if we just 
+learn how to develop them. 
+53,32 
+53,676 
+,019 
+,663 
+19.Plants and animals have as much right as humans to 
+exist. 
+52,82 
+46,649 
+,407 
+,581 
+21.Despite our special abilities, humans are still subject 
+to the laws of nature. 
+52,99 
+51,648 
+,203 
+,620 
+23.The earth is like a spaceship with very limited room 
+and resources. 
+53,73 
+45,006 
+,406 
+,577 
+25.The balance of nature is very delicate and easily upset. 
+53,54 
+46,821 
+,431 
+,577 
+26.Humans will eventually learn enough about how 
+nature works to be able to control it. 
+54,85 
+52,537 
+,065 
+,654 
+27.If things continue their present course, we will soon 
+experience a major ecological catastrophe. 
+52,66 
+46,643 
+,550 
+,563 
+ 
+ 
+ 
+
+67 
+ 
+Religiosity 
+ 
+Scale Mean if Item 
+Deleted 
+Scale Variance 
+if Item 
+Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+47.My religious beliefs lie behind my whole approach to 
+life. 
+20,34 
+152,817 
+,754 
+,944 
+48.I spend time trying to grow in understanding of my 
+faith. 
+19,84 
+150,784 
+,762 
+,944 
+49.It is important for me to spend periods of time in 
+private religious thought and reflection. 
+20,49 
+147,248 
+,844 
+,938 
+50.Religious beliefs influence all my dealings in life. 
+20,81 
+149,033 
+,880 
+,936 
+51.Religion is especially important to me because it 
+answers many questions about the meaning of life 
+20,62 
+145,679 
+,887 
+,935 
+52.I often read books and magazines about my faith. 
+21,15 
+156,915 
+,760 
+,943 
+53.I enjoy working in the activities of my religious 
+organization. 
+21,23 
+154,532 
+,797 
+,941 
+54.I enjoy spending time with others of my religious 
+affiliation. 
+20,80 
+151,203 
+,781 
+,942 
+ 
+Perception of CSR 
+ 
+Scale Mean if 
+Item Deleted 
+Scale Variance 
+if Item Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+29.Trying to sponsor educational programs. 
+77,09 
+257,147 
+,590 
+,892 
+30.Trying to help to improve the quality of life in the 
+local community. 
+76,49 
+253,584 
+,611 
+,892 
+31.Trying to make financial donations to social causes. 
+76,64 
+251,134 
+,678 
+,889 
+32.Trying to sponsor public health programs. 
+77,13 
+251,554 
+,673 
+,890 
+33.Trying to be highly committed to well-defined ethical 
+principles. 
+76,32 
+249,415 
+,689 
+,889 
+34.Trying to sponsor cultural programs. 
+76,91 
+251,780 
+,669 
+,890 
+35.Trying to recycle its waste materials properly. 
+75,99 
+255,871 
+,571 
+,893 
+36.Trying to use only the necessary natural resources. 
+76,47 
+256,654 
+,592 
+,892 
+37.Trying to sponsor proenvironmental programs. 
+76,50 
+249,269 
+,721 
+,888 
+38.Trying to allocate resources to offer services 
+compatible with the environment. 
+76,47 
+250,470 
+,709 
+,888 
+39.Trying to carry out programs to reduce pollution. 
+76,34 
+248,554 
+,711 
+,888 
+40.Trying to protect the environment. 
+76,05 
+249,693 
+,667 
+,890 
+41.Trying to do its best to be more productive. 
+75,51 
+270,403 
+,378 
+,898 
+42.Trying to always improve its financial performance. 
+75,43 
+276,093 
+,238 
+,902 
+43.Trying to maximize profits in order to guarantee its 
+continuity. 
+75,59 
+280,315 
+,122 
+,906 
+44.Trying to build solid relations with its customers to 
+assure its long-term economic success. 
+75,46 
+266,837 
+,429 
+,897 
+45.Trying to continuously improve the quality of the 
+services that they offer. 
+75,67 
+265,854 
+,438 
+,897 
+46.Trying to have a competitive pricing policy. 
+75,34 
+276,596 
+,213 
+,903 
+ 
+ 
+ 
+
+68 
+ 
+ 
+Intention to purchase fast fashion clothes 
+ 
+Scale Mean if Item 
+Deleted 
+Scale 
+Variance if 
+Item Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+55.The likelihood that I am going to purchase clothes 
+from any of these brands is: 
+9,99 
+12,163 
+,878 
+,875 
+56.The probability that I would consider buying clothes 
+from any of these brands is: 
+9,82 
+13,034 
+,861 
+,892 
+57.My willingness to buy clothes from any of these 
+brands is: 
+10,29 
+12,140 
+,824 
+,921 
+ 
+Intention to purchase sustainable clothing 
+ 
+Scale Mean if Item 
+Deleted 
+ 
+Scale 
+Variance if 
+Item Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+58.It is very likely that I will buy sustainable clothes. 
+9,78 
+7,780 
+,761 
+,862 
+59.I will purchase sustainable clothes the next time I need 
+such a product 
+9,93 
+7,956 
+,793 
+,837 
+60.I will definitely purchase sustainable clothes 
+10,17 
+7,057 
+,803 
+,828 
+ 
+Intention to reduce clothing purchase and consumption 
+ 
+Scale Mean if Item 
+Deleted 
+Scale Variance 
+if Item 
+Deleted 
+Corrected 
+Item- 
+Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+61.In the next three months, when buying clothing items, 
+I intend to refrain from buying clothing about which I 
+have environmental or social concerns. 
+5,13 
+2,892 
+,582 
+. 
+62.In the next three months, when buying clothing items, 
+I intend to buy fewer clothing items than usually/before. 
+4,63 
+2,664 
+,582 
+. 
+ 
+ 
+ 
+ 
+
+69 
+ 
+Appendix 4. Regression and Correlation Tests 
+Regression (Fast Fashion Purchase Intention and Personal Characteristics) 
+ 
+Variables Entered/Removeda 
+Model 
+Variables 
+Entered 
+Variables 
+Removed 
+Method 
+1 
+Religiosity, 
+Env_Consc, 
+Interp_influence
+b 
+. Enter 
+a. Dependent Variable: FastFashion_Int 
+b. All requested variables entered. 
+ 
+Model Summary 
+Model 
+R 
+R Square 
+Adjusted R 
+Square 
+Std. Error of the 
+Estimate 
+1 
+,327a 
+,107 
+,100 
+1,644 
+a. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+ANOVAa 
+Model 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+1 
+Regression 
+122,227 
+3 
+40,742 
+15,068 
+,000b 
+Residual 
+1022,101 
+378 
+2,704 
+Total 
+1144,328 
+381 
+a. Dependent Variable: FastFashion_Int 
+b. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+Coefficientsa 
+Model 
+Unstandardized 
+Coefficients 
+Standardize
+d 
+Coefficients 
+t 
+Sig. 
+95,0% Confidence 
+Interval for B 
+B 
+Std. Error 
+Beta 
+Lower 
+Bound 
+Upper 
+Bound 
+1 
+(Constant) 
+1,455 
+,743 
+1,958 
+,051 
+-,006 
+2,917 
+Interp_influen
+ce 
+,376 
+,076 
+,251 
+4,945 
+,000 
+,226 
+,525 
+Env_Consc 
+,502 
+,158 
+,159 
+3,175 
+,002 
+,191 
+,812 
+Religiosity 
+-,013 
+,049 
+-,013 
+-,266 
+,791 
+-,109 
+,083 
+a. Dependent Variable: FastFashion_Int 
+ 
+Regression (Sustainable Purchase Intention and Personal Characteristics) 
+ 
+Variables Entered/Removeda 
+Model 
+Variables 
+Entered 
+Variables 
+Removed 
+Method 
+1 
+Religiosity, 
+Env_Consc, 
+Interp_influence
+b 
+. Enter 
+a. Dependent Variable: Sustainable_Int 
+b. All requested variables entered. 
+ 
+Model Summary 
+Model 
+R 
+R Square 
+Adjusted R 
+Square 
+Std. Error of the 
+Estimate 
+1 
+,106a 
+,011 
+,003 
+1,339 
+a. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+
+70 
+ 
+ANOVAa 
+Model 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+1 
+Regression 
+7,674 
+3 
+2,558 
+1,426 
+,235b 
+Residual 
+678,061 
+378 
+1,794 
+Total 
+685,735 
+381 
+a. Dependent Variable: Sustainable_Int 
+b. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+Coefficientsa 
+Model 
+Unstandardized Coefficients 
+Standardized 
+Coefficients 
+t 
+Sig. 
+B 
+Std. Error 
+Beta 
+1 
+(Constant) 
+3,740 
+,605 
+6,176 
+,000 
+Interp_influence 
+,000 
+,062 
+,000 
+-,007 
+,994 
+Env_Consc 
+,251 
+,129 
+,103 
+1,949 
+,052 
+Religiosity 
+,017 
+,040 
+,022 
+,432 
+,666 
+a. Dependent Variable: Sustainable_Int 
+ 
+Regression (Purchase and Consumption Reduction and Personal Characteristics) 
+ 
+Variables Entered/Removeda 
+Model 
+Variables 
+Entered 
+Variables 
+Removed 
+Method 
+1 
+Religiosity, 
+Env_Consc, 
+Interp_influence
+b 
+. Enter 
+a. Dependent Variable: Reduce_Int 
+b. All requested variables entered. 
+ 
+Model Summary 
+Model 
+R 
+R Square 
+Adjusted R 
+Square 
+Std. Error of the 
+Estimate 
+1 
+,051a 
+,003 
+-,005 
+1,486 
+a. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+ANOVAa 
+Model 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+1 
+Regression 
+2,187 
+3 
+,729 
+,330 
+,804b 
+Residual 
+834,903 
+378 
+2,209 
+Total 
+837,090 
+381 
+a. Dependent Variable: Reduce_Int 
+b. Predictors: (Constant), Religiosity, Env_Consc, Interp_influence 
+ 
+Coefficientsa 
+Model 
+Unstandardized Coefficients 
+Standardized 
+Coefficients 
+t 
+Sig. 
+B 
+Std. Error 
+Beta 
+1 
+(Constant) 
+4,506 
+,672 
+6,708 
+,000 
+Interp_influence 
+-,001 
+,069 
+-,001 
+-,015 
+,988 
+Env_Consc 
+,098 
+,143 
+,037 
+,690 
+,491 
+Religiosity 
+-,031 
+,044 
+-,037 
+-,710 
+,478 
+a. Dependent Variable: Reduce_Int 
+ 
+ 
+ 
+
+71 
+ 
+Correlations 
+Envir 
+FastF 
+Envir 
+Pearson Correlation 
+1 
+,220** 
+Sig. (2-tailed) 
+,000 
+N 
+382 
+382 
+FastF 
+Pearson Correlation 
+,220** 
+1 
+Sig. (2-tailed) 
+,000 
+N 
+382 
+382 
+**. Correlation is significant at the 0.01 level (2-tailed). 
+ 
+Correlations 
+Interp 
+FastF 
+Interp 
+Pearson Correlation 
+1 
+,288** 
+Sig. (2-tailed) 
+,000 
+N 
+382 
+382 
+FastF 
+Pearson Correlation 
+,288** 
+1 
+Sig. (2-tailed) 
+,000 
+N 
+382 
+382 
+**. Correlation is significant at the 0.01 level (2-tailed). 
+ 
+Correlations 
+Relig 
+FastF 
+Relig 
+Pearson Correlation 
+1 
+,034 
+Sig. (2-tailed) 
+,507 
+N 
+382 
+382 
+FastF 
+Pearson Correlation 
+,034 
+1 
+Sig. (2-tailed) 
+,507 
+N 
+382 
+382 
+ 
+Correlations 
+Envir 
+Sustain 
+Envir 
+Pearson Correlation 
+1 
+,103* 
+Sig. (2-tailed) 
+,043 
+N 
+382 
+382 
+Sustain 
+Pearson Correlation 
+,103* 
+1 
+Sig. (2-tailed) 
+,043 
+N 
+382 
+382 
+*. Correlation is significant at the 0.05 level (2-tailed). 
+ 
+ 
+Correlations 
+Sustain 
+Interp 
+Sustain 
+Pearson Correlation 
+1 
+,028 
+Sig. (2-tailed) 
+,581 
+N 
+382 
+382 
+Interp 
+Pearson Correlation 
+,028 
+1 
+Sig. (2-tailed) 
+,581 
+N 
+382 
+382 
+ 
+ 
+Correlations 
+Sustain 
+Relig 
+Sustain 
+Pearson Correlation 
+1 
+,026 
+Sig. (2-tailed) 
+,617 
+
+72 
+ 
+N 
+382 
+382 
+Relig 
+Pearson Correlation 
+,026 
+1 
+Sig. (2-tailed) 
+,617 
+N 
+382 
+382 
+ 
+Correlations 
+Envir 
+Reduce 
+Envir 
+Pearson Correlation 
+1 
+,035 
+Sig. (2-tailed) 
+,493 
+N 
+382 
+382 
+Reduce 
+Pearson Correlation 
+,035 
+1 
+Sig. (2-tailed) 
+,493 
+N 
+382 
+382 
+ 
+Correlations 
+Reduce 
+Interp 
+Reduce 
+Pearson Correlation 
+1 
+,002 
+Sig. (2-tailed) 
+,971 
+N 
+382 
+382 
+Interp 
+Pearson Correlation 
+,002 
+1 
+Sig. (2-tailed) 
+,971 
+N 
+382 
+382 
+ 
+Correlations 
+Reduce 
+Relig 
+Reduce 
+Pearson Correlation 
+1 
+-,036 
+Sig. (2-tailed) 
+,483 
+N 
+382 
+382 
+Relig 
+Pearson Correlation 
+-,036 
+1 
+Sig. (2-tailed) 
+,483 
+N 
+382 
+382 
+ 
+ 
+ 
+ 
+
+73 
+ 
+Appendix 5. Moderation Analysis 
+Moderation Analysis (interaction between environmental consciousness and the intention to 
+purchase fast fashion clothing) 
+ 
+ 
+ 
+ 
+ 
+
+74 
+ 
+Moderation Analysis (interaction between environmental consciousness and the intention to 
+purchase sustainable clothing) 
+ 
+ 
+ 
+ 
+ 
+
+75 
+ 
+Moderation Analysis (interaction between environmental consciousness and the intention to 
+reduce clothing purchase and consumption) 
+ 
+ 
+ 
+ 
+
+76 
+ 
+Moderation Analysis (interaction between susceptibility to interpersonal influence and the 
+intention to purchase fast fashion clothing) 
+ 
+ 
+ 
+ 
+ 
+
+77 
+ 
+Moderation Analysis (interaction between susceptibility to interpersonal influence and the 
+intention to purchase sustainable clothing) 
+ 
+ 
+ 
+ 
+
+78 
+ 
+Moderation Analysis (interaction between susceptibility to interpersonal influence and the 
+intention to reduce clothing purchase and consumption) 
+ 
+ 
+ 
+ 
+ 
+
+79 
+ 
+Moderation Analysis (interaction between religiosity and the intention to purchase fast 
+fashion clothing) 
+ 
+ 
+ 
+ 
+
+80 
+ 
+Moderation Analysis (interaction between religiosity and the intention to purchase 
+sustainable clothing) 
+ 
+ 
+ 
+ 
+
+81 
+ 
+Moderation Analysis (interaction between religiosity and the intention to reduce clothing 
+purchase and consumption) 
+ 
+ 
+ 
+ 
+
+82 
+ 
+Appendix 6. Evaluation of differences between demographic and dependent variables 
+ONEWAY the intention to purchase fast fashion clothing, sustainable clothing, and the 
+intention to reduce clothing purchase and consumption by age 
+1. <25 
+2. 26-40 
+3. >41 
+Descriptives 
+ 
+N 
+Mean 
+Std. 
+Deviation 
+Std. 
+Error 
+95% Confidence Interval for 
+Mean 
+Minimu
+m 
+Maxim
+um 
+Lower 
+Bound 
+Upper 
+Bound 
+FastF 
+1 
+304 
+5,24 
+1,657 
+,095 
+5,05 
+5,43 
+1 
+7 
+2 
+69 
+4,24 
+1,761 
+,212 
+3,82 
+4,66 
+1 
+7 
+3 
+9 
+3,44 
+1,667 
+,556 
+2,16 
+4,73 
+1 
+6 
+Tot
+al 
+382 
+5,02 
+1,733 
+,089 
+4,84 
+5,19 
+1 
+7 
+Susta
+in 
+1 
+304 
+5,00 
+1,340 
+,077 
+4,85 
+5,15 
+1 
+7 
+2 
+69 
+5,03 
+1,339 
+,161 
+4,71 
+5,35 
+2 
+7 
+3 
+9 
+3,96 
+1,124 
+,375 
+3,10 
+4,83 
+1 
+5 
+Tot
+al 
+382 
+4,98 
+1,342 
+,069 
+4,84 
+5,11 
+1 
+7 
+Redu
+ce 
+1 
+304 
+4,87 
+1,495 
+,086 
+4,70 
+5,04 
+1 
+7 
+2 
+69 
+5,01 
+1,440 
+,173 
+4,67 
+5,36 
+1 
+7 
+3 
+9 
+4,00 
+1,173 
+,391 
+3,10 
+4,90 
+2 
+5 
+Tot
+al 
+382 
+4,88 
+1,482 
+,076 
+4,73 
+5,03 
+1 
+7 
+ 
+ANOVA 
+ 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+FastF 
+Between Groups 
+78,883 
+2 
+39,442 
+14,030 
+,000 
+Within Groups 
+1065,445 
+379 
+2,811 
+ 
+ 
+Total 
+1144,328 
+381 
+ 
+ 
+ 
+Sustain 
+Between Groups 
+9,583 
+2 
+4,792 
+2,686 
+,069 
+Within Groups 
+676,152 
+379 
+1,784 
+ 
+ 
+Total 
+685,735 
+381 
+ 
+ 
+ 
+Reduce 
+Between Groups 
+8,230 
+2 
+4,115 
+1,882 
+,154 
+Within Groups 
+828,860 
+379 
+2,187 
+ 
+ 
+Total 
+837,090 
+381 
+ 
+ 
+ 
+ 
+Multiple Comparisons 
+Dependent Variable 
+(I) 
+agecat 
+(J) 
+agecat 
+Mean 
+Difference 
+(I-J) 
+Std. 
+Error 
+Sig. 
+95% Confidence Interval 
+Lower 
+Bound 
+Upper 
+Bound 
+FastF 
+Bonferroni 
+1 
+2 
+,999* 
+,224 
+,000 
+,46 
+1,54 
+3 
+1,796* 
+,567 
+,005 
+,43 
+3,16 
+
+83 
+ 
+2 
+1 
+-,999* 
+,224 
+,000 
+-1,54 
+-,46 
+3 
+,797 
+,594 
+,542 
+-,63 
+2,23 
+3 
+1 
+-1,796* 
+,567 
+,005 
+-3,16 
+-,43 
+2 
+-,797 
+,594 
+,542 
+-2,23 
+,63 
+Games-
+Howell 
+1 
+2 
+,999* 
+,232 
+,000 
+,45 
+1,55 
+3 
+1,796* 
+,564 
+,029 
+,20 
+3,39 
+2 
+1 
+-,999* 
+,232 
+,000 
+-1,55 
+-,45 
+3 
+,797 
+,595 
+,405 
+-,82 
+2,42 
+3 
+1 
+-1,796* 
+,564 
+,029 
+-3,39 
+-,20 
+2 
+-,797 
+,595 
+,405 
+-2,42 
+,82 
+Sustai
+n 
+Bonferroni 
+1 
+2 
+-,030 
+,178 
+1,000 
+-,46 
+,40 
+3 
+1,036 
+,452 
+,067 
+-,05 
+2,12 
+2 
+1 
+,030 
+,178 
+1,000 
+-,40 
+,46 
+3 
+1,066 
+,473 
+,075 
+-,07 
+2,20 
+3 
+1 
+-1,036 
+,452 
+,067 
+-2,12 
+,05 
+2 
+-1,066 
+,473 
+,075 
+-2,20 
+,07 
+Games-
+Howell 
+1 
+2 
+-,030 
+,179 
+,984 
+-,45 
+,39 
+3 
+1,036 
+,382 
+,058 
+-,04 
+2,11 
+2 
+1 
+,030 
+,179 
+,984 
+-,39 
+,45 
+3 
+1,066 
+,408 
+,057 
+-,03 
+2,16 
+3 
+1 
+-1,036 
+,382 
+,058 
+-2,11 
+,04 
+2 
+-1,066 
+,408 
+,057 
+-2,16 
+,03 
+Reduc
+e 
+Bonferroni 
+1 
+2 
+-,141 
+,197 
+1,000 
+-,62 
+,33 
+3 
+,873 
+,500 
+,245 
+-,33 
+2,08 
+2 
+1 
+,141 
+,197 
+1,000 
+-,33 
+,62 
+3 
+1,014 
+,524 
+,161 
+-,25 
+2,27 
+3 
+1 
+-,873 
+,500 
+,245 
+-2,08 
+,33 
+2 
+-1,014 
+,524 
+,161 
+-2,27 
+,25 
+Games-
+Howell 
+1 
+2 
+-,141 
+,193 
+,746 
+-,60 
+,32 
+3 
+,873 
+,400 
+,129 
+-,25 
+2,00 
+2 
+1 
+,141 
+,193 
+,746 
+-,32 
+,60 
+3 
+1,014 
+,428 
+,085 
+-,13 
+2,16 
+3 
+1 
+-,873 
+,400 
+,129 
+-2,00 
+,25 
+2 
+-1,014 
+,428 
+,085 
+-2,16 
+,13 
+*. The mean difference is significant at the 0.05 level. 
+ 
+ 
+ 
+ 
+
+84 
+ 
+ONEWAY the intention to purchase fast fashion clothing, sustainable clothing, and the 
+intention to reduce clothing purchase and consumption by education level 
+1. Primary 
+2. Secondary 
+3. Higher or special secondary 
+4. College of high education 
+5. Bachelor degree 
+6. Master degree and higher 
+Descriptives 
+ 
+N 
+Mean 
+Std. 
+Deviation 
+Std. 
+Error 
+95% Confidence Interval 
+for Mean 
+Minimu
+m 
+Maxim
+um 
+Lower 
+Bound 
+Upper 
+Bound 
+FastF 
+1 
+4 
+5,50 
+,430 
+,215 
+4,82 
+6,18 
+5 
+6 
+2 
+41 
+5,17 
+1,748 
+,273 
+4,62 
+5,72 
+1 
+7 
+3 
+34 
+4,83 
+1,897 
+,325 
+4,17 
+5,50 
+1 
+7 
+4 
+51 
+5,05 
+1,796 
+,251 
+4,55 
+5,56 
+1 
+7 
+5 
+180 
+5,06 
+1,725 
+,129 
+4,80 
+5,31 
+1 
+7 
+6 
+72 
+4,87 
+1,694 
+,200 
+4,47 
+5,26 
+1 
+7 
+Tot
+al 
+382 
+5,02 
+1,733 
+,089 
+4,84 
+5,19 
+1 
+7 
+Susta
+in 
+1 
+4 
+5,25 
+1,524 
+,762 
+2,82 
+7,68 
+3 
+6 
+2 
+41 
+4,99 
+1,397 
+,218 
+4,55 
+5,43 
+2 
+7 
+3 
+34 
+5,05 
+1,477 
+,253 
+4,53 
+5,56 
+1 
+7 
+4 
+51 
+4,86 
+1,450 
+,203 
+4,45 
+5,27 
+1 
+7 
+5 
+180 
+4,97 
+1,296 
+,097 
+4,78 
+5,16 
+1 
+7 
+6 
+72 
+5,04 
+1,307 
+,154 
+4,73 
+5,35 
+1 
+7 
+Tot
+al 
+382 
+4,98 
+1,342 
+,069 
+4,84 
+5,11 
+1 
+7 
+Redu
+ce 
+1 
+4 
+4,75 
+1,848 
+,924 
+1,81 
+7,69 
+2 
+6 
+2 
+41 
+4,63 
+1,432 
+,224 
+4,18 
+5,09 
+2 
+7 
+3 
+34 
+4,72 
+1,606 
+,275 
+4,16 
+5,28 
+1 
+7 
+4 
+51 
+4,88 
+1,765 
+,247 
+4,39 
+5,38 
+1 
+7 
+5 
+180 
+4,93 
+1,423 
+,106 
+4,72 
+5,14 
+1 
+7 
+6 
+72 
+4,97 
+1,389 
+,164 
+4,65 
+5,30 
+1 
+7 
+Tot
+al 
+382 
+4,88 
+1,482 
+,076 
+4,73 
+5,03 
+1 
+7 
+ 
+ANOVA 
+ 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+FastF 
+Between Groups 
+5,054 
+5 
+1,011 
+,334 
+,893 
+Within Groups 
+1139,274 
+376 
+3,030 
+ 
+ 
+
+85 
+ 
+Total 
+1144,328 
+381 
+ 
+ 
+ 
+Sustain 
+Between Groups 
+1,466 
+5 
+,293 
+,161 
+,977 
+Within Groups 
+684,269 
+376 
+1,820 
+ 
+ 
+Total 
+685,735 
+381 
+ 
+ 
+ 
+Reduce 
+Between Groups 
+4,432 
+5 
+,886 
+,400 
+,849 
+Within Groups 
+832,657 
+376 
+2,215 
+ 
+ 
+Total 
+837,090 
+381 
+ 
+ 
+ 
+ 
+Multiple Comparisons 
+Bonferroni 
+Depe
+ndent 
+Varia
+ble 
+(I) 
+educ_
+cat 
+(J) 
+educ_
+cat 
+Mean Difference (I-J) 
+Std. Error 
+Sig. 
+95% Confidence Interval 
+Lower Bound 
+Upper 
+Bound 
+FastF 
+1 
+2 
+,329 
+,912 
+1,000 
+-2,36 
+3,02 
+3 
+,667 
+,920 
+1,000 
+-2,05 
+3,38 
+4 
+,448 
+,904 
+1,000 
+-2,22 
+3,12 
+5 
+,443 
+,880 
+1,000 
+-2,16 
+3,04 
+6 
+,634 
+,894 
+1,000 
+-2,01 
+3,28 
+2 
+1 
+-,329 
+,912 
+1,000 
+-3,02 
+2,36 
+3 
+,337 
+,404 
+1,000 
+-,86 
+1,53 
+4 
+,118 
+,365 
+1,000 
+-,96 
+1,20 
+5 
+,113 
+,301 
+1,000 
+-,78 
+1,00 
+6 
+,305 
+,341 
+1,000 
+-,70 
+1,31 
+3 
+1 
+-,667 
+,920 
+1,000 
+-3,38 
+2,05 
+2 
+-,337 
+,404 
+1,000 
+-1,53 
+,86 
+4 
+-,219 
+,385 
+1,000 
+-1,36 
+,92 
+5 
+-,224 
+,326 
+1,000 
+-1,19 
+,74 
+6 
+-,032 
+,362 
+1,000 
+-1,10 
+1,04 
+4 
+1 
+-,448 
+,904 
+1,000 
+-3,12 
+2,22 
+2 
+-,118 
+,365 
+1,000 
+-1,20 
+,96 
+3 
+,219 
+,385 
+1,000 
+-,92 
+1,36 
+5 
+-,005 
+,276 
+1,000 
+-,82 
+,81 
+6 
+,187 
+,319 
+1,000 
+-,75 
+1,13 
+5 
+1 
+-,443 
+,880 
+1,000 
+-3,04 
+2,16 
+2 
+-,113 
+,301 
+1,000 
+-1,00 
+,78 
+3 
+,224 
+,326 
+1,000 
+-,74 
+1,19 
+4 
+,005 
+,276 
+1,000 
+-,81 
+,82 
+6 
+,192 
+,243 
+1,000 
+-,53 
+,91 
+6 
+1 
+-,634 
+,894 
+1,000 
+-3,28 
+2,01 
+2 
+-,305 
+,341 
+1,000 
+-1,31 
+,70 
+3 
+,032 
+,362 
+1,000 
+-1,04 
+1,10 
+4 
+-,187 
+,319 
+1,000 
+-1,13 
+,75 
+
+86 
+ 
+5 
+-,192 
+,243 
+1,000 
+-,91 
+,53 
+Sustai
+n 
+1 
+2 
+,258 
+,707 
+1,000 
+-1,83 
+2,35 
+3 
+,201 
+,713 
+1,000 
+-1,91 
+2,31 
+4 
+,387 
+,700 
+1,000 
+-1,68 
+2,46 
+5 
+,283 
+,682 
+1,000 
+-1,73 
+2,30 
+6 
+,208 
+,693 
+1,000 
+-1,84 
+2,26 
+2 
+1 
+-,258 
+,707 
+1,000 
+-2,35 
+1,83 
+3 
+-,057 
+,313 
+1,000 
+-,98 
+,87 
+4 
+,129 
+,283 
+1,000 
+-,71 
+,97 
+5 
+,025 
+,233 
+1,000 
+-,66 
+,71 
+6 
+-,050 
+,264 
+1,000 
+-,83 
+,73 
+3 
+1 
+-,201 
+,713 
+1,000 
+-2,31 
+1,91 
+2 
+,057 
+,313 
+1,000 
+-,87 
+,98 
+4 
+,186 
+,299 
+1,000 
+-,70 
+1,07 
+5 
+,082 
+,252 
+1,000 
+-,66 
+,83 
+6 
+,007 
+,281 
+1,000 
+-,82 
+,84 
+4 
+1 
+-,387 
+,700 
+1,000 
+-2,46 
+1,68 
+2 
+-,129 
+,283 
+1,000 
+-,97 
+,71 
+3 
+-,186 
+,299 
+1,000 
+-1,07 
+,70 
+5 
+-,104 
+,214 
+1,000 
+-,74 
+,53 
+6 
+-,179 
+,247 
+1,000 
+-,91 
+,55 
+5 
+1 
+-,283 
+,682 
+1,000 
+-2,30 
+1,73 
+2 
+-,025 
+,233 
+1,000 
+-,71 
+,66 
+3 
+-,082 
+,252 
+1,000 
+-,83 
+,66 
+4 
+,104 
+,214 
+1,000 
+-,53 
+,74 
+6 
+-,075 
+,188 
+1,000 
+-,63 
+,48 
+6 
+1 
+-,208 
+,693 
+1,000 
+-2,26 
+1,84 
+2 
+,050 
+,264 
+1,000 
+-,73 
+,83 
+3 
+-,007 
+,281 
+1,000 
+-,84 
+,82 
+4 
+,179 
+,247 
+1,000 
+-,55 
+,91 
+5 
+,075 
+,188 
+1,000 
+-,48 
+,63 
+Redu
+ce 
+1 
+2 
+,116 
+,780 
+1,000 
+-2,19 
+2,42 
+3 
+,029 
+,787 
+1,000 
+-2,29 
+2,35 
+4 
+-,132 
+,773 
+1,000 
+-2,41 
+2,15 
+5 
+-,178 
+,752 
+1,000 
+-2,40 
+2,04 
+6 
+-,222 
+,764 
+1,000 
+-2,48 
+2,04 
+2 
+1 
+-,116 
+,780 
+1,000 
+-2,42 
+2,19 
+3 
+-,086 
+,345 
+1,000 
+-1,11 
+,93 
+4 
+-,248 
+,312 
+1,000 
+-1,17 
+,67 
+5 
+-,294 
+,258 
+1,000 
+-1,05 
+,47 
+6 
+-,338 
+,291 
+1,000 
+-1,20 
+,52 
+3 
+1 
+-,029 
+,787 
+1,000 
+-2,35 
+2,29 
+2 
+,086 
+,345 
+1,000 
+-,93 
+1,11 
+
+87 
+ 
+4 
+-,162 
+,329 
+1,000 
+-1,14 
+,81 
+5 
+-,207 
+,278 
+1,000 
+-1,03 
+,61 
+6 
+-,252 
+,310 
+1,000 
+-1,17 
+,66 
+4 
+1 
+,132 
+,773 
+1,000 
+-2,15 
+2,41 
+2 
+,248 
+,312 
+1,000 
+-,67 
+1,17 
+3 
+,162 
+,329 
+1,000 
+-,81 
+1,14 
+5 
+-,045 
+,236 
+1,000 
+-,74 
+,65 
+6 
+-,090 
+,272 
+1,000 
+-,89 
+,71 
+5 
+1 
+,178 
+,752 
+1,000 
+-2,04 
+2,40 
+2 
+,294 
+,258 
+1,000 
+-,47 
+1,05 
+3 
+,207 
+,278 
+1,000 
+-,61 
+1,03 
+4 
+,045 
+,236 
+1,000 
+-,65 
+,74 
+6 
+-,044 
+,208 
+1,000 
+-,66 
+,57 
+6 
+1 
+,222 
+,764 
+1,000 
+-2,04 
+2,48 
+2 
+,338 
+,291 
+1,000 
+-,52 
+1,20 
+3 
+,252 
+,310 
+1,000 
+-,66 
+1,17 
+4 
+,090 
+,272 
+1,000 
+-,71 
+,89 
+5 
+,044 
+,208 
+1,000 
+-,57 
+,66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+88 
+ 
+T-test the intention to purchase fast fashion clothing, sustainable clothing, and the intention 
+to reduce clothing purchase and consumption by sex 
+1. Male 
+2. Female 
+Group Statistics 
+ 
+sexcat 
+N 
+Mean 
+Std. Deviation 
+Std. Error Mean 
+FastF 
+1 
+75 
+4,51 
+1,864 
+,215 
+2 
+300 
+5,17 
+1,651 
+,095 
+Sustain 
+1 
+75 
+4,52 
+1,491 
+,172 
+2 
+300 
+5,10 
+1,264 
+,073 
+Reduce 
+1 
+75 
+4,33 
+1,532 
+,177 
+2 
+300 
+5,04 
+1,419 
+,082 
+ 
+Independent Samples Test 
+ 
+Levene's Test for 
+Equality of 
+Variances 
+t-test for Equality of Means 
+F 
+Sig. 
+t 
+df 
+Sig. 
+(2tailed) 
+Mean 
+Differe
+nce 
+Std. 
+Error 
+Differe
+nce 
+95% Confidence 
+Interval of the 
+Difference 
+Lower 
+Upper 
+Fa
+stF 
+Equal 
+variances 
+assumed 
+2,180 
+,141 
+-
+3,0
+36 
+37
+3 
+,003 
+-,664 
+,219 
+-1,095 
+-,234 
+Equal 
+variances not 
+assumed 
+ 
+ 
+-
+2,8
+22 
+10
+4,8
+47 
+,006 
+-,664 
+,235 
+-1,131 
+-,198 
+Su
+sta
+in 
+Equal 
+variances 
+assumed 
+1,904 
+,168 
+-
+3,4
+37 
+37
+3 
+,001 
+-,582 
+,169 
+-,915 
+-,249 
+Equal 
+variances not 
+assumed 
+ 
+ 
+-
+3,1
+14 
+10
+2,1
+69 
+,002 
+-,582 
+,187 
+-,953 
+-,211 
+Re
+du
+ce 
+Equal 
+variances 
+assumed 
+,383 
+,537 
+-
+3,8
+04 
+37
+3 
+,000 
+-,708 
+,186 
+-1,075 
+-,342 
+Equal 
+variances not 
+assumed 
+ 
+ 
+-
+3,6
+33 
+10
+7,9
+24 
+,000 
+-,708 
+,195 
+-1,095 
+-,322 
+ 
+ 
+ 
+
+89 
+ 
+ONEWAY the intention to purchase fast fashion clothing, sustainable clothing, and the 
+intention to reduce clothing purchase and consumption by income 
+1. Up to 250 Eur 
+2. 251-500 Eur 
+3. 501-750 Eur 
+4. 751-1000 Eur 
+5. 1001-1500 Eur 
+6. 1501-2000 Eur 
+7. 2001-2500 Eur 
+8. 2501-3000 Eur 
+9. More than 3000 Eur 
+ 
+Descriptives 
+ 
+N 
+Mean 
+Std. 
+Deviation 
+Std. 
+Error 
+95% Confidence Interval 
+for Mean 
+Minimu
+m 
+Maxim
+um 
+Lower 
+Bound 
+Upper 
+Bound 
+FastF 
+1 
+54 
+5,22 
+1,396 
+,190 
+4,84 
+5,60 
+1 
+7 
+2 
+74 
+5,14 
+1,895 
+,220 
+4,70 
+5,58 
+1 
+7 
+3 
+67 
+5,17 
+1,619 
+,198 
+4,77 
+5,56 
+1 
+7 
+4 
+62 
+5,11 
+1,632 
+,207 
+4,70 
+5,53 
+1 
+7 
+5 
+66 
+5,03 
+1,740 
+,214 
+4,60 
+5,46 
+1 
+7 
+6 
+18 
+4,70 
+1,825 
+,430 
+3,80 
+5,61 
+1 
+7 
+7 
+13 
+4,10 
+2,401 
+,666 
+2,65 
+5,55 
+1 
+7 
+8 
+11 
+4,00 
+1,491 
+,449 
+3,00 
+5,00 
+1 
+6 
+9 
+17 
+4,53 
+2,014 
+,488 
+3,49 
+5,56 
+1 
+7 
+Tot
+al 
+382 
+5,02 
+1,733 
+,089 
+4,84 
+5,19 
+1 
+7 
+Susta
+in 
+1 
+54 
+5,09 
+1,070 
+,146 
+4,79 
+5,38 
+3 
+7 
+2 
+74 
+5,09 
+1,320 
+,153 
+4,79 
+5,40 
+2 
+7 
+3 
+67 
+4,93 
+1,399 
+,171 
+4,59 
+5,27 
+1 
+7 
+4 
+62 
+4,96 
+1,233 
+,157 
+4,64 
+5,27 
+1 
+7 
+5 
+66 
+5,09 
+1,265 
+,156 
+4,77 
+5,40 
+2 
+7 
+6 
+18 
+4,11 
+1,910 
+,450 
+3,16 
+5,06 
+1 
+7 
+7 
+13 
+4,51 
+1,864 
+,517 
+3,39 
+5,64 
+1 
+7 
+8 
+11 
+5,12 
+1,186 
+,358 
+4,32 
+5,92 
+3 
+7 
+9 
+17 
+5,20 
+1,458 
+,354 
+4,45 
+5,95 
+3 
+7 
+Tot
+al 
+382 
+4,98 
+1,342 
+,069 
+4,84 
+5,11 
+1 
+7 
+Redu
+ce 
+1 
+54 
+4,94 
+1,438 
+,196 
+4,54 
+5,33 
+2 
+7 
+2 
+74 
+4,92 
+1,624 
+,189 
+4,54 
+5,30 
+2 
+7 
+
+90 
+ 
+3 
+67 
+4,72 
+1,473 
+,180 
+4,36 
+5,08 
+1 
+7 
+4 
+62 
+5,01 
+1,360 
+,173 
+4,66 
+5,35 
+1 
+7 
+5 
+66 
+5,02 
+1,215 
+,150 
+4,72 
+5,31 
+2 
+7 
+6 
+18 
+3,94 
+2,175 
+,513 
+2,86 
+5,03 
+1 
+7 
+7 
+13 
+4,69 
+1,786 
+,495 
+3,61 
+5,77 
+1 
+7 
+8 
+11 
+5,36 
+1,142 
+,344 
+4,60 
+6,13 
+3 
+7 
+9 
+17 
+4,97 
+1,328 
+,322 
+4,29 
+5,65 
+3 
+7 
+Tot
+al 
+382 
+4,88 
+1,482 
+,076 
+4,73 
+5,03 
+1 
+7 
+ 
+ANOVA 
+ 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+FastF 
+Between Groups 
+33,576 
+8 
+4,197 
+1,409 
+,191 
+Within Groups 
+1110,752 
+373 
+2,978 
+ 
+ 
+Total 
+1144,328 
+381 
+ 
+ 
+ 
+Sustain 
+Between Groups 
+19,961 
+8 
+2,495 
+1,398 
+,196 
+Within Groups 
+665,774 
+373 
+1,785 
+ 
+ 
+Total 
+685,735 
+381 
+ 
+ 
+ 
+Reduce 
+Between Groups 
+23,216 
+8 
+2,902 
+1,330 
+,227 
+Within Groups 
+813,874 
+373 
+2,182 
+ 
+ 
+Total 
+837,090 
+381 
+ 
+ 
+ 
+ 
+Multiple Comparisons 
+Bonferroni 
+Depend
+ent 
+Variabl
+e 
+(I) 
+inco
+me_
+cat 
+(J) 
+incom
+e_cat 
+Mean 
+Differenc
+e (I-J) 
+Std. Error 
+Sig. 
+95% Confidence Interval 
+Lower Bound 
+Upper Bound 
+FastF 
+1 
+2 
+,083 
+,309 
+1,000 
+-,91 
+1,08 
+3 
+,053 
+,316 
+1,000 
+-,96 
+1,07 
+4 
+,109 
+,321 
+1,000 
+-,93 
+1,14 
+5 
+,192 
+,317 
+1,000 
+-,83 
+1,21 
+6 
+,519 
+,470 
+1,000 
+-,99 
+2,03 
+7 
+1,120 
+,533 
+1,000 
+-,60 
+2,84 
+8 
+1,222 
+,571 
+1,000 
+-,62 
+3,06 
+9 
+,693 
+,480 
+1,000 
+-,85 
+2,24 
+2 
+1 
+-,083 
+,309 
+1,000 
+-1,08 
+,91 
+3 
+-,030 
+,291 
+1,000 
+-,97 
+,91 
+4 
+,027 
+,297 
+1,000 
+-,93 
+,98 
+5 
+,109 
+,292 
+1,000 
+-,83 
+1,05 
+6 
+,436 
+,454 
+1,000 
+-1,02 
+1,90 
+7 
+1,037 
+,519 
+1,000 
+-,63 
+2,71 
+
+91 
+ 
+8 
+1,140 
+,558 
+1,000 
+-,66 
+2,94 
+9 
+,610 
+,464 
+1,000 
+-,88 
+2,11 
+3 
+1 
+-,053 
+,316 
+1,000 
+-1,07 
+,96 
+2 
+,030 
+,291 
+1,000 
+-,91 
+,97 
+4 
+,056 
+,304 
+1,000 
+-,92 
+1,04 
+5 
+,139 
+,299 
+1,000 
+-,83 
+1,10 
+6 
+,465 
+,458 
+1,000 
+-1,01 
+1,94 
+7 
+1,067 
+,523 
+1,000 
+-,62 
+2,75 
+8 
+1,169 
+,561 
+1,000 
+-,64 
+2,98 
+9 
+,640 
+,469 
+1,000 
+-,87 
+2,15 
+4 
+1 
+-,109 
+,321 
+1,000 
+-1,14 
+,93 
+2 
+-,027 
+,297 
+1,000 
+-,98 
+,93 
+3 
+-,056 
+,304 
+1,000 
+-1,04 
+,92 
+5 
+,083 
+,305 
+1,000 
+-,90 
+1,07 
+6 
+,409 
+,462 
+1,000 
+-1,08 
+1,90 
+7 
+1,010 
+,526 
+1,000 
+-,69 
+2,71 
+8 
+1,113 
+,565 
+1,000 
+-,71 
+2,93 
+9 
+,583 
+,472 
+1,000 
+-,94 
+2,11 
+5 
+1 
+-,192 
+,317 
+1,000 
+-1,21 
+,83 
+2 
+-,109 
+,292 
+1,000 
+-1,05 
+,83 
+3 
+-,139 
+,299 
+1,000 
+-1,10 
+,83 
+4 
+-,083 
+,305 
+1,000 
+-1,07 
+,90 
+6 
+,327 
+,459 
+1,000 
+-1,15 
+1,80 
+7 
+,928 
+,524 
+1,000 
+-,76 
+2,61 
+8 
+1,030 
+,562 
+1,000 
+-,78 
+2,84 
+9 
+,501 
+,469 
+1,000 
+-1,01 
+2,01 
+6 
+1 
+-,519 
+,470 
+1,000 
+-2,03 
+,99 
+2 
+-,436 
+,454 
+1,000 
+-1,90 
+1,02 
+3 
+-,465 
+,458 
+1,000 
+-1,94 
+1,01 
+4 
+-,409 
+,462 
+1,000 
+-1,90 
+1,08 
+5 
+-,327 
+,459 
+1,000 
+-1,80 
+1,15 
+7 
+,601 
+,628 
+1,000 
+-1,42 
+2,62 
+8 
+,704 
+,660 
+1,000 
+-1,42 
+2,83 
+9 
+,174 
+,584 
+1,000 
+-1,71 
+2,05 
+7 
+1 
+-1,120 
+,533 
+1,000 
+-2,84 
+,60 
+2 
+-1,037 
+,519 
+1,000 
+-2,71 
+,63 
+3 
+-1,067 
+,523 
+1,000 
+-2,75 
+,62 
+4 
+-1,010 
+,526 
+1,000 
+-2,71 
+,69 
+5 
+-,928 
+,524 
+1,000 
+-2,61 
+,76 
+6 
+-,601 
+,628 
+1,000 
+-2,62 
+1,42 
+8 
+,103 
+,707 
+1,000 
+-2,17 
+2,38 
+9 
+-,427 
+,636 
+1,000 
+-2,47 
+1,62 
+8 
+1 
+-1,222 
+,571 
+1,000 
+-3,06 
+,62 
+
+92 
+ 
+2 
+-1,140 
+,558 
+1,000 
+-2,94 
+,66 
+3 
+-1,169 
+,561 
+1,000 
+-2,98 
+,64 
+4 
+-1,113 
+,565 
+1,000 
+-2,93 
+,71 
+5 
+-1,030 
+,562 
+1,000 
+-2,84 
+,78 
+6 
+-,704 
+,660 
+1,000 
+-2,83 
+1,42 
+7 
+-,103 
+,707 
+1,000 
+-2,38 
+2,17 
+9 
+-,529 
+,668 
+1,000 
+-2,68 
+1,62 
+9 
+1 
+-,693 
+,480 
+1,000 
+-2,24 
+,85 
+2 
+-,610 
+,464 
+1,000 
+-2,11 
+,88 
+3 
+-,640 
+,469 
+1,000 
+-2,15 
+,87 
+4 
+-,583 
+,472 
+1,000 
+-2,11 
+,94 
+5 
+-,501 
+,469 
+1,000 
+-2,01 
+1,01 
+6 
+-,174 
+,584 
+1,000 
+-2,05 
+1,71 
+7 
+,427 
+,636 
+1,000 
+-1,62 
+2,47 
+8 
+,529 
+,668 
+1,000 
+-1,62 
+2,68 
+Sustain 
+1 
+2 
+-,008 
+,239 
+1,000 
+-,78 
+,76 
+3 
+,156 
+,244 
+1,000 
+-,63 
+,94 
+4 
+,129 
+,249 
+1,000 
+-,67 
+,93 
+5 
+,001 
+,245 
+1,000 
+-,79 
+,79 
+6 
+,975 
+,364 
+,275 
+-,20 
+2,15 
+7 
+,574 
+,413 
+1,000 
+-,76 
+1,90 
+8 
+-,035 
+,442 
+1,000 
+-1,46 
+1,39 
+9 
+-,110 
+,372 
+1,000 
+-1,31 
+1,09 
+2 
+1 
+,008 
+,239 
+1,000 
+-,76 
+,78 
+3 
+,164 
+,225 
+1,000 
+-,56 
+,89 
+4 
+,138 
+,230 
+1,000 
+-,60 
+,88 
+5 
+,009 
+,226 
+1,000 
+-,72 
+,74 
+6 
+,983 
+,351 
+,193 
+-,15 
+2,11 
+7 
+,582 
+,402 
+1,000 
+-,71 
+1,88 
+8 
+-,027 
+,432 
+1,000 
+-1,42 
+1,36 
+9 
+-,101 
+,359 
+1,000 
+-1,26 
+1,06 
+3 
+1 
+-,156 
+,244 
+1,000 
+-,94 
+,63 
+2 
+-,164 
+,225 
+1,000 
+-,89 
+,56 
+4 
+-,027 
+,235 
+1,000 
+-,79 
+,73 
+5 
+-,156 
+,232 
+1,000 
+-,90 
+,59 
+6 
+,819 
+,355 
+,772 
+-,32 
+1,96 
+7 
+,418 
+,405 
+1,000 
+-,89 
+1,72 
+8 
+-,191 
+,435 
+1,000 
+-1,59 
+1,21 
+9 
+-,266 
+,363 
+1,000 
+-1,43 
+,90 
+4 
+1 
+-,129 
+,249 
+1,000 
+-,93 
+,67 
+2 
+-,138 
+,230 
+1,000 
+-,88 
+,60 
+3 
+,027 
+,235 
+1,000 
+-,73 
+,79 
+5 
+-,129 
+,236 
+1,000 
+-,89 
+,63 
+
+93 
+ 
+6 
+,846 
+,358 
+,668 
+-,31 
+2,00 
+7 
+,444 
+,408 
+1,000 
+-,87 
+1,76 
+8 
+-,164 
+,437 
+1,000 
+-1,57 
+1,24 
+9 
+-,239 
+,366 
+1,000 
+-1,42 
+,94 
+5 
+1 
+-,001 
+,245 
+1,000 
+-,79 
+,79 
+2 
+-,009 
+,226 
+1,000 
+-,74 
+,72 
+3 
+,156 
+,232 
+1,000 
+-,59 
+,90 
+4 
+,129 
+,236 
+1,000 
+-,63 
+,89 
+6 
+,975 
+,355 
+,229 
+-,17 
+2,12 
+7 
+,573 
+,405 
+1,000 
+-,73 
+1,88 
+8 
+-,035 
+,435 
+1,000 
+-1,44 
+1,37 
+9 
+-,110 
+,363 
+1,000 
+-1,28 
+1,06 
+6 
+1 
+-,975 
+,364 
+,275 
+-2,15 
+,20 
+2 
+-,983 
+,351 
+,193 
+-2,11 
+,15 
+3 
+-,819 
+,355 
+,772 
+-1,96 
+,32 
+4 
+-,846 
+,358 
+,668 
+-2,00 
+,31 
+5 
+-,975 
+,355 
+,229 
+-2,12 
+,17 
+7 
+-,402 
+,486 
+1,000 
+-1,97 
+1,16 
+8 
+-1,010 
+,511 
+1,000 
+-2,66 
+,64 
+9 
+-1,085 
+,452 
+,606 
+-2,54 
+,37 
+7 
+1 
+-,574 
+,413 
+1,000 
+-1,90 
+,76 
+2 
+-,582 
+,402 
+1,000 
+-1,88 
+,71 
+3 
+-,418 
+,405 
+1,000 
+-1,72 
+,89 
+4 
+-,444 
+,408 
+1,000 
+-1,76 
+,87 
+5 
+-,573 
+,405 
+1,000 
+-1,88 
+,73 
+6 
+,402 
+,486 
+1,000 
+-1,16 
+1,97 
+8 
+-,608 
+,547 
+1,000 
+-2,37 
+1,15 
+9 
+-,683 
+,492 
+1,000 
+-2,27 
+,90 
+8 
+1 
+,035 
+,442 
+1,000 
+-1,39 
+1,46 
+2 
+,027 
+,432 
+1,000 
+-1,36 
+1,42 
+3 
+,191 
+,435 
+1,000 
+-1,21 
+1,59 
+4 
+,164 
+,437 
+1,000 
+-1,24 
+1,57 
+5 
+,035 
+,435 
+1,000 
+-1,37 
+1,44 
+6 
+1,010 
+,511 
+1,000 
+-,64 
+2,66 
+7 
+,608 
+,547 
+1,000 
+-1,15 
+2,37 
+9 
+-,075 
+,517 
+1,000 
+-1,74 
+1,59 
+9 
+1 
+,110 
+,372 
+1,000 
+-1,09 
+1,31 
+2 
+,101 
+,359 
+1,000 
+-1,06 
+1,26 
+3 
+,266 
+,363 
+1,000 
+-,90 
+1,43 
+4 
+,239 
+,366 
+1,000 
+-,94 
+1,42 
+5 
+,110 
+,363 
+1,000 
+-1,06 
+1,28 
+6 
+1,085 
+,452 
+,606 
+-,37 
+2,54 
+7 
+,683 
+,492 
+1,000 
+-,90 
+2,27 
+
+94 
+ 
+8 
+,075 
+,517 
+1,000 
+-1,59 
+1,74 
+Reduce 
+1 
+2 
+,016 
+,264 
+1,000 
+-,84 
+,87 
+3 
+,219 
+,270 
+1,000 
+-,65 
+1,09 
+4 
+-,073 
+,275 
+1,000 
+-,96 
+,81 
+5 
+-,080 
+,271 
+1,000 
+-,95 
+,79 
+6 
+,991 
+,402 
+,510 
+-,30 
+2,29 
+7 
+,243 
+,456 
+1,000 
+-1,23 
+1,71 
+8 
+-,428 
+,489 
+1,000 
+-2,00 
+1,15 
+9 
+-,035 
+,411 
+1,000 
+-1,36 
+1,29 
+2 
+1 
+-,016 
+,264 
+1,000 
+-,87 
+,84 
+3 
+,203 
+,249 
+1,000 
+-,60 
+1,00 
+4 
+-,089 
+,254 
+1,000 
+-,91 
+,73 
+5 
+-,096 
+,250 
+1,000 
+-,90 
+,71 
+6 
+,974 
+,388 
+,450 
+-,28 
+2,22 
+7 
+,227 
+,444 
+1,000 
+-1,20 
+1,66 
+8 
+-,445 
+,477 
+1,000 
+-1,98 
+1,09 
+9 
+-,052 
+,397 
+1,000 
+-1,33 
+1,23 
+3 
+1 
+-,219 
+,270 
+1,000 
+-1,09 
+,65 
+2 
+-,203 
+,249 
+1,000 
+-1,00 
+,60 
+4 
+-,292 
+,260 
+1,000 
+-1,13 
+,55 
+5 
+-,299 
+,256 
+1,000 
+-1,12 
+,53 
+6 
+,772 
+,392 
+1,000 
+-,49 
+2,04 
+7 
+,024 
+,448 
+1,000 
+-1,42 
+1,47 
+8 
+-,647 
+,481 
+1,000 
+-2,20 
+,90 
+9 
+-,254 
+,401 
+1,000 
+-1,55 
+1,04 
+4 
+1 
+,073 
+,275 
+1,000 
+-,81 
+,96 
+2 
+,089 
+,254 
+1,000 
+-,73 
+,91 
+3 
+,292 
+,260 
+1,000 
+-,55 
+1,13 
+5 
+-,007 
+,261 
+1,000 
+-,85 
+,83 
+6 
+1,064 
+,395 
+,269 
+-,21 
+2,34 
+7 
+,316 
+,451 
+1,000 
+-1,14 
+1,77 
+8 
+-,356 
+,483 
+1,000 
+-1,91 
+1,20 
+9 
+,037 
+,404 
+1,000 
+-1,27 
+1,34 
+5 
+1 
+,080 
+,271 
+1,000 
+-,79 
+,95 
+2 
+,096 
+,250 
+1,000 
+-,71 
+,90 
+3 
+,299 
+,256 
+1,000 
+-,53 
+1,12 
+4 
+,007 
+,261 
+1,000 
+-,83 
+,85 
+6 
+1,071 
+,393 
+,242 
+-,19 
+2,34 
+7 
+,323 
+,448 
+1,000 
+-1,12 
+1,77 
+8 
+-,348 
+,481 
+1,000 
+-1,90 
+1,20 
+9 
+,045 
+,402 
+1,000 
+-1,25 
+1,34 
+6 
+1 
+-,991 
+,402 
+,510 
+-2,29 
+,30 
+2 
+-,974 
+,388 
+,450 
+-2,22 
+,28 
+
+95 
+ 
+3 
+-,772 
+,392 
+1,000 
+-2,04 
+,49 
+4 
+-1,064 
+,395 
+,269 
+-2,34 
+,21 
+5 
+-1,071 
+,393 
+,242 
+-2,34 
+,19 
+7 
+-,748 
+,538 
+1,000 
+-2,48 
+,98 
+8 
+-1,419 
+,565 
+,449 
+-3,24 
+,40 
+9 
+-1,026 
+,500 
+1,000 
+-2,64 
+,58 
+7 
+1 
+-,243 
+,456 
+1,000 
+-1,71 
+1,23 
+2 
+-,227 
+,444 
+1,000 
+-1,66 
+1,20 
+3 
+-,024 
+,448 
+1,000 
+-1,47 
+1,42 
+4 
+-,316 
+,451 
+1,000 
+-1,77 
+1,14 
+5 
+-,323 
+,448 
+1,000 
+-1,77 
+1,12 
+6 
+,748 
+,538 
+1,000 
+-,98 
+2,48 
+8 
+-,671 
+,605 
+1,000 
+-2,62 
+1,28 
+9 
+-,278 
+,544 
+1,000 
+-2,03 
+1,47 
+8 
+1 
+,428 
+,489 
+1,000 
+-1,15 
+2,00 
+2 
+,445 
+,477 
+1,000 
+-1,09 
+1,98 
+3 
+,647 
+,481 
+1,000 
+-,90 
+2,20 
+4 
+,356 
+,483 
+1,000 
+-1,20 
+1,91 
+5 
+,348 
+,481 
+1,000 
+-1,20 
+1,90 
+6 
+1,419 
+,565 
+,449 
+-,40 
+3,24 
+7 
+,671 
+,605 
+1,000 
+-1,28 
+2,62 
+9 
+,393 
+,572 
+1,000 
+-1,45 
+2,23 
+9 
+1 
+,035 
+,411 
+1,000 
+-1,29 
+1,36 
+2 
+,052 
+,397 
+1,000 
+-1,23 
+1,33 
+3 
+,254 
+,401 
+1,000 
+-1,04 
+1,55 
+4 
+-,037 
+,404 
+1,000 
+-1,34 
+1,27 
+5 
+-,045 
+,402 
+1,000 
+-1,34 
+1,25 
+6 
+1,026 
+,500 
+1,000 
+-,58 
+2,64 
+7 
+,278 
+,544 
+1,000 
+-1,47 
+2,03 
+8 
+-,393 
+,572 
+1,000 
+-2,23 
+1,45 
+ 
+ 
+ 
+
+96 
+ 
+CROSSTABS most frequently purchased clothes by education 
+Chi-Square Tests 
+ 
+Value 
+df 
+Asymptotic 
+Significance 
+(2-sided) 
+Pearson Chi-Square 
+8,163a 
+5 
+,147 
+Likelihood Ratio 
+7,827 
+5 
+,166 
+Linear-by-Linear 
+Association 
+6,310 
+1 
+,012 
+N of Valid Cases 
+382 
+ 
+ 
+a. 2 cells (16,7%) have expected count less than 5. The minimum 
+expected count is ,94. 
+ 
+CROSSTABS most frequently purchased clothes by income 
+Chi-Square Tests 
+ 
+Value 
+df 
+Asymptotic 
+Significance 
+(2-sided) 
+Pearson Chi-Square 
+7,084a 
+8 
+,528 
+Likelihood Ratio 
+6,959 
+8 
+,541 
+Linear-by-Linear 
+Association 
+,460 
+1 
+,498 
+N of Valid Cases 
+382 
+ 
+ 
+a. 4 cells (22,2%) have expected count less than 5. The minimum 
+expected count is 2,59. 
+ 
+CROSSTABS most frequently purchased clothes by sex 
+Chi-Square Tests 
+ 
+Value 
+df 
+Asymptotic 
+Significance 
+(2-sided) 
+Exact Sig. (2sided) 
+Exact Sig. (1sided) 
+Pearson Chi-Square 
+1,811a 
+1 
+,178 
+ 
+ 
+Continuity Correctionb 
+1,423 
+1 
+,233 
+ 
+ 
+Likelihood Ratio 
+1,905 
+1 
+,167 
+ 
+ 
+Fisher's Exact Test 
+ 
+ 
+ 
+,221 
+,115 
+Linear-by-Linear 
+Association 
+1,806 
+1 
+,179 
+ 
+ 
+N of Valid Cases 
+375 
+ 
+ 
+ 
+ 
+a. 0 cells (,0%) have expected count less than 5. The minimum expected count is 17,40. 
+b. Computed only for a 2x2 table 
+ 
+CROSSTABS most frequently purchased clothes by age 
+ 
+Chi-Square Tests 
+ 
+Value 
+df 
+Asymptotic 
+Significance 
+(2-sided) 
+Pearson Chi-Square 
+3,241a 
+2 
+,198 
+Likelihood Ratio 
+3,072 
+2 
+,215 
+Linear-by-Linear 
+Association 
+1,968 
+1 
+,161 
+N of Valid Cases 
+382 
+ 
+ 
+a. 1 cells (16,7%) have expected count less than 5. The minimum 
+expected count is 2,12. 
+
+97

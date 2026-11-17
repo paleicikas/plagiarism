@@ -1,0 +1,30 @@
+CAGE Substance Abuse Screening Tool 
+Directions: Ask your patients these four questions and use the scoring method described 
+below to determine if substance abuse exists and needs to be addressed. 
+ 
+CAGE Questions 
+1. Have you ever felt you should cut down on your drinking? 
+2. Have people annoyed you by criticizing your drinking? 
+3. Have you ever felt bad or guilty about your drinking? 
+4. Have you ever had a drink first thing in the morning to steady your nerves or to 
+get rid of a hangover (eye-opener)? 
+ 
+ 
+CAGE Questions Adapted to Include Drug Use (CAGE-AID) 
+1. Have you ever felt you ought to cut down on your drinking or drug use? 
+2. Have people annoyed you by criticizing your drinking or drug use? 
+3. Have you felt bad or guilty about your drinking or drug use? 
+4. Have you ever had a drink or used drugs first thing in the morning to steady 
+your nerves or to get rid of a hangover (eye-opener)? 
+ 
+Scoring: Item responses on the CAGE questions are scored 0 for "no" and 1 for "yes" 
+answers, with a higher score being an indication of alcohol problems. A total score of 
+two or greater is considered clinically significant. 
+The normal cutoff for the CAGE is two positive answers, however, the Consensus Panel 
+recommends that the primary care clinicians lower the threshold to one positive answer 
+to cast a wider net and identify more patients who may have substance abuse disorders. 
+A number of other screening tools are available. 
+ 
+CAGE is derived from the four questions of the tool: Cut down, Annoyed, Guilty, and Eye-opener 
+ 
+CAGE Source: Ewing 1984

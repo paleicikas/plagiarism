@@ -1,0 +1,34 @@
+Last Updated: 2nd May 2025
+The popularity of game-based learning and gamification has grown rapidly; by applying learning theories when designing both, we can ensure that they are engaging.
+Personal and Professional Development
+Article
+In recent years, the popularity of game-based learning (the use of games for learning purposes) and gamification (the use of game elements in a non-game context) has grown rapidly.
+By applying learning theories when designing learning games or gamified solutions, we can ensure that they are engaging, as well as effective learning tools.
+Motivation is one of the key elements of games. There are different types of motivation:
+- âIntrinsic motivationâ originates within the learner: the learners experiences a learning activity as rewarding in itself.
+- âExtrinsic motivationâ refers to the learner carrying out an activity to obtain a reward (e.g. praise, points or a badge) or to avoid a punishment.
+Here are some motivational models that might be useful references when designing learning games:
+Malone's theory of intrinsically motivating instruction
+In 1980, Thomas Malone was the first academic to publish a study on gamification and what makes games fun and motivational. According to Malone, the three key elements are challenge (learners cannot be sure that they will be able to reach a specific outcome), fantasy (defined by Malone as an environment âthat evokes mental images of things not present to the senses or within the actual experience of the person involvedâ) and curiosity (the environment needs to stimulate the learnersâ curiosity).
+ARCS model
+In the mid-1980s, the educational psychologist John Keller devised the ARCS model. It is often used as a framework when instructional designing. The four components that support motivation are: attention (gaining the learners attention to interest them in the content), relevance of the material, confidence (learners need to be confident to be able to be successful) and the learnersâ satisfaction with the value of the learning.
+Lepper's instructional design principles for intrinsic motivation
+According to Mark Lepper, intrinsic motivation in learning activities can be supported by giving learners a sense of control, providing activities that challenge learner continually, appealing to their sense of curiosity and placing learning activities in an authentic context.
+The taxonomy of intrinsic motivation
+This taxonomy combines Lepperâs and Maloneâs discoveries. It consists of two sections. Section one lists challenge, curiosity, control and fantasy as elements that support intrinsic motivation. Section two mentions cooperation, competition and recognition of achievements as elements that increase interpersonal motivation.
+Operant conditioning
+Operant conditioning increases motivation by providing external rewards. These rewards can be provided:
+- in unpredictable ways (the learner's do not know which action will trigger a reward)
+- after a learner has collected a specific number of points, coins, etc.
+- after a fixed amount of time has passed.
+- after a variable amount of time has passed (e.g. sometimes a reward is provided every two minutes, then after five minutes, etc.)
+Self-determination theory (SDT) sees motivation as internally driven. Its key elements are autonomy (the learner feeling in control), competence (challenge and mastery) and relatedness (feeling connected to others).
+By designing learning games that learners want to keep playing, the learning is distributed over time, which is a powerful way to deepen the learning and support retention.
+In some games, a player moves from level-to-level having to apply more skills when moving to the next stage. This is very similar to the concept of âscaffoldingâ where learners move gradually towards more complex tasks that originally would have been beyond their capabilities.
+This use of levels in learning games helps to progress the learning as well as maintain the learnersâ interest.
+Social learning theory states that individuals learn from each other through observation in a social situation. By observing and imitating the behaviour of others, individuals can learn to change their own behaviour.
+In a similar way, individuals can also learn from avatars in a virtual environment. Using avatars in games has several advantages:
+- The avatar is available whenever the learner plays the game.
+- In a game environment, the desired behaviour can be demonstrated and practised in an infinite number of different contexts.
+- Learners can play the game as often as necessary.
+- Learners can practice the desired behaviour in a safe environment.

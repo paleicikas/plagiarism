@@ -1,0 +1,21 @@
+Multi-Item Scale
+A series of related questions, where the answers to each of the questions are combined in some way to construct an estimate of some underlying or abstract variable. Most commonly, Rating Scales are used (see definition 1) and the answers are summed or averaged.[note 1]
+Multi-item scales are typically applied when seeking to measure things that cannot be directly asked due to being either particularly technical and thus not explainable to a survey respondent, or, because they are ill-defined and a shotgun approach is required.
+Example
+The following four questions seek to measure the extent to which a person's consumption decisions are influenced by others:[1]
+- "I often consult other people to help choose the best alternative available from a product class."
+- "To make sure I buy the right product or brand, I often observe what others are buying and using."
+- "If I have little experience with a product, I often ask my friends about the product."
+- "I frequently gather information from friends and family about a product before I buy."
+Assumptions
+- The items are substantively different. That is, items such as "I love this" and "I like this a lot" are only trivially different, whereas "I love this" and "This does what I need" are substantively different.
+- The items cover a broad range of the possible items (i.e., they are not selected so that they inadvertently only relate to a specific aspect of the concept being measured).
+- The variance of each item is approximately equal.
+See also
+- Measuring Abstract Concepts on marketresearch.org.
+- Cronbach's Alpha
+- Principal Components Analysis
+Notes
+References
+Cite error: <ref> tags exist for a group named "note", but no corresponding <references group="note"/> tag was found
+- ↑ Bearden, William O., Richard G. Netemeyer, and Jesse E. Teel (1989), "Measurement of Consumer Susceptibility to Interpersonal Influence," Journal of Consumer Research, 15 (March), 473-481.

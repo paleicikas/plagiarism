@@ -1,0 +1,907 @@
+Perceived Behavioral Control, Self-Efficacy, Locus of 
+Control, and the Theory of Planned Behavior1 
+ICEK AJZEN~ 
+University of Massachusetts-Amherst 
+Conceptual and methodological ambiguities surrounding the concept of perceived behav- 
+ioral control are clarified. It is shown that perceived control over performance of a behav- 
+ior, though comprised of separable components that reflect beliefs about self-efficacy and 
+about controllability, can nevertheless be considered a unitary latent variable in a hierar- 
+chical factor model. It is further argued that there is no necessary correspondence between 
+self-efficacy and internal control factors, or between controllability and external control 
+factors. Self-efficacy and controllability can reflect internal as well as external factors and 
+the extent to which they reflect one or the other is an empirical question. Finally, a case is 
+made that measures of perceived behavioral control need to incorporate self-efficacy as 
+well as controllability items that are carefully selected to ensure high internal consistency. 
+The theory of planned behavior (Ajzen, 1988, 1991) has emerged as one of 
+the most influential and popular conceptual frameworks for the study of human 
+action (Ajzen, 200 1). Briefly, according to the theory, human behavior is guided 
+by three kinds of considerations: beliefs about the likely consequences or other 
+attributes of the behavior (behavioral beliefs), beliefs about the normative expec- 
+tations of other people (normative beliefs), and beliefs about the presence of fac- 
+tors that may further or hinder performance of the behavior (control beliefs). In 
+their respective aggregates, behavioral beliefs produce a favorable or unfavorable 
+attitude toward the behavior; normative beliefs result in perceived social pressure 
+or subjective norm; and control beliefs give rise to perceived behavioral control, 
+the perceived ease or difficulty of performing the behavior. In combination, atti- 
+tude toward the behavior, subjective norm, and perception of behavioral control 
+lead to the formation of a behavioral intention. Finally, given a sufficient degree 
+of actual control over the behavior, people are expected to carry out their inten- 
+tions when the opportunity arises. Intention is thus assumed to be the immediate 
+antecedent of behavior. However, because many behaviors pose difficulties of 
+execution that may limit volitional control, it is useful to consider perceived 
+'1 am grateful to Paul Sparks for his comments on an earlier version of this article. 
+*Correspondence concerning this article should be addressed to Icek Ajzen, Department of Psy- 
+chology, Tobin Hall-Box 37710, University of Massachusetts, Amherst, MA 01003-7710. E-mail: 
+aizen@psych.umass.edu 
+665 
+Journal ofApplied Social Psychology, 2002, 32, 4, pp. 665-683. 
+Copyright 0 2002 by V. H. Winston & Son, Inc. All rights resewed. 
+
+666 
+ICEK AJZEN 
+behavioral control in addition to intention. To the extent that people are realistic 
+in their judgments of a behavior's difficulty, a measure of perceived behavioral 
+control can serve as a proxy for actual control and contribute to the prediction of 
+the behavior in question. Support for the theory in general is summarized in a 
+meta-analysis (Armitage & Conner, 2001), a review of the literature (Sutton, 
+1998), and a summary of its applications to health-related behavior (Conner & 
+Sparks, 1996). In addition, a review of recent research on the theory of planned 
+behavior can be found in Ajzen (2001). 
+The Concept of Perceived Behavioral Control 
+Notwithstanding the theory's overall success, vexing problems remain 
+(Armitage & Conner, 1999b; Conner & Armitage, 1998; Sheeran & Orbell, 
+1999a; Sutton, 1998). The present article addresses one of these problems, 
+namely, the nature and measurement of perceived behavioral control. The theory 
+of planned behavior was derived from the theory of reasoned action (Fishbein & 
+Ajzen, 1975), which assumed that most human social behavior is under volitional 
+control and, hence, can be predicted from intentions alone. The construct of per- 
+ceived behavioral control was added in an attempt to deal with situations in 
+which people may lack complete volitional control over the behavior of interest. 
+For example, consider a college graduate who intends to secure an advertised 
+position in a high-tech company. It is immediately apparent that carrying out this 
+intention is not completely under the person's control. Although she may do 
+everything in her power to obtain the position-sending 
+in her resume with a per- 
+suasive accompanying letter, calling the company's personnel department, and 
+establishing contacts with current employees-she 
+will be disappointed if the 
+employer decides to hire a different applicant who is perhaps more qualified or 
+who has connections inside the company. The lack of control in this case resides 
+in the fact that getting an advertised position requires action not only on the part 
+of the applicant but is also dependent on the actions of one or more other individ- 
+uals. In fact, for this reason, getting a job would usually be classified as a goal, 
+not a behavior, whereas applying for the job might be considered a behavior per- 
+formed to attain the goal. 
+However, a moment's reflection reveals that the "behaviors" leading up to 
+attainment of a goal must themselves be considered intermediate goals with their 
+own potential problems of execution. To return to the above example, applying 
+for the advertised position is arguably under greater volitional control than is get- 
+ting it, but the application may still be thwarted by a variety of factors. The pro- 
+spective applicant may find it impossible to obtain required letters of reference 
+and other documentation in time to meet the application deadline; or else, she 
+might be stricken by a serious illness, preventing her from preparing the applica- 
+tion. In short, even mundane everyday behaviors can be subject to unforeseen 
+
+PERCEIVED BEHAVIORAL CONTROL 667 
+obstacles, and volitional control over behavior is therefore best considered a mat- 
+ter of degree rather than kind, The concept of perceived behavioral control was 
+introduced into the theory of planned behavior to accommodate the nonvolitional 
+elements inherent, at least potentially, in all behaviors. Even when not particu- 
+larly realistic, perceived behavioral control is likely to affect intentions. All else 
+equal, a high level of perceived control should strengthen a person's intention to 
+perform the behavior, and increase effort and perseverance. In this fashion, per- 
+ceived behavioral control can affect behavior indirectly, by its impact on inten- 
+tion. And when perceived behavioral control is veridical, it provides useful 
+information about the actual control a person can exercise in the situation and can 
+therefore be used as an additional direct predictor of behavior.3 
+Perceived Self- EfJicucy 
+The concept of perceived behavioral control is by no means new or original to 
+the theory of planned behavior. A similar idea appears in the health belief model 
+(Rosenstock, 1966), where it is termed barriers, and in the model of interpersonal 
+behavior (Triandis, 1977), where it takes the form of facilitating conditions. Per- 
+ceived behavioral control owes its greatest debt, however, to Bandura's work on 
+self-efficacy (Bandura, 1977, 1989, 1997). 
+Perceived self-efficacy refers to "people's beliefs about their capabilities to 
+exercise control over their own level of functioning and over events that affect 
+their lives" (Bandura, 199 1, p. 257). Defined at this general level, perceived self- 
+efficacy differs greatly from perceived behavioral control, which is focused on 
+the ability to perform a particular behavior. However, efficacy expectation also is 
+defined as "the conviction that one can successfully execute the behavior 
+required to produce (certain outcomes)" and, consistent with this definition, per- 
+ceived self-efficacy is said to refer to "beliefs in one's capabilities to organize 
+and execute the courses of action required to produce given levels of attain- 
+ments" (Bandura, 1998, p. 624). In these definitions, the concern is clearly with 
+control over the behavior itself, not with control over outcomes or events. Now a 
+central feature of social cognitive theory (Bandura, 1986), self-efficacy was 
+introduced to deal with coping behavior in the context of behavior modification 
+(Bandura, 1977). Like the clinical strategy of successive approximation to the 
+desired goal, a behavior is broken down into its successive elements, and self- 
+efficacy is analyzed in terms of perceived ability to perform each step in the 
+3Logically, perceived behavioral control, rather than having a direct effect, is expected to interact 
+with attitudes and with subjective norms in determining intentions, and with intentions in its effects 
+on behavior (Ajzen, 1985). Empirically, however, interactions of this kind can be expected only if 
+values of the predictor variables cover the full range of possible scores, such that the product term is 
+fully expressed in the prediction. Research to date has revealed little evidence for the expected inter- 
+actions, and the simpler additive model has been used in most applications. 
+
+668 
+ICEK AJZEN 
+sequence or under a variety of circumstances (Bandura & Cervone, 1983; 
+Bandura & Schunk, 198 1; Bandura & Wood, 1989). 
+It can be seen that perceived behavioral control and self-efficacy are quite 
+similar: Both are concerned with perceived ability to perform a behavior (or 
+sequence of behaviors). In retrospect, the decision to use the term "perceived 
+behavioral control" to denote this component in the theory of planned behavior 
+may have been misleading. This term has sometimes been taken to refer to the 
+belief that performance of a behavior affords control over attainment of an out- 
+come. This, of course, is not the intended meaning. Perceived behavioral control 
+simply denotes subjective degree of control over performance of the behavior 
+itself. The distinction here is the same as that between efficacy expectation (i.e., 
+the perceived ability to perform a behavior) and outcome expectation (i.e., the 
+perceived likelihood that performing the behavior will produce a given outcome; 
+Bandura, 1 977).4 To avoid misunderstandings of this kind, the term "perceived 
+behavioral control" should be read as "perceived control over performance of a 
+behavior." 
+Measuring Perceived Behavioral Control 
+Like attitude and subjective norm, perceived behavioral control can be mea- 
+sured by asking direct questions about capability to perform a behavior or indi- 
+rectly on the basis of beliefs about ability to deal with specific inhibiting or 
+facilitating factors. The great majority of studies performed to date have used the 
+direct approach, but belief-based measures have the advantage of providing 
+insight into the cognitive foundation underlying perceptions of behavioral con- 
+trol. 
+Belief Based Measures 
+Pilot work is required to elicit salient or accessible control beliefs. Respon- 
+dents are asked to generate a list of factors they believe could make it easier or 
+more difficult for them to perform the behavior. The questionnaire constructed in 
+the main part of the research then either uses the accessible factors generated by a 
+given participant (personal accessible belief), or a standard list of the most com- 
+monly mentioned factors (modal accessible beliefs). To obtain theory-relevant 
+information about these control factors, two sets of questions can be posed with 
+4Related to this issue, it has recently been suggested that perceived self-efficacy, as indexed by 
+judgments of easy-difficult, may be indistinguishable from attitude toward the behavior (Leach, 
+Hennessy, & Fishbein, 1999). Conceptually, however, the two constructs are quite distinct. Attitude 
+toward a behavior IS related to the subjective values of the behavior's perceived outcomes-that is, 
+outcome expectancies, whereas self-efficacy or perceived behavioral control has to do with perceived 
+ability to perform the behavior (is., self-efficacy expectations). 
+
+PERCEIVED BEHAVIORAL CONTROL 669 
+respect to each. Respondents can be asked to indicate (a) the perceived likelihood 
+(or frequency) of a given control factor being present (strength of control belief), 
+and (b) the extent to which the control factor's presence has the power to facili- 
+tate or impede performance of the behavior (power of control belief). 
+For example, in the pilot phase of a study on leisure behavior (Ajzen & 
+Driver, 199 l), college students identified four factors that could make mountain 
+climbing easier or more difficult for them: good weather, not having proper 
+equipment, living near mountains, and lacking skills and knowledge. In the main 
+study, a new sample of respondents indicated, with respect to each of these fac- 
+tors, the extent to which it was true for them and the effect it would have on their 
+ability to go mountain climbing. The following items illustrate the measurement 
+procedure with respect to one of the control beliefs. 
+Control belief strength (c). I don't have the proper equipment for mountain 
+climbing. 
+True: 1 : 2 : 3 : 4 : 5 : 6 : 7 : F a l s e 
+Control beliefpower 0). 
+Not having the proper equipment makes mountain 
+Easier for me : I : 2 : 3 : 4 : 5 : 6 : 7 : More difficult for me. 
+In accordance with an expectancy-value formulation, a belief-based measure 
+of perceived behavioral control is obtained by multiplying belief strength and 
+power, and summing the resulting products over all accessible control factors, as 
+shown in the following equation.5 
+climbing 
+In a similar fashion, Armitage and Conner (1999b) elicited seven accessible 
+control factors related to eating a low-fat diet, factors involving time, cost, will- 
+power, inconvenience, lack of knowledge, rumination, and familiarity. With 
+respect to each, the investigators used 7-point scales to measure belief strength and 
+power. In other behavioral domains, different types of control beliefs are found to 
+be relevant. Thus, in the area of academic achievement (Ajzen & Madden, 1986), 
+pilot work identified eight factors that could make obtaining a good grade easier or 
+more difficult: other classes with demands on time and energy, involvement in 
+extracurricular activities, stimulating subject matter, difficult text and reading 
+materials, difficult exams and other requirements, clear and well-organized lec- 
+tures, the student's skills and background, and availability of assistance. As can be 
+seen, some control factors are internal to the actor (e.g., skills, knowledge, back- 
+ground, willpower) while others are external (e.g., living near mountains; diffi- 
+culty of assigned readings and exams; availability of assistance, time, and money). 
+50ptimal scaling procedures should be applied to determine unipolar or bipolar scoring of these 
+scales (Ajzen, 1991). 
+
+670 
+ICEK AJZEN 
+Table 1 
+Direct Measures of Perceived Behavioral Control 
+Reli- 
+Source 
+Behavior 
+Items used 
+ability 
+.90 
+Sheeran and 
+Taking a multi- For me to . . . would be very easy- 
+vitamin pill 
+very difficult 
+Orbell 
+(1 999b, 
+Study 2) 
+Courneya, 
+Bobick, and 
+Schinke 
+(1 999, 
+Study 1) 
+Conner and 
+McMillan 
+( 1999) 
+Conner, 
+Sheeran, 
+Norman, 
+and 
+Armitage 
+Netemeyer, 
+Burton, and 
+Johnston 
+(1991, 
+Study 1) 
+Godin et al. 
+(1 996) 
+(2000) 
+every day for 
+the next 3 
+weeks 
+If I want to I will easily be able to . . . 
+The number of external influences 
+that may prevent me from . . . 
+How much control do you think you 
+have over your ability to . . . 
+Participating in For me to . . . is extremely difficult- 
+regular physi- 
+extremely easy 
+cal exercise 
+How much control do you have over 
+If I wanted to I could easily . . . 
+How much control do you think you 
+How much do you feel that whether 
+If I wanted to, I could easily . . . 
+For me . . . would be difficult-easy 
+health check- 
+I could easily . . . if I wanted to 
+measured on 
+How much control have you over. . . 
+two occasions 
+. . . 
+Using cannabis/ For me . . . would be difficult-easy 
+have over . . . 
+. . . is beyond your control 
+marijuana in 
+the next 3 
+months 
+Attending a 
+Voting in the 
+For me . . . is difficult-easy 
+October 24th 
+If I wanted to I could easily. . . 
+governor's 
+How much control do you have over 
+election pri- 
+whether you do or do not . . . 
+mary 
+It is mostly up to me whether. . . 
+Using acondom For me . . . would be very difficult- 
+each time I 
+very easy 
+have sexual 
+If I wanted to I would make sure . . . 
+intercourse 
+I feel I would be capable of convinc- 
+with a new 
+partner in the 
+next 3 
+months-3 
+samples 
+ing my new partner to. . . 
+.8 I 
+.90 
+.61, 
+.74 
+.76 
+.79, 
+.63, 
+.83 
+
+PERCEIVED BEHAVIORAL CONTROL 671 
+The belief-based measure of perceived behavioral control aggregates across all 
+accessible control factors, whether internal or external. 
+Direct Measures 
+In a parallel fashion, direct measures of perceived behavioral control are 
+designed to capture the perceived facilitating and inhibiting effects of all accessi- 
+ble control factors. A variety of direct questions have been used to elicit respon- 
+dents' perceptions of the extent to which they are capable of performing a given 
+behavior or attaining a behavioral goal. Table 1 displays items used in a sample 
+of recent studies, together with the reported reliabilities (usually alpha coeffi- 
+cients) of the composite scores. Clearly, there is considerable commonality in the 
+items employed, some dealing with the ease or difficulty of performing a behav- 
+ior, others with the degree of control over performing it. In the set of studies 
+shown in Table 1, the internal consistencies or reliabilities of the measures were 
+quite high, ranging from .61 to .90. A meta-analysis of 90 studies that assessed 
+perceived behavioral control in the context of the theory of planned behavior 
+showed the average alpha coefficient to be about .65 (Cheung & Chan, 2000). 
+Interestingly, the meta-analysis also revealed that, in comparison to the reliabili- 
+ties of attitudes and subjective norms, the alpha coefficients of perceived behav- 
+ioral control measures varied considerably across studies. The measures used in 
+some studies had relatively low reliability while in other studies, their reliability 
+was very high. These findings suggest that it is possible to obtain high reliabili- 
+ties with direct measures of perceived behavioral control, but this is not assured 
+and care must be taken in the formative stages of the research to formulate appro- 
+priate control items.6 
+Perceived Self-Eficacy Versus Controllability 
+Several investigators have questioned the unitary conception of perceived 
+behavioral control. Items concerned with the ease or difficulty of performing a 
+behavior, or confidence in one's ability to perform it, are often said to measure 
+perceived self-efficacy and they are contrasted with items that address control 
+over the behavior, or the extent to which its performance is up to the actor 
+(Armitage & Conner, 1999b; Manstead & van Eekelen, 1998; Terry & O'Leary, 
+1995). The characterization of self-efficacy beliefs as confidence in one's ability 
+6Because belief-based measures of perceived behavioral control rely on accessible beliefs gener- 
+ated by the research population, the question of reliability is of less relevance there. According to the 
+theory, perceived behavioral control is based on all accessible control beliefs, whatever their internal 
+reliability. Just as it is possible for attitudes to reflect an evaluatively ambivalent set of behavioral 
+beliefs, so too can perceived behavioral control reflect a set of control beliefs that are internally incon- 
+sistent-some 
+implying high control, others low control. 
+
+672 
+ICEK AJZEN 
+to perform a behavior is, in fact, quite consistent with Bandura's (1997) use and 
+operationalization of the term. In work with the self-efficacy concept, partici- 
+pants are typically asked to rate their confidence in their ability to perform a 
+behavior under a variety of circumstances. For example, in a study of snake pho- 
+bia, participants rated their capability of executing a series of 18 progressively 
+more threatening interactions with a boa constrictor (Bandura, Adams, & Beyer, 
+1977; see also Bandura, 1977). The ratings were made on a 100-point scale rang- 
+ing, in 10-unit intervals, from 1 (great uncertainty) to 100 (complete certain@). 
+In another study using the same rating scale (Bandura & Schunk, 198 l), children 
+were shown 25 subtraction problems of varying difficulty levels and were asked 
+to rate their certainty that they could solve each. This approach is considered to 
+be the standard methodology for assessing efficacy beliefs (Bandura, 1997). 
+Empirical research provides considerable evidence for the distinction 
+between measures of self-efficacy (ease or difficulty of performing a behavior) 
+and measures of controllability (beliefs about the extent to which performing the 
+behavior is up to the actor). The meta-analysis of perceived behavioral control 
+mentioned earlier (Cheung & Chan, 2000) classified studies in terms of the type 
+of items employed. A small number of studies used only questions related to con- 
+trollability. However, most employed either self-efficacy items alone, or a mix- 
+ture of self-efficacy and controllability items. Perceived self-efficacy was found 
+to account for significant portions of variance in intentions, beyond attitudes and 
+subjective norms, and in behavior, over and above intentions. In contrast, con- 
+trollability added significantly to the prediction of behavior but not to the predic- 
+tion of intentions, while the mixed sets of items significantly improved prediction 
+of intentions but not of behavior. 
+The studies included in Cheung and Chan's (2000) meta-analysis did not set 
+out to test the distinction between self-efficacy and controllability. In recent 
+years, several investigators have explored this distinction explicitly by examining 
+its discriminant validity and by comparing the predictive validities of self-effi- 
+cacy and controllability measures in the same study. Table 2 summarizes the 
+types of items that have been used to distinguish between the two constructs, and 
+shows the reliabilities of the corresponding measures (except for the study by 
+Manstead and van Eekelen, 1998, which did not report reliability coefficients). 
+Terry and O'Leary (1995) applied the theory of planned behavior to the pre- 
+diction of regular exercise (at least 20 min three times a week for 2 weeks). Per- 
+ceived controllability was assessed by means of four items, and perceived self- 
+efficacy by means of three items. Participants reported their actual exercise 
+behavior 2 weeks following administration of the theory of planned behavior 
+questionnaire. Structural equation modeling confirmed the two-factor structure 
+of perceived behavioral control: A model that contained self-efficacy and con- 
+trollability as separate latent variables provided a significantly better fit to the 
+data than did a model that combined the seven indicators of perceived behavioral 
+
+PERCEIVED BEHAVIORAL CONTROL 673 
+Table 2 
+Self-Eficacy Versus Controllability 
+Relia- 
+Source 
+Behavior 
+Self-efficacy 
+Controllability 
+bilitya 
+Sample items 
+~~ 
+Terry and 
+Engaging in 
+For me to. . . is 
+How much 
+.80 
+O'Leary 
+regular 
+very diacult- 
+control do you 
+3 5 
+(1 995) 
+exercise in 
+very easy 
+have. . . 
+next two 
+I feel in complete 
+weeks 
+would be easy for 
+control over. . . 
+If I wanted to, it 
+me to. . . I* B- 
+I- B* 
+Manstead and Attaining at 
+For me . . . is very 
+. . . is completely 
+n/a 
+van Eekelen 
+least a grade 7 
+difficult-very 
+up to me 
+(1 998) 
+in History, 
+easy 
+How much 
+English, and 
+I am certain that I 
+control do you 
+Physics class 
+can. . . I* B* 
+have over. . . 
+I- B- 
+Armitage and Eating a low-fat I believe I have the How much 
+.83 
+Conner 
+diet in next 
+ability to . . . 
+personal control .71 
+(1 999a, 
+month 
+How confident are 
+do you feel you 
+Time 1) 
+you that you will 
+have over. . . 
+be able to . . . I* 
+Whether or not 
+B* 
+. . . is entirely up 
+to me I- B- 
+Armitage and Eating a low-fat I believe I have the Whether or not 
+.83 
+Conner 
+diet in the 
+ability to . . . 
+. . . is entirely up .70 
+(1999b, 
+future 
+To what extent do 
+to me 
+Time 1) 
+you see yourself 
+How much do you 
+as capable of. . . 
+feel that . . . is 
+I* B- 
+beyond your 
+control I- B- 
+Sparks et al. 
+Reducing the 
+For me to . . . would It is mostly up to 
+.90 
+(1997, two 
+amount of red 
+be easydifficult 
+me whether or 
+.83 
+studies) 
+meavfrench 
+How certain are you 
+not I . . . 
+fries that I eat 
+that you could . . . How much 
+fromnow on 
+I* 
+control do you 
+have over. . . I- 
+Note. I*, B* = significant effect on intention or behavior, respectively. I-, B- = nonsig- 
+nificant effect on intention or behavior, respectively. 
+"The first reliability coefficient refers to the self-efficacy scale, the second to the con- 
+trollability scale. 
+
+674 
+ICEK AJZEN 
+control into a single latent variable. As can be seen in Table 2, the sets of items 
+comprising the two constructs each had high reliability (a = .80 and .85, respec- 
+tively); the reliability of the combined measure was not reported. As to predictive 
+validity, the self-efficacy measure revealed a strong and significant path to inten- 
+tions but not to behavior, whereas perceived controllability had no effect on 
+intentions but was a significant predictor of actual behavior. 
+A conceptually similar study was reported by Manstead and van Eekelen 
+(1 998) who asked high school students to respond to a theory of planned behav- 
+ior questionnaire concerning the goal of attaining at least a 7 (out of 10) in 
+upcoming exams in History, English, and Physics classes. The questionnaire 
+included six items designed to assess perceived behavioral control. A principal 
+components analysis followed by oblique rotation revealed two factors, one com- 
+prised of self-efficacy items, the other of controllability items (see Table 2 for 
+examples). Multiple regression analyses were performed to test the predictive 
+validity of the two control factors. Contrary to the findings reported by Terry and 
+O'Leary (1995), self-efficacy was found to make significant contributions to the 
+prediction of intentions as well as actual grade attainment in all three classes, 
+whereas controllability predicted neither. 
+Two studies by Armitage and Conner (1 999a, 199913) looked at eating a low- 
+fat diet in different populations. In one study (Annitage & Conner, 1999b), a the- 
+ory of planned behavior questionnaire was administered at two points in time, 
+while in the other (Armitage & Conner, 1999a) behavior was assessed 1 month 
+after administration of the initial questionnaire. In each study, principal compo- 
+nents analysis of the self-efficacy and controllability items, followed by orthogo- 
+nal rotation, revealed that the two expected factors and alpha coefficients 
+(ranging from .70 to .87) of the factor-based scores were satisfactory. With 
+respect to the prediction of intentions and behavior, the two studies revealed 
+somewhat different patterns. In the first study (Armitage & Conner, 1999b), 
+when the two measures were entered into a regression equation together with the 
+other variables in the theory of planned behavior, only perceived self-efficacy 
+accounted for independent variance in intentions, and neither measure added to 
+the prediction of behavior. In the second study (Armitage & Conner, 1999a), 
+self-efficacy added to the prediction of intentions and behavior, while controlla- 
+bility had little effect. 
+Finally, in an investigation of reducing red meat consumption, Sparks, 
+Guthrie, and Shepherd (1997) started with a set of 25 perceived behavioral con- 
+trol items culled from published research. Cronbach's alpha for the total set of 
+items was .93, indicating very high internal consistency. Nevertheless, a principal 
+components factor analysis, followed by orthogonal rotation of the first two fac- 
+tors, helped to create separate measures of self-efficacy and controllability. The 
+five items loading highest on each of the two factors were selected (see Table 2 
+for examples). The reliabilities of these measures were .90 and .83. However, 
+
+PERCEIVED BEHAVIORAL CONTROL 675 
+neither of the two measures made a significant contribution to the prediction of 
+intentions to reduce red meat consumption over and above attitudes and subjec- 
+tive norms. Perceived self-efficacy had a marginally significant effect, as had the 
+overall measure of perceived behavioral control based on the 25 original items. 
+However, in a second study that used the two 5-item scales derived in the first 
+study, self-efficacy significantly improved prediction of intentions to eat french 
+fries whereas perceived controllability had virtually no effect. 
+To summarize briefly, five studies explicitly designed to examine the facto- 
+rial structure of perceived behavioral control in the context of the theory of 
+planned behavior provided consistent support for the proposed distinction 
+between self-efficacy and controllability. Confirmatory as well as exploratory 
+factor analyses revealed two clearly separable factors, and there was very good 
+agreement on the type of items that load highly on these factors. Furthermore, the 
+scales derived for the two factors demonstrated high internal consistencies. 
+Inspection of Table 2 also shows that the two factors differed considerably in 
+their predictive validity. Whereas the addition of perceived self-efficacy always 
+improved prediction of intentions and, in two instances, the prediction of behav- 
+iors, perceived controllability had no significant effects on intentions and in only 
+one case did it account for a significant proportion of variance in behavior. These 
+findings are to some degree compatible with the results of the meta-analysis by 
+Cheung and Chen (2000). This analysis showed that self-efficacy measures 
+accounted for additional variance in intentions as well as behaviors, but control- 
+lability items predicted intentions only when combined with self-efficacy items. 
+A pure measure of perceived controllability did, however, account for additional 
+variance in behavior. 
+Perceived Behavioral Control Versus Locus of Control 
+Many factors may facilitate or impede performance of a behavior. Some of 
+these factors, including skills and willpower, are internal to the individual while 
+other factors, such as task demands and the actions of another person, are located 
+externally (Ajzen, 1985). The distinction between internal and external causes of 
+a behavior can have important implications. For instance, responsibility for suc- 
+cess or failure is attributed to the actor when perceived as caused by internal fac- 
+tors (ability or effort), but less so when perceived to be due to external factors 
+(task difficulty or luck; Weiner, Frieze, Kukla, Reed, & Rosenbaum, 1971; 
+Weiner & Kukla, 1970). Unfortunately, the internal versus external locus of a 
+control factor is often confused with control or lack of control over performance 
+of the behavior. This confusion can perhaps be traced to the concept ofperceived 
+locus of control (Rotter, 1966). People are said to differ in the extent to which 
+they view rewards, punishments, or other events in their lives as caused by their 
+own actions or by factors beyond their control. In a somewhat misleading 
+
+676 
+ICEK AJZEN 
+fashion, perceived behavioral control over outcomes is termed internal locus of 
+control whereas the perception that outcomes are determined by nonbehavioral 
+factors is termed external locus of control. However, closer analysis reveals that 
+perceived control over an outcome or event is independent of the internal or 
+external locus of the factors responsible for it. For instance, fear of flying is an 
+internal factor but people may nevertheless feel that they have little control over 
+it. Conversely, cooperation by another person is external, yet we may believe that 
+we would encounter little difficulty in securing the needed cooperation. In fact, 
+the same factor C for example, ability, an internal factor C is viewed by some 
+people as malleable and potentially under volitional control, and by other people 
+as immutable and hence not amenable to control (Dweck & Leggett, 1988; Hong, 
+Chiu, Dweck, Lin, & Wan, 1999). 
+The mistaken equation of control over performance of a behavior with inter- 
+nal locus, and lack of control with external locus, is also apparent in discussions 
+of self-efficacy versus controllability. Self-efficacy beliefs are said to reflect 
+internal factors whereas beliefs about the controllability of the behavior are 
+assumed to deal with external factors (e.g., Armitage & Conner, 1999b; 
+Manstead & van Eekelen, 1998; Terry & O'Leary, 1995). To be sure, the empiri- 
+cal evidence leaves little doubt that perceived self-efficacy differs substantially 
+from perceived controllability. Items that load highly on the self-efficacy factor 
+deal with the ease or difficulty of performing a behavior, with people's confi- 
+dence that they can perform it if they want to do so. On the other hand, controlla- 
+bility involves people's beliefs that they have control over the behavior, that 
+performance or nonperformance of the behavior is up to them. However, the fact 
+that self-efficacy beliefs can be reliably distinguished from perceived controlla- 
+bility tells us very little about the nature of these constructs. Specifically, no 
+independent evidence has been provided for the view that self-efficacy reflects 
+internal barriers and facilitators whereas perceived controllability reflects beliefs 
+about the operation of external factors. The ease or difficulty of performing a 
+behavior is conceptually independent of internal versus external locus. I may 
+believe that it would be easy for me to eat a low-fat diet because I have familiar- 
+ized myself with the fat contents of various foods (an internal factor) or because 
+low-fat foods are readily available (an external factor). Similarly, I may believe 
+that I have limited control over eating a low-fat diet because I have little will- 
+power (an internal factor) or because the dining hall where I have most of my 
+meals provides no information about the fat content of the food that is served (an 
+external factor). Most likely, perceived ease or difficulty of performing a behav- 
+ior reflects beliefs about the presence of internal as well as external factors that 
+may further or impede performance of a behavior, and the same is true of per- 
+ceived controllability. 
+Consistent with this line of reasoning, perceived behavioral control in the the- 
+ory of planned behavior refers generally to people's expectations regarding the 
+
+PERCEIVED BEHAVIORAL CONTROL 677 
+degree to which they are capable of performing a given behavior, the extent to 
+which they have the requisite resources and believe they can overcome whatever 
+obstacles they may encounter. Whether these resources and obstacles are internal 
+or external to the person is immaterial. The theory is concerned only with the 
+extent to which they are believed to be present and are perceived to facilitate or 
+impede performance of the behavior under consideration. When people believe 
+that they have the required resources and opportunities (e.g., skills, time, money, 
+cooperation by others), and that the obstacles they are likely to encounter are few 
+and manageable, they should have confidence in their ability to perform the 
+behavior and thus exhibit a high degree of perceived behavioral control. Con- 
+versely, when they believe that they lack requisite resources or that they are 
+likely to encounter serious obstacles, they should judge performance of the 
+behavior to be relatively difficult and hold a low level of perceived behavioral 
+control. This is true, whether the resources and obstacles in question are located 
+internally or externally. 
+There is also no indication in Bandura's theorizing that self-efficacy beliefs 
+are restricted to internal factors (see Bandura, 1997, for an in-depth discussion of 
+self-efficacy). This is confirmed by examining specific control beliefs sometimes 
+assessed in work with the self-efficacy construct. For example, in a study dealing 
+with the ability to find a job and housing (Epel, Bandura, & Zimbardo, 1999), 
+homeless people were asked to rate, on a 9-point scale, the strength of their 
+beliefs that they can construct a resum&, impress employers and rental agents, 
+and get others to help them, all factors that could influence attainment of the 
+behavioral goals. The ability to construct a rtsumt and impress others could be 
+considered internal factors, but receiving help from others usually would be clas- 
+sified as an external factor.' 
+To be sure, it is possible that respondents confronted with questions about 
+their ability to perform a behavior (self-efficacy items) consider mainly internal 
+rather than external factors, and that beliefs about external factors are more 
+readily accessible when respondents ponder whether performance of the behavior 
+is completely up to them (controllability questions). However, whether this is in 
+fact the case is an empirical question and cannot be taken for granted. Of the five 
+studies summarized in Table 2, only one (Armitage & Conner, 1999b) examined 
+the relation of specific beliefs to the separate measures of self-efficacy and con- 
+trollability, and it demonstrated the problematic nature of the distinction between 
+internal and external locus of causality. Seven control beliefs were identified in 
+this study and were used to predict self-efficacy and controllability by means of 
+multiple regressions. Some of the beliefs seemed to tap internal factors (e.g., "To 
+'Note that respondents were asked about their ability to attain control over the external factor. 
+Thus, although receiving help from others is an external factor whose presence would facilitate per- 
+formance of the behavior, the crucial issue for perceived control over the behavior is whether people 
+believe that it is within their power to secure the needed help. 
+
+678 
+ICEK AJZEN 
+eat a low-fat diet requires willpower"), others external factors (e.g., "Eating a 
+low-fat diet costs too much money"). Still other beliefs would be difficult to clas- 
+sify. For example, the belief that "eating a low-fat diet is inconvenient" may refer 
+to an internal disinclination to prepare low-fat foods or to external lack of avail- 
+ability. Similarly, "I don't always know which foods are low in fat" may reflect a 
+failure to obtain the needed information (internal) or its lack of availability 
+(external). As might be expected, therefore, the results of the study were rather 
+ambiguous. In general, there was considerable overlap between control beliefs 
+that predicted controllability and self-efficacy. Two beliefs considered to reflect 
+internal factors ("I do not have enough time to eat a low-fat diet" and "I have 
+always eaten a low-fat diet") had significant regression weights in the prediction 
+of self-efficacy as well as controllability, and examination of the zero-order cor- 
+relations revealed significant associations between all seven beliefs and each of 
+the two control indices. 
+A Hierarchical Model of Perceived Behavioral Control 
+Control over execution of a behavior depends on the presence of various 
+internal and external factors that may serve to facilitate or interfere. The fact that 
+it is possible to distinguish reliably between two different types of control-self- 
+efficacy and controllability-does 
+not invalidate the unitary nature of the con- 
+struct. To take a more familiar example, few would dispute the claim that it is 
+possible to distinguish between analytical and verbal types of intelligence. In 
+fact, finer distinctions can and have been made. Yet, at the same time, we can 
+usefully think of overall intelligence as a higher-order category with analytical 
+and verbal components. By the same token, global attitudes are often conceptual- 
+ized as containing discriminable components of cognition and affect (Rosenberg, 
+1956), and the same case has been made with respect to attitudes toward a behav- 
+ior (Ajzen & Driver, 1991). In short, a hierarchical model may best describe the 
+relations among perceived self-efficacy, perceived controllability, and perceived 
+behavioral control, as shown in Figure 1. In this model, self-efficacy and control- 
+lability are two separate components each assessed by means of different indica- 
+tors. Yet, together they comprise the higher-order concept of perceived 
+behavioral control. 
+This hierarchical model implies that although perceived self-efficacy and per- 
+ceived controllability can be reliably distinguished, they should nevertheless be 
+correlated with each other. Unfortunately, the studies that have provided evi- 
+dence for the discriminant validity of self-efficacy and controllability have failed 
+to examine convergence. Still, the findings reviewed earlier strongly suggest that 
+thc two components are correlated. First, control beliefs that are presumed to 
+reflect one or the other of the two factors are actually found to overlap (Armitage 
+& Conner, 1999b). Second, the fact that an oblique factor solution can provide a 
+
+PERCEIVED BEHAVIORAL CONTROL 679 
+Perceived 
+behavioral 
+control 
+controlla- 
+Figure 1. Hierarchical model of perceived behavioral control. 
+good fit to the data (Manstead & van Eekelen, 1998) suggests a substantial 
+correlation between the components. Finally, mixed measures that contain self- 
+efficacy as well as controllability items show considerable internal consistency 
+(Cheung & Chan, 2000). In fact, the highest internal consistency was reported for 
+a large set of mixed items (Sparks et al., 1997). 
+Often adapting items used in prior investigations, most studies reported in the 
+literature have assessed perceived behavioral control by means of a few arbitrarily 
+selected questions whose reliability was not established in prior research, a prac- 
+tice that is contrary to recommended scale construction procedures (Fishbein & 
+Ajzen, 1975). My colleagues and I are guilty of similarly negligent practices in 
+our own research. As a result, measures of perceived behavioral control have often 
+lacked high internal consistency. The findings reviewed earlier indicate that this is 
+not an inevitable property of inclusive measures. Careful selection of control items 
+in formative research can produce measures of perceived behavioral control that 
+reflect self-efficacy as well as controllability, yet have good psychometric proper- 
+ties. For some purposes, it will be sufficient to compute a single overall index of 
+perceived behavioral control, but at other times the objectives of a research pro- 
+gram may require separate measures of self-efficacy and controllability. 
+Summary and Conclusions 
+Perceived control over performance of a behavior can account for consider- 
+able variance in intentions and actions. However, ambiguities surrounding the 
+concept of perceived behavioral control have tended to create uncertainties and to 
+impede progress. The present article attempted to clarify conceptual ambiguities 
+
+680 
+ICEK AJZEN 
+and resolve issues related to the operationalization of perceived behavioral 
+control. Recent research has demonstrated that the overarching concept of per- 
+ceived behavioral control, as commonly assessed, is comprised of two compo- 
+nents: self-efficacy (dealing largely with the ease or difficulty of performing a 
+behavior) and controllability (the extent to which performance is up to the actor). 
+Contrary to a widely accepted view, it was argued that self-efficacy expectations 
+do not necessarily correspond to beliefs about internal control factors, and that 
+controllability expectations have no necessary basis in the perceived operation of 
+external factors. Instead, it was suggested that self-efficacy and controllability 
+may both reflect beliefs about the presence of internal as well as external factors. 
+Rather than making a priori assumptions about the internal or external locus of 
+self-efficacy and controllability, this issue is best treated as an empirical question. 
+Also of theoretical significance, the present article tried to dispel the notion 
+that self-efficacy and controllability are incompatible with, or independent of, 
+each other. Although factor analyses of perceived behavioral control items pro- 
+vide clear and consistent evidence for the distinction, there is sufficient common- 
+ality between self-efficacy and controllability to suggest a two-level hierarchical 
+model. In this model, perceived behavioral control is the overarching, superordi- 
+nate construct that is comprised of two lower-level components: self-efficacy and 
+controllability. This view of the control component in the theory of planned 
+behavior implies that measures of perceived behavioral control should contain 
+items that assess self-efficacy as well as controllability. Depending on the pur- 
+pose of the investigation, a decision can be made to aggregate over all items, 
+treating perceived behavioral control as a unitary factor, or to distinguish 
+between self-efficacy and controllability by entering separate indices into the 
+prediction equation. 
+References 
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. In 
+J. Kuhl & J. Beckman (Eds.), Action-control: From cognition to behavior 
+(pp. 11-39). Heidelberg, Germany: Springer. 
+Ajzen, I. (1988). Attitudes, personaliQ, and behavior. Chicago, IL: Dorsey. 
+Ajzcn, I. (1 99 I). The theory of planned behavior. Organizational Behavior and 
+Ajzen, I. (2001). Attitudes. Annual Review of Psychology, 52,27-58. 
+Ajzen, I., & Driver, B. L. (1991). Prediction of leisure participation from behav- 
+ioral, normative, and control beliefs: An application of the theory of planned 
+behavior, Leisure Sciences, 13, 185-204. 
+Ajzen, I., & Madden, T. J. (1986). Prediction of goal-directed behavior: Atti- 
+tudes, intentions, and perceived behavioral control. Journal of Experimental 
+Social Psychology, 22,453-474. 
+Human Decision Processes, 50, 179-2 1 1. 
+
+PERCEIVED BEHAVIORAL CONTROL 681 
+Armitage, C. .I., & Conner, M. (1999a). Distinguishing perceptions of control 
+from self-efficacy: Predicting consumption of a low-fat diet using the theory 
+of planned behavior. Journal of Applied Social Psychology, 29,72-90. 
+Armitage, C. J., & Conner, M. (1999). The theory of planned behaviour: Assess- 
+ment of predictive validity and "perceived control." British Journal of Social 
+Armitage, C. J., & Conner, M. (2001). Efficacy of the theory of planned behavior: 
+A meta-analytic review. British Journal of Social Psychology, 40,47 1-499. 
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral 
+change. Psychological Review, 84, 19 1-2 1 5. 
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive 
+theory. Englewood Cliffs, NJ: Prentice-Hall. 
+Bandura, A. (1989). Human agency in social cognitive theory. American Psy- 
+chologist, 44, 1 175- 1 1 84. 
+Bandura, A. (1 99 1). Social cognitive theory of self-regulation. Organizational 
+Behavior and Human Decision Processes, 50,248-287. 
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York, NY 
+Freeman. 
+Bandura, A. (1998). Health promotion from the perspective of social cognitive 
+theory. Psychology and Health, 13,623-649. 
+Bandura, A., Adams, N. E., & Beyer, J. (1977). Cognitive processes mediating 
+behavioral change. Journal of Personality and Social Psychology, 35, 
+Bandura, A., & Cervone, D. (1983). Self-evaluative and self-efficacy mecha- 
+nisms governing the motivational effects of goal systems. Journal ofperson- 
+ality & Social Psychology, 45, 10 1 7- 1028. 
+Bandura, A., & Schunk, D. H. (1981). Cultivating competence, self-efficacy, and 
+intrinsic interest through proximal self-motivation. Journal of Personality & 
+Social Psychology, 41, 586-598. 
+Bandura, A., & Wood, R. (1989). Effect of perceived controllability and perfor- 
+mance standards on self-regulation of complex decision making. Journal of 
+Personality & Social Psychology, 56, 805-814. 
+Cheung, S.-F., & Chan, D. K.-S. (2000). The role ofperceived behavioral control 
+in predicting human behavior: A meta-analytic review of studies on the 
+theory of planned behavior. Unpublished manuscript, Chinese University of 
+Hong Kong. 
+Conner, M., & Armitage, C. J. (1998). Extending the theory of planned behavior: 
+A review and avenues for further research. Journal of Applied Social Psy- 
+Conner, M., & McMillan, B. (1999). Interaction effects in the theory of planned 
+behavior: Studying cannabis use. British Journal of Social Psychology, 38, 
+Psychology, 38,35-54. 
+125-1 39. 
+chology, 28, 1429-1464. 
+195-222. 
+
+682 
+ICEK AJZEN 
+Conner, M., Sheeran, P., Norman, P., & Armitage, C. J. (2000). Temporal stabil- 
+ity as a moderator of the relationships in the theory of planned behavior. Brit- 
+ish Journal of Social Psychology, 3 9,469-494. 
+Conner, M., & Sparks, P. (1996). The theory of planned behaviour and health 
+behaviours. In M. Conner & P. Norman (Eds.), Predicting health behaviour: 
+Research and practice with social cognition models (pp. 121 -I 62). Bucking- 
+ham, UK: Open University Press. 
+Courneya, K. S., Bobick, T. M., & Schinke, R. J. (1999). Does the theory of 
+planned behavior mediate the relation between personality and exercise 
+behavior'? Basic and Applied Social Psychology, 21, 3 11-324. 
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation 
+and personality. Psychological Review, 95,256-273. 
+Epel, E. S., Bandura, A., & Zimbardo, P. G. (1999). Escaping homelessness: The 
+influences of self-efficacy and time perspective on coping with homelessness. 
+Journal of Applied Social Psychology, 29, 575-596. 
+Fishbein, M., & Ajzen, I. (1975). Beliefi attitude, intention, and behavior: An 
+introduction to theory and research. Reading, MA: Addison-Wesley. 
+Godin, G., Maticka-Tyndale, E., Adrien, A., Manson-Singer, S., Willms, D., & 
+Cappon, P. ( 1996). Cross-cultural testing of three social cognitive theories: 
+An application to condom use. Journal of Applied Social Psychology, 26, 
+Hong, Y.-y., Chiu, C.-y., Dweck, C. S., Lin, D. M. S., & Wan, W. (1999). 
+Implicit theories, attributions, and coping: A meaning system approach. Jour- 
+nal of Personality and Social Psychology, 77, 588-599. 
+Leach, M., Hennessy, M., & Fishbein, M. (1999). Perception of easy-difficult: 
+Attitude or self-qfficacy? Unpublished manuscript. 
+Manstead, A. S. R., & van Eekelen, S. A. M. (1998). Distinguishing between 
+perceived behavioral control and self-efficacy in the domain of academic 
+intentions and behaviors. Journal of Applied Social Psychology, 28, 1375- 
+1392. 
+Netemeyer, R. G., Burton, S., & Johnston, M. (1991). A comparison of two mod- 
+els for the prediction of volitional and goal-directed behaviors: A confirma- 
+tory analysis approach. Social Psychology Quarterly, 54, 87- 100. 
+Rosenberg, M. J. (1 956). Cognitive structure and attitudinal affect. Journal of 
+Abnormal and Social Psychology, 53,367-312. 
+Rosenstock, I. (1 966). Why people use health services. Milbank Memorial Fund 
+Quarterly, 44,94- 124. 
+Rotter, J. B. (1 966). Generalized expectancies for internal versus external control 
+of reinforcement. Psychological Monographs (General & Applied), 80, 1-28. 
+Sheeran, P., & Orbell, S. (1999a). Augmenting the theory of planned behavior: 
+Roles for anticipated regret and descriptive norms. Journal ofApplied Social 
+Psychology, 29,2 107-2 142. 
+1556- 1586. 
+
+PERCEIVED BEHAVIORAL CONTROL 683 
+Sheeran, P., & Orbell, S. (1999b). Implementation intentions and repeated behav- 
+iour: Augmenting the predictive validity of the theory of planned behaviour. 
+European Journal of Social Psychology, 29,349-369. 
+Sparks, P., Guthrie, C. A., & Shepherd, R. (1997). The dimensional structure of 
+the perceived behavioral control construct. Journal of Applied Social Psy- 
+Sutton, S. (1998). Predicting and explaining intentions and behavior: How well 
+are we doing? Journal of Applied Social Psychology, 28, 1 3 17- 1338. 
+Terry, D. J., & O'Leary, J. E. (1995). The theory of planned behaviour: The 
+effects of perceived behavioural control and self-efficacy. British Journal of 
+Social Psychology, 34, 199-220. 
+chology, 27,418-438. 
+Triandis, H. C. (1 977). Interpersonal behavior. Monterey, CA: Brooks/Cole. 
+Weiner, B., Frieze, I., Kukla, A., Reed, L., & Rosenbaum, R. M. (1 97 1). Perceiv- 
+ing the causes of success and failure. New York, NY: General Learning 
+Press. 
+Weiner, B., & Kukla, A. (1970). An attributional analysis of achievement moti- 
+vation. Journal of Personality & Social Psycholoo, 15, 1-20.

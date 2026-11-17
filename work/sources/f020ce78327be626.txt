@@ -1,0 +1,259 @@
+Abstract
+Background
+Information on previous traumatic dental injuries is important as they can lead to increased complications during orthodontic treatment and impact the treatment planning and outcomes. The aim of this study was to assess the knowledge of Jordanian orthodontists in orthodontic management of traumatized permanent teeth.
+Methods
+Cross-sectional survey among active registered orthodontists using a questionnaire distributed by hand.
+Results
+The study included 139 orthodontists. Nearly half of orthodontists treated between one to three patients with a history of traumatic dental injuries in the past 3 months. Only 43.2% of the participant asked routinely about history of trauma. A vast discrepancy in times waited before orthodontic movement and in the orthodontic management approach of traumatized teeth was noted. A statistically significant negative relationship between age and knowledge level was found (p = 0.002). A significantly higher level of knowledge was found among participants who had fellowship or board certification than those having the high diploma degree (P-0.032) and also who had treated patients with history of dental trauma in the last 3 months than those who did not (p = 0.001).
+Conclusions
+The knowledge of the surveyed orthodontists in both the recommended observation period before orthodontic treatment and management approaches of traumatized teeth during orthodontic treatment was insufficient. Years of clinical experience significantly affected knowledge, with older participants having lower levels of knowledge. Orthodontists who treated patients with history of dental trauma in the last 3 months had significantly higher knowledge in orthodontic management of traumatized teeth. Orthodontists needs to be aware of the proper timing and strategies on orthodontic management of traumatized permanent teeth to improve the long term prognosis and to reduce further complications during orthodontic treatment through proper management.
+Supplementary Information
+The online version contains supplementary material available at 10.1186/s12903-024-04748-y.
+Keywords: Orthodontic management, Traumatized teeth, Orthodontists, Knowledge
+Background
+Traumatic dental injuries (TDIs) occur frequently in children and young adults, comprising 5% of all injuries. 25% of all school children experience TDIs and 33% of adults have experienced trauma to the permanent dentition, with the majority of the injuries occurring before the age of 19 [1]. In a comprehensive review and meta-analysis it was estimated that more than one billion people around the world had TDI. The global prevalence of TDIs in the permanent dentition was 15.2% and the pooled TDIs prevalence in children aged 12 ± 1 years was 18.1% [2]. The most recent study conducted in Jordan among 12-years-old school children found that 14.6% had evidence of TDIs to their incisors [3]. A systematic review and meta-analysis estimated that increased overjet is responsible for more than two hundred million cases of TDIs around the world [4]. More recently, it was shown that increased overjet, lip incompetence and anterior open bite were significantly associated with higher risk for TDIs [5].
+Traumatic dental injuries can lead to increased complications during orthodontic treatment including increased amount of root resorption during treatment [6], and increased risk of loss of vitality [7]. These complications can lead to delay in starting orthodontic treatment. Consequently, it is important for the orthodontist to have the knowledge of the different types of TDIs, their management, and impact on orthodontic treatment to improve patient's outcomes and reduce complications during treatment [8-10]. A survey of orthodontists' knowledge of orthodontic management of traumatized teeth was conducted by Sandler et al. [9] in UK and had shown inconsistencies in management of traumatized teeth among orthodontists and highlighted the need for further information or advanced training in orthodontic management of traumatized teeth (Sandler et al., 2019). As a result, Sandler et al., published guidelines [10] based on the available literature, expert opinion and orthodontists' consensus drawn from the survey conducted in UK [9] to provide an evidence-based approach to treat orthodontic patients with history of TDIs [10]. Worldwide, a few studies had assessed knowledge of orthodontic management of traumatized teeth and demonstrated lack of knowledge and inconsistencies in treating patients in the recommended observation time before orthodontic treatment and management strategy [11-13]. To the best of our knowledge, this this the first study had been conducted in Jordan on the observation time before, including increased root resorption orthodontic treatment and management strategies. Therefore, the aim of this study was to assess orthodontist's knowledge and strategies applied in their orthodontic management of TDIs.
+Methods
+Ethical approval was obtained prior starting the study. The Jordan Dental Association was contacted to gain access to names, phone numbers and addresses of orthodontists who were registered. Individual signed written informed consent was obtained from all of the orthodontists who accepted to participate in the study.
+Study design and population
+A cross-sectional study was conducted among the orthodontists who are registered and actively practicing in Jordan. Data was collected from February 2022 until June 2023. At the time of the study, the total number of orthodontists was 220. The minimum sample size required at 0.05 two-tailed level of significance and margin error of 0.05 is at least 154 participants. This represent 70% of the sample and would meet the minimum required response rate and enhance the representativeness of the target [14]. Orthodontists who were not practicing in Jordan and general practitioners were excluded.
+This study used the same questionnaire developed and published by Sandler and coworkers [9] who upon request shared it with the investigators. The questionnaire consisted of 33 questions written in English language. Information collected in the questionnaire included the exposure to dental trauma cases, if asking about a history of dental trauma is a routine clinical practice when initially examining patients, and in patients with evidence/history of dental trauma, the most appropriate observation time, if any, before starting orthodontic movement for a range of different traumatic injuries. The questionnaire included questions about the management techniques used in moving traumatized teeth during orthodontic movement, and the participants' interest in further training/information on the orthodontic management of traumatized teeth. Questions about demographic information and clinical practice were added to the questionnaire (supplementary file). The answers were judged appropriate based on the recommendations of evidence and guidelines for the orthodontic management of the traumatized tooth [8, 10, 15].
+Data collection
+Orthodontists were contacted by phone to seek agreement to join the study and they were provided with a detailed description of the aims of the study and potential benefits arising from it. The questionnaires were distributed by hand to each orthodontist at his/her place of work and collected one week later.
+A pilot study was carried out on a group of ten orthodontists who were not part of the main study to evaluate the length of the questionnaire's items, the logical sequence of the questions, readability and ease of interpreting the questions. The questionnaire took respondents about ten minutes to complete. Reliability was tested by asking 10% of the respondents to complete the questionnaire on two separate occasions with an interval of about 2 weeks between the first and second time.
+Data processing and statistical analysis
+Data were processed and analyzed using the Statistical Package for Social Sciences (SPSS) software version 29 (SPSS®: Inc., Chicago, IL, USA). Frequencies, percentages were calculated. Pearson r correlation test, independent t-test, and Oneway ANOVA test were used to test relationships between the independent variables and knowledge in orthodontic management of traumatized teeth. To calculate the total knowledge, (timing before starting orthodontic movement of traumatized teeth, and management approaches of traumatized teeth during orthodontic movement), scores for each scale and subscales of knowledge were calculated. The maximum total knowledge score in the timing of orthodontic movement of traumatized teeth is 6, and the maximum total knowledge score in knowledge level of management strategies of traumatized teeth during orthodontic treatment is 7; thus the total knowledge score maximum is 13. The quartile equation was used to indicate the level of participant's knowledge (0-25%; very weak level, 25>-50%; weak level, 50>-75%; good level, 75>-100%; very good level). The statistically significance was set at P value < 0.05.
+Results
+Of the total of 220 orthodontists, only 139 accepted to participate which resulted in a response rate of 63.2%. Table 1 shows the demographic characteristic of the study sample. Only 43.2% of the participants routinely asked about the history of TDI during the initial orthodontic examination.
+Table 1.
+| Variables | | N (%) | 
+|---|---|---|
+| Sex | Male | 76 (54.7) | 
+| | Female | 63 (45.3) | 
+| Age (year) | 39.59 (9.51 SD) | | 
+| Type of higher degree obtained | Fellowship or board | 65 (46.8) | 
+| | Master | 56 (40.3) | 
+| | High diploma (1 year) | 10 (7.2) | 
+| | PhD | 8 (5.8) | 
+| Years of clinical experience in orthodontics | 11.04 (8.87 SD) | | 
+| Practice of orthodontics exclusively | No | 30 (21.6) | 
+| | Yes | 109 (78.4) | 
+| Number of treated patients with history of dental trauma in the last 3 months | None | 35 (25.2) | 
+| | 1-3 | 67 (48.2) | 
+| | 4-6 | 28 (20.1) | 
+| | 7-12 | 3 (2.2) | 
+| | > 12 | 6 (4.3) | 
+The answers of the respondents to questions about the observation time before starting orthodontic movement for each type of TDIs are presented in Table 2. Different answers on the suitable waiting time prior to orthodontic movement were given. Considering the appropriate answers [8, 10, 15], to start management of teeth with crown and crown/root fractures only 48.2% of participants answered appropriately as they wait 3 months before starting orthodontic movement, 35.3% wait 12 months for teeth with root fractures, 58.3% wait 3 months in case of minor damage to periodontium such as concussion, 28.1% wait 6 months and 13.7% wait 12 months for teeth with moderate to severe injury to periodontium such as intrusion. For endodontically treated traumatized teeth (obturated with gutta percha) 7.9% wait 3 months, and finally, 21.6% wait 6 months for traumatized teeth treated with regenerative endodontic techniques (RET).
+Table 2.
+| Dental trauma | Immediately | 3 M | 6 M | 12 M | Not sure | Refer to a colleague | 
+|---|---|---|---|---|---|---|
+| | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) | 
+| Crown and crown/root fractures | 25 (18%) | 67 † (48.2%) | 32 (23%) | 6 (4.3%) | 7 (5%) | 2 (1.4%) | 
+| Root fractures | 11 (7.9%) | 29 (20.9%) | 36 (25.9%) | 49 † (35.3%) | 13 (9.4%) | 1 (0.7%) | 
+| Minor damage to periodontium such as concussion | 31 (22.3%) | 81† (58.3%) | 22 (15.8%) | 4 (2.9%) | 1 (0.7%) | 0 (0%) | 
+| Moderate to severe injury to periodontium such as intrusion | 30 (21.6%) | 48 (34.5%) | 39† (28.1%) | 19† (13.7%) | 3 (2.2%) | 0 (0%) | 
+| Root canal treated tooth, due to trauma (obturated with gutta percha) | 39 (28.1%) | 46 (33.1%) | 39 (28.1%) | 11† (7.9%) | 4 (2.9%) | 0 (0%) | 
+| Traumatized teeth treated with RET | 19 (13.7%) | 31 (22.3%) | 34 (24.5%) | 30† (21.6%) | 25 (18%) | 0 (0%) | 
+The knowledge score of timing of orthodontic movement for traumatized teeth for the participants ranged from 0 to 6 with a mean of 2.15 out of 6. Only one participant answered all the questions appropriately. The quartile equation revealed that 36.7% (N = 51) of the sample had very weak knowledge level, 25.9% (N = 36) weak knowledge, 20.1% (N = 28) good knowledge, and 17.3% (N = 24) had very good knowledge level.
+Table 3 shows the answers to questions related to practiced management of traumatized teeth during orthodontic management. Considering the appropriate answers [8, 10, 15], the range of percentage of participants who gave an appropriate answer for the different types of TDIs went from 16.5 to 69.1%. For teeth with crown and crown/root fractures, 60.4% of the participants would change the archwire sequence to lessen orthodontic forces, 46% would perform regular testing for pulp sensibility and 56.1% carry out regular radiographic follow up. To deal with teeth that had root fracture, over half of the participants would change the archwire sequence to lessen orthodontic forces, 42.4% would perform regular testing for pulp sensibility, and more than two thirds carry out regular radiographic review. For teeth that had been subject to minor damage to the periodontium such as concussion, less than half would change the archwire sequence to lessen the orthodontic forces, nearly one third would perform regular testing for pulp sensibility and over one third would carry out regular radiographic review. Over half of the participants selected the option of modifying the archwire sequence to reduce orthodontic forces to deal with teeth that had experienced moderate-to‐severe damage to the periodontium such as intrusion, 60.4% carrying out regular sensibility testing for the pulp, and 63.3% would go for regular radiographic review. To manage endodontically treated traumatized teeth and obturated with gutta percha, less than half of the participants reported doing regular radiographic follow up evaluation and 37.4% opted to alter the archwire sequence to lessen orthodontic forces. Unexpectedly, 15.8% went for performing regular sensibility testing for the pulp on endodontically treated traumatized teeth and over one third (35.3%) reported managing these teeth in a similar way to teeth that had not experienced TDI. Of all participants, 16.5% and 64% would leave off the arch wire to manage traumatized teeth that had been treated with RET and ankylosed tooth, respectively.
+Table 3.
+| Dental trauma | Management | N (%) | 
+|---|---|---|
+| Crown and crown/root fractures | Same as non-traumatized teeth | 18 (12.9) | 
+| | Short recall intervals | 46 (33.1) | 
+| | Modify arch wire sequence to reduce orthodontic forces † | 84 (60.4) | 
+| | Regular sensibility testing † | 64 (46) | 
+| | Regular radiographic examination † | 78 (56.1) | 
+| | Leave off arch wire | 30 (21.6) | 
+| | Refer patient to other orthodontic colleagues | 2 (1.4) | 
+| Root fractures | Same as non-traumatized teeth | 5 (3.6) | 
+| | Short recall intervals | 44 (31.7) | 
+| | Modify arch wire sequence to reduce orthodontic forces † | 74 (53.2) | 
+| | Regular sensibility testing † | 59 (42.4) | 
+| | Regular radiographic examination † | 96 (69.1) | 
+| | Leave off arch wire | 45 (32.4) | 
+| | Refer patient to other orthodontic colleagues | 4 (2.9) | 
+| Minor damage to periodontium such as concussion | Same as non-traumatized teeth | 42 (30.2) | 
+| | Short recall intervals | 41 (29.5) | 
+| | Modify arch wire sequence to reduce orthodontic forces † | 65 (46.8) | 
+| | Regular sensibility testing † | 44 (31.7) | 
+| | Regular radiographic examination † | 51 (36.7) | 
+| | Leave off arch wire | 23 (16.5) | 
+| | Refer patient to other orthodontic colleagues | 23 (16.5) | 
+| Moderate to severe injury to periodontium such as intrusion | Same as non-traumatized teeth | 8 (5.8) | 
+| | Short recall intervals | 52 (37.4) | 
+| | Modify arch wire sequence to reduce orthodontic forces † | 82 (59) | 
+| | Regular sensibility testing † | 84 (60.4) | 
+| | Regular radiographic examination † | 88 (63.3) | 
+| | Leave off arch wire | 27 (19.4) | 
+| | Refer patient to other orthodontic colleagues | 4 (2.9) | 
+| Root canal treated tooth, due to trauma (obturated with gutta percha) | Same as non-traumatized teeth | 49 (35.3) | 
+| | Short recall intervals | 36 (25.9) | 
+| | Modify arch wire sequence to reduce orthodontic forces | 52 (37.4) | 
+| | Regular sensibility testing | 22 (15.8) | 
+| | Regular radiographic examination † | 62 (44.6) | 
+| | Leave off arch wire | 14 (10.1) | 
+| | Refer patient to other orthodontic colleagues | 3 (2.2) | 
+| Traumatized teeth treated with RET | Same as non-traumatized teeth | 34 (24.5) | 
+| | Short recall intervals | 36 (25.9) | 
+| | Modify arch wire sequence to reduce orthodontic forces † | 55 (39.6) | 
+| | Regular sensibility testing † | 46 (33.1) | 
+| | Regular radiographic examination † | 68 (48.9) | 
+| | Leave off arch wire † | 23 (16.5) | 
+| | Refer patient to other orthodontic colleagues | 11 (7.9) | 
+| Ankylosed tooth | Same as non-traumatized teeth | 11 (7.9) | 
+| | Short recall intervals | 19 (13.7) | 
+| | Modify arch wire sequence to reduce orthodontic forces | 18 (12.9) | 
+| | Regular sensibility testing | 33 (23.7) | 
+| | Regular radiographic examination | 44 (31.7) | 
+| | Leave off arch wire † | 89 (64) | 
+| | Refer patient to other orthodontic colleagues | 8 (5.8) | 
+Regarding the management of traumatized teeth during orthodontic movement, the knowledge score of the participants ranged from 0 to 7 with mean of 4.91. of all participant 20% answered all the questions appropriately. Using the quartile equation showed that 37.4% of the sample had very weak knowledge level, 18.7% had weak knowledge level, 24.5% had good knowledge, and 19.4% had very good knowledge level.
+The total knowledge scores for the participants (timing + management approaches of traumatized teeth during orthodontic treatment) ranged from 0 to 12 out of 13 with a mean of 7.06. The quartile equation showed that 28.8% (N = 40) of the participants had very weak knowledge level, 27.3% (N = 38) had weak knowledge, 25.2% (N = 35) had good knowledge, and 18.7% (N = 26) had very good knowledge level.
+Table 4 shows that the older participants were more likely to have lower knowledge level compared to younger participants. The Pearson r correlation coefficient shows that there was a statistically significant negative relationship between age and knowledge level in timing of orthodontic movement for traumatized tooth (p = 0.022), knowledge level of orthodontic management of traumatized teeth during orthodontic movement (p = 0.006), and the total knowledge level (p = 0.002). Also, participants with longer years of clinical experience were more likely to have lower knowledge level. A significant negative relationship was observed between years of clinical experience in orthodontics and knowledge level in timing of orthodontic movement of traumatized tooth (p = 0.003), knowledge level in orthodontic management of traumatized teeth during orthodontic movement (p = 0.001), and the total knowledge level (p < 0.001).
+Table 4.
+| | | Age | Years of clinical experience | 
+|---|---|---|---|
+| Total knowledge | r | - 0.256** | - 0.310** | 
+| | p | 0.002 | < 0.001 | 
+| Knowledge/ timing | r | - 0.194* | - 0.253** | 
+| | p | 0.022 | 0.003 | 
+| Knowledge/ management | r | - 0.234** | - 0.267** | 
+| | p | 0.006 | 0.001 | 
+**. Correlation is significant at the 0.01 level (2-tailed)
+*. Correlation is significant at the 0.05 level (2-tailed)
+Table 5 shows that the sex and type of practice had no effect on knowledge of the participant. The oneway ANOVA test (Table 6) showed a statistically significant difference in the total knowledge level between participants with different educational levels (p = 0.023). Scheffe post hoc test demonstrated a statistically significant difference between the mean of total knowledge level of participants who had fellowship or board certifications and those with high diploma (p = 0.032).
+Table 5.
+| | N (%) | M | SD | P | 
+|---|---|---|---|---|
+| Knowledge / timing | | | | | 
+| Sex | Male | 2.05 | 1.45 | 0.387 | 
+| | Female | 2.26 | 1.48 | | 
+| Practicing orthodontics exclusively | Yes | 2.20 | 1.45 | 0.439 | 
+| | No | 1.96 | 1.54 | | 
+| Knowledge management | | | | | 
+| Sex | Male | 4.76 | 1.78 | 0.261 | 
+| | Female | 5.09 | 1.65 | | 
+| Practicing orthodontics exclusively | Yes | 4.88 | 1.75 | 0.759 | 
+| | No | 5 | 1.66 | | 
+| Total Knowledge | | | | | 
+| Sex | Male 76 (54.7%) | 6.81 | 2.79 | 0.232 | 
+| | Female 63 (45.3%) | 7.36 | 2.54 | | 
+| Practicing orthodontics exclusively | Yes 109 (78.4%) | 7.09 | 2.71 | 0.822 | 
+| | No 30 (21.6%) | 6.96 | 2.64 | | 
+Table 6.
+| | | M | SD | P (t test) | | | 
+|---|---|---|---|---|---|---|
+| Knowledge / timing | | | | | | | 
+| Educational level | (1) Fellowship or Board 65 (46.8%) | 2.20 | 1.43 | 0.073 | | | 
+| | (2) Only Master's degree 56 (40.3%) | 2.25 | 1.50 | | | | 
+| | (3) High diploma 10 (7.2%) | 1 | 0.94 | | | | 
+| | (4) PhD 8 (5.8%) | 2.50 | 1.60 | | | | 
+| Knowledge/ management | | | | | | | 
+| Educational level | (1) Fellowship or Board 65 (46.8%) | 5.18 | 1.50 | 0.054 | | | 
+| | (2) Only Master's degree 56 (40.3%) | 4.75 | 1.75 | | | | 
+| | (3) High diploma 10 (7.2%) | 3.70 | 2.11 | | | | 
+| | (4) PhD 8 (5.8%) | 5.37 | 2.26 | | | | 
+| | | M | SD | (ANOVA) P | Difference between groups | P (Post hoc) | 
+| Total Knowledge | | | | | | | 
+| Educational level | (1) Fellowship or Board 65 (46.8%) | 7.38 | 2.34 | 0.023 | 1 > 2 | 0.886 | 
+| | (2) Only Master's degree 56 (40.3%) | 7 | 2.74 | | 1 > 3 | 0.032 | 
+| | (3) High diploma 10 (7.2%) | 4.70 | 2.83 | | 1 > 4 | 0.969 | 
+| | (4) PhD 8 (5.8%) | 7.87 | 3.64 | | 2 > 3 | 0.094 | 
+| | | | | | 2 < 4 | 0.855 | 
+| | | | | | 3 < 4 | 0.095 | 
+| | | M | SD | P (t test) | | | 
+| Knowledge / timing | | | | | | | 
+| Number of treated patients | Zero | 1.54 | 1.22 | 0.004 | | | 
+| | One or more | 2.35 | 1.49 | | | | 
+| Knowledge / management | | | | | | | 
+| Number of treated patients | Zero | 4.25 | 2.04 | 0.009 | | | 
+| | One or more | 5.13 | 1.55 | | | | 
+| Total Knowledge | | | | | | | 
+| Number of treated patients | Zero | 5.80 | 2.79 | 0.001 | | | 
+| | One or more | 7.49 | 2.52 | | | | 
+| | | M | SD | (ANOVA) P | Difference between groups | P (Post hoc) | 
+| Knowledge /timing | | | | | | | 
+| Number of treated patients | (1) zero | 1.54 | 1.22 | | 1 < 2 | 0.004 | 
+| | (2) 1-3 | 2.29 | 1.51 | 0.015 | 1 < 3 | 0.028 | 
+| | (3) ≥ 4 | 2.45 | 1.46 | | 2 < 3 | 0.861 | 
+| Knowledge /management | | | | | | | 
+| Number of treated patients | (1) zero | 4.25 | 2.04 | | 1 < 2 | 0.024 | 
+| | (2) 1-3 | 5.23 | 1.37 | 0.023 | 1 < 3 | 0.230 | 
+| | (3 ≥ 4 | 4.94 | 1.85 | | 2 < 3 | 0.701 | 
+| Total Knowledge | | | | | | | 
+| Number of treated patients | (1) zero | | | | 1 < 2 | 0.007 | 
+| | (2) 1-3 | 5.80 | 2.79 | 0.005 | 1 < 3 | 0.036 | 
+| | (3) ≥ 4 | | | | 3 < 2 | 0.970 | 
+Table 6 also shows that within the last 3 months, participants who did not treat patients with TDI (group 1) had a significantly lower knowledge level than those who treated patients who experienced TDI (one or more group 2). The significant difference (p) for the knowledge in timing of orthodontic movement for traumatized teeth was 0.004, 0.009 for the knowledge in orthodontic management approaches during orthodontic movement, and 0.001 for the total knowledge level. When data was further divided into 3 subgroups according to the number of patients with TDIs and treated by the participant in the last 3 months (Group 1 = No patient with TDIs, Group 2 = 1-3 patients experienced TDI, and Group 3 = four or more patients experienced TDI), the Oneway ANOVA showed a statistically significant difference between groups in their knowledge (p = 0.015 for knowledge level in timing of orthodontic movement of teeth, p = 0.023 in knowledge level of orthodontic management strategies of traumatized teeth, and p = 0.005 for the total knowledge level). The knowledge level increased with the increased number of treated patients and the post hoc confirmed the statistical difference between the groups (Table 6).
+Most of the participants (N = 112, 80.6%) were interested in more information and increasing the knowledge and skills on the orthodontic management of teeth that had suffered TDIs.
+Discussion
+This was the first study among Jordanian orthodontists to explore in what manner traumatized teeth are managed orthodontically. The obtained response rate (63.2%) can be considered good when compared with 14% obtained in a previous study [9].
+The current study showed a great difference in knowledge in timing of orthodontic movement and management strategies of traumatized teeth during orthodontic management between participants. Treatment planning for patients with TDIs includes a thorough and comprehensive assessment of both the prognosis for the traumatized teeth and treatment of an eventual malocclusion. A coordinated treatment plan, integrating clinical and radiographic findings of healing and of undesirable outcomes must be completed before orthodontic treatment is started [15]. A considerable number of patients with history of TDI were presented for orthodontic treatment as nearly half of the participants had seen in the past three months 1-3 patients who experienced TDI. However, despite the importance for orthodontist to perform a detailed and comprehensive examination of new patients presenting for orthodontic treatment, less than half (43.2%) of participants regularly questioned the patient about past TDI as part of the examination and this was lower than the 61% found in previous study [9]. To permit the orthodontist to early detect any undesirable outcomes which may occur and to judiciously monitor the injured tooth during orthodontic tooth movement, it is vitally important that all patients be asked about any past TDI before embarking on a course of orthodontic treatment. The status of the injured tooth is obtained from a complete history and comprehensive clinical and radiographic assessment [8]. The lack of awareness among the participants about the clinical implications arising when ignoring a thorough examination during the initial assessment together with the absence of a standardized orthodontic examination form comprising a section for TDIs assessment might explain this finding. Some participants asked about TDIs only when increased overjet or clinical signs of previous TDIs were obvious. It is true that the increase in the overjet of 3 mm [2] or 5 mm or more [16] in the permanent dentition had been shown to be associated with an increased risk of TDI, but counting only on clinical signs of TDIs or risk factors leads the possibility of failing to notice some cases with past TDIs or some types of injuries that might not be visible clinically such as root fracture. Orthodontic management of root-fractured teeth depends on the type of healing and location of the fracture [15]. Identifying patients with TDIs before starting orthodontic movement will give the orthodontist the opportunity to obtain applicable informed consent focusing attention on the possible risks that the orthodontic treatment may pose [9].
+Starting orthodontic treatment before the required healing period may affect negatively periodontal and pulpal healing, leading to undesirable outcomes that can be otherwise prevented [9]. Comparing the recommended observation periods before starting orthodontic movement of traumatized teeth [8-10] to those stated by the participants, serious differences were acknowledged. This study showed that participants lack sufficient knowledge of the recommended timing before starting orthodontic movement. For each type of TDIs, the percentage of participants who knew the suitable time needed to wait prior to the start of the orthodontic movement was less than 50%. However, similar to results of previous studies [9, 13], of the different types of TDIs most participants were capable of recognizing the appropriate recommended waiting time for traumatized teeth with minor damage to the periodontium, whereas the least percentage of participants capable of recognizing the appropriate recommended waiting time was for endodontically treated traumatized teeth (obturated with gutta percha). This was ascribed to the absence of evidence of high-quality to guide the practitioners regarding the most suitable timing to orthodontically move a root canal treated traumatized tooth [17]. It is possible that some of the participants were not sure of the proper strategy and needed to call for interdisciplinary care (orthodontists, pediatric dentist, and endodontist) to take the most appropriate decision. However, as this survey took place after the publication of the specific orthodontic management guidelines; [10] this stress the need for further education to increase awareness on the importance of the topic for orthodontists.
+Insufficient knowledge about the recommended approaches for orthodontic management of traumatized teeth was demonstrated. Major inconsistencies were noted when comparing the options selected by the participants to the recommended strategies [8, 9] and the recent guidelines [10] for management of traumatized teeth during orthodontic management. Surprisingly, regular sensibility testing and regular radiographic examination were not a routine practice for traumatized teeth by all the participants. However, most participants were capable of recognizing the appropriate recommended approach for "moderate to severe injury to periodontium such as intrusion". Conversely most of the participants couldn't recognize the appropriate recommendation for endodontically treated traumatized tooth (obturated with gutta percha)". Management of a root canal treated tooth includes regular radiographic examination; regrettably less than half of participants agreed with this approach while a higher percentage was found in a previous study [9]. In addition, similar to a previous study [9] a surprising result was also found in this study as around 16% of the participants would perform regular sensibility testing for the pulp on a root canal treated tooth, a result which might be explained by an insufficient concentration during completing the survey [9]. Treatment of nonvital teeth by RET has gradually increased since the past decade [18]. RET is an encouraging novel approach to the treatment of immature necrotic teeth, with promising clinical results, for instance closure of the root apex, thickening of dentinal walls and/or lengthening of the root, the disappearance of clinical signs and symptoms, and healing of the periapical lesion [19-21]. However, a meta-analysis and systematic review concluded that existing published data is not able to give final conclusions on the expected outcomes of regenerative endodontics [22]. Orthodontic management of patients having teeth treated with RET is sometimes indicated and consequently, it is of paramount importance for orthodontist to consider both the possible future effect of tooth movement of traumatized teeth treated with RET and keep in mind the long-term prognosis before starting treatment [8]. A recent systematic review found a high occurrence of undesirable effects and more intervention in RET treated teeth that undergo orthodontic treatment was required, though tooth survival is high [23]. The available evidence would advise waiting at least two years before starting the orthodontic movement of teeth treated with RET, particularly in teeth where neither continuation of root development nor apical closure were shown [10]. In line with results of a previous study [19], the present study showed that most of the participants did not know in what manner a traumatized tooth treated with RET is to be managed orthodontically. This is not surprising as there is insufficient confirmation on the effect of orthodontic movement on teeth treated with RET. [24, 25] The evidence is not sufficient to guide clinicians whether orthodontic treatment impacts the future of RET treated teeth. Because a high level of evidence is not yet achieved, for the time being, clinicians if possible may leave these teeth off the archwire during the orthodontic treatment or reduce the orthodontic forces applied on these teeth. If these teeth are comprised in the archwire, then intervals between recall visits for follow up and evaluation should be short to uncover probable undesirable outcome as early as possible [23].
+The majority of the orthodontists in Jordan are practicing in their own clinics and there is no clear patient referral protocol between clinicians. In the public health sector, specialists can refer complicated cases to a specialist or consultant of higher level. Thus, only a small number of orthodontists preferred to refer the patient with history of traumatized teeth to other orthodontic colleagues.
+The results of the current study showed that the majority of the participants did not have sufficient knowledge to deal with traumatized teeth before or during orthodontic treatment. Only one participant answered all the questions on timing of orthodontic movement of traumatized teeth appropriately; this is unfortunate as in one previous study it was reported that approximately one-third [13] of the participants and in another 37.5% [9] followed the intervals recommended by Kindelan et al. [8] regarding the observation time before initiating the orthodontic treatment of TDI. However, one fifth of the participant answered all the questions on strategies of management appropriately; this is probably because the questions in this section had multiple guiding answers. It is noteworthy to mention that most of the participants were interested in more information and increasing the knowledge and clinical skills on this specific topic.
+The results of the current study showed that older participants with more years of clinical experience had lower knowledge level compared to younger orthodontists. New interest in this issue has appeared in the recent years [10] and younger orthodontists might have had the opportunity to learn more about it during their training as it is considered today an essential part of the syllabus for most of the postgraduate training programs in orthodontics in Jordan. Orthodontists who were fellows or board certified had a higher knowledge compared to orthodontists who got a high diploma as their highest degree. The high diploma degree (one year of study) is no longer recognized by authorities as a specialty program since 2005. The same applies to the holders of this degree; they are older than others and consequently had lower knowledge level regarding traumatized teeth compared to younger orthodontists. Participants who in the past 3 months treated patients with history of TD had a higher knowledge compared to participants who did not treat patient with history of TDI. This is possibly because clinicians who treated patient with history of TDI had looked for information in the available evidence to manage these cases and reduce complications.
+In light of the current study, it is important to stress the importance of a thorough examination of traumatized teeth at the initial assessment. Orthodontists who are involved in treating patients with history of TDI have the responsibility to update their knowledge based on the latest scientific evidence, in order to strengthen their practice and confidence and improve the prognosis of the management. Implementing continuing education program regarding traumatized teeth to improve the knowledge of orthodontists is needed.
+This study has limitations inherent to the cross sectional design and use of questionnaires that could have been subject to bias. The use of a cross-sectional design together with the use of a questionnaire may impose limitations related to information bias. The use of a representative sample may reduce the effect of the limitation. A few previous descriptive studies with different methodologies assessed the knowledge of clinicians regarding this topic but this study analyzed results considering the independent variables. The high response rate obtained as the questionnaire was distributed by hand compared with web-generated questionnaire used in other studies increased the strength of the study.
+Conclusions
+Orthodontists who participated in the study had insufficient knowledge about the observation period and management of traumatized teeth during orthodontic movement. Years of clinical experience among orthodontists significantly affected knowledge, with older participants having lower knowledge levels. Orthodontists who treated patients with history of dental trauma in the past 3 months had higher knowledge compared to orthodontists who did not treat patient with history of TDIs.
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+Acknowledgements
+The authors would like to thank all the of orthodontists who accepted to be part of the study.
+Abbreviations
+- Regenerative
+- Endodontic techniques (RET)
+- Traumatic
+- Dental injuries (TDIs)
+Author contributions
+Lamis D. Rajab: First author. Main supervisor, conceived the study and supervised the work, methodology, statistics, writing process. Osama Abdullatif Nasser, Data collection, methodology, statistics, writing process. Zaid Al-Bitar: Co Supervisor, writing process.
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Data availability
+The data that support the findings of this study are available from the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+Informed consent was obtained from all of the participants.
+Consent for publication
+Not Applicable.
+Competing interests
+The authors declare no competing interests.
+IRB approval
+This study was approved by the Institutional Review Board (IRB) of the University of Jordan (19/2022/224. 11/4/2022).
+Footnotes
+Publisher's note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+References
+- 1.Levin L, Day PF, Hicks L, O'Connell A, Fouad AF, Bourguignon C, Abbott PV. International association of dental traumatology guidelines for the management of traumatic dental injuries: general introduction. Dent Traumatol. 2020;36(4):309-13. 10.1111/edt.12574 [DOI] [PubMed] [Google Scholar]
+- 2.Petti S, Glendor U, Andersson L. World traumatic dental injury prevalence and incidence, a meta-analysis-one billion living people have had traumatic dental injuries. Dent Traumatol. 2018;34(2):71-86. 10.1111/edt.12389 10.1111/edt.12389 [DOI] [PubMed] [Google Scholar]
+- 3.Rajab LD, Abu Al Huda D. Impact of treated and untreated traumatic dental injuries on oral health-related quality of life among 12-year-old schoolchildren in Amman. Dent Traumatol. 2019;35(3):153-62. 10.1111/edt.12466 [DOI] [PubMed] [Google Scholar]
+- 4.Petti S. Over two hundred million injuries to anterior teeth attributable to large overjet: a meta-analysis. Dent Traumatol. 2015;31(1):1-8. 10.1111/edt.12126 [DOI] [PubMed] [Google Scholar]
+- 5.Magno MB, Nadelman P, Leite KLF, Ferreira DM, Pithon MM, Maia LC. Associations and risk factors for dental trauma: a systematic review of systematic reviews. Community Dent Oral Epidemiol. 2020;48(6):447-63. 10.1111/cdoe.12574 [DOI] [PubMed] [Google Scholar]
+- 6.Linge L, Linge BO. Patient characteristics and treatment variables associated with apical root resorption during orthodontic treatment. Am J Orthod Dentofac Orthop. 1991;99(1):35-43. 10.1016/S0889-5406(05)81678-6 [DOI] [PubMed] [Google Scholar]
+- 7.Brin I, Ben-Bassat Y, Heling I, Engelberg A. The influence of orthodontic treatment on previously traumatized permanent incisors. Eur J Orthod. 1991;13(5):372-7. 10.1093/ejo/13.5.372 [DOI] [PubMed] [Google Scholar]
+- 8.Kindelan SA, Day PF, Kindelan JD, Spencer JR, Duggal MS. Dental trauma: an overview of its influence on the management of orthodontic treatment. Part 1. J Orthod. 2008;35(2):68-78. 10.1179/146531207225022482 [DOI] [PubMed] [Google Scholar]
+- 9.Sandler C, Barry S, Littlewood S, Al-Musfir T, Nazzal H. Orthodontic management of traumatized teeth: a national survey of UK orthodontists. Dent Traumatol. 2019;35(4-5):241-50. 10.1111/edt.12476 [DOI] [PubMed] [Google Scholar]
+- 10.Sandler C, Al-Musfir T, Barry S, Duggal MS, Kindelan S, Kindelan J, Littlewood S, Nazzal H. Guidelines for the orthodontic management of the traumatised tooth. J Orthod. 2021;48(1):74-81. 10.1177/1465312520977498 [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 11.Van Gorp G, Bormans N, Vanham I, Willems G, Declerck D. Knowledge of orthodontic treatment approach of traumatized teeth by a group of Belgian general dentists, pediatric dentists, and orthodontists. Dent Traumatol. 2019;35(4-5):233-40. 10.1111/edt.12474 [DOI] [PubMed] [Google Scholar]
+- 12.Tondelli PM, Mendonça MR, Cuoghi OA, Pereira AL, Busato MC. Knowledge on dental trauma and orthodontic tooth movement held by a group of orthodontists. Braz Oral Res. 2010;24(1):76-82. 10.1590/S1806-83242010000100013 [DOI] [PubMed] [Google Scholar]
+- 13.Beyene MMR, Bårdsen A, Klock KS, Sulo G, Thelen DS. Orthodontic management of traumatic dental injuries in Norway and orthodontists' perceptions of referral routines: A quality assurance survey. Dent Traumatol. 2023 Oct;39(5):469-477. 10.1111/edt.12854 [DOI] [PubMed]
+- 14.Nulty DD. The adequacy of response rates to online and paper surveys: what can be done? Assess Evaluation High Educ. 2008;33(3):301-14. 10.1080/02602930701293231 [DOI] [Google Scholar]
+- 15.Malmgren C. and B. Orthodontic management of the traumatized dentition. IN: Andreasen JO, Andreasen FM and Andersson L. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 5th Edition, Wiley-Blackwell, Hoboken; 2019. Cap. 28, pp. 752-791.
+- 16.Arraj GP, Rossi-Fedele G, Doğramacı EJ. The association of overjet size and traumatic dental injuries-A systematic review and meta-analysis. Dent Traumatol. 2019;35(4-5):217-32. 10.1111/edt.12481 [DOI] [PubMed] [Google Scholar]
+- 17.Hamilton RS, Gutmann JL. Endodontic-orthodontic relationships: a review of integrated treatment planning challenges. Int Endod J. 1999;32(5):343-60. 10.1046/j.1365-2591.1999.00252.x [DOI] [PubMed] [Google Scholar]
+- 18.Nazzal H, Tong H, Nixon P, Duggal M. Regenerative endodontic therapy for managing immature non-vital teeth: a national survey of UK paediatric dental specialists and trainees. Br Dent J. 2018;23(4):247-54. 10.1038/sj.bdj.2018.122 [DOI] [PubMed] [Google Scholar]
+- 19.Meschi N, Palma PJ, Cabanillas-Balsera D. Effectiveness of revitalization in treating apical periodontitis: a systematic review and meta-analysis. Int Endod J. 2022. [DOI] [PubMed]
+- 20.Chan EKM, Desmeules M, Cielecki M, Dabbagh B, Dos Santos BF. Longitudinal cohort study of regenerative endodontic treatment for immature necrotic permanent teeth. J Endod. 2017;43:395-400. 10.1016/j.joen.2016.10.035 [DOI] [PubMed] [Google Scholar]
+- 21.Murray PE. Review of guidance for the selection of regenerative endodontics, apexogenesis, apexification, pulpotomy, and other endodontic treatments for immature permanent teeth. Int Endod J. 2023;56(Suppl 2):188-99. 10.1111/iej.13809 [DOI] [PubMed] [Google Scholar]
+- 22.Tong HJ, Rajan S, Bhujel N, Kang J, Duggal M, Nazzal H. Regenerative endodontic therapy in the management of nonvital immature permanent teeth: a systematic review-outcome evaluation and meta-analysis. J Endod. 2017;43(9):1453-64. 10.1016/j.joen.2017.04.018 [DOI] [PubMed] [Google Scholar]
+- 23.Bucchi C, Arias-Betancur A, Badilla-Wenzel N, Zaror C. The impact of orthodontic treatment on teeth previously treated with regenerative endodontics: a systematic review. Appl Sci. 2024;14(1):210. 10.3390/app14010210 [DOI] [Google Scholar]
+- 24.Jawad Z, Bates C, Duggal M, Nazzal H. Orthodontic management of a non-vital immature tooth treated with regenerative endodontics: a case report. J Orthod. 2018;45:289-95. 10.1080/14653125.2018.1501935 [DOI] [PubMed] [Google Scholar]
+- 25.Chaniotis A. Orthodontic movement after regenerative endodontic procedure: case report and long-term observations. J Endod. 2018;44(3):432-7. 10.1016/j.joen.2017.11.008 [DOI] [PubMed] [Google Scholar]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Data Availability Statement
+The data that support the findings of this study are available from the corresponding author on reasonable request.

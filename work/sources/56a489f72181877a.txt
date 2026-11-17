@@ -1,0 +1,2093 @@
+eprints@whiterose.ac.uk
+https://eprints.whiterose.ac.uk
+Universities of Leeds, Sheffield and York
+Deposited via The University of Leeds.
+White Rose Research Online URL for this paper:
+https://eprints.whiterose.ac.uk/id/eprint/93808/
+Version: Accepted Version
+Article:
+van Lettow, B, de Vries, H, Burdorf, A et al. (2015) Explaining young adults' drinking 
+behaviour within an augmented Theory of Planned Behaviour: Temporal stability of drinker 
+prototypes. BRITISH JOURNAL OF HEALTH PSYCHOLOGY, 20 (2). pp. 305-323. ISSN: 
+1359-107X 
+https://doi.org/10.1111/bjhp.12101
+Reuse 
+Items deposited in White Rose Research Online are protected by copyright, with all rights reserved unless 
+indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by 
+national copyright laws. The publisher or other rights holders may allow further reproduction and re-use of 
+the full text version. This is indicated by the licence information on the White Rose Research Online record 
+for the item. 
+Takedown 
+If you consider content in White Rose Research Online to be in breach of UK law, please notify us by 
+emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+1
+Paper published in British Journal of Health Psychology 
+Dates of acceptance: 1.4.14 
+ 
+Explaining young adults' drinking behaviour within an augmented Theory of Planned 
+Behaviour: Temporal stability of drinker prototypes. 
+ 
+Van Lettow, B., de Vries, H., Burdorf, A., Conner, M., & van Empelen, P. (2015). 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+2
+Abstract 
+Objectives: Prototypes (i.e., social images) predict health-related behaviours and intentions 
+within the context of the Theory of Planned Behaviour (TPB). The present study tested the 
+moderating role of temporal stability of drinker prototype perceptions on prototype-intentions 
+and prototype-behaviour relationships, within an augmented TPB. The study examined 
+abstainer, moderate drinker, heavy drinker, tipsy, and drunk prototypes. 
+Design and Methods: An online prospective study with one month follow-up was conducted 
+among 410 young adults (18-25 years old, Mage = 21.0, SD = 2.14, 21.7% male). Assessed 
+were prototype perceptions (favourability and similarity, T1, T2), stability of prototype 
+perceptions, TPB variables (T1), intentions (T2), and drinking behaviour (T2). Intention 
+analyses were corrected for baseline behaviour; drinking behaviour analyses were corrected 
+for intentions and baseline behaviour. 
+Results: Hierarchical regressions showed that prototype stability moderated the relationships 
+of drunk and abstainer prototype similarity with intention. Similarity to the abstainer 
+prototype explained intentions to drink sensibly more strongly among individuals with stable 
+perceptions than among those with unstable perceptions. Conversely, intentions were stronger 
+explained among individuals with stable perceptions of dissimilarity to the drunk prototype 
+than among those with unstable perceptions. No moderation effects were found for stability of 
+favourability or for relationships with behaviour. 
+Conclusions: Stable prototype similarity perceptions were more predictive of intentions than 
+unstable perceptions. These perceptions were most relevant in enhancing the explanation of 
+young adults' intended drinking behaviour. Specifically, young adults' health intentions seem 
+to be guided by the dissociation from the drunk prototype and association with the abstainer 
+prototype. 
+ 
+Key words: prototypes, temporal stability, favourability, similarity, drinking behaviour, 
+intentions, young adults 
+ 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+3
+Excessive drinking has been related to several negative health, social, and economic 
+consequences (World Health Organisation, 2010). Examples are social and behavioural 
+problems such as trouble with police, friends, or parents, injuries, unsafe sex and physical 
+fights (Danielsson, Wennberg, Hibell, & Romelsjö, 2011). Excessive drinking is especially 
+prevalent among young adults (Statistics Netherlands, 2010). Young adults can experience a 
+number of problems due to their alcohol use such as overweight, high blood pressure, and 
+unsafe driving practices (Oesterle et al., 2004). Alcohol is the world's third largest risk factor 
+for disease burden, in Europe it is the second largest. Each year 2.5 million deaths worldwide 
+are related to the harmful use of alcohol (World Health Organisation, 2010). 
+Theory of Planned Behaviour 
+Many risk behaviours, such as excessive drinking, have been studied in the context of 
+the Theory of Planned Behaviour (Ajzen, 1991). The TPB proposes that behaviour results 
+from deliberative reasoning. In other words, behaviour is regarded as intentional or goaldirected. Intentions are guided by attitudes, social norms, and perceived behavioural control 
+(PBC). Attitude is defined as the overall evaluation of performing a behaviour (e.g., pleasant, 
+healthy). Subjective norms refer to the social approval or disapproval to engage in behaviour, 
+and the perception of what significant others do. PBC is defined as an individual's perception 
+of control over or confidence in engaging in the behaviour. As Ajzen (1991, p. 185) stated: 
+'The relative importance of attitude, subjective norm, and perceived behavioural control in the 
+prediction of intention, is expected to vary across behaviours and situations'. 
+A previous meta-analysis found that across studies the TPB explained 27% and 39% 
+of the variance in behaviours and intentions, respectively (Armitage & Conner, 2001). Thus, a 
+significant proportion is left unexplained. Importantly, the type of health-related behaviour 
+has been found to moderate the proportion of variance explained in both intentions and 
+behaviour (McEachan, Conner, Taylor, & Lawton, 2011). Furthermore, research has found 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+4
+intentions to not always be acted upon, even among individuals with strong intentions to 
+engage in a behaviour (Sheeran, 2002). For these reasons, research has focused on extending 
+the TPB in order to explain additional variance in intentions and behaviour (Ajzen, 1996). 
+Prototypes and the TPB 
+Various extensions to the TPB have been studied (Conner & Armitage, 1998). Recent 
+approaches extend the TPB by including the factor 'prototypes' to the model (e.g., Norman, 
+Armitage, & Quigley, 2007; Zimmermann & Sieverding, 2010). The present study examined 
+the moderating role of stability of prototype perceptions. Prototypes (i.e., social images) refer 
+to the mental image of a typical person engaging in (or abstaining from) a behaviour (Gibbons 
+& Gerrard, 1995; Gibbons, Gerrard, & Lane, 2003), such as a typical drinker. The assumption 
+is that prototypes exert their influence through social comparison processes (Gibbons & 
+Gerrard, 1995). In other words, individuals compare prototypes to their self-identity. 
+Individuals are thought to be aware that engagement in (or abstinence from) a behaviour 
+might make other people evaluate them as having the prototypical characteristics associated 
+with that behaviour (Gerrard, Gibbons, Stock, Vande Lune, & Cleveland, 2005). 
+Characteristics found to describe heavy drinkers are, for instance, 'annoying', 'volatile', and 
+'uncontrolled'. Characteristics ascribed to a moderate drinker prototype are, for instance, 
+'spontaneous' and 'sociable' (van Lettow, Vermunt, de Vries, Burdorf, & van Empelen, 
+2013). 
+Prototypes perceptions can refer to prototype favourability and similarity, both of 
+which are relevant in their relation to behaviour and intentions. Favourability refers to the 
+positive or negative characterization or evaluation of the prototype; similarity refers to the 
+perceived similarity of the self-image to the prototype (e.g., Gerrard, Gibbons, Houlihan, 
+Stock, & Pomery, 2008; Norman et al., 2007). These prototype perceptions can guide 
+behaviour through their impact on intentions. Indeed, these prototype perceptions have been 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+5
+related to intentions to engage in various behaviours, including drinking behaviour (e.g., 
+Andrews, Hampson, Barckley, Gerrard, & Gibbons, 2008; Norman et al., 2007). A more 
+positive perception of prototypes associated with a behaviour is related to increased intention 
+or engagement in that behaviour (Gerrard et al., 2002). In addition, engagement in (risk) 
+behaviour can result in prototype perception change (Blanton, Gibbons, Gerrard, Conger, & 
+Smith, 1997; Gibbons & Gerrard, 1995). Several studies on drinking alcohol have reported 
+prototype perceptions to explain variance in intentions and behaviour over and above that 
+explained by TPB variables and past behaviour (Norman et al., 2007; Rivis, Sheeran, & 
+Armitage, 2006; Zimmermann & Sieverding, 2010). 
+Temporal Stability of Prototypes 
+Other research has suggested that the TPB can be usefully extended by focussing on 
+the stability of cognitions (Conner, Sheeran, Norman, & Armitage, 2000; Cooke & Sheeran, 
+2004, 2013; Godin et al., 2010; Sheeran & Abraham, 2003). Temporal stability can be defined 
+as the extent to which a construct remains unchanged over time, regardless of manipulations 
+or challenges (Petty & Krosnick, 1995; Sheeran, Orbell, & Trafimow, 1999). It can be 
+regarded as an operative measure of strength (Sheeran et al., 1999). For instance, temporal 
+stability can help explain the consistency between intentions and behaviour (Conner et al., 
+2000; Cooke & Sheeran, 2004, 2013; Keer, Conner, Van den Putte, & Neijens, 2013; Sheeran 
+et al., 1999). Temporally stable prototype perceptions might be expected to have stronger 
+impacts on intentions and behaviour and help explain unique additional variance in intentions 
+and behaviour compared to TPB variables and past behaviour. 
+The aim of the present study was to further our understanding of the determinants of a 
+risky health behaviour, namely alcohol consumption in young adults. This was achieved by 
+applying an augmented TPB to this behaviour in a sample of young Dutch adults. The 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+6
+particular focus was on the importance of drinker prototype perceptions and the potential 
+moderating effects of temporal stability of such perceptions. Two reasons support this focus 
+on prototypes. First, for some, acquiring the characteristics attributed to certain prototypes is 
+thought to represent a goal or a core self-value (Gerrard et al., 2002; Skalle & Rise, 2006). As 
+a result, stability of prototype perceptions could be a reflection of variability of prototype 
+perceptions that represent core self-values. Second, prototype perceptions are subject to 
+natural change over time, due to accumulation of experience in the particular behaviour and 
+observation of peers. This natural change in prototypes over time has been related to 
+intentions and behaviour (Andrews et al., 2008; Hampson, Andrews, & Barckley, 2008) and 
+stability may tap important aspects of this change. 
+Study Aims 
+ 
+In sum, the present study examined whether temporal stability of prototype 
+perceptions moderates the relation of prototype perceptions with behaviour and intentions 
+among young adults, in the context of an augmented TPB. In line with previous research, 
+favourability of and perceived similarity to five prototypes are assessed (e.g., van Lettow, 
+Vermunt et al., 2013): abstainer, moderate drinker, heavy drinker, tipsy and drunk person. 
+These prototypes were chosen for two reasons. First, previous studies found that young adults 
+distinguish between not only 'drinkers' and 'abstainers', but also a number of intermediate 
+prototype as relevant to them (van Lettow, Vermunt et al., 2013). Second, these five 
+prototypes have been found to differ in characterisation and evaluations of favourability and 
+similarity, and to contribute to the explanation of young adults' drinking behaviour and 
+intentions in other studies (van Lettow, de Vries, Burdorf, Norman, & van Empelen, 2013; 
+van Lettow, Vermunt, et al., 2013). It is because stability of prototypes has not been assessed 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+7
+before that we examined the moderating impact of temporal stability on the relationship of 
+prototype favourability and similarity with intentions and behaviour. 
+Methods 
+Design 
+ 
+ 
+Young adults (18-25 years of age, drinkers and abstainers) were recruited online 
+through several Dutch forums and social networking websites by means of advertisements or 
+forum posts, between September and November 2010. Participants first received the study 
+information and signed the online informed consent form, guaranteeing their anonymity. The 
+online prospective study included a one-month follow-up (T2). Participants were emailed a 
+link to the second questionnaire and a reminder two weeks thereafter if needed. Twenty 
+vouchers worth €50 were distributed among the 410 participants as incentive. The Ethical 
+Committee of the research institution of the lead author approved the study (MEC-2010-112). 
+Participants 
+A total of 605 participants participated in the first measurement (T1, Mage = 21.0, SD = 
+2.2, 27.4% male). Of these 410 participants (attrition: 32.2%, Mage = 21.0, SD = 2.14, 21.7% 
+male) also completed the measurements at one-month follow-up (T2). These 410 participants 
+were included in all analyses. The majority were of Western origin1 (92.7%), as defined by 
+Statistics Netherlands (Statistics Netherlands, 2000). The majority of participants were either 
+pursuing or had completed middle or high educational level (professional education and 
+university or equivalent, respectively) according to Dutch rankings (92.9%). Men (OR = 2.33, 
+p < .05), low educated participants (OR = 3.29, p < .05), and non-Western participants (OR = 
+3.08, p < .05) were more likely to drop out. Additionally, the total number of drinks 
+consumed in the week at baseline was significantly higher among those that dropped out 
+(M=13.04, SD=16.84; M=7.27, SD=9.79; F(1, 603) = 28.16, p < .01). 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+8
+Measures 
+ Questions were rated on 7-point scales (1: certainly not; 7: very certain) and variables 
+consisted of the mean of items, unless otherwise specified. Table 1 presents the correlations 
+between the variables (plus means and standard deviations at bottom of Table 1). The 
+questionnaire items were based on the Dutch drinking norm of a maximum of five glasses per 
+occasion (National Institute for Public Health and the Environment, 2005). Therefore, items 
+are phrased such that the number of glasses always matches a maximum of five. 'Glasses' are 
+a standard measure used by several Dutch studies. A standard glass contains 10 grams of 
+alcohol, but the amount of liquid (cl) differs per type of drink. 
+Independent Variables 
+ 
+ 
+Attitude (T1) was measured using the statement: 'I find drinking a maximum of five 
+alcoholic beverages per occasion...' with four semantic differentials (α = .86; unhealthy-
+healthy, bad-good, boring-fun, unpleasant-pleasant), each rated on a 7-point scale (Cooke, 
+Sniehotta, & Schüz, 2007). A higher mean represents a more positive attitude to drinking a 
+maximum of five glasses of alcohol. 
+ 
+One item assessed descriptive norms1 (T1): 'Most of my friends drink less than six 
+glasses of alcohol per occasion' (Cooke et al., 2007). A higher score thus represents a 
+perception of descriptive norms of sensible drinking. 
+ 
+Perceived behavioural control (PBC, T1) included nine items. The first four items 
+were similar to self-efficacy. For example, 'I feel capable of drinking less than six glasses of 
+alcohol per occasion' (Cooke et al., 2007). The last five items were similar to PBC (Armitage 
+& Conner, 2001), using the statement: 'Image you wanted to limit the number of glasses of 
+alcohol per occasion to 6. Would it be (1) very hard to (7) very easy to...' followed by e.g. 
+'succeed if you were offered another drink?' The mean of the nine items formed our measure 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+9
+of PBC (α = .88). A higher mean thus represents more perceived control over drinking 
+behaviour. 
+ 
+Five drinker prototypes were assessed at baseline (T1) and at follow-up (T2): abstainer, 
+moderate drinker, tipsy person, heavy drinker and drunk person. First, participants were 
+provided with a general description of prototypes (Gerrits, de Ridder, de Wit, & Kuijer, 2009; 
+Gibbons, Gerrard, & McCoy, 1995): 'When trying to describe someone, people generally use 
+characteristics of that person. These characteristics can be positive, negative or neutral. For 
+instance, a movie star could be described as rich, a striver, or handsome; a person that gets 
+good grades could be smart, serious, or bookish. Five types of persons will follow. Think 
+about the average (typical) person of your age, not one particular person that you know 
+personally.' Additionally, an explicit definition stated that the abstainer prototype refers to 
+someone who has refrained from alcohol during the past twelve months. Purposefully, no 
+other definitions of drinking patterns per prototype were given, so as to avoid enforcing 
+standard drinking patterns on the drinker prototypes. Instead, in a previous study (reference 
+omitted for anonymity purposes) participants were asked to indicate the number of glasses of 
+alcohol they expect the moderate and heavy drinker prototypes to drink per week and 
+occasion, and the tipsy and drunk prototypes per occasion. The expected drinking patterns 
+resembled the Dutch drinking norms. 
+ 
+Prototype favourability (T1, T2) is typically measured by rating prototypes on a list of 
+(semantic) characteristics (Gerrard et al., 2008; Zimmermann & Sieverding, 2010). The 
+present study used a list of 11 semantic pairs (7-point scales) of characteristics derived from a 
+previous study on the five drinker prototypes (van Lettow, Vermunt et al., 2013). Participants 
+were asked: 'Please indicate how much the following characteristics describe the typical 
+person of your age who [abstains/drinks heavily/moderately/is tipsy/drunk]: unsociablesociable, insecure-self-confident, loud-quiet, volatile-non-volatile, reserved-spontaneous, sad-
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+10
+cheery, irresponsible-responsible, annoying-funny, boring-amiable, uncontrolled-controlled, 
+unordered-determined.' A higher mean over the 11 items (i.e., adjective pairs) indicated a 
+higher favourability of the prototype. Cronbach's alphas ranged from .71 (drunk prototype) 
+to .85 (moderate drinker) at baseline and from .74 (drunk prototype) to .91 (moderate drinker) 
+at follow-up. 
+ 
+Prototype similarity (T1, T2) was measured using two items per prototype-'How 
+much are you like the typical person of your age who [prototype]?' (Gerrard et al., 2006), and 
+'What is the chance that you will be similar to the typical person of your age who [prototype] 
+in the future?', with the latter rated on a scale from (1) very small to (7) very large (Ouellette, 
+Hessling, Gibbons, Reis-Bergan, & Gerrard, 2005). Higher mean scores of the two items 
+indicated a higher perceived similarity to the prototype. Correlations between the two 
+similarity items ranged from .65 (heavy drinker) to .86 (abstainer prototype) at baseline and 
+from .72 (drunk prototype) to .83 (moderate drinker) at follow-up. 
+ 
+Stability of prototype perceptions was operationalised by three measures of stability 
+forming the stability index for favourability and similarity separately. These measures were 
+based on previous studies (Conner et al., 2000; Sheeran & Abraham, 2003): (1) the sum of the 
+absolute differences between prototype items (11 items for favourability, 2 for similarity) 
+measured at T1 and T2; (2) the sum of the absolute differences between the sum of items at 
+these time points; (3) the number of items that have changed. The stability index was 
+composed of the mean of the three standardised measures (Conner et al., 2000; Sheeran et al., 
+1999). The scores were reversed in the analyses by subtracting the mean stability score for an 
+individual from zero to ensure that high scores on the stability index represented higher levels 
+of stability (Conner et al., 2000). Reliability of the stability indexes was generally high, with 
+Cronbach's alphas ranging from .60 (moderate drinker) to .96 (drunk person) for favourability 
+stability, and from .77 (drunk person) to .89 (moderate drinker) for similarity stability. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+11
+Importantly, the stability of similarity to the drunk was based on a median split, to minimise 
+skewness3 (i.e., participants generally felt dissimilar to the drunk prototype). 
+Drinking behaviour at baseline was assessed using a standardised Dutch questionnaire 
+(NIPHE, 2005). Participants indicated by means of an open-ended question how many glasses 
+of alcohol they had consumed each day in the past week. These items were used to calculate 
+the total of consumed glasses of alcohol during the past week, further referred to as 'week 
+total'. 
+Dependent Variables 
+Intentions (T2) were measured by means of five items (α = .94), i.e., 'I intend to 
+prevent myself from getting drunk during the next month,' 'I plan to prevent myself from 
+getting drunk during the next month,' 'I intend to drink less than 6 glasses per occasion 
+during the next month,' 'I plan to drink less than 6 glasses per occasion during the next month 
+I plan to drink less than 6 glasses per occasion during the next month,' and 'I want to drink 
+less than 6 glasses per occasion during the next month' (e.g., Cooke et al., 2007). A higher 
+score represents a higher intention to drink sensibly. 
+Drinking behaviour at follow-up (T2) was assessed with the same items as at baseline 
+(NIPHE, 2005). 
+ 
+ 
+ 
+ 
+[INSERT TABLE 1 AROUND HERE] 
+Statistical Analyses 
+ 
+All analyses were performed in SPSS version 20.0. Statistics are considered to be 
+significant at p < .05. To minimise potential problems of multicollinearity in estimating 
+regression coefficients, variables were mean-centred (Aiken & West, 1991; Yi, 1989). First, 
+hierarchical regressions were performed with intention to drink sensibly at follow-up (T2) as 
+dependent variable. One model was tested including prototype favourability and another 
+including prototype similarity (for five prototypes simultaneously). In both models, baseline 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+12
+drinking behaviour (week total T1) was entered in step 1 and all TPB variables (T1) in step 2. 
+At step 3, either the prototypes' favourability or similarity (T1) was entered. At step 4, the 
+corresponding stability of either the prototypes' favourability or similarity was entered. 
+Finally, to test moderation by stability of prototype perceptions, step 5 added the interaction 
+between prototypes at baseline and their stability value. The same procedure was followed to 
+explain drinking behaviour (total of glasses of alcohol consumed in the past week) at followup, including intentions (T2) as an extra step between baseline behaviour and the TPB 
+variables (T1). Thus, two models are presented in Table 2 for intentions (2a for favourability 
+and 2b for similarity, 5 steps) and two models for drinking behaviour in Table 3 (3a for 
+favourability and 3b for similarity, 6 steps). Simple slope analyses were performed to 
+examine the direction of significant interactions (Aiken & West, 1991). Additionally, the 
+Hayes and Matthes macro for SPSS was used for examination of plots (Hayes & Matthes, 
+2009). 
+Results 
+Descriptive Statistics 
+ 
+Participants reported having consumed a total of 7.27 glasses of alcohol per week at 
+baseline (SD = 9.79) and 6.55 at follow-up (SD = 8.79). Table 1 presents the correlations and 
+the means and deviations (bottom of table). Most participants reported high perceived control 
+(PBC) and reasonably high intentions to drink sensibly. Participants generally felt most 
+similar to the moderate drinker prototype and favoured it the most. The drunk prototype was 
+generally evaluated least favourably and participants felt the least similar to it. 
+Explaining Intention 
+TPB and Prototypes 
+ 
+First, regression analyses were performed regarding the explanation of intentions to 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+13
+drink sensibly (T2). Intentions were found to be significantly explained by baseline drinking 
+behaviour, attitude, descriptive norms, PBC, favourability of or similarity to the abstainer and 
+drunk prototypes and similarity to the tipsy prototype (step 3, Table 2). The explained 
+variance was 36% for the prototype favourability model (Table 2a) and 41% for the similarity 
+model (Table 2b). 
+Temporal Stability 
+Second, moderation of the relation between prototypes perceptions and intentions by 
+prototype perception stability was tested. Stability did not moderate the relationship between 
+prototype favourability and intentions. However, a main effect was found for the stable 
+perception of similarity to the drunk prototype (step 5, β = .11, p < .05). This effect was 
+qualified by a significant interaction effect (step 6) between similarity to the drunk prototype 
+and its stability value (β = -.13, p < .05). Additionally, a significant interaction effect was 
+found for similarity to the abstainer prototype and its stability value (β = .12, p < .01). The 
+interactions significantly increased the explained variance by 2% (Table 2b). Table 2 presents 
+the standardised betas for the model (2a for favourability, 2b for similarity). Posthoc power 
+analyses produced a power of 1.00 for the favourability and similarity models. 
+Third, simple slope analyses were performed to examine the direction of the 
+significant interactions (Aiken & West, 1991). The results showed that the more individuals 
+felt similar to the drunk prototype, the lower the intention to drink sensibly. However, the 
+effect was only marginally significant among those with a low stability of similarity to the 
+drunk prototype (B = -.20, p = .05). This effect was stronger and significant for individuals 
+with more stable similarity perceptions for the drunk prototype (B = -.64, p < .001, Figure 1a). 
+Conversely, the more similar individuals felt to the abstainer prototype, the higher their 
+intentions to drink sensibly4. This relationship was stronger among those individuals with 
+more stable perceptions (B = .29, p < .001) than among those with unstable perceptions for 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+14
+whom the relation was not significant (B = .09, p = .14, Figure 1b). In conclusion, stable 
+perceptions of prototype similarity (for drunk or abstainer prototypes) had stronger effects in 
+explaining intentions than unstable perceptions. 
+[INSERT TABLE 2A AND B] 
+[INSERT FIGURE 1A AND B] 
+Explaining Drinking Behaviour 
+TPB and Prototypes 
+Next we performed regression analyses for drinking behaviour (T2). Main effects were 
+found for baseline drinking behaviour, intentions, PBC, and similarity to the abstainer (β = -
+.11, p < .01), tipsy (β = -.13, p < .01) and heavy drinker prototypes (β = .14, p < .001; step 4). 
+Table 3 shows an explained variance of 64% regarding the favourability model (Table 3a) and 
+66% for the prototype similarity model (Table 3b). Again, posthoc power analyses produced a 
+power of 1.00 for the favourability and similarity models. 
+Temporal Stability 
+ 
+Finally, the moderation effect of temporal stability was tested regarding the 
+relationship between prototype perceptions and behaviour. No main effects were found for 
+either stability of favourability or similarity (step 5). Additionally, no interaction effects were 
+found (step 6) between prototype perceptions and their stability values. The interactions did 
+not result in significant additional explained variance. Table 3 presents the models for 
+prototype favourability (3a) and similarity (3b). 
+[INSERT TABLE 3A AND B] 
+Discussion 
+The present study examined whether prototype stability moderated the relationships 
+between prototypes and young adults' intentions and drinking behaviour within an augmented 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+15
+TPB. The results indicated that the prototype perception-intention relationship was moderated 
+by stability. Prototype stability enhanced the prediction of intentions. No moderation effect 
+was found for stability on the prototype-behaviour relationship. 
+Consistent with previous studies, the results suggest that temporal stability can 
+improve the consistency of the relationship between cognition (i.e., prototype perceptions) 
+and intention (Cooke & Sheeran, 2004). Stable prototype perceptions permit more accurate 
+prediction of intentions than when they are unstable (Ajzen, 1985, 1991). A possible 
+explanation for these relationships is the suggestion that more stable cognitions are more 
+resistant to persuasion and can have larger impact on information procession than unstable 
+cognitions (Cooke & Sheeran, 2004, 2013). Furthermore, important cognitions regarding the 
+prototypes may be shielded from competing cognitions (Cooke & Sheeran, 2004). 
+Importantly, prototype stability only moderated the relationship with intentions but not 
+with behaviour. This finding is in contrast to the suggestion that stability may moderate 
+cognition-behaviour relations because it predicts changes in cognition prior to action (Cooke 
+& Sheeran, 2004). An explanation is that drinking behaviour is complex and not always fully 
+intentional (Gerrard et al., 2008). Previous studies have found that when behaviour is 
+performed frequently, which is presently the case, stable intentions were not capable of 
+breaking the link between previous and future behaviour (Conner et al., 2000). Plausibly, the 
+predictive value of prototype perceptions' stability was not strong enough to break this 
+habitual behaviour. Competing goals that influence behaviour irrespective of intentions could 
+be at play and reduce the impact of even stable prototype perceptions. For example, an 
+individual may intend to drink moderately or abstain because of an upcoming exam but 
+simultaneously wanting to be sociable and liked by others. This competing goal might make it 
+more difficult to refuse drinks. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+16
+Furthermore, only stable abstainer and drunk prototype perceptions were predictive of 
+intentions. We suggest the following as potential explanations as to why these and not other 
+(i.e., moderate drinker, heavy drinker, tipsy) prototypes were relevant. First, the abstainer and 
+drunk prototypes were likely to be especially relevant due to their saliency (Ouellette et al., 
+2005). Their characterisation has been shown to be more profound than for the other 
+prototypes while both the heavy drinker and tipsy prototype were each characterised by two 
+types of characterisations instead of one clear characterisation (van Lettow, Vermunt, et al., 
+2013). Second, stable perceptions are thought to be less liable to contextual factors that could 
+deviate from intentions (Cooke & Sheeran, 2013), however these other prototypes may be 
+more liable to contextual factors. For instance, contextual factors may exert less impact on the 
+drunk and abstainer prototypes because the drunk prototype is described with a more stable 
+characterisation as an 'addicted' person and the abstainer as a 'determined' person, 
+irrespective of the situation (van Lettow, Vermunt, et al., 2013). 
+Importantly, only prototype similarity and not favourability perceptions were 
+moderated by stability. This finding is consistent with previous research that established that 
+similarity was a stronger predictor of drinking behaviour than favourability (Hyde & White, 
+2009; Norman et al., 2007; Rivis et al., 2006). Additionally, prototype similarity has 
+particularly been found to enhance the predictive validity of the TPB (Rivis et al., 2006). A 
+possible explanation from possible selves theory is that similarity can present core-values of 
+the self-image. Adults, and perhaps young adults, tend to have a consistent and stable sense of 
+the self (Diehl, Jacobs, & Hastings, 2006). Individuals not only hold a view of the present self, 
+but also conceptions of how they could be in the future (Markus & Nurius, 1986). Negatively 
+evaluated possible selves are likely to be 'feared' and thus will be avoided, whereas positive 
+evaluated selves will be 'desired' which will activate an approach system (Higgins, 1996; 
+Quinlan, Jaccard, & Blanton, 2006). 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+17
+Limitations 
+Some limitations of the present research should be acknowledged. First, the sample 
+mainly consisted of higher educated, female participants of Western origin. Importantly, 
+national data shows that individuals from Western and non-Western origin consume relatively 
+similar amounts of alcohol (Statistics Netherlands, 2013). Given this finding, it is expected 
+that ethnic origin would not have changed the influenced of prototype perceptions. Similarly, 
+the study was performed within the Dutch drinking culture. Thus, conclusions as to whether 
+other North American or EU countries would produce different result cannot be drawn. 
+Furthermore, females and males generally differ in their alcohol consumption (Statistics 
+Netherlands, 2013). An additional analysis showed that for females only, stability of abstainer 
+prototype similarity moderated the prototype-behaviour relationship. This may be explained 
+by the more feminine description of the abstainer prototype and the fact that females and 
+males differ in their focus of characterisation (van Lettow, Vermunt, et al., 2013). As a result, 
+it may be more acceptable for females to identify with the abstainer prototype by their 
+(non-)drinking behaviour than for males. Future research could attempt to unravel such 
+patterns and examine how stable such perceptions are. Second, the prototypes being assessed 
+were relevant among young adult populations (van Lettow, Vermunt, et al., 2013). It may be 
+that certain prototypes, such as drunk and tipsy prototypes, are less relevant for adolescents 
+and children as they are likely to lack drinking experience. Third, the present study is based 
+on a prospective correlational design. This design may prevent us from drawing causal 
+conclusions. Future longitudinal and experimental studies are necessary to replicate the 
+presented patterns. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+18
+Implications and further directions 
+ 
+The following implications can be drawn from this study. First, the finding that both 
+the abstainer and drunk prototypes explained intentions confirms the suggestion that both 
+healthy and risky prototypes constitute useful cognitive targets for interventions (Rivis et al., 
+2006) and can help explain behaviours. The results also suggest that the undesirable drunk 
+prototype (generally a low favourability and similarity) can be an avoidance-goal, whereas the 
+abstainer prototype may be an approach-goal for abstaining or moderate drinking individuals 
+(van Lettow, de Vries, et al., 2013). It seems plausible that the abstainer and drunk prototypes 
+can be contrasted with the self-image. More specifically, abstaining or moderately drinking 
+individuals may aim to avoid negative characteristics of the drunk prototype and to achieve 
+positive characterisation of the abstainer prototype. The reverse may be true for heavy 
+drinking individuals. 
+Furthermore, prototype similarity especially enhanced the predictive validity when 
+perceptions were stable. Therefore, the second implication is that in order to target intentions 
+focusing on stability of similarity to prototypes is likely to be important. Similarity to the 
+abstainer and more reachable moderate drinker could be enhanced, whereas distancing could 
+be encouraged from the drunk, especially among individuals with unstable prototype 
+perceptions. Two strategies are suggested by previous research. First, distancing from a 
+prototype may help in changing behaviour or maintaining behavioural change (Dijkstra & 
+Borland, 2003; Gerrard, Gibbons, Lane, & Stock, 2005; Lane, Gibbons, O'Hara, & Gerrard, 
+2011). This can be achieved by guiding drinkers in contemplating on characteristics and 
+emphasising negative consequences of resembling the drunk prototype (Blanton et al., 1997). 
+Additionally, providing normative feedback can show heavy drinking individuals that they are 
+usually described with negative characteristics by their peers, whereas they would be valued 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+19
+with more positive characteristics when they would resemble a moderate drinker (van Lettow, 
+Vermunt, et al., 2013). A second strategy is guiding individuals in forming implementation 
+intentions. The results of Godin et al. (2010) found that for a health behaviour, 
+implementation intentions were only effective in explaining behaviour 6 months later among 
+those with unstable intentions. Rivis and Sheeran (2013) found that implementation intentions 
+can overcome the effect of binge drinker prototypes on behaviour because it fosters selfregulation by heightening people's self-focused attention. This strategy can overcome the 
+influence of prototypes and unstable intentions (Godin et al., 2010; Rivis & Sheeran, 2013). 
+The formulation of plans is thought to facilitate the stabilisation of intentions (Gollwitzer, 
+1999) and is likely to help overcome the prototypes' influence. Finally, the potentially 
+moderating role of stability of prototypes corresponding with other behaviours should be 
+investigated. 
+To conclude, the present study provides insights into the moderating role of stability of 
+prototype perceptions in the relation of prototype perceptions to intentions and behaviour. In 
+sum, stability regarding the abstainer and drunk prototypes' perceptions moderated the 
+prototype-intentions relationship. Greater stability is associated with greater consistency of 
+prototype-intentions relationships, but had no effect on direct relationships with behaviour. 
+Although research needs to investigate what factors influence the stability of prototype 
+perceptions, the results suggest targeting stable perceptions of prototypes' similarity that 
+explain intentions in order to change intentional (drinking) behaviour. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+20
+ 
+ 
+ 
+ 
+ 
+References 
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. 
+Newbury Park, CA: Sage. 
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. In J. Kuhl & J. 
+Beckmann (Eds.), Action control: From cognition to behavior (pp. 11-39). Berlin, 
+Germany: Springer-Verlag. 
+Ajzen, I. (1991). The Theory of Planned Behavior. Organizational Behavior and Human 
+Decision Processes, 50(2), 179-211. doi: 10.1016/0749-5978(91)90020-T 
+Ajzen, I. (1996). The directive influence of attitudes on behavior. In P. Gollwitzer & J. A. 
+Bargh (Eds.), Psychology of action (pp. 385-403). New York: Guilford. 
+Andrews, J. A., Hampson, S. E., Barckley, M., Gerrard, M., & Gibbons, F. X. (2008). The 
+effect of early cognitions on cigarette and alcohol use during adolescence. Psychology 
+of Addictive Behaviors, 22(1), 96-106. doi: 10.1037/0893-164x.22.1.96 
+Armitage, C. J., & Conner, M. (2001). Efficacy of the Theory of Planned Behaviour: A metaanalytic review. British Journal of Social Psychology, 40, 471-499. doi: 
+10.1348/014466601164939 
+Blanton, H., Gibbons, F. X., Gerrard, M., Conger, K. J., & Smith, G. E. (1997). Role of 
+family and peers in the development of prototypes associated with substance use. 
+Journal of Family Psychology, 11(3), 271-288. doi: 10.1037/0893-3200.11.3.271 
+Bullers, S., Cooper, M. L., & Russell, M. (2001). Social networks drinking and adult alcohol 
+involvement: A longitudinal exploration of the direction of influence. Addictive 
+Behaviors, 26(2), 181-199. doi: 10.1016/S0306-4603(00)00099-X 
+Conner, M., & Armitage, C. J. (1998). Extending the theory of planned behavior: A review 
+and avenues for further research. Journal of Applied Social Psychology, 28(15), 1429-
+1464. doi: 10.1111/j.1559-1816.1998.tb01685.x 
+Conner, M., Sheeran, P., Norman, P., & Armitage, C. J. (2000). Temporal stability as a 
+moderator of relationships in the theory of planned behaviour. British Journal of 
+Social Psychology, 39(4), 469-493. doi: 10.1348/014466600164598 
+Cooke, R., & Sheeran, P. (2004). Moderation of cognition-intention and cognition-behaviour 
+relations: A meta-analysis of properties of variables from the theory of planned 
+behaviour. British Journal of Social Psychology, 43(2), 159-186. doi: 
+10.1348/0144666041501688 
+Cooke, R., & Sheeran, P. (2013). Properties of intention: component structure and 
+consequences for behavior, information processing, and resistance. Journal of Applied 
+Social Psychology, 43(4), 749-760. doi: 10.1111/jasp.12003 
+Cooke, R., Sniehotta, F., & Schüz, B. (2007). Predicting binge-drinking behaviour using an 
+extended TPB: Examining the impact of anticipated regret and descriptive norms. 
+Alcohol & Alcoholism, 42(2), 84-91. doi: 10.1093/alcalc/agl115 
+Danielsson, A. K., Wennberg, P., Hibell, B., & Romelsjö, A. (2011). Alcohol use, heavy 
+episodic drinking and subsequent problems among adolescents in 23 European 
+countries: Does the prevention paradox apply? Addiction, 107(1), 71-80. doi: 
+10.1111/j.1360-0443.2011.03537.x 
+de Vries, H., Backbier, E., Kok, G., & Dijkstra, M. (1995). The impact of social influences in 
+the context of attitude, self-efficacy, intention, and previous behavior as predictors of 
+smoking onset. Journal of Applied Social Psychology, 25(3), 237-257. doi: 
+10.1111/j.1559-1816.1995.tb01593.x 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+21
+Diehl, M., Jacobs, L. M., & Hastings, C. T. (2006). Temporal stability and authenticity of 
+self-representations in adulthood. Journal of Adult Development, 13(1), 10-22. doi: 
+10.1007/s10804-006-9001-4 
+Dijkstra, A., & Borland, R. (2003). Residual outcome expectations and relapse in ex-smokers. 
+Health Psychology, 22(4), 340-346. doi: 10.1037/0278-6133.22.4.340 
+Fishbein, M., & Ajzen, I. (2010). Predicting and changing behavior: The reasoned action 
+approach. New York: Psychology Press. 
+Gerrard, M., Gibbons, F. X., Brody, G. H., Murry, V. M., Cleveland, M. J., & Wills, T. A. 
+(2006). A theory-based dual-focus alcohol intervention for preadolescents: The strong 
+African American families program. Psychology of Addictive Behaviors, 20(2), 185-
+195. doi: 10.1037/0893-164x.20.2.185 
+Gerrard, M., Gibbons, F. X., Houlihan, A. E., Stock, M. L., & Pomery, E. A. (2008). A dualprocess approach to health risk decision making: The prototype willingness model. 
+Developmental Review, 28(1), 29-61. doi: 10.1016/j.dr.2007.10.001 
+Gerrard, M., Gibbons, F. X., Lane, D. J., & Stock, M. L. (2005). Smoking cessation: Social 
+comparison level predicts success for adult smokers. Health Psychology, 24(6), 623-
+629. doi: 10.1037/0278-6133.24.6.623 
+Gerrard, M., Gibbons, F. X., Reis-Bergan, M., Trudeau, L., Vande Lune, L. S., & Buunk, B. 
+(2002). Inhibitory effects of drinker and nondrinker prototypes on adolescent alcohol 
+consumption. Health Psychology, 21(6), 601-609. doi: 10.1037//0278-6133.21.6.601 
+Gerrard, M., Gibbons, F. X., Stock, M. L., Vande Lune, L. S., & Cleveland, M. J. (2005). 
+Images of smokers and willingness to smoke among African American preadolescents: An application of the prototype/willingness model of adolescent health 
+risk behavior to smoking initiation. Journal of Pediatric Psychology, 30(4), 305-318. 
+doi: 10.1093/jpepsy/jsi026 
+Gerrits, J. H., de Ridder, D. T. D., de Wit, J. B. F., & Kuijer, R. G. (2009). Cool and 
+independent or foolish and undisciplined? Adolescents' prototypes of (un)healthy 
+eaters and their association with eating behaviour. Appetite, 53(3), 407-413. doi: 
+10.1016/j.appet.2009.08.008 
+Gibbons, F. X., & Gerrard, M. (1995). Predicting young adults' health risk behavior. Journal 
+of Personality and Social Psychology, 69(3), 505-517. doi: 10.1037/0022-
+3514.69.3.505 
+Gibbons, F. X., Gerrard, M., & Lane, D. J. (2003). A social reaction model of adolescent 
+health risk. In J. Suls & K. A. Wallston (Eds.), Social Psychological Foundations of 
+Health and Illness (pp. 107-136). Malden, MA.: Blackwell Publishing. 
+Gibbons, F. X., Gerrard, M., & McCoy, S. B. (1995). Prototype perception predicts (lack of) 
+pregnancy prevention. Personality and Social Psychology Bulletin, 21(1), 85-93. doi: 
+10.1177/0146167295211009 
+Godin, G., Belanger-Gravel, A., Amireault, S., Gallani, M. C. B. J., Vohl, M. C., & Peusse, L. 
+(2010). Effect of implementation intentions to change behaviour moderation by 
+intention stability. Psychological Reports, 106(1), 147-159. doi: 
+10.2466/PR0.106.1.147-159 
+Gollwitzer, P. (1999). Implementation intentions: strong effects of simple plans. American 
+Psychologist, 54(7), 493-503. doi: 10.1037/0003-066X.54.7.493 
+Hampson, S. E., Andrews, J. A., & Barckley, M. (2008). Childhood predictors of adolescent 
+marijuana use: Early sensation-seeking, deviant peer affiliation, and social images. 
+Addictive Behaviors, 33(9), 1140-1147. doi: 10.1016/j.addbeh.2008.04.010 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+22
+Hayes, A. F., & Matthes, J. (2009). Computational procedures for probing interactions in OLS 
+and logistic regression: SPSS and SAS implementations. Behavior Research Methods, 
+41(3), 924-936. doi: 10.3758/BRM.41.3.924 
+Higgins, E. T. (1996). Ideals, oughts, and regulatory focus. New York: Guilford. 
+Hyde, M. K., & White, K. M. (2009). Similarity not favourability. The role of donor 
+prototypes in predicting willingness to donate organs while living. Journal of Health 
+Psychology, 14(7), 888-898. doi: 10.1177/1359105309340990 
+Keer, M., Conner, M., Van den Putte, B., & Neijens, P. (2013). The temporal stability and 
+predictive validity of affect-based and cognition-based intentions. British Journal of 
+Social Psychology. doi: 10.1111/bjso.12034 
+Lane, D. J., Gibbons, F. X., O'Hara, R. E., & Gerrard, M. (2011). Standing out from the 
+crowd: How comparison to prototypes can decrease health-risk behavior in young 
+adults. Basic and Applied Social Psychology, 33(3), 228-238. doi: 
+10.1080/01973533.2011.589296 
+Markus, H. R., & Nurius, P. (1986). Possible selves. American Psychologist, 41(9), 954-969. 
+doi: 10.1037/0003-066X.41.9.954 
+McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective 
+prediction of health-related behaviours with the Theory of Planned Behaviour: a metaanalysis. Health Psychology Review, 5(2), 97-144. doi: 
+10.1080/17437199.2010.521684 
+National Institute for Public Health and the Environment. (2005). Indicatoren voor de Monitor 
+Volksgezondheid. Alcoholgebruik-basis. [Indicators of Monitor Public Health. 
+Alcohol use - basics] Retrieved April 10 2010, from 
+https://www.monitorgezondheid.nl/volksindicatoren.aspx 
+Neighbors, C., Larimer, M. E., & Lewis, M. A. (2004). Targeting misperceptions of 
+descriptive norms: Efficacy of a computer-delivered personalized normative feedback 
+intervention. Journal of Consulting and Clinical Psychology, 72(3), 434-447. doi: 
+10.1037/0022-006X.72.3.434 
+Norman, P., Armitage, C. J., & Quigley, C. (2007). The theory of planned behavior and binge 
+drinking: Assessing the impact of binge drinker prototypes. Addictive Behaviors, 32(9), 
+1753-1768. doi: 10.1016/j.addbeh.2006.12.009 
+Oesterle, S., Hill, K. G., Hawkins, J. D., Guo, J., Catalano, R. F., & Abbot, R. D. (2004). 
+Adolescent heavy episodic drinking trajectories and health in young adulthood. 
+Journal of Studies on Alcohol, 65(2), 204-212. 
+Oostveen, T., Knibbe, R., & de Vries, H. (1996). Social influences on young adults' alcohol 
+consumption: Norms, modeling, pressure, socializing, and conformity. Addictive 
+Behaviors, 21(2), 187-197. doi: 10.1016/0306-4603(95)00052-6 
+Ouellette, J. A., Hessling, R., Gibbons, F. X., Reis-Bergan, M., & Gerrard, M. (2005). Using 
+images to increase exercise behavior: Prototypes versus possible selves. Personality 
+and Social Psychology Bulletin, 31(5), 610-620. doi: 10.1177/0146167204271589 
+Petty, R. E., & Krosnick, J. A. (Eds.). (1995). Attitude strength: Antecedents and 
+consequences. Hillsdale, NJ: Lawrence Erlbaum. 
+Quinlan, S. L., Jaccard, J., & Blanton, H. (2006). A decision theoretic and prototype 
+conceptualization of possible selves: Implications for the prediction of risk behavior. 
+Journal of Personality, 74(2), 599-630. doi: 10.1111/j.1467-6494.2006.00386.x 
+Rivis, A., & Sheeran, P. (2003). Descriptive norms as an additional predictor in the theory of 
+planned behaviour: a meta-analysis. Current Psychology, 22(3), 218-233. doi: 
+10.1007/s12144-003-1018-2 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+23
+Rivis, A., & Sheeran, P. (2013). Automatic risk behavior: Direct effects of binge drinker 
+stereotypes on drinking behavior. Health Psychology, 32(5), 571-580. doi: 
+10.1037/a0029859 
+Rivis, A., Sheeran, P., & Armitage, C. J. (2006). Augmenting the theory of planned behaviour 
+with the prototype/willingness model: Predictive validity of actor versus abstainer 
+prototypes for adolescents' health-protective and health-risk intentions. British Journal 
+of Health Psychology, 11(3), 483-500. doi: DOI: 10.1348/135910705X70327 
+Sheeran, P. (2002). Intention-behavior relations: A conceptual and empirical review. 
+European Review of Social Psychology, 12(1), 1-36. doi: 
+10.1080/14792772143000003 
+Sheeran, P., & Abraham, C. (2003). Mediator of moderators: Temporal stability of intention 
+and the intention-behavior relation. Personality and Social Psychology Bulletin, 29(2), 
+205-215. doi: 10.1177/0146167202239046 
+Sheeran, P., Orbell, S., & Trafimow, D. (1999). Does the temporal stability of behavioral 
+intentions moderate intention-behavior and past behavior-future behavior relations? 
+Personality and Social Psychology Bulletin, 25(6), 724-730. doi: 
+10.1177/0146167299025006007 
+Skalle, S., & Rise, J. (2006). The relationship between smoker and nonsmoker prototypes and 
+smoking status among 14-year-old Norwegians. Addictive Behaviors, 31(1), 57-68. 
+doi: 10.1016/j.addbeh.2005.04.009 
+Statistics Netherlands. (2000). Hoe doet CBS dat nou? Standaarddefinitie allochtonen [How 
+does statistics netherlands 
+do it? Standard definition immigrants] Retrieved April 30, 2010, from 
+http://www.cbs.nl/NR/rdonlyres/26785779-AAFE-4B39-AD07-
+59F34DCD44C8/0/index1119.pdf 
+Statistics Netherlands. (2010). Gezondheid, leefstijl, gebruik van zorg [Health, lifestyle, use 
+of health care]. Retrieved April 10 2010, from 
+http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=03799&D1=210-
+214&D2=0-2,18-26,47-51&D3=a&D4=l&HDR=T,G2&STB=G1,G3&VW=T 
+Statistics Netherlands. (2013). Gezondheid, leefstijl, gebruik van zorg [Health, lifestyle, use 
+of health care], from 
+http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=81177NED&D1=9-
+13&D2=a&D3=0&D4=l&HDR=G3,G2&STB=G1,T&VW=T 
+van Lettow, B., de Vries, H., Burdorf, A., Norman, P., & van Empelen, P. (2013). 
+Associations between abstainer, moderate and heavy drinker prototypes and drinking 
+behavior in young adults. Psychology & Health, 28(12). doi: 
+10.1080/08870446.2013.821473 
+van Lettow, B., Vermunt, J. K., de Vries, H., Burdorf, A., & van Empelen, P. (2013). 
+Clustering of drinker prototype characteristics: What characterizes the typical drinker? 
+British Journal of Psychology, 104(3), 382-399. doi: 10.1111/bjop.12000 
+World Health Organisation. (2010). Alcohol Retrieved April 14 2010, from 
+http://www.who.int/mediacentre/factsheets/fs349/en/index.html 
+Yi, Y. (1989). On the evaluation of main effects in multiplicative regression models. Journal 
+of the Market Research Society, 31(1), 133-138. 
+Zimmermann, F., & Sieverding, M. (2010). Young adults' social drinking as explained by an 
+augmented theory of planned behaviour: The roles of prototypes, willingness, and 
+gender. British Journal of Health Psychology, 15(3), 561-581. doi: 
+10.1348/135910709X476558 
+ 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+24
+Tables 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+25
+Table 1 
+Means, Standard Deviations, and Correlations for the Augmented Theory of Planned Behaviour (N = 410) 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+1 
+Drinking behaviour T1 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Drinking behaviour T2 
+.78 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Intention T2 
+-.41 
+-.43 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Attitude T1 
+.26 
+.28 
+-.34 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Descriptive norms T1 
+-.41 
+-.40 
+.42 
+-.38 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+PBC T1 
+-.43 
+-.46 
+.40 
+-.30 
+.33 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Abstainer Fav. T1 
+-.35 
+-.32 
+.34 
+-.29 
+.31 
+.35 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+Moderate drinker Fav. T1 
+.02 
+.03 
+-.05 
+.16 
+-.02 
+-.03 
+.29 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Heavy drinker Fav. T1 
+.38 
+.37 
+-.35 
+.29 
+-.30 
+-.31 
+-.26 
+.25 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+Tipsy Fav. T1 
+.27 
+.26 
+-.32 
+.42 
+-.27 
+-.26 
+-.18 
+.22 
+.45 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+Drunk Fav. T1 
+.31 
+.27 
+-.42 
+.24 
+-.33 
+-.23 
+-.28 
+.01 
+.56 
+.52 
+- 
+ 
+ 
+ 
+ 
+ 
+12 
+Abstainer Sim. T1 
+-.45 
+-.47 
+.51 
+-.41 
+.36 
+.48 
+.52 
+-.09 
+-.38 
+-.39 
+-.36 
+- 
+ 
+ 
+ 
+ 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+26
+13 
+Moderate drinker Sim. T1 
+.17 
+.15 
+-.23 
+.39 
+-.18 
+-.25 
+-.26 
+.37 
+.24 
+.25 
+.14 
+-.44 
+- 
+ 
+ 
+ 
+14 
+Heavy drinker Sim. T1 
+.56 
+.56 
+-.38 
+.24 
+-.31 
+-.45 
+-.35 
+.04 
+.42 
+.27 
+.29 
+-.43 
+.25 
+- 
+ 
+ 
+15 
+Tipsy Sim. T1 
+.37 
+.33 
+-.49 
+.42 
+-.33 
+-.43 
+-.36 
+.11 
+.32 
+.55 
+.36 
+-.61 
+.41 
+.45 
+- 
+ 
+16 
+Drunk Sim. T1 
+.42 
+.42 
+-.49 
+.23 
+-.35 
+-.36 
+-.36 
+-.05 
+.29 
+.29 
+.45 
+-.45 
+.20 
+.56 
+.56 
+- 
+ 
+M 
+7.27 6.55 4.84 4.12 3.99 6.10 4.89 4.65 3.87 4.23 3.29 3.73 4.05 1.91 3.35 1.81 
+ 
+SD 
+9.79 8.79 1.84 1.31 1.96 .93 
+.73 
+.61 
+.69 
+.67 
+.71 
+2.00 1.77 1.14 1.59 1.09 
+Note. Drinking behaviour was assessed at one-month follow-up. All other variables were assessed at baseline. 'Fav.' relates to prototype 
+favourability and 'Sim.' relates to prototype similarity. Correlations of r ≥ .11 are significant at p ≤ 0.05 and those of r ≥ .15 are significant at p 
+≤.001. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+27
+Table 2 
+Explaining Intention at Follow-Up, Including Interactions by Stability of Prototype 
+Favourability (3a) and Similarity (3b) (N = 410) 
+2a 
+Intention T2 
+Step 1 
+Step 2 
+Step 3 
+Step 4 
+Step 5 
+ 
+ 
+β 
+β 
+β 
+β 
+β 
+ 
+ 
+Drinking behaviour T1 
+-.41*** 
+-.19*** 
+-.13** 
+-.14*** 
+-.14** 
+ 
+ 
+Attitude 
+ 
+-.14** 
+-.10* 
+-.10 
+-.09 
+ 
+ 
+PBC 
+ 
+.20*** 
+.17*** 
+.16*** 
+.16*** 
+ 
+ 
+Descriptive norms 
+ 
+.22*** 
+.17*** 
+.17*** 
+.16*** 
+ 
+Favourability T1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+.10* 
+.07 
+.09 
+ 
+ 
+Moderate drinker 
+ 
+ 
+-.04 
+-.04 
+-.04 
+ 
+ 
+Heavy drinker 
+ 
+ 
+-.01 
+-.03 
+-.03 
+ 
+ 
+Tipsy 
+ 
+ 
+-.01 
+-.00 
+-.03 
+ 
+ 
+Drunk 
+ 
+ 
+-.22*** 
+-.20*** 
+-.19*** 
+ 
+Favourability stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+.03 
+.01 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+-.09 
+-.07 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+-.00 
+-.01 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+-.03 
+.27 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+-.01 
+-.01 
+ 
+Favourability by stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+.06 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+.01 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+28
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+-.00 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+-.31 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+.02 
+ 
+R2 
+.17 
+.30 
+.36 
+.37 
+.37 
+ 
+R2 change 
+- 
+.14*** 
+.06*** 
+.01 
+.01 
+ 
+Model F 
+81.27 
+43.66 
+24.64 
+16.19 
+12.08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2b 
+ 
+Drinking behaviour T1 
+-.41*** 
+-.19*** 
+-.08 
+-.08 
+-.05 
+ 
+ 
+Attitude 
+ 
+-.14** 
+-.07 
+-.07 
+-.04 
+ 
+ 
+PBC 
+ 
+.20*** 
+.09 
+.07 
+.06 
+ 
+ 
+Descriptive norms 
+ 
+.22*** 
+.16*** 
+.16*** 
+.15*** 
+ 
+Similarity T1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+.20*** 
+.19*** 
+.21*** 
+ 
+ 
+Moderate drinker 
+ 
+ 
+.04 
+.00 
+.01 
+ 
+ 
+Heavy drinker 
+ 
+ 
+.02 
+.02 
+-.00 
+ 
+ 
+Tipsy 
+ 
+ 
+-.13* 
+-.10 
+-.05 
+ 
+ 
+Drunk 
+ 
+ 
+-.21*** 
+-.17** 
+-.12 
+ 
+Similarity stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+-.02 
+.00 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+-.08 
+-.08 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+-.00 
+-.02 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+.01 
+.00 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+.11* 
+.08 
+ 
+Similarity by stability 
+ 
+ 
+ 
+ 
+ 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+29
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+.12** 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+-.04 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+-.03 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+.04 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+-.13* 
+ 
+R2 
+.17 
+.30 
+.41 
+.42 
+.45 
+ 
+R2 change 
+- 
+.14*** 
+.11*** 
+.01 
+.02** 
+ 
+Model F 
+81.27 
+43.66 
+30.83 
+20.61 
+16.50 
+Note. Paths are significant at the following levels: *p ≤ 0.05, **p ≤ 0.01, ***p ≤.001. 
+Presented are standardised betas. F-values were significant at p < .001. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+30
+Table 3 
+Explaining Drinking Behaviour (Week Total) at Follow-Up, Including Interactions by 
+Stability of Prototype Favourability (3a) and Similarity (3b) (N = 410) 
+3a 
+Drinking behaviour T2 
+Step 1 
+Step 2 
+Step 3 
+Step 4 
+Step 5 
+Step 6 
+ 
+ 
+ 
+β 
+β 
+β 
+β 
+β 
+β 
+ 
+ 
+Drinking behaviour T1 
+.78*** 
+.72*** 
+.67*** 
+.66*** 
+.66*** 
+.66*** 
+ 
+ 
+Intention T2 
+ 
+-.14*** -.09* 
+-.09* 
+-.09* 
+-.09* 
+ 
+ 
+Attitude 
+ 
+ 
+.02 
+.02 
+.03 
+.03 
+ 
+ 
+PBC 
+ 
+ 
+-.12*** -.12*** -.11** 
+-.11** 
+ 
+ 
+Descriptive norms 
+ 
+ 
+-.04 
+-.04 
+-.05 
+-.05 
+ 
+Favourability T1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+.02 
+.01 
+.01 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+-.02 
+-.02 
+-.02 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+.06 
+.08 
+.07 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+.02 
+.02 
+.02 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+-.05 
+-.08 
+-.08 
+ 
+Favourability stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+-.04 
+-.04 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+-.05 
+-.05 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+.07 
+.08 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+.03 
+.00 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+-.04 
+-.05 
+ 
+Favourability by stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+ 
+-.02 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+31
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+ 
+-.01 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+ 
+-.00 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+ 
+.03 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+ 
+.01 
+ 
+R2 
+.61 
+.62 
+.63 
+.64 
+.64 
+.64 
+ 
+R2 change 
+- 
+.02*** 
+.01*** 
+.00 
+.01 
+.00 
+ 
+Model F 
+624.01 
+332.39 
+140.26 
+69.93 
+47.14 
+35.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3b 
+ 
+Drinking behaviour T1 .78*** 
+.72*** 
+.67*** 
+.60*** 
+.60*** 
+.60*** 
+ 
+ 
+Intention T2 
+ 
+-.14*** -.09* 
+-.07 
+-.07 
+-.07 
+ 
+ 
+Attitude 
+ 
+ 
+.02 
+.04 
+.04 
+.03 
+ 
+ 
+PBC 
+ 
+ 
+-.12*** -.09* 
+-.09* 
+-.09* 
+ 
+ 
+Descriptive norms 
+ 
+ 
+-.04 
+-.04 
+-.04 
+-.04 
+ 
+Similarity T1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+-.11** 
+-.13** 
+-.13** 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+-.05 
+-.06 
+-.06 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+.14*** 
+.13** 
+.10* 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+-.13** 
+-.11** 
+-.09 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+.03 
+.03 
+.04 
+ 
+Similarity stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+.06 
+.05 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+-.05 
+-.04 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+-.03 
+-.03 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+.02 
+.03 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+32
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+.01 
+.01 
+ 
+Similarity by stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstainer 
+ 
+ 
+ 
+ 
+ 
+-.05 
+ 
+ 
+Moderate drinker 
+ 
+ 
+ 
+ 
+ 
+-.01 
+ 
+ 
+Heavy drinker 
+ 
+ 
+ 
+ 
+ 
+-.03 
+ 
+ 
+Tipsy 
+ 
+ 
+ 
+ 
+ 
+.04 
+ 
+ 
+Drunk 
+ 
+ 
+ 
+ 
+ 
+-.03 
+ 
+R2 
+.61 
+.62 
+.63 
+.66 
+.66 
+.67 
+ 
+R2 change 
+- 
+.02*** 
+.01*** 
+.02*** 
+.01 
+.00 
+ 
+Model F 
+624.01 
+332.39 
+140.26 
+76.67 
+51.67 
+38.94 
+Note. Paths are significant at the following levels: *p ≤ 0.05, **p ≤ 0.01, ***p ≤.001. 
+Presented are standardised betas. F-values were significant at p < .001. 'Fav.' relates to 
+prototype favourability and 'Sim.' relates to prototype similarity. 
+ 
+ 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+33
+Figures 
+ 
+ 
+Figure 1. Intention (T2) explained by moderation of similarity to the drunk prototype (1a) and abstainer prototype (1b) by similarity stability 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+34
+Footnotes 
+1 According to Statistics Netherlands, 'Western origin' includes all countries in Europe (except for Turkey), North America, Oceania, Japan, and 
+Indonesia (including the former Dutch East Indies). Non-Western origin includes Turkey and all countries in Africa, Latin-America, and Asia 
+(Statistics Netherlands, 2000). 
+2 The original TPB was adapted by combining a subjective and descriptive norm (also referred to social modelling by some scholars, e.g., de 
+Vries, Backbier, Kok, & Dijkstra, 1995) to better capture social norms (Fishbein & Ajzen, 2010). However, the constructs are found to be 
+distinct (de Vries et al., 1995; Oostveen, Knibbe, & de Vries, 1996; Rivis & Sheeran, 2003). At present, only descriptive norms were assessed for 
+three reasons. First, young people are especially susceptible to descriptive norms (Rivis & Sheeran, 2003) as they tend to select peer groups 
+based on the group members' drinking behaviour and are likely to conform to peers' behaviour (Bullers, Cooper, & Russell, 2001; Oostveen et 
+al., 1996). Second, Dutch studies (de Vries et al., 1995; Oostveen et al., 1996) and a meta-analysis (Rivis & Sheeran, 2003) found that descriptive 
+norms have a larger effect in explaining intention than subjective norms, especially in the case of health-risk behaviour. Interventions targeting 
+descriptive norms by normative feedback have effectively changed alcohol consumption among young adults (e.g., Neighbors, Larimer, & 
+Lewis, 2004). 
+3 Additional analyses were performed based on the split median of stability of each prototype. Similar results were found: only the stability of 
+similarity to the abstainer and drunk prototypes moderated the prototype-intention relationship. 
+
+TEMPORAL STABILITY OF PROTOTYPE PERCEPTIONS 
+ 
+ 
+35
+4 The only minor difference found in additional analyses including all variables that significantly explained intentions was that the main effect of 
+abstainer favourability was no longer significant at step 3. As a result, prototype similarity seems to be a stronger predictor than favourability 
+when the constructs are assessed simultaneously. For all other significant variables similar standardised betas were found as for the presented 
+models (Table 2 and 3).
