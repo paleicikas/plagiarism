@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Caches and temporary files (large, reproducible)
+work/*.sqlite
+work/*.sqlite-*
+**/.fuse_hidden*
+
+# Full texts of third-party sources and PDFs (copyright)
+work/sources/
+local_sources/*
+!local_sources/README.txt
+*.pdf
