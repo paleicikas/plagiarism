@@ -1,0 +1,3921 @@
+{
+ "verdicts": {
+  "c387ff6809e64da7": {
+   "pairs": [
+    {
+     "id": 828,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodžiui perimtas NCI apibrėžimas, psl. 64, be kabučių ir nuorodos į šaltinį."
+    },
+    {
+     "id": 829,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodinis elgesinio socialinio konteksto aprašymas, psl. 64, be nuorodos."
+    },
+    {
+     "id": 830,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Normatyvinio konteksto apibrėžimas perimtas beveik identiškai, psl. 64, be nuorodos."
+    },
+    {
+     "id": 831,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visas sakinys sutampa su šaltiniu, psl. 64, be nuorodos."
+    },
+    {
+     "id": 832,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 64 sakinys perimtas pažodžiui, be nuorodos į šaltinį."
+    },
+    {
+     "id": 833,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Ilgas sakinys perimtas pažodžiui. Kabutėmis išskirtas tik žodis „silent“, kaip ir šaltinyje, todėl tai nėra citavimas. Nuorodos nėra."
+    },
+    {
+     "id": 834,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 65 sakinys sutampa beveik pažodžiui (skiriasi tik „for“ ir „to“), nuorodos nėra."
+    },
+    {
+     "id": 835,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Perfrazuotas šaltinio jungiamasis sakinys. Perimta sakinio struktūra, tačiau pats sutapimas silpnas."
+    },
+    {
+     "id": 1239,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 94 perfrazuota šaltinio mintis apie normatyvinį kontekstą, susieta su alkoholio tema; nuorodos nėra."
+    },
+    {
+     "id": 1445,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 112 sakinys pritaikytas iš to paties šaltinio, tik šiek tiek sutrumpintas. Nuorodos nėra."
+    },
+    {
+     "id": 1455,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 113 šaltinio sakinys perdarytas: „smokers“ pakeista į „drinker“, o kabutės perkeltos prie „cool“ ir „popular“. Nuorodos į šaltinį nėra."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.93,
+   "summary": "Disertacijos psl. 64–65 beveik visas NCI svetainės skyrius „General Definition“ perimtas pažodžiui, be kabučių ir be nuorodos į šaltinį. Tai ištisinė 241 žodžio atkarpa. Disertacijos literatūros sąraše šio šaltinio nėra, o jo autorių pavardės tekste nepaminėtos. Panašios formuluotės, pritaikytos alkoholio temai, pakartotos psl. 94, 112 ir 113. Šaltinis yra ankstesnis už disertaciją, todėl tai akivaizdus plagijavimas.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "b5510ec63947c5e7": {
+   "pairs": [
+    {
+     "id": 57,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas beveik pažodžiui (tik „daily“ pakeista į „occasional and moderate“), be kabučių ir nuorodos į tinklaraštį."
+    },
+    {
+     "id": 58,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik tapatus sakinys su nežymiais gramatiniais pakeitimais; nuorodos nėra."
+    },
+    {
+     "id": 59,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodinis perėmimas; praleistas tik šaltinio skliaustuose pateiktas paaiškinimas. Nuorodos nėra."
+    },
+    {
+     "id": 61,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Šaltinio sakinys perimtas su nedideliu įvadu („While analyzing Eastern Europe“); nuorodos į šaltinį nėra."
+    },
+    {
+     "id": 62,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodžiui perimtas sakinys su konkrečiais skaičiais (1997, 2011), be kabučių ir nuorodos; praleista tik prognozė."
+    },
+    {
+     "id": 63,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys remiasi Lietuvos statistika; šaltinio tekstas apie JAV ir Estiją skiriasi, sutampa tik bendri žodžiai."
+    },
+    {
+     "id": 64,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik frazė „per person aged 15 years“ – standartinis PSO apibrėžimas; skaičiai ir turinys skiriasi."
+    },
+    {
+     "id": 644,
+     "label": "klaidingas_sutapimas",
+     "note": "Tik teminis panašumas (PSO, žalos mažinimas); tekstas skiriasi."
+    },
+    {
+     "id": 1060,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodžiui perimtas šaltinio sakinys su įterptu „Baltic region“, nuorodos nėra; tas pats sakinys yra ir psl. 14."
+    },
+    {
+     "id": 1061,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Tas pats pažodžiui perimtas sakinys pakartotas psl. 81, be nuorodos."
+    },
+    {
+     "id": 1063,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik standartinė frazė apie 15 metų ir vyresnius asmenis; skaičiai skiriasi (15,2 l ir 6,13 l)."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.9,
+   "summary": "Disertacijos psl. 14 ir pakartotinai psl. 81 beveik pažodžiui perkeltos keturios ar penkios šio 2012 m. tinklaraščio straipsnio pastraipos (epidemiologinių tyrimų kintamieji, bendro suvartojimo duomenys, Estijos ir Lietuvos suvartojimo augimas 1997–2011 m.). Nuorodų į šį šaltinį nėra, literatūros sąraše jis nenurodytas, kabučių nėra. Likę sutapimai yra tik bendri terminai arba atsitiktiniai. Šaltinis ankstesnis už disertaciją, todėl tai laikytina neatskleistu pažodiniu kopijavimu, nors apimtis nedidelė (apie 0,7 % teksto).",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "1fd1e46e372904c8": {
+   "pairs": [
+    {
+     "id": 269,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys beveik pažodžiui perimtas iš šaltinio (be Rotterio (1966) nuorodos ir be šaltinio nurodymo); psl. 28."
+    },
+    {
+     "id": 270,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik tapatus sakinys, tęsiantis perimtą seką; nuorodos nėra."
+    },
+    {
+     "id": 271,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodžiui perimtas apibrėžimas; kabutėmis išskirtas tik žodis „locus“, o ne citata; šaltinis nenurodytas."
+    },
+    {
+     "id": 272,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visiškai tapatus sakinys be kabučių ir nuorodos; ištisinė perimta atkarpa psl. 28."
+    },
+    {
+     "id": 1283,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Nurodyti Schwarzer ir Luszczynska (2005), tačiau formuluotė artima šaltiniui; nuoroda į autorius yra, tekstas perfrazuotas."
+    },
+    {
+     "id": 1284,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Beveik pažodžiui perimtas šaltinio sakinys; autoriai minimi gretimame sakinyje, bet kabučių nėra."
+    },
+    {
+     "id": 1285,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Praktiškai pažodinis perėmimas (nežymūs pakeitimai) be kabučių; autoriai minimi anksčiau."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Pažodžiui perimtas sakinys, tęsiantis perimtą šaltinio pastraipą; autoriai minimi anksčiau, bet kabučių nėra."
+    },
+    {
+     "id": 1287,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 98 – visiškai tapatus sakinys be kabučių ir nuorodos."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Tapatus sakinys su pavyzdžiu; kabutėmis išskirti tik pavyzdžiai, o ne citata; nuorodos nėra."
+    },
+    {
+     "id": 1289,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas su nedideliais pakeitimais; praleista DeVellis nuoroda, pavyzdys sutrumpintas."
+    },
+    {
+     "id": 1306,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Mintis apie saviveiksmingumo atskyrimą nuo savivertės ir kontrolės lokuso perfrazuota iš šaltinio; sutapimas silpnas."
+    },
+    {
+     "id": 1337,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik bendra tema (suvokiamas gebėjimas atsisakyti gėrimo); tekstas skiriasi, sutapimas silpnas."
+    },
+    {
+     "id": 1474,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Planuoto elgesio teorijos (TPB) komponentų sąrašas perfrazuotas iš šaltinio; Schwarzer ir Luszczynska minimi, tačiau formuluotė artima šaltiniui."
+    },
+    {
+     "id": 1476,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinyje kabutėse cituojamas Ajzen (2002); šaltinio fragmentas kitas, sutapimas atsitiktinis."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.85,
+   "summary": "Disertacijos psl. 28 (kontrolės lokuso apibrėžimas) ir psl. 97–98 (saviveiksmingumo skyrius) pažodžiui arba su nedideliais pakeitimais perimta ištisa šaltinio sakinių seka (apie 160 žodžių iš Schwarzer ir Luszczynska NCI santraukos). Šaltinis ankstesnis už disertaciją, tačiau literatūros sąraše kaip šio teksto šaltinis nenurodytas. Psl. 97–98 Schwarzer ir Luszczynska (2005) paminėti vieną kartą, tačiau tolesni sakiniai pateikiami be kabučių, o psl. 28 tekstas perimtas visai be nuorodos. Pavieniai sutapimai psl. 99, 102 ir 114 silpni arba atsitiktiniai.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "290418dabace52f6": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "tinkamas_citavimas",
+     "note": "Bandura apibrėžimas pateiktas su nuoroda į Bandura; formuluotė perimta iš Ajzen teksto, tačiau tai trumpas apibrėžimas ir pirminis autorius nurodytas."
+    },
+    {
+     "id": 83,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys sutampa su Ajzen (2002) poskyrio sakiniu (psl. 16); kabučių nėra, nors Ajzen nurodomas kitame sakinyje."
+    },
+    {
+     "id": 84,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Šiek tiek sutrumpintas sakinys, perimtas iš Ajzen; pateikta nuoroda į Ajzen (1985) (antrinis šaltinis neminimas), kabučių nėra."
+    },
+    {
+     "id": 85,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visas sakinys sutampa žodis žodin, be kabučių ir nuorodos į Ajzen (2002)."
+    },
+    {
+     "id": 132,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Tas pats Ajzen sakinys, pritaikytas vartotojo elgsenai; nuorodos nėra."
+    },
+    {
+     "id": 133,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Beveik tikslus Ajzen sakinio perėmimas (psl. 19); cituojamas Ajzen (1985), o ne 2002, kabučių nėra."
+    },
+    {
+     "id": 134,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik tapatus sakinys, pakeistas tik žodžių junginys „causes of a behavior“ į „motivations“; nuorodos nėra."
+    },
+    {
+     "id": 135,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Ajzen pavyzdys perimtas beveik pažodžiui, praleistos tik nuorodos į Weiner; nuorodos į Ajzen (2002) nėra."
+    },
+    {
+     "id": 269,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Vidinio ir išorinio kontrolės lokuso idėja perfrazuota iš Ajzen; nuorodos nėra, o priskyrimas socialinio mokymosi teorijai abejotinas."
+    },
+    {
+     "id": 566,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Ajzen sakinys perkeltas su įžanga „kaip minėta“, be nuorodos."
+    },
+    {
+     "id": 567,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Sakinys tapatus Ajzen (2002) tekstui, be kabučių; nurodytas tik Ajzen (1985)."
+    },
+    {
+     "id": 568,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visas sakinys tapatus šaltiniui, be nuorodos."
+    },
+    {
+     "id": 574,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Teorijos kilmės idėja perfrazuota su nuorodomis į Fishbein ir Ajzen; sutapimas dalinis ir bendrinis."
+    },
+    {
+     "id": 583,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie 27 % ir 39 % dispersijos neatitinka šaltinio teksto; sutampa tik teorijos pavadinimas."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa literatūros sąrašo įrašas; esminis tekstas skiriasi."
+    },
+    {
+     "id": 1276,
+     "label": "tinkamas_citavimas",
+     "note": "Bandura apibrėžimas cituojamas kabutėse su nuoroda; citata trumpa, iš dalies perimta per Ajzen, tačiau nurodytas pirminis autorius."
+    },
+    {
+     "id": 1295,
+     "label": "tinkamas_citavimas",
+     "note": "Bandura citata kabutėse su nuoroda; tai tas pats perimtas apibrėžimas, tačiau Ajzen kaip tarpinis šaltinis neminimas."
+    },
+    {
+     "id": 1308,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Kontrolės lokuso skirtumas perfrazuotas pagal Ajzen aiškinimą; nuorodos į Ajzen nėra."
+    },
+    {
+     "id": 1469,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Ajzen sakinys pritaikytas vartotojo elgsenai; nuorodos nėra."
+    },
+    {
+     "id": 1475,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Savais žodžiais perteikta Ajzen mintis apie suvokiamos elgesio kontrolės ir saviveiksmingumo panašumą; aiškiau ji cituojama kitame sakinyje."
+    },
+    {
+     "id": 1476,
+     "label": "tinkamas_citavimas",
+     "note": "Citata kabutėse su nuoroda į Ajzen (2002); tekstas šiek tiek pakeistas (nedidelis neatitikimas), tačiau tai tinkamas citavimas."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.85,
+   "summary": "Ajzen (2002) yra disertacijos literatūros sąraše ir keliose vietose cituojamas tinkamai (pvz., psl. 114 ir Bandura apibrėžimai). Tačiau psl. 16, 19 ir 48 pažodžiui ar beveik pažodžiui perimta kelių sakinių seka apie vidinius ir išorinius elgesio veiksnius. Šie sakiniai pateikti be kabučių, o nuoroda pateikta tik į Ajzen (1985). Psl. 19 ir 114 tas pats tekstas pritaikytas vartotojo elgsenai. Tai pakartotinis Ajzen (2002) teksto perėmimas be tinkamos nuorodos ir kabučių. Dalis sutapimų yra bendrinio pobūdžio arba atsitiktiniai.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas",
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "35e11d9e4ee968fa": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Bandura apibrėžimas perteiktas su nuoroda į Bandura (1995), tačiau formuluotė sutampa su Ajzen (2002) cituojamu Bandura tekstu; antrinis šaltinis nenurodytas."
+    },
+    {
+     "id": 83,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas pažodžiui iš Ajzen (2002) skyriaus (psl. 10–16); nuorodos į šaltinį nėra."
+    },
+    {
+     "id": 84,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Šiek tiek sutrumpintas Ajzen sakinys; perimta nuoroda į Ajzen (1985), bet ne į Ajzen (2002); kabučių nėra."
+    },
+    {
+     "id": 85,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visas sakinys tapatus Ajzen (2002) tekstui, be kabučių ir nuorodos."
+    },
+    {
+     "id": 132,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Ajzen sakinys nežymiai pritaikytas vartotojo elgsenai; šaltinis nenurodytas."
+    },
+    {
+     "id": 133,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Beveik tapatus sakinys su nuoroda į Ajzen (1985), t. y. nurodomas pirminis, o ne šis šaltinis; kabučių nėra."
+    },
+    {
+     "id": 134,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Ajzen sakinys su nežymiu žodžių pakeitimu („motivations“ vietoj „causes of a behavior“), be nuorodos."
+    },
+    {
+     "id": 135,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Ilgas sakinys perimtas beveik pažodžiui, praleistos nuorodos į Weiner, šaltinis nenurodytas."
+    },
+    {
+     "id": 269,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Vidinio ir išorinio kontrolės lokuso idėja perteikta trumpai; sutapimas silpnas, tačiau turinys atitinka Ajzen."
+    },
+    {
+     "id": 566,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Ajzen sakinys perimtas su įžanga „As noted previously“; šaltinis nenurodytas."
+    },
+    {
+     "id": 567,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Sakinys tapatus Ajzen (2002) tekstui kartu su jame cituojama nuoroda į Ajzen (1985); be kabučių ir be nuorodos į šaltinį."
+    },
+    {
+     "id": 568,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys tapatus šaltiniui, be kabučių ir nuorodos; tai trečias iš eilės pasikartojantis fragmentas."
+    },
+    {
+     "id": 574,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Teiginys apie teorijos kilmę perfrazuotas su nuoroda į Fishbein ir Ajzen (1975), tačiau remiamasi Ajzen (2002) formuluote."
+    },
+    {
+     "id": 583,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie 27 % ir 39 % dispersijos neatitinka šaltinio teksto; sutapimas atsitiktinis."
+    },
+    {
+     "id": 593,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik bendra frazė „theory of planned behavior“; turinys skiriasi."
+    },
+    {
+     "id": 1220,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik teorijos pavadinimas ir bendras kontekstas; tekstas skiriasi."
+    },
+    {
+     "id": 1276,
+     "label": "tinkamas_citavimas",
+     "note": "Citata kabutėse su nuoroda į Bandura (1995), tačiau tekstas paimtas iš Ajzen (2002) cituojamo Bandura teksto; antrinis šaltinis neminimas."
+    },
+    {
+     "id": 1295,
+     "label": "tinkamas_citavimas",
+     "note": "Banduros apibrėžimas pateiktas kabutėse su nuoroda, tačiau paimtas iš Ajzen (2002); antrinis šaltinis neminimas."
+    },
+    {
+     "id": 1308,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Kontrolės lokuso apibūdinimas perfrazuotas iš Ajzen (2002) psl. 675–676; nuorodos nėra."
+    },
+    {
+     "id": 1469,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Dar kartą pritaikytas Ajzen sakinys apie veiksnius, kurie palengvina elgesį ar jam trukdo; šaltinis nenurodytas."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas; trumpas bendrinis teiginys."
+    },
+    {
+     "id": 1475,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Teiginys apie suvokiamos elgesio kontrolės ir saviveiksmingumo panašumą perfrazuotas; kitame sakinyje cituojamas Ajzen (2002)."
+    },
+    {
+     "id": 1476,
+     "label": "tinkamas_citavimas",
+     "note": "Citata pateikta kabutėse, nurodytas Ajzen (2002); tekstas pakeistas nežymiai (praleisti keli žodžiai)."
+    },
+    {
+     "id": 1477,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie Spijkerman skalę nesusijęs su šaltinio PMAC tekstu."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.9,
+   "summary": "Ajzen (2002) yra disertacijos literatūros sąraše ir vieną kartą cituojamas tinkamai (psl. 114). Tačiau kelios pastraipos (psl. 16, 19, 48) perimtos beveik pažodžiui be kabučių. Pasikartoja tas pats Ajzen sakinių blokas apie vidinius ir išorinius veiksnius, o kai kur kartu perimtos ir nuorodos į Ajzen (1985) bei Weiner. Bandura apibrėžimas taip pat paimtas iš šio šaltinio, nors nurodomas tik Bandura. Disertacijoje neatskleidžiama, kad šis tekstas perimtas iš Ajzen (2002), todėl tai laikytina iš dalies nenurodytu naudojimu.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas",
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "1a60755ceeb76055": {
+   "pairs": [
+    {
+     "id": 91,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas beveik pažodžiui iš Schwarzer ir Luszczynska darbo (disertacijos psl. 16), be nuorodos ir kabučių; tas pats sakinys kartojamas psl. 98."
+    },
+    {
+     "id": 573,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "TPB aprašymas su nuoroda į Ajzen; tai bendra teorinė sąvoka, sutapimas silpnas, bet minčių seka panaši į šaltinio."
+    },
+    {
+     "id": 576,
+     "label": "bendrine_fraze",
+     "note": "Bendras TPB aprašymas; tekstinis sutapimas nedidelis, mintis standartinė."
+    },
+    {
+     "id": 1098,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "TPB komponentų (nuostatos, subjektyviosios normos, suvokiamos elgesio kontrolės) išdėstymas atkartoja šaltinio formuluotę; nuorodos į šį šaltinį nėra."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie joje siūlomą modelį, šaltinio tekstas kitoks; sutampa tik TPB pavadinimas."
+    },
+    {
+     "id": 1263,
+     "label": "bendrine_fraze",
+     "note": "Standartinė hipotezės formuluotė apie saviveiksmingumą kaip prognostinį veiksnį; tekstas skiriasi."
+    },
+    {
+     "id": 1283,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Nurodyti Schwarzer ir Luszczynska (2005), bet sakinys perimtas beveik pažodžiui be kabučių."
+    },
+    {
+     "id": 1284,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik tapatus sakinys perimtas iš šaltinio (pakeista tik „behavior“ į „actions“); prieš tai pateiktos nuorodos pažodiniam perėmimui nepakanka."
+    },
+    {
+     "id": 1285,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis sakinys iš šaltinio; originale cituojamas Schwarzer (2001), disertacijoje nuorodos nėra."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys beveik identiškas šaltinio sakiniui, pakeista tik „risk“ į „risky“; be kabučių ir nuorodos."
+    },
+    {
+     "id": 1287,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visiškai identiškas sakinys, be nuorodos ir kabučių."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Identiškas sakinys su rūkymo pavyzdžiais perkeltas be nuorodos; kabutės yra tik pavyzdžiuose, ne perimtame tekste."
+    },
+    {
+     "id": 1289,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Perimtas šaltinio sakinys; šaltinyje cituojami DeVellis & DeVellis (2000), o disertacijoje nuorodos nėra – tai perėmimas iš antrinio šaltinio."
+    },
+    {
+     "id": 1290,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas iš šaltinio ir sutrumpintas; be nuorodos."
+    },
+    {
+     "id": 1291,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Rūkymo pavyzdys pakeistas alkoholio pavyzdžiu, išlaikyta šaltinio mintis ir struktūra; nuorodos nėra."
+    },
+    {
+     "id": 1293,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Pažodinis sakinys su nuoroda į Unger ir kt., bet be kabučių ir be nuorodos į Schwarzer ir Luszczynska."
+    },
+    {
+     "id": 1294,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pakartotas sakinys, perimtas pažodžiui iš šaltinio; be nuorodos."
+    },
+    {
+     "id": 1319,
+     "label": "bendrine_fraze",
+     "note": "Bendra hipotezė apie saviveiksmingumą; formuluotė skiriasi nuo šaltinio."
+    },
+    {
+     "id": 1323,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Bendrojo saviveiksmingumo apibrėžimas perfrazuotas, nurodyti Luszczynska, Scholz ir Schwarzer (2005)."
+    },
+    {
+     "id": 1342,
+     "label": "bendrine_fraze",
+     "note": "Bendra hipotezė; sutapimas atsirado dėl standartinės frazės, o ne dėl teksto perėmimo."
+    },
+    {
+     "id": 1344,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis sakinys (rūkymas → alkoholis), praleista Li, Pentz & Chou (2002) nuoroda ir nenurodytas šaltinis."
+    },
+    {
+     "id": 1345,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Šaltinio sakinys perimtas su nedideliais pakeitimais, be nuorodos."
+    },
+    {
+     "id": 1346,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas, rūkymas pakeistas alkoholiu; praleista Aung ir kt. (2003) nuoroda."
+    },
+    {
+     "id": 1347,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Perimti du šaltinio sakiniai, rūkymas pakeistas alkoholiu; be nuorodų."
+    },
+    {
+     "id": 1348,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Identiškas klausimas perimtas iš šaltinio be nuorodos."
+    },
+    {
+     "id": 1349,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis perėmimas, „smoking“ pakeistas alkoholiu; be nuorodos."
+    },
+    {
+     "id": 1474,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "TPB komponentų sąrašas atitinka šaltinio sakinį, nors šalia minimi Schwarzer ir Luszczynska (2004); tekstas sutrumpintas."
+    },
+    {
+     "id": 1476,
+     "label": "tinkamas_citavimas",
+     "note": "Kabutėse cituojamas Ajzen (2002); šaltinio tekstas panašus tik bendrai, savitų sutapimų reikšmė nedidelė."
+    },
+    {
+     "id": 1292,
+     "label": "pazodinis_be_nuorodos",
+     "note": "(automatinė žyma)"
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.9,
+   "summary": "Schwarzer ir Luszczynska (2005) straipsnis yra disertacijos literatūros sąraše, tačiau psl. 97–98 ir 103 perimta ištisa apie 270 žodžių atkarpa, o psl. 16 – dar vienas sakinys. Tekstas perkeltas beveik pažodžiui, vietomis rūkymas pakeistas alkoholiu. Perimti ir šaltinyje minimi antriniai autoriai (Unger, Li, Aung ir kt.), tačiau be kabučių ir dažniausiai be nuorodos į patį šaltinį. Tai esminis pažodinis perėmimas be tinkamo citavimo. TPB aprašymai (psl. 48–49, 83, 114) yra standartiniai, bet iš dalies atitinka šaltinio formuluotes.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "4c6333dadd0149d8": {
+   "pairs": [
+    {
+     "id": 830,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Disertacijos psl. 64 sakinys beveik sutampa su Willso ir kt. tekstu (cituojamu šaltinyje); nuorodos nėra. Pats šaltinis vėlesnis, bet tikrasis šaltinis – Willsas ir kt."
+    },
+    {
+     "id": 832,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis Willso ir kt. sakinys, perkeltas be kabučių ir nuorodos (psl. 64). Šaltinis tik cituoja originalą."
+    },
+    {
+     "id": 833,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis Willso ir kt. teksto perėmimas (psl. 64) be nuorodos; kabutėmis išskirtas tik žodis „silent“."
+    },
+    {
+     "id": 1239,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 94 perfrazuotas Willso ir kt. teiginys apie nuostatų kilmę, nuorodos nėra."
+    },
+    {
+     "id": 1445,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 112 beveik pažodžiui perimtas tas pats Willso ir kt. sakinys be nuorodos."
+    },
+    {
+     "id": 1454,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 113 sakinio struktūra sutampa su Willso ir kt. sakinio struktūra, pritaikyta alkoholiui; nuorodos nėra. Šaltinis vėlesnis, tad tai rodo originalo perėmimą."
+    },
+    {
+     "id": 1455,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Psl. 113 pateiktas Willso ir kt. sakinys su pakeistais žodžiais (smoking → drinker), be nuorodos; kabutėmis išskirtas tik „silent“."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.7,
+   "summary": "Šaltinis yra vėlesnis žiniasklaidos straipsnis, todėl pats nėra disertacijos šaltinis. Tačiau jame cituojami ir lyginami fragmentai, rodantys, kad disertacijos psl. 64, 94, 112 ir 113 perimtas Willso, Ainette ir Walker tekstas. Perėmimas pažodinis arba su nedideliais pakeitimais (pvz., „smokers“ pakeista į „drinkers“), be kabučių ir nuorodos. Tai antrinis šaltinis, bet jame atskleidžiamas tikrasis šaltinis, todėl vertinimas pagal turinį yra rimtas, nors apimtis santykinai nedidelė.",
+   "llm": true
+  },
+  "b6d00dfad612b7d4": {
+   "pairs": [
+    {
+     "id": 269,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perkeltas beveik pažodžiui (praleista nuoroda į Rotterį, 1966), šaltinis nenurodytas. Juo prasideda psl. 28 perimtas ištisinis tekstas."
+    },
+    {
+     "id": 270,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik identiškas sakinys, tik „situational“ vietoj „situation“; nuorodos į šaltinį nėra."
+    },
+    {
+     "id": 271,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodinis sakinys, praleisti tik (I) ir (E); kabutėmis išskirtas tik terminas „locus“, tai nėra citavimas; nuorodos nėra."
+    },
+    {
+     "id": 272,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visiškai identiškas sakinys, be kabučių ir nuorodos."
+    },
+    {
+     "id": 1283,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Nurodyti Schwarzer ir Luszczynska (2005), bet sakinys beveik pažodinis, be kabučių; nuoroda į konkretų NCI tekstą neaiški."
+    },
+    {
+     "id": 1284,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Pakeista tik „behavior“ į „actions“; tęsiamas tų pačių autorių perimtas tekstas be kabučių."
+    },
+    {
+     "id": 1285,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Praktiškai pažodinis perėmimas su nežymiais žodžių pakeitimais; autoriai paminėti ankstesniame sakinyje, bet kabučių nėra."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Pažodinis tekstas (tik „risk“ → „risky“); tęsiamas autorių tekstas be kabučių."
+    },
+    {
+     "id": 1287,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Identiškas sakinys be kabučių ir be tiesioginės nuorodos."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Identiškas sakinys; kabutėmis išskirtos tik pavyzdinės frazės, o ne citata; nuorodos nėra."
+    },
+    {
+     "id": 1289,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas su nedideliu pakeitimu; praleista šaltinyje esanti DeVellis & DeVellis (2000) nuoroda – tai perėmimas iš antrinio šaltinio."
+    },
+    {
+     "id": 1306,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Panaši mintis apie savivoką ir kitas sąvokas, bet formuluotė gerokai skiriasi; sutapimas silpnas."
+    },
+    {
+     "id": 1337,
+     "label": "klaidingas_sutapimas",
+     "note": "Tema sutampa (saviveiksmingumas atsisakant gėrimo), bet formuluotė skirtinga; tai tik bendras temos sutapimas."
+    },
+    {
+     "id": 1474,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "TPB komponentų išvardijimas perfrazuotas, nurodyti Schwarzer ir Luszczynska (2004); struktūra ir turinys artimi šaltiniui."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.9,
+   "summary": "Disertacijos psl. 28 (kontrolės lokuso skyrius) ir psl. 97–98 (saviveiksmingumas) pažodžiui arba beveik pažodžiui perimti keli iš eilės einantys NCI / Schwarzer ir Luszczynska teksto sakiniai. Dalis jų pateikta be jokios nuorodos ir be kabučių. Psl. 97–98 autoriai paminėti, bet tekstas neišskirtas kaip citata, o pats NCI šaltinis literatūros sąraše nenurodytas. Rotterio ir DeVellis nuorodos praleistos arba pakeistos, todėl atrodo, kad jos perimtos iš antrinio šaltinio. Tai esminis nepažymėto pažodinio kopijavimo atvejis.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "c031c79621257c84": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Sakinys beveik atkartoja Ajzen (2006) apibrėžimą, perimtą iš Aertsens ir kt. apžvalgos; nenurodytas nei Ajzen, nei šaltinis (psl. 16)."
+    },
+    {
+     "id": 93,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Minimas Aertsens ir kt. (2009) darbas, tačiau sakinyje perfrazuojamas šaltinio teiginys apie vertybes, jas pakeičiant į „personal motivations“; tai perfrazė su nuoroda."
+    },
+    {
+     "id": 132,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Tas pats Ajzen apibrėžimas iš šaltinio, perfrazuotas be nuorodos (psl. 19); kartojamas keliose vietose."
+    },
+    {
+     "id": 566,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šaltinio sakinio apie veiksnius, palengvinančius elgesį ar jam trukdančius, perfrazė be nuorodos (psl. 48)."
+    },
+    {
+     "id": 572,
+     "label": "bendrine_fraze",
+     "note": "Bendras TPB aprašymas; šaltinio fragmentas yra paveikslo tekstas, sutapimas tik terminologinis."
+    },
+    {
+     "id": 574,
+     "label": "bendrine_fraze",
+     "note": "TRA ir TPB ryšys aprašytas standartiškai, pateikta nuoroda į Fishbein ir Ajzen; sutapimas tik terminologinis."
+    },
+    {
+     "id": 1098,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "TPB sudedamųjų dalių aprašymas ir struktūra primena šaltinio tekstą; tačiau tai standartinė teorija, todėl sutapimas silpnas, nors tekstas galbūt perimtas."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinio fragmentas yra literatūros sąrašo įrašas; disertacijos sakinys su juo turinio prasme nesusijęs."
+    },
+    {
+     "id": 1386,
+     "label": "klaidingas_sutapimas",
+     "note": "Skirtingi teiginiai: disertacijoje – apie sveikatos sąmoningumą, šaltinyje – apie lyčių skirtumus; sutampa tik tema."
+    },
+    {
+     "id": 1469,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Dar kartą pateikiama Ajzen (2006) apibrėžimo perfrazė iš šaltinio be nuorodos (psl. 114)."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "TPB komponentų išvardijimas standartinis ir bendrinis; papildoma šaltinio dalis apie normas ir emocijas neperimta."
+    },
+    {
+     "id": 1876,
+     "label": "klaidingas_sutapimas",
+     "note": "Skirtingas turinys: disertacijoje – apie alkoholio įvaizdį ir ketinimą pirkti, šaltinyje – apie ketinimus, susijusius su ekologišku maistu."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.6,
+   "summary": "Aertsens ir kt. (2009) darbas yra disertacijos literatūros sąraše ir tekste cituojamas vieną kartą (psl. 16). Esminis pasikartojantis sutapimas – Ajzen (2006) apibrėžimo apie veiksnius, palengvinančius elgesį ar jam trukdančius, perfrazė. Ji pateikta keliose vietose (psl. 16, 19, 48, 114) be nuorodos į Ajzen ar į šį šaltinį. Kiti sutapimai – bendrinė TPB terminija arba atsitiktiniai. Bendras panaudojimas nedidelis (apie 0,5 % teksto), tačiau tai formuluotės perėmimas iš antrinio šaltinio be tinkamos nuorodos.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "df423cca454e945e": {
+   "pairs": [
+    {
+     "id": 54,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Disertacijos sakinys beveik pažodžiui atkartoja šaltinio santraukos sakinį apie sveikatos ketinimus ir atsiribojimą nuo geriančiojo prototipo; nuorodos nėra (psl. 14)."
+    },
+    {
+     "id": 56,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Prototipų apibūdinimai perfrazuoti iš šaltinio ir nurodyta van Lettow et al., 2014, taigi nuoroda yra, tik be kabučių; trūksta tikslumo, bet šaltinis įvardytas (psl. 14)."
+    },
+    {
+     "id": 112,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendra frazė „in order to achieve“; turinys visiškai skirtingas (psl. 18)."
+    },
+    {
+     "id": 590,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šaltinio diskusijos išvados perimtos beveik pažodžiui (prototipų suvokimo ir ketinimų ryšį veikia (moderuoja) stabilumas); nuorodos nėra (psl. 50)."
+    },
+    {
+     "id": 591,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodžiui perimtas šaltinio sakinys, pridėti tik skliausteliai; nuorodos į šaltinį nėra, nors jis įtrauktas į literatūros sąrašą (psl. 50)."
+    },
+    {
+     "id": 882,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik trumpa frazė „results are consistent with“; disertacijoje cituojami Peterson et al., turinys kitas (psl. 69)."
+    },
+    {
+     "id": 1098,
+     "label": "bendrine_fraze",
+     "note": "TPB komponentų (nuostata, subjektyvi norma, suvokiama elgesio kontrolė) apibūdinimas standartinis, tekstas skiriasi (psl. 83)."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik teorijos pavadinimas; šaltinio sakinys yra literatūros sąrašo įrašo pavadinimas (psl. 92)."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas; formuluotės skirtingos (psl. 114)."
+    },
+    {
+     "id": 1550,
+     "label": "klaidingas_sutapimas",
+     "note": "Demografinių duomenų aprašymas skirtingas, sutampa tik bendra struktūra „majority…“ (psl. 122)."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.72,
+   "summary": "Šaltinis (van Lettow et al., 2014) įtrauktas į literatūros sąrašą, tačiau pastraipos apie geriančiojo prototipus ir sveikatos ketinimus (psl. 14 ir 50) perimtos beveik pažodžiui, be kabučių ir be nuorodos į šį darbą. Vienoje vietoje (psl. 14) šaltinis paminėtas, bet tekstas perfrazuotas pernelyg artimai originalui. Kiti sutapimai – bendrinės frazės arba atsitiktiniai ir nereikšmingi. Iš viso sutampa nedidelė disertacijos dalis, tačiau pažodiniai perėmimai kartojasi keliose vietose.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "b18fa14d844f7a53": {
+   "pairs": [
+    {
+     "id": 64,
+     "label": "bendrine_fraze",
+     "note": "Bendra statistinio rodiklio apibrėžtis (suvartojimas vienam 15 metų ir vyresniam gyventojui); tekstas skirtingas, konkretūs skaičiai paimti ne iš šaltinio."
+    },
+    {
+     "id": 644,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik oficialus PSO veiksmų plano pavadinimas arba įprasta frazė; tai ne teksto perėmimas."
+    },
+    {
+     "id": 730,
+     "label": "klaidingas_sutapimas",
+     "note": "Tema ta pati (alkoholio koncentracijos kraujyje (BAC) ribos), bet formuluotės ir duomenys skirtingi; panašumas atsitiktinis."
+    },
+    {
+     "id": 853,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Perfrazuotas šaltinio ilgalaikių (longitudinių) tyrimų pavyzdys (50 % didesnė tikimybė pradėti gerti po metų); Collins et al. nurodyti, bet pats šaltinis – ne."
+    },
+    {
+     "id": 1009,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys bendro pobūdžio; šaltinio tekstas kitoks, sutampa tik bendra tema."
+    },
+    {
+     "id": 1026,
+     "label": "klaidingas_sutapimas",
+     "note": "Šalių sąrašas bendrinis; disertacija remiasi Bahmani-Oskooee ir Kutan, formuluotė skirtinga."
+    },
+    {
+     "id": 1063,
+     "label": "bendrine_fraze",
+     "note": "Tas pats pasikartojantis sakinys; bendra rodiklio apibrėžtis, ne perimtas tekstas."
+    },
+    {
+     "id": 1090,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Tema (mirtys skirtingose amžiaus grupėse) panaši, bet formuluotė skiriasi; galimas idėjos perėmimas, tačiau įrodymai silpni."
+    },
+    {
+     "id": 1415,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendra frazė „have an effect on alcohol“; turinys skirtingas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.7,
+   "summary": "Sutapimai su šaltiniu „Alcohol in the European Union“ daugiausia atsitiktiniai arba bendrinio pobūdžio (statistiniai apibrėžimai, PSO plano pavadinimas, šalių sąrašai). Vienintelis galimas perfrazavimas – psl. 66 pateiktas teiginys apie 50 % didesnę tikimybę pradėti gerti, tačiau jis priskirtas Collins et al. Sistemingo teksto perėmimo nenustatyta, sutampa tik 0,4 % disertacijos teksto. Šaltinio data nežinoma.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "343f4d0e24822f6b": {
+   "pairs": [
+    {
+     "id": 85,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Disertacijos sakinys beveik atkartoja šaltinio sakinį apie vidines ir išorines elgesio priežastis; nuoroda į Ajzen 2002 ar šaltinį nepateikta."
+    },
+    {
+     "id": 133,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Šaltinio sakinys perfrazuotas minimaliai; nurodyta Ajzen (1985), o ne Ajzen (2002) ar pats šaltinis – tai antrinio šaltinio teksto perėmimas."
+    },
+    {
+     "id": 135,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodžiui iš šaltinio perimtas Weiner ir Kukla teiginys, nurodant ne šaltinį, o pirminius autorius; pačiame sakinyje nuorodos nėra."
+    },
+    {
+     "id": 269,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie vidinį ir išorinį kontrolės lokusą bendro pobūdžio; sutampa tik atskiri terminai. Tačiau gretimas sakinys perimtas."
+    },
+    {
+     "id": 567,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Pakartotas tas pats perfrazuotas šaltinio sakinys; cituojamas Ajzen (1985), o ne pats šaltinis."
+    },
+    {
+     "id": 568,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Beveik tas pats šaltinio sakinys, pakeista tik forma, be nuorodos; pakartotas iš psl. 16."
+    },
+    {
+     "id": 1476,
+     "label": "tinkamas_citavimas",
+     "note": "Citata kabutėse su nuoroda Ajzen (2002); šiek tiek netiksli, bet perteikta pagal šaltinį. Cituojama per antrinį šaltinį."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.65,
+   "summary": "Šaltinis – švedų darbas apie stresą ir TPB, kuriame pateikiami Ajzeno (2002) bei Weinerio ir Kuklos teiginiai. Disertacijos psl. 16, 19, 48 ir 114 šio teksto sakiniai perimti su nedideliais pakeitimais arba perfrazuoti. Nurodomi pirminiai autoriai (Ajzen 1985, Weiner & Kukla), bet ne pats šaltinis, o kai kur nuorodų nėra visai. Sutampa nedidelė teksto dalis (apie 0,4 %), tačiau tie patys perimti sakiniai kartojasi. Šaltinio data nežinoma, todėl negalima atmesti, kad perėmimo kryptis atvirkštinė.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas",
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "33a07c93f742ebf8": {
+   "pairs": [
+    {
+     "id": 609,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Sakinys beveik toks pat, pakeisti tik pabaigos žodžiai; nuorodos į šaltinį nėra."
+    },
+    {
+     "id": 610,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodinis sakinys; išmesta tik ISD 2009 nuoroda, šaltinis nenurodytas."
+    },
+    {
+     "id": 611,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šiek tiek perfrazuotas šaltinio sakinys, išlaikyta ta pati minčių seka."
+    },
+    {
+     "id": 612,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodinis sakinys su perimtomis pirminių autorių nuorodomis (Breakwell, Coghill); antrinis šaltinis nenurodytas."
+    },
+    {
+     "id": 613,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas iš šaltinio pažodžiui, be nuorodos."
+    },
+    {
+     "id": 614,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pažodinis sakinys, tik „UK“ pakeista į „European Union“; nuorodos nėra."
+    },
+    {
+     "id": 628,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šaltinio sakinys šiek tiek sutrumpintas ir perfrazuotas, praleistos nuorodos; mintis ir seka perimtos."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.9,
+   "summary": "Disertacijos psl. 52–53 maždaug 120 žodžių pastraipa ištisai perimta iš šio ankstesnio šaltinio. Sakiniai daugiausia pažodiniai, tik nežymiai pakeisti (pvz., „UK“ pakeista į „European Union“). Be to, perkeltos pirminių autorių nuorodos (Breakwell ir kt., 2007; Coghill ir kt., 2009), tačiau pats šaltinis nenurodytas ir į literatūros sąrašą neįtrauktas. Tai antrinio šaltinio teksto perėmimas be nuorodos. Apimtis nedidelė (0,37 % teksto), bet perėmimas aiškus.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "59b0060132b1a80b": {
+   "pairs": [
+    {
+     "id": 1283,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Perfrazuotas sakinys su nuoroda į Schwarzer ir Luszczynska bei Bandurą, tačiau pats tekstas perimtas iš šio šaltinio (Kelly ir kt.), kuris nenurodytas."
+    },
+    {
+     "id": 1284,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodžiui perimtas sakinys (pakeista „behavior“ į „actions“), be nuorodos ir kabučių."
+    },
+    {
+     "id": 1285,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik identiškas apibrėžimas su nežymiais pakeitimais, nuorodos nėra."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas pažodžiui (pakeista „risk“ į „risky“), be nuorodos."
+    },
+    {
+     "id": 1287,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visiškai identiškas sakinys, be nuorodos ir kabučių."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys su pavyzdžiais perimtas pažodžiui; kabutėmis pažymėtos tik pavyzdinės replikos, o ne citata; nuorodos į šaltinį nėra."
+    },
+    {
+     "id": 1289,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šaltinio sakiniai sujungti ir šiek tiek pakeisti; praleista nuoroda į DeVellis, išlaikyta ta pati mintis."
+    },
+    {
+     "id": 1474,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "TPB komponentų sąrašas perfrazuotas iš šaltinio; nors tai standartinė teorija, formuluotė ir seka sutampa."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.85,
+   "summary": "Disertacijos psl. 97–98 saviveiksmingumo skyriuje ištisa atkarpa (apie 160 žodžių) beveik pažodžiui perimta iš Kelly, Zyzanski ir Alemagno teksto. Keli sakiniai identiški arba juose pakeistas vos vienas žodis. Šaltinis disertacijoje nenurodytas. Cituojami tik pirminiai autoriai (Schwarzer ir Luszczynska, Bandura), todėl tai antrinio šaltinio perėmimas be nuorodos į jį. Be to, psl. 114 perfrazuotas TPB komponentų aprašymas.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "5b8030aa4f5c610b": {
+   "pairs": [
+    {
+     "id": 54,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2016) vėlesnis už disertaciją (2015); sakinys beveik identiškas, bet perėmimo kryptis atvirkštinė – tikėtina, kad jis perimtas iš disertacijos."
+    },
+    {
+     "id": 591,
+     "label": "atvirkstinis",
+     "note": "Tas pats sakinys apie prototipus kaip ir ankstesniame sutapime; šaltinis vėlesnis, todėl plagiato šaltinis būti negali."
+    },
+    {
+     "id": 1038,
+     "label": "atvirkstinis",
+     "note": "Sakinys apie Lietuvos nepriklausomybę ir sveikatos problemas beveik sutampa, bet šaltinis publikuotas vėliau nei disertacija."
+    },
+    {
+     "id": 1133,
+     "label": "atvirkstinis",
+     "note": "Asmeninių veiksnių sąrašas sutampa, tačiau šaltinis vėlesnis; tikėtina, kad tai to paties autoriaus išvestinis darbas."
+    },
+    {
+     "id": 1796,
+     "label": "atvirkstinis",
+     "note": "Beveik tapati diskusijos pastaba apie saviveiksmingumą; šaltinis vėlesnis, tikėtina, kad jis parengtas remiantis disertacija."
+    },
+    {
+     "id": 1831,
+     "label": "atvirkstinis",
+     "note": "Diskusijos sakinys apie silpną ryšį Lietuvos suaugusiųjų grupėje; šaltinis vėlesnis už disertaciją."
+    },
+    {
+     "id": 1837,
+     "label": "atvirkstinis",
+     "note": "Beveik pažodinis diskusijos sakinys apie pokyčius po sovietmečio; šaltinis vėlesnis, taigi perėmimo kryptis atvirkštinė."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.8,
+   "summary": "Šaltinis publikuotas 2016 m., vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltinis. Sutampa kelios disertacijos vietos (literatūros apžvalga, metodologija, diskusija), o šaltinyje vietoj „alcohol consumption“ vartojama „alcohol purchase“. Tai rodo, kad šaltinis greičiausiai yra išvestinis straipsnis ar darbinis dokumentas, parengtas remiantis disertacija, galbūt paties autoriaus. Be to, pirmųjų dviejų sutapimų tekstas gali būti kilęs iš trečiųjų autorių literatūros, bet tai vertinimo nekeičia. Pažeidimo disertacijoje nenustatyta.",
+   "llm": true
+  },
+  "56a489f72181877a": {
+   "pairs": [
+    {
+     "id": 54,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik pažodžiui perimtas šaltinio santraukos sakinys, be nuorodos ir kabučių; pridėta tik „For instance“ ir skliausteliai."
+    },
+    {
+     "id": 56,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Perfrazuotas šaltinio aprašas; nurodyta van Lettow et al., 2014, tačiau tai ir šio šaltinio tekstas, todėl citavimas tik iš dalies tinkamas."
+    },
+    {
+     "id": 590,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Diskusijos išvada beveik pažodžiui perimta iš šaltinio jo nenurodant ir pateikta tarsi disertacijos tyrimo išvada."
+    },
+    {
+     "id": 591,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Šaltinio santraukos sakinys perimtas beveik pažodžiui, be nuorodos ir kabučių, ir pateiktas kaip paties autoriaus pastebėjimas."
+    },
+    {
+     "id": 592,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Perfrazuotas šaltinio tekstas su nuoroda į van Lettow 2013 (pirminį darbą); šis straipsnis tiesiogiai nenurodytas, bet nuoroda į pirminį šaltinį pateikta."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.85,
+   "summary": "Straipsnis įtrauktas į disertacijos literatūros sąrašą, tačiau keli sakiniai (psl. 14 ir 50) perimti beveik pažodžiui, be kabučių ir be tiesioginės nuorodos, kai kur pateikiami kaip paties autoriaus tyrimo rezultatai („it was observed“). Išvada apie prototipų ir ketinimų sąsajas pakartota dukart. Prototipų savybių aprašymai perfrazuoti su nuoroda į van Lettow et al., bet šaltinio tekstas perimtas beveik ta pačia seka. Apimtis nedidelė (apie 0,3 % teksto), tačiau pažeidimas aiškus.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "feb566028245f8a3": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse su nuoroda į Fife et al. (2011, psl. 314). Tekstas sutampa su King ir Koenig darbu, bet disertacijoje nurodytas pirminis šaltinis; tai gali būti perėmimas per antrinį šaltinį."
+    },
+    {
+     "id": 1408,
+     "label": "tinkamas_citavimas",
+     "note": "Religijos apibrėžimas pateiktas kabutėse, sakinio pabaigoje nurodytas puslapis (psl. 314), o autoriai (Fife et al.) įvardyti ankstesniame sakinyje. Dvasingumo apibrėžimo dalis perfrazuota, bet priskirta Fife et al."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Sutampa tik religijos ir dvasingumo apibrėžimas (disertacijos psl. 10 ir 108). Jis pateiktas kabutėse ir priskirtas Fife et al. (2011, psl. 314), o ne King ir Koenig. Pažodinis sutapimas rodo, kad Fife et al. šį apibrėžimą greičiausiai cituoja iš King ir Koenig. Disertacijos autorius jį perėmė iš Fife et al., todėl tai tinkamas citavimas. Pirminis šaltinis nenurodytas, bet kaltinti plagiatu nėra pagrindo. Sutapimas nedidelis, todėl plagiato požymių nėra.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "18f0171b8d4e2000": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas su uždaromosiomis kabutėmis ir nuoroda į Fife et al. (2011, psl. 314); tai ta pati Fife et al. citata, kuri yra ir šaltinyje, bet PMC straipsnis nenurodytas."
+    },
+    {
+     "id": 1408,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimai pateikti kabutėse su nuoroda į Fife et al. (psl. 314); dvasingumo apibrėžimas šiek tiek perfrazuotas, tačiau aiškiai priskirtas autoriams."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.75,
+   "summary": "Sutampa du disertacijos sakiniai (psl. 10 ir 108), kuriuose pateikiami religijos ir dvasingumo apibrėžimai. Abu pateikti kabutėse ir su nuoroda į Fife et al. (2011, psl. 314), o tai atitinka citavimo reikalavimus. Šaltinyje apibrėžimai taip pat perimti iš ankstesnių darbų, todėl tai daugiausia bendras apibrėžimų citavimas. Plagiato požymių nėra. Gali kilti tik nedidelė abejonė, ar apibrėžimai paimti tiesiogiai iš Fife et al., ar iš šio straipsnio teksto. Tai galima patikrinti pagal pirminį šaltinį.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "2e932c18cb529d41": {
+   "pairs": [
+    {
+     "id": 258,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Socialinio mokymosi teorijos aprašas (stebėjimas, imitavimas, modeliavimas) artimas šaltinio formuluotei; sutapimas ribotas, idėja bendra, nuoroda nepateikta."
+    },
+    {
+     "id": 1285,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas beveik pažodžiui (pakeista tik „health behavior change“); nuorodos į šaltinį nėra (psl. 97)."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Pavyzdžiai kabutėse („I intend to reduce my smoking“…) perimti iš šaltinio be nuorodos; kabutėmis pažymėti tik pavyzdžiai, o ne citata iš šaltinio."
+    },
+    {
+     "id": 1326,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Savireguliacinio efektyvumo apibrėžimas perfrazuotas; tai standartinis Banduros apibrėžimas, bet formuluotė artima šaltiniui, nuorodos nėra."
+    },
+    {
+     "id": 1475,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendri žodžiai („closely related“); turinys skirtingas, šaltinio fragmentas yra apie atribuciją."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.72,
+   "summary": "Wikipedia straipsnis „Self-efficacy“ yra ankstesnis už disertaciją ir neįtrauktas į literatūros sąrašą. Disertacijos psl. 97–98 yra beveik pažodžiui perimtų sakinių apie savireguliacinio efektyvumo įsitikinimus ir tikslų kėlimą. Jie perimti be nuorodos į šį šaltinį. Psl. 28 ir 100 pateikti perfrazuoti apibrėžimai, kurių formuluotės remiasi šaltiniu. Psl. 114 esantis sutapimas atsitiktinis. Sutapimų mažai (apie 0,3 % teksto), bet jie sutelkti viename skyriuje, todėl šaltinio naudojimas laikytinas iš dalies nepažymėtu.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "ea1e16110bc53636": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse su nuoroda į Fife et al. (2011, psl. 314). Tai King ir Crowther apibrėžimas; šaltinio tekstas sutampa, bet nuoroda į pirminį cituojamą šaltinį pateikta."
+    },
+    {
+     "id": 1408,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse, nurodytas puslapis (psl. 314) ir autoriai (Fife et al.). Tai tas pats King ir Crowther apibrėžimas; šaltinis tik cituoja tuos pačius autorius, tad rimto plagiato nėra."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.7,
+   "summary": "Sutampa tik vienas religijos apibrėžimas (King ir Crowther), kurį disertacijoje (psl. 10 ir 108) autorius pateikia kabutėse kaip Fife et al. (2011, psl. 314) citatą. Apibrėžimas yra standartinis ir plačiai cituojamas. Šaltinio paskelbimo data nežinoma, o disertacijoje nurodytas pirminis šaltinis, todėl tai laikytina tinkamu citavimu. Plagiato požymių nėra, nors tikslus šio šaltinio panaudojimas neįrodytas.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "211c18e36283c7d6": {
+   "pairs": [
+    {
+     "id": 28,
+     "label": "autoriaus_darbas",
+     "note": "Beveik pažodinis santraukos sakinys; šaltinis – paties disertacijos autoriaus Sinkevičiaus straipsnis, tekste nuorodos nėra."
+    },
+    {
+     "id": 29,
+     "label": "autoriaus_darbas",
+     "note": "Nežymiai pakeistas paties autoriaus straipsnio teiginys apie nehomogeniškus veiksnius."
+    },
+    {
+     "id": 31,
+     "label": "autoriaus_darbas",
+     "note": "Tyrimo tikslo formuluotė perfrazuota iš paties autoriaus straipsnio ir papildyta naujais kintamaisiais."
+    },
+    {
+     "id": 53,
+     "label": "autoriaus_darbas",
+     "note": "Beveik pažodinis sakinys iš paties autoriaus straipsnio, be nuorodos."
+    },
+    {
+     "id": 142,
+     "label": "autoriaus_darbas",
+     "note": "Tai literatūros sąrašo įrašas – paties autoriaus straipsnio pavadinimas; sutapimas natūralus."
+    },
+    {
+     "id": 147,
+     "label": "autoriaus_darbas",
+     "note": "Literatūros sąrašo įrašo (paties autoriaus straipsnio pavadinimo) dalis; tai ne plagiatas."
+    }
+   ],
+   "verdict": "autoriaus_darbas",
+   "confidence": 0.85,
+   "summary": "Šaltinis – paties disertacijos autoriaus M. Sinkevičiaus straipsnis apie suaugusiųjų ketinimą pirkti alkoholį (Tržište/Market, 26(1)), įtrauktas ir į literatūros sąrašą (psl. 20). Psl. 12 ir 14 esantys sakiniai (įvadinė dalis ir tyrimo tikslas) yra beveik pažodiniai arba nežymiai pakeisti, o tekste nuoroda į straipsnį nepateikta. Tai pakartotinis paties autoriaus anksčiau paskelbto teksto naudojimas (galima pastaba dėl savicitavimo), o ne svetimo darbo plagijavimas. Sutapimai nedideli (apie 0,36 % disertacijos teksto).",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "c97aca28452542e4": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2018) vėlesnis už disertaciją (2015). Apibrėžimas, cituotas kabutėse su nuoroda į Fife et al. (2011), yra senesnio pirminio šaltinio tekstas, tad plagiato nėra."
+    },
+    {
+     "id": 1408,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2018) vėlesnis. Disertacijoje Fife et al. (2011) cituojami kabutėse, nurodytas puslapis (psl. 314); sutapimas kyla iš bendro pirminio šaltinio, todėl citavimas tinkamas."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.85,
+   "summary": "Šaltinis paskelbtas 2018 m., vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltinis. Sutampa religijos apibrėžimas, kurį disertacijos autorius pateikia kabutėse su nuoroda į Fife et al. (2011, psl. 314). Tas pats apibrėžimas pateiktas ir šaltinyje, bet jis kilęs iš senesnio pirminio šaltinio. Netinkamo panaudojimo požymių nėra.",
+   "llm": true
+  },
+  "40de781e0cc6afb9": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse su nuoroda į Fife et al. (2011, psl. 314); Rousseau tekste tas pats apibrėžimas perimtas iš to paties pirminio šaltinio. Nuorodos į Rousseau nėra, bet tai pirminio autoriaus citata."
+    },
+    {
+     "id": 1408,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse, kontekste nurodyti Fife et al. (psl. 314); sutampa tik cituojamas apibrėžimas, kurį Rousseau straipsnis perėmė iš pirminio šaltinio."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik vienas religijos apibrėžimas, kurį disertacijos autorius cituoja kabutėse su nuoroda į Fife et al. (2011, psl. 314). Rousseau straipsnyje tas pats apibrėžimas cituojamas iš tos pačios literatūros, todėl tai bendras pirminis šaltinis, o ne Rousseau teksto perėmimas. Plagiato požymių nėra: sutapimas siauras (2 sakiniai, 0,31 % teksto) ir tinkamai pažymėtas kaip citata. Disertacijoje Rousseau straipsnis necituojamas, bet remiantis šiuo sutapimu nėra pagrindo jo laikyti panaudotu šaltiniu.",
+   "llm": true
+  },
+  "f3a4c5ea7d53cd92": {
+   "pairs": [
+    {
+     "id": 5,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse su nuoroda į Fife et al. (2011, psl. 314). Formuluotė kilusi iš Koenig darbo, bet Fife et al. ją perėmė, todėl citavimas formaliai tinkamas."
+    },
+    {
+     "id": 1408,
+     "label": "tinkamas_citavimas",
+     "note": "Citata pateikta kabutėse, nurodytas Fife et al. puslapis (psl. 314). Sutampa tik apibrėžimo dalis; pirminis Koenig šaltinis nepaminėtas, bet tiesiogiai jo tekstas neperimtas."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.8,
+   "summary": "Sutampa tik religijos apibrėžimas (psl. 10 ir 108), kurį disertacijos autorius pateikia kabutėse ir nurodo kaip Fife et al. (2011, psl. 314) citatą. Šis apibrėžimas kilęs iš Koenig darbo, kuris disertacijoje necituojamas, bet apibrėžimas perimtas per antrinį šaltinį su aiškia nuoroda. Tai nėra plagiatas, o tik nedidelė pastaba dėl pirminio šaltinio. Kitų sutapimų nerasta.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "4d8d3bcb8c7df2ff": {
+   "pairs": [
+    {
+     "id": 269,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perkeltas iš šaltinio, išmesta tik nuoroda į Rotter (1966); šaltinis nenurodytas (psl. 28)."
+    },
+    {
+     "id": 270,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik identiškas sakinys iš Luszczynska ir Schwarzer darbo, be nuorodos (psl. 28)."
+    },
+    {
+     "id": 271,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Apibrėžimas perkeltas pažodžiui, pašalinti tik žymėjimai (I), (E); kabutėmis pažymėtas tik žodis „locus“, šaltinis nenurodytas (psl. 28)."
+    },
+    {
+     "id": 272,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys identiškas, išmesta tik nuoroda į Waller & Bates; šaltinis nenurodytas, tęsiasi ištisinė 87 žodžių atkarpa (psl. 28)."
+    },
+    {
+     "id": 1283,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Schwarzer ir Luszczynska nurodyti; mintis apie socialinę kognityvinę teoriją perfrazuota, sutapimas silpnas (psl. 97)."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Planuoto elgesio teorijos (TPB) kintamųjų išvardijimas – standartinė teorijos informacija; autoriai minimi gretimame sakinyje (psl. 114)."
+    },
+    {
+     "id": 1475,
+     "label": "klaidingas_sutapimas",
+     "note": "Teiginys skirtingas; sutampa tik terminai (saviveiksmingumas, suvokiama elgesio kontrolė) (psl. 114)."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.85,
+   "summary": "Disertacijos psl. 28 keturi iš eilės einantys sakiniai apie kontrolės lokusą (socialinio mokymosi teorija, „locus“ apibrėžimas, implicitinės prielaidos) perkelti beveik pažodžiui iš Luszczynska ir Schwarzer (2005) darbo be nuorodos ir be tinkamo citavimo. Išmestos tik vidinės nuorodos (Rotter, Waller & Bates), todėl neaišku, kad tekstas paimtas iš šio šaltinio. Kiti sutapimai (psl. 97 ir 114) yra bendro pobūdžio arba tinkamai pažymėti nuorodomis, todėl reikšmės neturi. Apimtis nedidelė (apie 87 žodžių atkarpa), bet sutapimo pobūdis aiškus.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "cbeea989d14a9b55": {
+   "pairs": [
+    {
+     "id": 3,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2022) vėlesnis už disertaciją (2015). Tai PSO apibrėžimas iš 2010 m. Pasaulinės strategijos; disertacijos sąvokų žodynėlyje nuorodos nėra, bet šis šaltinis negalėjo būti panaudotas."
+    },
+    {
+     "id": 183,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis cituoja tą patį PSO apibrėžimą. Disertacijoje nurodyta PSO Pasaulinė strategija, tad pirminis šaltinis įvardytas; sutapimas atsirado dėl bendro PSO šaltinio."
+    },
+    {
+     "id": 644,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik PSO strategijos pavadinimo frazė; sakinys skirtingas, o šaltinis vėlesnis."
+    },
+    {
+     "id": 1173,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendri žodžiai „on the other hand“; turinys skirtingas."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis – 2022 m. protokolas, vėlesnis už 2015 m. disertaciją, todėl negalėjo būti jos šaltinis. Vienintelis esminis sutapimas – PSO apibrėžimas „harmful use of alcohol“ iš 2010 m. Pasaulinės strategijos, kurį abu darbai perėmė iš to paties pirminio šaltinio. Kiti du sutapimai atsitiktiniai. Plagiato iš šio šaltinio nėra, nors sąvokų žodynėlyje (psl. 10) PSO apibrėžimas pateiktas be nuorodos ir kabučių – tai atskiras citavimo trūkumas, nesusijęs su šiuo šaltiniu.",
+   "llm": true
+  },
+  "b9e5c002af337063": {
+   "pairs": [
+    {
+     "id": 41,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendra frazė apie sprendimų priėmimą; turinys skirtingas."
+    },
+    {
+     "id": 83,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Beveik pažodžiui perimta apibrėžimo (suvokiama galia pagal TPB) frazė, nuorodos į šį šaltinį nėra."
+    },
+    {
+     "id": 132,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Ta pati šaltinio frazė apie veiksnius, palengvinančius ar trukdančius elgesiui, pritaikyta vartotojui."
+    },
+    {
+     "id": 289,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendra frazė apie sprendimų priėmimą; prasmė skirtinga."
+    },
+    {
+     "id": 566,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Pasikartojanti šaltinio frazė apie veiksnius, palengvinančius ar trukdančius elgesiui."
+    },
+    {
+     "id": 1122,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys apie TPB ribotumus perimtas beveik pažodžiui; Ajzen minimas ankstesniame sakinyje, tačiau šaltinis nenurodytas."
+    },
+    {
+     "id": 1220,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik terminas „theory of planned behavior“, o tai bendrinis terminas."
+    },
+    {
+     "id": 1469,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Ta pati šaltinio frazė apie palengvinančius ar trukdančius veiksnius, pritaikyta vartotojui."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.55,
+   "summary": "Sutapimų mažai (apie 0,26 % teksto), tačiau jie rodo, kad perimtos kelios TPB aprašymo formuluotės: apibrėžimas apie veiksnius, palengvinančius ar trukdančius elgesiui, ir beveik pažodžiui perimtas sakinys apie TPB ribotumus (aplinkos ar ekonominius veiksnius) (psl. 86). Šaltinis literatūros sąraše nenurodytas, o šio mokomojo vadovėlio pobūdžio šaltinio data nežinoma. Sutapimai trumpi ir iš dalies būdingi bet kuriam TPB aprašymui, todėl pažeidimas nėra didelis. Kai kurie sutapimai (psl. 13, 30 ir 92) laikytini atsitiktiniais.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "c01a7cd4ca4af4f5": {
+   "pairs": [
+    {
+     "id": 3,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Terminų žodynėlio apibrėžimas psl. 10 beveik pažodžiui atkartoja PSO formuluotę, pateiktas be nuorodos ir kabučių; tai standartinis PSO apibrėžimas, todėl sutapimas dalinis."
+    },
+    {
+     "id": 183,
+     "label": "tinkamas_citavimas",
+     "note": "Psl. 22 apibrėžimas pateiktas kabutėse ir priskirtas PSO pasaulinei strategijai; tai pirminio PSO apibrėžimo citata, o ne šio tinklalapio teksto perėmimas."
+    },
+    {
+     "id": 644,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik trumpa frazė „reduce the harmful use of alcohol“ – tai oficialus PSO strategijos pavadinimas. Plagiatu nelaikoma."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.6,
+   "summary": "Sutapimai apima vieną standartinį PSO „žalingo alkoholio vartojimo“ apibrėžimą, kuris disertacijoje pateiktas du kartus. Psl. 22 jis cituojamas kabutėse ir priskirtas PSO strategijai, todėl čia cituota tinkamai. Psl. 10 esančiame terminų žodynėlyje apibrėžimas pateiktas be nuorodos, tačiau tai plačiai žinoma tarptautinė formuluotė, o ne originalus šio tinklalapio tekstas. Šaltinio paskelbimo data nežinoma. Trečias sutapimas – tik strategijos pavadinimo frazė. Šaltinis panaudotas nereikšmingai, tačiau terminų žodynėlio apibrėžimui trūksta nuorodos.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "0c78319b98e6c61a": {
+   "pairs": [
+    {
+     "id": 1285,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys perimtas beveik pažodžiui (su nedideliais pakeitimais), be kabučių ir nuorodos; psl. 97."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Beveik identiškas sakinys (skiriasi tik „risky“ ir „risk“), be kabučių ir nuorodos; psl. 98."
+    },
+    {
+     "id": 1287,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Visiškai identiškas sakinys, be kabučių ir nuorodos; psl. 98."
+    },
+    {
+     "id": 1288,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Identiškas sakinys su pavyzdžiu; kabutėse pateiktas tik pats pavyzdys, o ne perimtas tekstas, nuorodos nėra; psl. 98."
+    }
+   ],
+   "verdict": "naudotas_be_nuorodu",
+   "confidence": 0.6,
+   "summary": "Disertacijos psl. 97–98 yra keturių iš eilės einančių sakinių (apie 111 žodžių) blokas apie saviveiksmingumą (self-efficacy). Jis beveik pažodžiui sutampa su šaltinio tekstu, pakeisti tik atskiri žodžiai. Nuorodų ir kabučių nėra. Šaltinio paskelbimo data nepatikima, o pats tekstas atrodo kaip perspausdinta ar kito autoriaus akademinė medžiaga, kuria galėjo remtis ir šaltinis, ir disertacija. Todėl neaišku, ar disertacijos autorius perėmė tekstą iš šio puslapio, ar iš pirminio leidinio. Bet kuriuo atveju fragmentas perimtas be nuorodos ir be kabučių, tad jį reikia laikyti pažodiniu perėmimu nenurodžius šaltinio. Būtina nustatyti pirminį šaltinį ir patikrinti, ar jis yra literatūros sąraše.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "cdf82858b2e96e9d": {
+   "pairs": [
+    {
+     "id": 64,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2020 m.) vėlesnis; sutampa tik formuluotė „per person aged 15 years and over“, o skaičiai ir turinys skirtingi (15,2 l ir 6,3 l) – turinys nesutampa."
+    },
+    {
+     "id": 176,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2020 m.) vėlesnis už disertaciją. Frazė apie priežastinį ryšį yra standartinė PSO formuluotė, todėl tikėtina, kad abu tekstai rėmėsi bendru senesniu PSO šaltiniu; plagiato šaltiniu jo laikyti negalima."
+    },
+    {
+     "id": 644,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik įprasta PSO strategijos pavadinimo frazė „reduce the harmful use of alcohol“; šaltinis vėlesnis, turinys skirtingas."
+    },
+    {
+     "id": 1063,
+     "label": "atvirkstinis",
+     "note": "Pasikartojantis sutapimas: šaltinis vėlesnis, sutampa tik bendra formuluotė apie 15 metų ir vyresnius asmenis, duomenys skirtingi."
+    },
+    {
+     "id": 1084,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis; disertacijoje pateiktas PSO duomuo (2,5 mln. mirčių) skiriasi nuo šaltinyje nurodyto (3,3 mln.). Sutampa tik standartinė frazė."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Šaltinis (2020 m.) yra vėlesnis už disertaciją (2015 m.), todėl negali būti jos plagiato šaltinis. Sutapimai riboti: penki sakiniai, 0,23 % teksto, o ilgiausia ištisinė atkarpa – 29 žodžiai. Jie susiję su standartinėmis PSO formuluotėmis, pavyzdžiui, „harmful use of alcohol“ ir „causal relationship“, bei su bendra fraze „per person aged 15 years and over“. Skaičiai ir turinys skiriasi. Tikėtina, kad abu tekstai rėmėsi tais pačiais PSO dokumentais. Esminio teksto perėmimo iš šio šaltinio nenustatyta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "41ffd2987095ac68": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2020 m.) vėlesnis už disertaciją (2015 m.); be to, sutampa tik bendra TPB frazė „facilitate or impede performance“."
+    },
+    {
+     "id": 132,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik standartinė TPB formuluotė, pažodinio perėmimo nėra."
+    },
+    {
+     "id": 566,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; tai trumpa, dažnai vartojama TPB frazė, greičiausiai perimta iš Ajzen ar kitų ankstesnių darbų."
+    },
+    {
+     "id": 1096,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; tai bendro pobūdžio teiginys apie TPB paplitimą, tekstas nesutampa."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinis vėlesnis; sutampa tik TPB paminėjimas, tekstas skirtingas."
+    },
+    {
+     "id": 1469,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis; sutampa bendra TPB frazė, o disertacijoje nurodomi kiti autoriai."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Sutampa standartiniai TPB komponentai (požiūris, subjektyvi norma, suvokiama elgesio kontrolė); šaltinis vėlesnis."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis yra 2020 m. PMC redakcinis straipsnis apie planuoto elgesio teoriją (TPB), todėl jis vėlesnis už 2015 m. disertaciją ir negali būti jos šaltinis. Sutampa tik standartinė TPB formuluotė („factors that may facilitate or impede performance of the behavior“) ir bendri TPB komponentų pavadinimai. Ilgų pažodinių sutapimų nėra, plagiato požymių nematyti. Frazė greičiausiai kilusi iš ankstesnių Ajzen darbų.",
+   "llm": true
+  },
+  "f41c8ff4b356d0ec": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2019 m.) vėlesnis už disertaciją (2015 m.); be to, sutampa tik trumpa, dažnai vartojama TPB apibrėžimo frazė."
+    },
+    {
+     "id": 132,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik trumpa standartinė TPB formuluotė apie veiksnius, palengvinančius ar trukdančius elgesiui."
+    },
+    {
+     "id": 566,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis; sutampa tik bendra TPB kontrolės apibrėžimo frazė, todėl plagiato šaltiniu jis nelaikytinas."
+    },
+    {
+     "id": 574,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; disertacijoje cituojami Fishbein ir Ajzen, tekstas skiriasi, tai standartinė TPB samprata."
+    },
+    {
+     "id": 1220,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik bendra idėja (TPB kaip TRA plėtinys)."
+    },
+    {
+     "id": 1469,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; ta pati trumpa frazė kaip ir ankstesniame sutapime, o disertacijos tekstas pritaikytas vartotojo elgesiui."
+    },
+    {
+     "id": 1474,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik standartiniai TPB sąvokų pavadinimai (nuostatos, subjektyvios normos, suvokiama elgesio kontrolė)."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2019 m., t. y. vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltinis. Sutapimai trumpi (7 sakiniai, 0,22 % teksto) ir susiję su standartine planuoto elgesio teorijos terminija bei viena bendrine kontrolės apibrėžimo fraze. Reikšmingo teksto perėmimo nėra.",
+   "usage_types": [],
+   "llm": true
+  },
+  "07b9d59d401b6a2f": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "bendrine_fraze",
+     "note": "Trumpa standartinė TPB kontrolės įsitikinimų formuluotė; pagrindinis šaltinis – Ajzen teorija, sutampa pavienis sakinys."
+    },
+    {
+     "id": 132,
+     "label": "bendrine_fraze",
+     "note": "Ta pati standartinė frazė „factors may facilitate or impede performance“; trumpas pavienis sutapimas."
+    },
+    {
+     "id": 566,
+     "label": "bendrine_fraze",
+     "note": "Pasikartojanti standartinė TPB apibrėžties frazė „as noted previously“; sutapimas nereikšmingas."
+    },
+    {
+     "id": 574,
+     "label": "bendrine_fraze",
+     "note": "Faktas, kad TPB yra TRA plėtinys, bendrai žinomas; nurodyti Fishbein ir Ajzen. Sutampa tik idėja."
+    },
+    {
+     "id": 1220,
+     "label": "bendrine_fraze",
+     "note": "Bendras teiginys apie teorijos plėtinį; tekstas iš esmės skirtingas."
+    },
+    {
+     "id": 1469,
+     "label": "bendrine_fraze",
+     "note": "Pasikartojanti standartinė frazė apie veiksnius, palengvinančius ar trukdančius elgesiui."
+    },
+    {
+     "id": 1474,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik TPB komponentų pavadinimai; šaltinio sakinys apie tyrimo imtį kitoks."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutapimai trumpi ir pavieniai (7 sakiniai, apie 0,22 % teksto). Jie apima standartines TPB sąvokų apibrėžtis ir bendrai žinomą faktą, kad TPB yra TRA plėtinys. Šaltinio puslapis – bendro pobūdžio santrauka, o Ajzen (1991) disertacijoje cituojamas. Esminio šio tinklalapio teksto perėmimo nėra, todėl šaltinis nereikšmingas.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "65b38d64901b1875": {
+   "pairs": [
+    {
+     "id": 574,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2022 m.) vėlesnis už disertaciją (2015 m.). Teiginys apie TPB kaip TRA plėtinį yra bendras ir cituojamas iš Fishbein ir Ajzen; disertacijoje pateiktas su nuoroda."
+    },
+    {
+     "id": 593,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik bendras teiginys apie TPB, o disertacijos sakinio turinys kitoks."
+    },
+    {
+     "id": 1096,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis (2022 m.); sutampa bendra įvadinė frazė, kad TPB yra plačiai taikomas modelis."
+    },
+    {
+     "id": 1220,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; sutampa tik trumpa bendra frazė apie plėtinį, tai nėra perimtas tekstas."
+    },
+    {
+     "id": 1474,
+     "label": "atvirkstinis",
+     "note": "Vėlesnis šaltinis; TPB komponentų išvardijimas yra standartinis, sutapimas nereikšmingas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Šaltinis „Theory of Planned Behavior“ (Brookes, 2022) yra vėlesnis už disertaciją (2015 m.), todėl negali būti plagiato šaltinis. Sutapimai nedideli (5 sakiniai, 0,2 % teksto) ir apima standartines TPB apibrėžimo frazes bei komponentų sąrašą. Tai bendrinis teorijos aprašymas, o ne perimtas autorinis tekstas. Disertacijos literatūros sąraše nurodytas kitas Ajzen (2010) šaltinis, tad sutampa tik pavadinimas, o turinio perėmimo nėra.",
+   "llm": true
+  },
+  "4a77052ef0ce81db": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "bendrine_fraze",
+     "note": "Standartinė Ajzeno TPB formuluotė („facilitate or impede performance“); tai trumpas, bendras teiginys, o ne būdingas tik šiam šaltiniui tekstas."
+    },
+    {
+     "id": 93,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Autorius nurodytas (Aertsens ir kt., 2009), mintis perfrazuota (values → personal motivations); nuoroda yra, nors perteikimas artimas šaltinio sakiniui."
+    },
+    {
+     "id": 566,
+     "label": "bendrine_fraze",
+     "note": "Pasikartojanti standartinė TPB frazė, kilusi iš Ajzeno darbų; sutapimas trumpas ir bendrinis."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinio fragmentas – literatūros sąrašo įrašas (Kaiser, TPB plėtinys); sutampa tik terminai, o ne tekstas."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas (nuostatos, normos, suvokiama kontrolė); tai bendras teorinių terminų rinkinys."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Šaltinis (Aertsens ir kt., 2009) yra disertacijos literatūros sąraše ir vieną kartą cituojamas tekste. Sutapimai daugiausia susiję su standartinėmis planuoto elgesio teorijos (Ajzen) formuluotėmis ir terminų išvardijimu. Vienintelis reikšmingesnis sutapimas (psl. 16) yra perfrazuotas, pateikta nuoroda į šaltinį. Pažodinio kopijavimo ar struktūros perėmimo be nuorodos nenustatyta.",
+   "llm": true
+  },
+  "e1e910bb4f71e6ab": {
+   "pairs": [
+    {
+     "id": 1250,
+     "label": "klaidingas_sutapimas",
+     "note": "Hipotezės formuluotė panaši dėl bendro konstrukto (jautrumas tarpasmeninei įtakai); turinys ir kontekstas skirtingi (disertacijoje – alkoholis, šaltinyje – greitoji mada)."
+    },
+    {
+     "id": 1256,
+     "label": "bendrine_fraze",
+     "note": "Bendro pobūdžio teiginys apie jautrumo tarpasmeninei įtakai svarbą; formuluotė skiriasi, sutampa tik terminai."
+    },
+    {
+     "id": 1374,
+     "label": "bendrine_fraze",
+     "note": "Standartinis Bearden ir kt. jautrumo tarpasmeninei įtakai skalės teiginys; tai skalės teiginys, o ne autorinis tekstas."
+    },
+    {
+     "id": 1375,
+     "label": "bendrine_fraze",
+     "note": "Standartinis skalės teiginys (Bearden ir kt. skalė), naudojamas klausimyne; tai ne plagiatas."
+    },
+    {
+     "id": 1458,
+     "label": "klaidingas_sutapimas",
+     "note": "Dažna statistinio rezultato frazė; disertacijoje cituojami kiti autoriai ir nagrinėjama kita tema (reklama), o šaltinyje – religingumas."
+    },
+    {
+     "id": 1601,
+     "label": "bendrine_fraze",
+     "note": "Skalės patikimumo (Cronbacho alfa) pateikimas; reikšmės skirtingos, formuluotė – standartinė statistinė."
+    },
+    {
+     "id": 1779,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik terminas; mintis ir kontekstas skirtingi (šaltinyje – greitoji mada ir vartojimo mažinimas)."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Šaltinis – darbas apie greitosios mados drabužių pirkimo ketinimus, jautrumą tarpasmeninei įtakai, religingumą ir aplinkosauginį sąmoningumą. Sutampa standartiniai skalės teiginiai (Bearden ir kt. skalė), bendri terminai ir statistinių rezultatų frazės. Nuoseklaus teksto perėmimo, perfrazavimo ar argumentų struktūros kopijavimo nėra. Pavienės hipotezių formuluotės panašios tik dėl bendro konstrukto. Plagiatu laikytino šaltinio panaudojimo nenustatyta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "e2d7532299a3090f": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "atvirkstinis",
+     "note": "Šaltinis paskelbtas 2024 m., vėliau nei disertacija (2015). Tai standartinis Banduros apibrėžimas su nuoroda į pirminį autorių; sutampa tik bendra formuluotė."
+    },
+    {
+     "id": 1276,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis (2024). Disertacijos citata kabutėse su nuoroda į Bandurą (psl. 97) yra tinkama; sutampa bendras apibrėžimas."
+    },
+    {
+     "id": 1295,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis (2024). Banduros citata kabutėse su nuoroda (psl. 98); sutapimas atsirado dėl plačiai cituojamo apibrėžimo."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.93,
+   "summary": "Šaltinis paskelbtas 2024 m., o disertacija – 2015 m., todėl jis negali būti disertacijos plagiato šaltinis. Sutampa tik trys sakiniai (apie 74 žodžius) – plačiai cituojamas Banduros saviveiksmingumo apibrėžimas. Disertacijoje jis pateiktas su nuoroda į Bandurą (1995, psl. 2), o dviem atvejais – ir kabutėse. Vėlesniame šaltinyje tas pats apibrėžimas perteiktas su pakeitimais ir nuorodomis į kitus autorius, todėl perėmimo požymių nematyti. Pastaba: pirmuoju atveju (psl. 10) kabučių nėra, tačiau nuoroda aiški, o apibrėžimas standartinis.",
+   "usage_types": [],
+   "llm": true
+  },
+  "a1810814e75616bf": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "tinkamas_citavimas",
+     "note": "Banduros (1995, psl. 2) apibrėžimas pateiktas su nuoroda į pirminį autorių; tai standartinė apibrėžtis, o ne šio tinklalapio teksto perėmimas."
+    },
+    {
+     "id": 1276,
+     "label": "tinkamas_citavimas",
+     "note": "Apibrėžimas pateiktas kabutėse, nurodyti Bandura ir puslapis; citavimas tinkamas."
+    },
+    {
+     "id": 1295,
+     "label": "tinkamas_citavimas",
+     "note": "Banduros apibrėžimas kabutėse su nuoroda; žodžiai šiek tiek pakeisti, bet pirminis autorius nurodytas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Visos trys poros sutampa tik dėl vieno Banduros saviveiksmingumo apibrėžimo (disertacijos psl. 10, 97 ir 98). Jis pateiktas su nuoroda į Bandurą (1995, psl. 2), o dviem atvejais – ir kabutėse. Tai plačiai žinoma apibrėžtis, o ne savitas šio tinklalapio tekstas. Kitų sutampančių atkarpų nėra, todėl šaltinio panaudojimas plagiatu nelaikytinas. Vienintelė pastaba: psl. 10 apibrėžimas pateiktas be kabučių, nors yra beveik pažodinis.",
+   "llm": true
+  },
+  "4b8c4bd9edeec1cc": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Disertacijos sakinys glaustai perima šaltinio (Ajzen, 2006) formuluotę apie veiksnius, palengvinančius elgesį ar jam trukdančius; nuorodos nėra, bet tai bendra TPB idėja."
+    },
+    {
+     "id": 93,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Disertacijoje nurodomi Aertsens ir kt. (2009), bet sakinys apie vertybes perfrazuotas, „values“ pakeičiant į „personal motivations“; kabučių nėra, esmė ir struktūra perimtos."
+    },
+    {
+     "id": 566,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Tas pats šaltinio sakinys (Ajzen, 2006) pakartotas be nuorodos; frazė „As noted previously“ rodo, kad kartojamas psl. 16 sakinys."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinio fragmentas yra literatūros sąrašo įrašas; sutampa tik teorijos pavadinimas, tai nėra teksto perėmimas."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "TPB komponentų išvardijimas yra standartinis teorijos aprašas; sutampa tik terminai, o šaltinio sakinys skiriasi."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.7,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše ir vieną kartą nurodomas tekste (psl. 16). Tačiau iš jo perimtas sakinys apie veiksnius, palengvinančius elgesį ar jam trukdančius, pasikartoja be nuorodos (psl. 16 ir 48). Jis perfrazuotas iš šaltinyje cituojamo Ajzeno (2006) teksto. Sakinys apie vertybes (psl. 16) perfrazuotas su nuoroda į Aertsens ir kt., bet be kabučių. Kiti sutapimai yra bendriniai TPB terminai arba literatūros sąrašo įrašas. Panaudojimas siauras (0,18 % teksto) ir apsiriboja teorinės dalies fragmentais.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "01703ded3220555d": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "atvirkstinis",
+     "note": "Banduros apibrėžimas su nuoroda į pirminį šaltinį; tinklaraščio straipsnis vėlesnis (2016) už disertaciją (2015), todėl negalėjo būti jos šaltiniu."
+    },
+    {
+     "id": 1276,
+     "label": "atvirkstinis",
+     "note": "Citata kabutėse su nuoroda į Bandurą (1995); šaltinis vėlesnis, o tekstas yra Banduros apibrėžimas."
+    },
+    {
+     "id": 1295,
+     "label": "atvirkstinis",
+     "note": "Banduros apibrėžimas kabutėse su nuoroda; šaltinis vėlesnis, sutapimas atsirado dėl to paties pirminio šaltinio citavimo."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.93,
+   "summary": "Šaltinis paskelbtas 2016 m., t. y. vėliau nei disertacija (2015), todėl negalėjo būti jos šaltiniu. Sutampa tik vienas Banduros saviveiksmingumo apibrėžimas (psl. 10, 97 ir 98), kurį disertacijoje pateikiamas su nuoroda į Bandurą (1995), dažniausiai kabutėse. Tai pirminio šaltinio citata, o ne šio tinklaraščio teksto perėmimas. Plagiato požymių nėra.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "0943c6fb465acb8d": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "bendrine_fraze",
+     "note": "Banduros (1995, psl. 2) apibrėžimas pateiktas su nuoroda į pirminį autorių, tik sąvokų žodyne – be kabučių; tai standartinė sąvokos apibrėžtis, požymių, kad ji perimta iš šio straipsnio, nėra."
+    },
+    {
+     "id": 1276,
+     "label": "tinkamas_citavimas",
+     "note": "Banduros apibrėžimas cituojamas kabutėse su nuoroda ir puslapiu (psl. 97); tai standartinė citata, o ne straipsnio teksto perėmimas."
+    },
+    {
+     "id": 1295,
+     "label": "tinkamas_citavimas",
+     "note": "Tas pats Banduros apibrėžimas kabutėse su nuoroda (psl. 98); citavimas korektiškas, nors disertacijoje kartojasi."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik vienas trumpas Banduros (1995, psl. 2) apibrėžimas, kurį disertacijos autorius pateikia su nuoroda į pirminį šaltinį, du kartus – kabutėse. Tai standartinė sąvokos apibrėžtis, plačiai cituojama literatūroje. Požymių, kad perimtas šio straipsnio tekstas, struktūra ar argumentacija, nėra. Reikšmingo plagiato nenustatyta; trūksta tik vienodo kabučių naudojimo sąvokų žodyne (psl. 10).",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "ae404fc513ec8d1f": {
+   "pairs": [
+    {
+     "id": 83,
+     "label": "bendrine_fraze",
+     "note": "Trumpa dažna TPB frazė „factors that may facilitate or impede performance“; tai vienas sakinys, o ne perėmimas."
+    },
+    {
+     "id": 132,
+     "label": "bendrine_fraze",
+     "note": "Ta pati trumpa standartinė TPB formuluotė, pritaikyta vartotojo elgesiui; plagiatui to nepakanka."
+    },
+    {
+     "id": 566,
+     "label": "bendrine_fraze",
+     "note": "Pakartota trumpa bendrinė frazė, ilgesnės sutampančios atkarpos nėra."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendri TPB terminai; disertacijos sakinys apie modelį kitoks."
+    },
+    {
+     "id": 1469,
+     "label": "bendrine_fraze",
+     "note": "Trumpa standartinė frazė apie veiksnius, palengvinančius elgesį ar jam trukdančius."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas (nuostatos, subjektyvios normos, suvokiama kontrolė); tai bendros teorijos žinios."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutapimai apsiriboja viena trumpa standartine Ajzeno TPB formuluote („factors that may facilitate or impede performance of the behavior“), pasikartojančia kelis kartus (psl. 16, 19, 48 ir 114), ir įprastu TPB komponentų išvardijimu. Ištisinių pažodžiui perimtų ar perfrazuotų pastraipų nėra, o sutampa tik apie 0,17 % teksto. Tai bendra teorijos terminija, todėl esminio plagiato nematyti. Šaltinio nebuvimas literatūros sąraše vien dėl šių sutapimų rimtos problemos nesukelia, nors Ajzeno darbus verta cituoti.",
+   "llm": true
+  },
+  "75017a262e32c0b8": {
+   "pairs": [
+    {
+     "id": 1265,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2018) vėlesnis už disertaciją (2015); hipotezė trumpa ir standartinė, turinys skirtingas (disertacijoje – požiūris į geriančiuosius, šaltinyje – LM)."
+    },
+    {
+     "id": 1266,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis; be to, sutampa tik bendra hipotezės formuluotė apie sveikatos sąmoningumą, o ne perimtas tekstas."
+    },
+    {
+     "id": 1623,
+     "label": "bendrine_fraze",
+     "note": "Standartinė modelio tinkamumo rodiklių (chi kvadratas, RMSEA, CFI, GFI) ataskaita; skaičiai skirtingi, šaltinis vėlesnis."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2018 m., t. y. vėliau nei disertacija (2015), todėl negali būti jos plagiato šaltinis. Sutapimai trumpi ir susiję su standartinėmis hipotezių formuluotėmis bei statistinių rodiklių sąrašu, o jų turinys ir skaitinės reikšmės skiriasi. Plagiato požymių nėra.",
+   "llm": true
+  },
+  "f29817b06b92edb2": {
+   "pairs": [
+    {
+     "id": 1,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Apibrėžimas beveik pažodžiui sutampa su šaltinio sakiniu; nurodyti Nolen-Hoeksema ir Hilt (2006), bet kabučių nėra. Šaltinio tekstas gali būti kitų autorių, tačiau disertacijoje jis perimtas beveik tiesiogiai."
+    },
+    {
+     "id": 180,
+     "label": "tinkamas_citavimas",
+     "note": "Tas pats apibrėžimas pateiktas kabutėse, nurodyti autorius ir puslapis; citavimas tinkamas."
+    },
+    {
+     "id": 1337,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinyje – literatūros sąrašo fragmentas; sutampa tik bendri terminai (drinking refusal self-efficacy, alcohol consumption). Tikro teksto perėmimo nėra."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.7,
+   "summary": "Sutampa vienas apibrėžimas („alcohol abuse“), pateiktas du kartus (psl. 10 ir 22). Abiem atvejais nurodytas šaltinis – Nolen-Hoeksema ir Hilt (2006), o psl. 22 apibrėžimas pateiktas kabutėse, todėl tai iš esmės tinkamas citavimas. Psl. 10 apibrėžimas pateiktas be kabučių, bet su nuoroda – tai nedidelis formalus trūkumas. Trečias sutapimas – tik literatūros sąrašo fragmentas, reikšmės jis neturi. Sisteminio plagiato nėra.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "73c4a577b692264d": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "tinkamas_citavimas",
+     "note": "Saviveiksmingumo apibrėžimas pateiktas su nuoroda į Bandura (1995, psl. 2); formuluotė paimta iš pirminio autoriaus, o pats Ajzen straipsnis tik cituoja Bandura. Sutapimas ribotas."
+    },
+    {
+     "id": 593,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys trumpas ir bendro pobūdžio (apie ankstesnę patirtį), o šaltinio sakinys – apie planuoto elgesio teoriją (TPB) kaip pagrįsto veiksmo teorijos (TRA) plėtinį; tekstai iš esmės skiriasi."
+    },
+    {
+     "id": 1104,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik trumpa pereinamoji frazė „Some of these studies...Table 2“; turinys skirtingas."
+    },
+    {
+     "id": 1220,
+     "label": "bendrine_fraze",
+     "note": "Bendras teiginys, kad modelis yra TPB plėtinys; disertacijos sakinys savarankiškas, pažodinio perėmimo nėra, sutampa tik terminija."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas (nuostatos, subjektyvios normos, suvokiama elgesio kontrolė); terminai bendri, formuluotė skirtinga."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Šaltinis yra Ajzeno TPB tekstas, įtrauktas į disertacijos literatūros sąrašą. Rasti sutapimai pavieniai ir trumpi: standartinė TPB terminija, bendri teiginiai ir viena Banduros apibrėžimo formuluotė, pateikta su nuoroda į pirminį autorių. Nuoseklaus teksto perėmimo (0,16 % disertacijos teksto, ilgiausia atkarpa – 23 žodžiai) nenustatyta. Plagiato požymių nėra.",
+   "llm": true
+  },
+  "10d0c9a35c60d3a1": {
+   "pairs": [
+    {
+     "id": 6,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Bandura apibrėžimas perfrazuotas su nuoroda į Bandura (1995); formuluotė artima Ajzen cituotam Bandura 1982 m. tekstui, tačiau nuoroda pateikta."
+    },
+    {
+     "id": 593,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys – apie ankstesnę patirtį; sutampa tik bendra frazė „theory of planned behavior“."
+    },
+    {
+     "id": 1104,
+     "label": "bendrine_fraze",
+     "note": "Trumpa bendra frazė „Some of these studies ... Table 2“; turinys skirtingas, tai įprasta mokslinio teksto formuluotė."
+    },
+    {
+     "id": 1220,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik standartinė frazė „is an extension of the theory of planned behavior“; kitur tekstai skiriasi."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "TPB komponentų (nuostatų, subjektyvių normų, suvokiamos elgesio kontrolės) išvardijimas – standartinė terminija."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Ajzen (1991) yra disertacijos literatūros sąraše, o teorija pristatoma kaip žinoma. Sutapimai trumpi (iki 23 žodžių, 0,16 % teksto) ir daugiausia susiję su standartine TPB terminija. Vienintelė reikšmingesnė pora (psl. 10) – Bandura saviveiksmingumo apibrėžimas, pateiktas su nuoroda į Bandura. Pažodinio perėmimo ar struktūros kopijavimo nematyti.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "8014f86ab45e990e": {
+   "pairs": [
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik pavadinimas „theory of planned behavior“; disertacijos sakinys – apie modelio plėtinį, o šaltinio – santraukos teiginys apie TPB tikrinimą."
+    },
+    {
+     "id": 1319,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos hipotezė apie saviveiksmingumą (psl. 100) turiniu skiriasi nuo šaltinio aptarimo; sutampa tik bendri terminai."
+    },
+    {
+     "id": 1342,
+     "label": "klaidingas_sutapimas",
+     "note": "Tas pats disertacijos sakinys kaip ir ankstesniame sutapime (psl. 102); šaltinio tekstas kitoks, bendri tik tema ir terminai."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų išvardijimas (nuostatos, subjektyvios normos, suvokiama elgesio kontrolė); šaltinis yra literatūros sąraše, tačiau tekstas nėra perimtas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Collins ir Carey (2007) yra disertacijos literatūros sąraše ir cituojami tekste. Rasti sutapimai trumpi ir susiję su bendra teorijos terminija: TPB komponentais, saviveiksmingumo ir ketinimų sąvokomis. Pažodinio ar perfrazuoto šaltinio teksto perėmimo nenustatyta. Tai nėra plagiatas, sutapimai nereikšmingi.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "fd66584305fec7ee": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 1 teiginys; tai plačiai naudojamas instrumentas, o ne autorinis tekstas."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas (disertacijoje be „drug use“); tai instrumento formuluotė."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE 3 klausimas; įprasta instrumento formuluotė."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE 4 klausimas („eye opener“); skiriasi tik smulkios formos detalės."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa keturi standartiniai CAGE klausimyno klausimai (psl. 122). Tai plačiai žinomas patikros instrumentas su nusistovėjusia formuluote, todėl sutapimas laikytinas standartinio klausimyno teiginių pateikimu, o ne plagiatu. Šaltinio data nežinoma, o disertacijos tekste nėra ryškių šio dokumento struktūros ar aiškinamojo teksto perėmimo požymių. Pagrįstos išvados apie neleistiną šaltinio panaudojimą padaryti negalima, nors derėtų nurodyti instrumento originalų autorių (Ewing).",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "3fe7294a6715721b": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys; tai plačiai naudojamas instrumentas, o ne originalus šaltinio tekstas."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas; sutapimą lemia standartizuoto instrumento formuluotė."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno punktas; savito šaltinio teksto perėmimo nėra."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Ketvirtasis standartinio CAGE klausimyno klausimas („eye opener“); skiriasi tik nežymiai forma."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik keturi standartinio CAGE klausimyno punktai disertacijos psl. 122. Tai plačiai žinomas patikros instrumentas, kurio formuluotė fiksuota, todėl tokį sutapimą lemia paties instrumento tekstas, o ne šaltinio teksto perėmimas. Disertacijoje jis pateikiamas kaip metodikos aprašo dalis; plagiato požymių nėra, nors būtų tinkama cituoti pirminį CAGE autorių (Ewing). Šaltinis nelaikytinas reikšmingu teksto šaltiniu.",
+   "llm": true
+  },
+  "859a4fdc4fb67ee9": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "atvirkstinis",
+     "note": "Šaltinis paskelbtas 2024 m., vėliau nei disertacija (2015 m.). Tai standartinis CAGE klausimyno punktas, žinomas dar nuo 1984 m., todėl šis šaltinis negali būti plagiato šaltinis."
+    },
+    {
+     "id": 1537,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis už disertaciją. Tai standartinis CAGE klausimas, taigi sutapimas aiškinamas bendru originaliu klausimynu, o ne šaltinio panaudojimu."
+    },
+    {
+     "id": 1538,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis už disertaciją. Tai standartinis CAGE klausimas, kurio tekstas yra senesniame originaliame klausimyne."
+    },
+    {
+     "id": 1539,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis. Ketvirtojo standartinio CAGE klausimyno klausimo („eye-opener“) formuluotė yra visuotinai naudojama ir standartinė."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2024 m., o disertacija – 2015 m., todėl jis negalėjo būti disertacijos šaltinis. Sutampa tik keturi standartiniai CAGE klausimyno klausimai (psl. 122), kurie yra senesnio originalaus klausimyno dalis ir paprastai pateikiami be kabučių. Plagiato požymių nėra. Disertacijoje greičiausiai nurodomas originalus CAGE autorius, o ne šis šaltinis.",
+   "llm": true
+  },
+  "0a289ccd6e4a02d0": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 1 klausimas; tai visuotinai žinomas instrumentas."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 2 klausimas, o ne originalus šaltinio tekstas."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 3 klausimas."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 4 klausimas („eye opener“); formuluotė skiriasi nežymiai."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Sutampa tik keturi standartiniai CAGE klausimyno klausimai disertacijos psl. 122. Tai plačiai žinomas atrankos instrumentas, o ne šaltinio autoriaus tekstas. Šaltinis paskelbtas 2018 m., vėliau nei disertacija (2015 m.), todėl negalėjo būti jos šaltinis. Plagiato požymių nėra.",
+   "llm": true
+  },
+  "2fe473633d664195": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 1 klausimas; tai plačiai žinomas instrumentas, todėl pažodinis formuluotės sutapimas natūralus."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas (disertacijoje be „or drug use“, pritaikytas alkoholiui); tai instrumento formuluotė."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE 3 klausimas; fiksuota klausimyno formuluotė."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE 4 klausimas su nežymiu skirtumu („eye opener“); tai klausimyno turinys, o ne šaltinio autorinis tekstas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik keturi standartiniai CAGE klausimyno klausimai (psl. 122). Tai plačiai naudojamas fiksuotos formuluotės atrankos instrumentas, o ne originalus šaltinio tekstas. Šis Johns Hopkins dokumentas tėra viena iš daugelio klausimyno kopijų, todėl disertacijos autorius greičiausiai juo nesinaudojo. Disertacijoje klausimai pritaikyti alkoholiui (nėra „or drug use“). Citavimo trūkumą čia būtų galima nustatyti tik tuo atveju, jei nenurodyti originalūs CAGE autoriai (Ewing, Mayfield). Plagiato šio šaltinio atžvilgiu nėra.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "ee42e80188a2747d": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Pirmasis standartinio CAGE klausimyno punktas („cut down“); tai standartinis instrumentas, kurio formuluotė daugelyje šaltinių beveik identiška."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Antrasis CAGE klausimas („annoyed“); standartinis klausimyno teiginys, o ne originalus šaltinio tekstas."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Trečiasis CAGE klausimas („guilty“); standartinis klausimyno teiginys."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Ketvirtasis CAGE klausimas („eye-opener“); standartinis klausimyno teiginys, formuluotės skirtumai nedideli."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik keturi CAGE klausimyno klausimai disertacijos psl. 122. Tai plačiai žinomas standartinis patikros instrumentas, kurio formuluotė įvairiuose šaltiniuose beveik nesikeičia. Šaltinio įžanginis sakinys ir jį supantis tekstas į disertaciją neperimti. Struktūros ar argumentų sekos perėmimo požymių nėra. Būtų pageidautina tikslesnė nuoroda į CAGE autorių (Ewing), tačiau tai nelaikytina reikšmingu plagiatu iš šio šaltinio.",
+   "usage_types": [],
+   "llm": true
+  },
+  "f5e8a009943d034d": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (1 punktas); tai visuotinai naudojamas instrumentas, o ne originali šaltinio formuluotė."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (2 punktas)."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (3 punktas)."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (4 punktas, „eye-opener“); formuluotės skirtumai minimalūs."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik keturi standartinio CAGE klausimyno klausimai (psl. 122), sudarantys apie 0,13 % disertacijos teksto. Tai plačiai žinomas patikros instrumentas su nusistovėjusia formuluote, todėl sutapimas laikytinas bendrine fraze, o ne plagiatu. Vis dėlto, jei to nepadaryta, derėtų nurodyti pirminį CAGE šaltinį (Ewing, 1984). Reikšmingo šio šaltinio teksto perėmimo nenustatyta.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "89d5cae168d52607": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinio CAGE klausimyno 1 klausimas; šaltinio svetainėje tik pateikiamas plačiai paplitęs instrumentas, o ne unikalus tekstas."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 2 klausimas; tai bendras testo formuluotės pakartojimas."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 3 klausimas; įprasta instrumento formuluotė."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno 4 klausimas („eye-opener“); šaltinyje testas pritaikytas ir narkotikams, o disertacijoje – tik alkoholiui."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik keturi CAGE klausimyno klausimai disertacijos psl. 122. Tai plačiai žinomas standartinis patikros instrumentas, kurio formuluotė bendra daugeliui šaltinių. Šaltinio svetainė (gydymo įstaigos informacinis puslapis) yra tik viena iš daugelio vietų, kur šis klausimynas pateikiamas. Disertacijos versija skiriasi: joje kalbama tik apie alkoholį, o ne apie narkotikus. Perėmimo iš šio konkretaus šaltinio įrodymų nėra. Ar disertacijoje nurodytas klausimyno originalas, reikėtų patikrinti atskirai, tačiau tai nėra plagiatas iš šio šaltinio.",
+   "llm": true
+  },
+  "580e80d405790ce4": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Pirmasis CAGE klausimyno klausimas; standartinis testo teiginys, laisvai prieinamas daugelyje šaltinių."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas; sutampa su įprasta formuluote, o ne konkrečiai su šio šaltinio tekstu."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas; įprasta instrumento formuluotė."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Ketvirtasis standartinis CAGE klausimas (apie rytinį išgėrimą, angl. eye-opener); formuluotė skiriasi, tai instrumento tekstas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik keturi standartiniai CAGE klausimyno klausimai (disertacijos psl. 122). Tai plačiai žinomas patikros instrumentas, o jo formuluotė daugelyje šaltinių yra ta pati. Šaltinis yra kodų lentelių puslapis, o ne mokslinis tekstas, kurį disertacija galėjo perimti. Šaltinio data nežinoma. Plagiato požymių nėra, nors prie instrumento verta nurodyti pirminį autorių (Ewing, 1984), jei to dar nepadaryta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "46932b75ff285ff6": {
+   "pairs": [
+    {
+     "id": 831,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik bendra tema (sveikatos elgsena, teorijos); sakinių formuluotės skiriasi, teksto perėmimo nėra."
+    },
+    {
+     "id": 1286,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Disertacijos sakinys (psl. 98) beveik pažodžiui sutampa su šaltinio sakiniu (praleista tik keletas žodžių); nėra kabučių ir nuorodos (šaltinyje nurodytas Bandura, 1989). Greičiausiai perimta iš šio šaltinio arba iš bendro pirminio teksto."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.5,
+   "summary": "Rastas vienas beveik pažodžiui sutampantis 26 žodžių sakinys apie saviveiksmingumą (psl. 98), perimtas be kabučių ir be nuorodos į šaltinį; šaltinyje jis pateiktas su nuoroda į Bandurą (1989). Antrasis sutapimas (psl. 64) yra tik teminis ir perėmimo nerodo. Šaltinio data nenustatyta, todėl neaišku, ar jis ankstesnis už disertaciją; apimtis labai maža (0,12 % teksto). Tai pavienis atvejis, o ne sistemingas šaltinio naudojimas.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "4a293f02b656b906": {
+   "pairs": [
+    {
+     "id": 628,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2016) vėlesnis už disertaciją (2015). Formuluotė artima, tačiau tikėtina, kad abu tekstai ją perėmė iš to paties ankstesnio šaltinio; vėlesnis tekstas negali būti perėmimo šaltinis, kyla klausimas dėl bendro pirminio šaltinio."
+    },
+    {
+     "id": 1489,
+     "label": "klaidingas_sutapimas",
+     "note": "Skirtingi teiginiai apie respondentų amžiaus intervalą; sutampa tik bendri žodžiai, tai tipinė tyrimo aprašymo frazė be turinio sutapimo."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.8,
+   "summary": "Šaltinis paskelbtas 2016 m., vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltinis. Vienintelis reikšmingas sutapimas (psl. 53) – beveik pažodžiui sutampanti frazė apie smurtą, neplanuotus lytinius santykius ir socialinę žalą. Greičiausiai abu tekstai rėmėsi bendru ankstesniu šaltiniu, kuris nenurodytas. Antrasis sutapimas (psl. 118) atsitiktinis – tai bendrinis respondentų amžiaus aprašas. Disertacija šio šaltinio nenaudojo.",
+   "usage_types": [],
+   "llm": true
+  },
+  "5c6031954dd34a8c": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys; formuluotė skiriasi nuo šaltinio, tai bendrai naudojamas instrumentas."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas apie kaltės jausmą; formuluotė kitokia nei šaltinyje."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Ketvirtasis standartinis CAGE klausimas (apie rytinį išgėrimą, angl. eye-opener); trumpas, plačiai paplitęs klausimyno elementas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik keturi standartiniai CAGE klausimyno klausimai (psl. 122) – tai plačiai žinomas patikros instrumentas. Disertacijos formuluotės skiriasi nuo šaltinio, tiesioginio teksto perėmimo požymių nėra. Tai nėra plagiatas, nors turėtų būti nurodytas paties CAGE instrumento pirminis šaltinis (Ewing, 1984).",
+   "llm": true
+  },
+  "aef6cf97341d8b3d": {
+   "pairs": [
+    {
+     "id": 813,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Disertacijoje cituojami Kiuru ir kt. (2010), tačiau mintis ir formuluotė (bendros sociodemografinės, elgesio ir tarpasmeninės savybės) atitinka šio šaltinio sakinį, kuriame cituojami Cairns ir McPherson. Šaltinis nenurodytas."
+    },
+    {
+     "id": 814,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Disertacijos sakinys glaustai perfrazuoja šaltinio sakinį apie homofilijos ir homogeniškumo sąvokas, nuorodos nėra. Perimta ir sąvokų logika, ir formuluotė (tendency ... to resemble each other)."
+    },
+    {
+     "id": 1583,
+     "label": "bendrine_fraze",
+     "note": "Trumpa bendrinė frazė „rezultatai atitinka...“; turinys skiriasi, tai standartinė formuluotė, o ne šaltinio idėjos perėmimas."
+    },
+    {
+     "id": 1590,
+     "label": "bendrine_fraze",
+     "note": "Trumpa standartinė frazė apie rezultatų atitiktį; sutapimas nereikšmingas, kontekstas ir turinys skiriasi."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.6,
+   "summary": "Šaltinis (2008 m. apžvalginis darbas apie paauglių bendraamžių grupes) yra ankstesnis už disertaciją, tačiau disertacijos literatūros sąraše jo nėra. Du gretimi disertacijos sakiniai (psl. 63) artimai perfrazuoja šio šaltinio įžangos mintis apie bendraamžių grupės narių panašumą ir homogeniškumo sąvoką. Pirminiai autoriai nurodomi, o antrinis šaltinis – ne. Sutapimai psl. 133–134 yra trumpos bendrinės frazės ir plagiato nerodo. Bendras panaudojimo mastas nedidelis (apie 0,13 % teksto), tačiau perėmimas psl. 63 yra tikėtinas.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "fef57ddabe4b24b8": {
+   "pairs": [
+    {
+     "id": 1576,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik standartinė sakinio pradžia „The results are consistent with“; tęsinys visiškai kitoks (ekonomikos tema)."
+    },
+    {
+     "id": 1583,
+     "label": "bendrine_fraze",
+     "note": "Trumpa įprasta frazė faktorinės analizės rezultatams aprašyti; šaltinio turinys nesusijęs."
+    },
+    {
+     "id": 1590,
+     "label": "bendrine_fraze",
+     "note": "Įprasta metodologinė frazė, turinys su šaltiniu nesutampa."
+    },
+    {
+     "id": 1598,
+     "label": "bendrine_fraze",
+     "note": "Standartinė frazė apie atitiktį pirminei skalei; perimto turinio nėra."
+    },
+    {
+     "id": 1614,
+     "label": "bendrine_fraze",
+     "note": "Standartinė frazė; sutampa tik pradžia, turinys skiriasi."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Šaltinis yra ekonomikos darbinis straipsnis apie moterų darbo pasiūlą ir namų ūkio prekių kainas. Sutampa tik trumpa įprasta frazė „The results are consistent with“, kuri disertacijoje vartojama faktorinės analizės rezultatams aprašyti. Turinio, argumentų ar struktūros perėmimo nėra. Plagiato požymių nenustatyta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "aaad11920d98976f": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno punktas; formuluotė beveik standartinė, tai ne autoriaus tekstas, o skalės elementas."
+    },
+    {
+     "id": 1537,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (Annoyed – apie susierzinimą); sutapimą lemia pačios skalės formuluotė."
+    },
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimas (Eye-opener – apie rytinį išgėrimą); skirtumai nežymūs, tai įprasta skalės formuluotė."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Disertacijoje (psl. 122) pateikiami keturi CAGE klausimyno klausimai, kurie sutampa su šaltinyje pateiktu CAGE klausimų sąrašu. Tai standartinis, plačiai paplitęs patikros instrumentas, kurio formuluotė įvairiuose šaltiniuose beveik nekinta. Šaltinio data nepatikima, o sutapimas aiškiai susijęs su skalės turiniu, o ne su šaltinio autoriniu tekstu. Plagiato požymių nėra, nors būtų geriau nurodyti pirminį CAGE autorių (Ewing, 1984), jei to nepadaryta.",
+   "llm": true
+  },
+  "0ff6f519a32efb52": {
+   "pairs": [
+    {
+     "id": 574,
+     "label": "bendrine_fraze",
+     "note": "Teiginys, kad TPB yra pagrįsto veiksmo teorijos (TRA) plėtinys, – standartinis teorinis faktas, pateiktas su nuorodomis į pirminius autorius (Fishbein & Ajzen, 1975). Formuluotė skiriasi, sutampa tik terminai."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys apie joje siūlomą modelį; sutampa tik žodis „extension“ ir TPB pavadinimas. Šaltinio tekstas turi kitą prasmę."
+    },
+    {
+     "id": 1474,
+     "label": "klaidingas_sutapimas",
+     "note": "Šaltinio fragmentas yra straipsnio apie finansų valdymą antraštė ir santrauka; sutampa tik TPB sąvoka, perėmimo nėra."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutapimai trumpi ir susiję tik su standartine planuoto elgesio teorijos (TPB) terminija bei bendrais teoriniais teiginiais (TPB kaip pagrįsto veiksmo teorijos plėtinys). Disertacijoje šie teiginiai pateikti su nuorodomis į pirminius autorius (Ajzen, Fishbein & Ajzen), o formuluotės skiriasi. Šaltinio datos duomenys nepatikimi, o rimtų pažodinio ar perfrazuoto perėmimo požymių nėra. Plagiato požiūriu šis šaltinis neatrodo reikšmingas.",
+   "usage_types": [],
+   "llm": true
+  },
+  "cc7bdc0f63d17257": {
+   "pairs": [
+    {
+     "id": 36,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Santraukos sakinys perimtas beveik pažodžiui (23 žodžių atkarpa), be kabučių ir be nuorodos sakinyje, nors Previte minimas šalia."
+    },
+    {
+     "id": 284,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Tas pats sakinys pakartotas kitoje vietoje (psl. 29), vėl be kabučių ir be tiesioginės nuorodos sakinyje."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.55,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše, o tekste minimas Previte. Sutampa vienas santraukos sakinys, kuris pasikartoja psl. 13 ir 29; jis perimtas beveik pažodžiui, pakeista tik dalis žodžių (pvz., praleista informacija apie bauginimo taktiką (angl. fear tactics), sukeista „harms and benefits“ tvarka). Sakinyje nėra kabučių ir aiškios nuorodos, todėl tai nepakankamai pažymėtas perėmimas. Apimtis maža (2 sakiniai, 0,11 % teksto), o vertinta tik pagal santrauką, todėl išvados patikimumas vidutinis.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "83c844f184f75bd2": {
+   "pairs": [
+    {
+     "id": 36,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Sakinys psl. 13 beveik pažodžiui perima Previte ir kt. santraukos teiginį (pakeista tik žodžių tvarka ir dalis frazių), be kabučių ir be nuorodos sakinyje; šaltinis yra literatūros sąraše, autorius minimas šalia."
+    },
+    {
+     "id": 284,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Psl. 29 pakartotas tas pats sakinys; santraukos teiginys perimtas beveik pažodžiui be kabučių ir be nuorodos sakinyje, nors šaltinis literatūros sąraše yra."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.55,
+   "summary": "Šaltinis (Previte, Russell-Bennett, Parkinson, 2014) yra ankstesnis už disertaciją ir įtrauktas į literatūros sąrašą. Sutampa tik vienas sakinys, kuris pasikartoja psl. 13 ir 29. Jis beveik pažodžiui perimtas iš šaltinio santraukos: pakeista tik žodžių tvarka ir kelios frazės. Kabučių nėra, o pačiame sakinyje nuoroda nepateikta, nors autorius minimas šalia. Tai nedidelis citavimo netikslumas, o ne plataus masto plagiatas. Vertinimas atsargus, nes turėta tik šaltinio santrauka.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "1d9a0ffcbe85aa35": {
+   "pairs": [
+    {
+     "id": 1220,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2021) vėlesnis už disertaciją (2015); be to, sutampa tik bendra frazė apie TPB plėtinį, o šaltinyje tai yra cituojamo darbo pavadinimas."
+    },
+    {
+     "id": 1473,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis už disertaciją; sutampa tik bendras TPB aprašymas, formuluotės skiriasi, disertacijoje nurodyti Schwarzer ir Luszczynska."
+    },
+    {
+     "id": 1474,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis už disertaciją; TPB komponentų išvardijimas yra standartinė bendrinė formuluotė."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2021 m., t. y. po disertacijos gynimo (2015 m.), todėl negali būti jos plagiato šaltinis. Sutampa vos trys sakiniai (0,1 % teksto), susiję su visuotinai žinoma planuoto elgesio teorija (TPB) ir standartiniais jos komponentais. Tai bendrinio pobūdžio sutapimai, o ne perimtas tekstas. Plagiato požymių nenustatyta.",
+   "llm": true
+  },
+  "6b79a649889b3620": {
+   "pairs": [
+    {
+     "id": 36,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Šaltinio santraukos sakinys perfrazuotas: pašalinta frazė apie Vakarų vyriausybes ir bauginimo taktiką, sukeista „harms and benefits“ (žala ir nauda) tvarka. Sakinyje nėra nei nuorodos, nei kabučių."
+    },
+    {
+     "id": 284,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Tas pats sakinys pakartotas kitame puslapyje be nuorodos į Previte ir bendraautorius. Tai šaltinio santraukos teiginys, perfrazuotas su nedideliais pakeitimais."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.55,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše, o tekste minimas Previte. Tačiau abu sutampantys sakiniai (psl. 13 ir 29) beveik atkartoja šaltinio santraukos sakinį apie socialinės rinkodaros sukeltą išgertuvių („binge“) ir saikingo gėrimo („moderate drinking“) poliarizaciją. Jie pateikti be kabučių ir be tiesioginės nuorodos prie sakinių. Šaltinio mintis perfrazuota nedaug, o sakinys pakartotas du kartus. Sutapimas apima tik du sakinius (apie 0,1 % teksto), todėl apimtis nedidelė. Vertinta atsargiai, nes turima tik santrauka, o ne visas šaltinio tekstas.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais",
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "35d51f05c2216d63": {
+   "pairs": [
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis planuoto elgesio teorijos (TPB) komponentų išvardijimas (nuostatos, subjektyvios normos, suvokiama elgesio kontrolė); tai bendras teorijos aprašymas, o ne perimtas tekstas."
+    },
+    {
+     "id": 1476,
+     "label": "tinkamas_citavimas",
+     "note": "Citata pateikta kabutėse su Ajzen (2002) nuoroda; pirminis šaltinis – Ajzen, o ne vėlesnė 2021 m. publikacija, todėl atvirkštinis ryšys nesvarbus."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.75,
+   "summary": "Šaltinis paskelbtas vėliau (2021 m.) nei disertacija (2015 m.), todėl negali būti plagiato šaltinis. Sutampa tik du sakiniai (0,09 % teksto). Pirmasis – bendrinis planuoto elgesio teorijos (TPB) komponentų išvardijimas. Antrasis – kabutėse pateikta Ajzen (2002) citata su nuoroda, tad citavimas tinkamas. Plagiato požymių nenustatyta; vertinimas atsargus, nes turėta tik santrauka ir paieškos fragmentai.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "70a3202d63c01296": {
+   "pairs": [
+    {
+     "id": 813,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Sakinys beveik pažodžiui perimtas iš šaltinio; šaltinio autorius nurodytas, bet kabučių nėra. Šaltinyje cituojami pirminiai autoriai (Cairns, Kandel, McPherson) nepaminėti."
+    },
+    {
+     "id": 814,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Kitas šaltinio sakinio fragmentas perkeltas pažodžiui be kabučių ir be nuorodos; praleistas pirminis šaltinis (Cohen, 1977). Šis sakinys tęsia ankstesnį Kiuru ir kt. sakinį."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.82,
+   "summary": "Disertacijos psl. 63 pažodžiui perimti du iš eilės einantys šaltinio (Kiuru ir kt., 2010) apibendrinimo sakiniai. Pirmasis sakinys susietas su šaltiniu nuoroda, bet nepateiktas kabutėse. Antrasis, tiesiogiai tęsiantis pirmąjį, perimtas pažodžiui be jokios nuorodos, nenurodant pirminio šaltinio (Cohen, 1977) ir be kabučių. Šaltinis yra literatūros sąraše, o apimtis nedidelė (apie 42 žodžiai). Todėl tai ne sisteminis, o pavienis netinkamo citavimo atvejis, kai pažodinis tekstas pateiktas kaip savas.",
+   "usage_types": [
+    "pažodinis kopijavimas",
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "6cfd89d21bd24b44": {
+   "pairs": [
+    {
+     "id": 135,
+     "label": "atvirkstinis",
+     "note": "Šaltinis paskelbtas 2021 m., vėliau nei disertacija (2015 m.). Šaltinis pats cituoja ankstesnį darbą (greičiausiai Weinerio), todėl sutapimą lemia bendras pirminis šaltinis, o ne disertacijos ir šio straipsnio sąsaja."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Straipsnis išleistas 2021 m., o disertacija apginta 2015 m., todėl jis negalėjo būti disertacijos šaltinis. Sutampa vienas 38 žodžių sakinys apie atsakomybės priskyrimą dėl vidinių ir išorinių veiksnių. Straipsnyje šis sakinys pateiktas kabutėse kaip citata iš ankstesnio darbo, tikriausiai iš atribucijos teorijos literatūros. Tikėtina, kad disertacijos autorius rėmėsi tuo pačiu senesniu šaltiniu, tačiau disertacijoje sakinys pateiktas be kabučių ir be aiškios nuorodos. Tai verta atskirai patikrinti pagal pirminį šaltinį, tačiau šio straipsnio plagiato šaltiniu laikyti negalima.",
+   "llm": true
+  },
+  "affddfc005f908b2": {
+   "pairs": [
+    {
+     "id": 596,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 51 sakinys glaudžiai perfrazuoja French ir Cooke (2012) mintį apie įsitikinimus kaip galutinius elgesį lemiančius veiksnius, kuriuos nurodė Ajzen; nuorodos į šį šaltinį nėra."
+    },
+    {
+     "id": 1583,
+     "label": "bendrine_fraze",
+     "note": "Psl. 133 – trumpa standartinė išvada „rezultatai atitinka…“; sutampa tik bendra formuluotė, turinys skiriasi."
+    },
+    {
+     "id": 1590,
+     "label": "bendrine_fraze",
+     "note": "Psl. 134 – tas pats standartinis sakinys kaip ir psl. 133; tai bendrinė frazė, o ne šaltinio turinio perėmimas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.7,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše, o sutampa tik trys sakiniai (0,08 % teksto). Du iš jų (psl. 133 ir 134) yra bendrinė rezultatų aprašymo frazė. Psl. 51 sakinys perfrazuoja French ir Cooke (2012) teiginį apie įsitikinimus kaip galutinius elgesį lemiančius veiksnius, tačiau šalia jo nėra nuorodos į šį šaltinį. Tai pavienis, nedidelės apimties perfrazavimas, todėl bendra apimtis nereikšminga. Šį sakinį reikėtų pataisyti pridedant nuorodą.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "2836671036d9c260": {
+   "pairs": [
+    {
+     "id": 1285,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Psl. 97 sakinys beveik atkartoja Banduros (1977) formuluotę su nedideliais pakeitimais; sakinyje nėra kabučių ir nuorodos, bet autorius minimas greta. Tai pavienis sakinys, sutapimas ribotas."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Nustatytas vienintelis sutapimas (psl. 97): disertacijos sakinys apie saviveiksmingumo įsitikinimus beveik pakartoja Banduros (1977) hipotezės formuluotę, pakeisti tik keli žodžiai (coping behavior → healthy behavior; aversive experiences → failures). Bandura minimas greta šio sakinio, tačiau jo 1977 m. straipsnio tiksliu pavadinimu literatūros sąraše rasti nepavyko, todėl nuoroda gali būti į kitą jo darbą. Tai pavienis, trumpas bendrai žinomos teorijos apibrėžimo perėmimas, o ne plataus masto plagijavimas. Rekomenduotina sakinį pateikti kabutėse arba perfrazuoti savais žodžiais ir pateikti tikslią nuorodą į 1977 m. darbą.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "4742b4d37c6d5b64": {
+   "pairs": [
+    {
+     "id": 1285,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 97: sakinys beveik atitinka Banduros formuluotę (inicijavimas, pastangos, ištvermė susidūrus su kliūtimis); ji perimta su nedideliais pakeitimais, be nuorodos ir kabučių. Galimas antrinis šaltinis."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.5,
+   "summary": "Rastas vienas 35 žodžių sutapimas (psl. 97). Disertacijos sakinys iš esmės atkartoja šaltinyje pateiktą Banduros saviveiksmingumo teorijos formuluotę, tik „coping behavior“ pakeista į „healthy behavior“. Sakinyje nėra nei kabučių, nei nuorodos. Sutapimas vienintelis, todėl panaudojimo mastas nedidelis, tačiau tai bendrai žinoma Banduros idėja, kuri galėjo būti perimta iš pirminio šaltinio. Reikėtų patikrinti, ar greta sakinio nurodytas Bandura.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "aa8068f78a7e06b9": {
+   "pairs": [
+    {
+     "id": 1285,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Disertacijos psl. 97 sakinys beveik atkartoja Banduros (1977) formuluotę (initiated, effort expended, sustained in face of obstacles), pakeisti tik žodžiai „coping“ ir „aversive experiences“. Autorius minimas, bet kabučių nėra."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Nustatytas vienas sutapimas (disertacijos psl. 97), kuriame beveik pažodžiui perimta Banduros (1977) saviveiksmingumo teorijos formuluotė. Pakeisti tik keli žodžiai, kabučių nėra. Šaltinio autorius tekste minimas, tačiau jo darbo literatūros sąraše aptikti nepavyko. Vienas sakinys sudaro nereikšmingą disertacijos dalį (0,08 %). Tai labiau citavimo tikslumo trūkumas nei sisteminis plagijavimas. Jei Banduros darbo sąraše tikrai nėra, nuorodą reikėtų papildyti, o sakinį pateikti kabutėse arba perfrazuoti išsamiau.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "fa14cda3725656f8": {
+   "pairs": [
+    {
+     "id": 1285,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Psl. 97 sakinys beveik atkartoja šaltinio formuluotę (Banduros apibrėžimo perfrazė: inicijavimas, pastangos, išlaikymas susidūrus su kliūtimis), sakinyje nuorodos nėra; tai plačiai cituojama formuluotė, todėl sutapimo reikšmė ribota."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.4,
+   "summary": "Rastas vienas sakinys (psl. 97), kuris glaudžiai atkartoja šaltinio formuluotę apie saviveiksmingumo lūkesčius: ar elgesys bus pradėtas, kiek pastangų bus įdėta ir kaip ilgai jis bus išlaikomas susidūrus su kliūtimis. Pakeisti tik keli žodžiai (coping → healthy behavior; expectations → beliefs). Tai klasikinė Banduros idėjos formuluotė, kurią kartoja daug darbų, todėl šis šaltinis greičiausiai nebuvo tiesiogiai naudotas, be to, jis pats (SuSanA bibliotekos puslapis) nėra akivaizdus originalas. Sutapimas pavienis ir kelia tik nedidelę abejonę dėl to, kad sakinyje nenurodytas pirminis autorius.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "7a1d9a986d40b5c6": {
+   "pairs": [
+    {
+     "id": 819,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Sakinys pažodžiui sutampa su šaltinio sakinio dalimi (psl. 64); kabučių ir nuorodos nėra. Šaltinis cituoja apžvalgas [17–19], o disertacijoje šios nuorodos neperimtos."
+    },
+    {
+     "id": 821,
+     "label": "klaidingas_sutapimas",
+     "note": "Tekstų turinys skiriasi; sutampa tik bendra tema (gausus gėrimas, bendraamžiai). Tikro tekstinio sutapimo nėra."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.7,
+   "summary": "Šaltinis – 2010 m. straipsnis, ankstesnis už disertaciją ir literatūros sąraše nerastas. Disertacijos psl. 64 vienas sakinys apie klaidingą studentų alkoholio vartojimo suvokimą pažodžiui sutampa su šaltinio sakinio dalimi. Jis perkeltas be kabučių ir be nuorodos į šį darbą. Šaltinyje šį teiginį pagrindžia kitų autorių apžvalgos, o disertacijoje jos nenurodomos. Antroji sakinių pora sutampa tik bendra tema. Panaudojimas vienkartinis ir nedidelės apimties (apie 0,08 % teksto), bet nepažymėtas.",
+   "usage_types": [
+    "pažodinis kopijavimas"
+   ],
+   "llm": true
+  },
+  "5869e68b5e54fbb1": {
+   "pairs": [
+    {
+     "id": 819,
+     "label": "pazodinis_be_nuorodos",
+     "note": "Disertacijos sakinys pažodžiui sutampa su šaltinio sakinio dalimi (psl. 64); praleista tik įžanga apie apžvalgas [17–19]. Nėra nei kabučių, nei nuorodos į šaltinį."
+    },
+    {
+     "id": 821,
+     "label": "klaidingas_sutapimas",
+     "note": "Sutampa tik pavieniai žodžiai (more likely, peer); šaltinyje aprašomi regresijos modeliai, o disertacijoje – bendravimas su daug geriančiaisiais. Tekstinio perėmimo nėra."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.7,
+   "summary": "Šaltinis yra ankstesnis už disertaciją ir literatūros sąraše nerastas. Vienas disertacijos sakinys (psl. 64) pažodžiui perimtas iš šaltinio įvado, kuriame šis teiginys grindžiamas apžvalgomis ir metaanalize. Disertacijoje nėra nei kabučių, nei nuorodos į šaltinį. Antroji sakinių pora sutampa atsitiktinai. Bendras panaudojimas nedidelis (vienas sakinys, apie 0,04 % teksto), bet pažodinis perėmimas be nuorodos laikomas pažeidimu.",
+   "usage_types": [
+    "pažodinis kopijavimas"
+   ],
+   "llm": true
+  },
+  "466f0ed7e4aefd21": {
+   "pairs": [
+    {
+     "id": 624,
+     "label": "atvirkstinis",
+     "note": "Šaltinis paskelbtas 2022 m., vėliau nei disertacija (2015 m.). Sutapimas – trumpa bendra frazė apie nedidelį alkoholio kiekį; disertacijoje šis teiginys priskirtas Nolen-Hoeksema ir Hilt."
+    },
+    {
+     "id": 1530,
+     "label": "bendrine_fraze",
+     "note": "Trumpa, dažnai vartojama metodologinio apribojimo formuluotė („this was not done/collected in this research“); be to, šaltinis yra vėlesnis, todėl tai plagiatu nelaikoma."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2022 m., t. y. po disertacijos gynimo (2015 m.), todėl negali būti jos plagiato šaltinis. Rasti tik du trumpi sutapimai: bendra frazė apie nedidelį alkoholio kiekį (psl. 52) ir standartinė metodologinio apribojimo formuluotė (psl. 121). Šaltinio tema (maisto vartojimas ir gyvensenos ligos) skiriasi nuo disertacijos temos. Reikšmingo teksto perėmimo nenustatyta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "7d5b04b5eb15471a": {
+   "pairs": [
+    {
+     "id": 0,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2018) yra vėlesnis už disertaciją (2015); tai standartinis PSO apibrėžimas, trumpa bendrinė formuluotė."
+    },
+    {
+     "id": 1066,
+     "label": "bendrine_fraze",
+     "note": "Standartinis absoliutaus alkoholio apibrėžimas su nuoroda į PSO (2005); šaltinis vėlesnis, sutapimas trumpas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Sutampa tik vienas trumpas standartinis apibrėžimas („Ethanol containing not more than 1% mass of water“), kuris disertacijoje (psl. 10 ir 81) priskirtas Pasaulio sveikatos organizacijai (2005). Šaltinis paskelbtas 2018 m., po disertacijos gynimo, todėl negalėjo būti jos šaltiniu. Plagiato požymių nėra.",
+   "llm": true
+  },
+  "ce4691590ae30ebe": {
+   "pairs": [
+    {
+     "id": 56,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Sakinys perimtas beveik pažodžiui ir be kabučių, tačiau nurodytas šaltinis van Lettow et al. (2014), kuris greičiausiai ir yra tikrasis šio teksto šaltinis."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.55,
+   "summary": "Vienintelis sutapimas (psl. 14) – beveik pažodinis sakinys apie nuosaikiai geriančiojo prototipą. Šaltinio puslapio data (2008) nepatikima: tai ResearchGate lentelės fragmentas, o tekstas, panašu, kilęs iš van Lettow et al. (2014), kuris nurodytas disertacijoje. Todėl tai greičiau pirminio šaltinio perteikimas su nuoroda, tik be kabučių. Sutapimas vienas ir trumpas, o įrodymas tėra paieškos fragmentas. Rimto plagiato požymių nėra, yra tik stilistinis trūkumas – pažodžiui perimtas tekstas neįformintas kaip citata.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "7606caa21c962736": {
+   "pairs": [
+    {
+     "id": 327,
+     "label": "perfrazuota_be_nuorodos",
+     "note": "Perfrazuotas Dawson ir kt. rezultatas (24 % padidėjimas su kiekvienu stresoriumi), tačiau jis iškraipytas (šaltinyje kalbama apie gausų gėrimą ir vyrus); sakinyje nuorodos nėra."
+    },
+    {
+     "id": 329,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Beveik tiksliai perteikta šaltinio frazė su nedideliais pakeitimais; šalia minimas autorius Dawson, tačiau nėra nei kabučių, nei tiesioginės nuorodos sakinyje."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše, o tekste minimas Dawson. Dvi sutampančios vietos psl. 33 yra glaudžiai perfrazuoti Dawson ir kt. (2005) rezultatai. Autorius nurodytas greta, tačiau antrasis sakinys beveik pažodinis ir be kabučių, o pirmajame rezultatas supaprastintas (prarasti gausaus gėrimo ir lyties niuansai). Sutapimo apimtis nedidelė (~0,07 %), todėl rimto plagiato nėra, tereikėtų patikslinti citavimą. Vertinta pagal santrauką, todėl pasitikėjimas vidutinis.",
+   "usage_types": [
+    "perfrazavimas",
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "531297d4881f1db6": {
+   "pairs": [
+    {
+     "id": 1266,
+     "label": "bendrine_fraze",
+     "note": "Standartinė hipotezės formuluotė („X has a positive impact on Y“); sutampa tik bendra frazė, o tema ir kintamieji skiriasi (savivoka ir namų mankšta)."
+    },
+    {
+     "id": 1437,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys – kabutėse pateiktas pavyzdinis skalės teiginys apie religiją; šaltinyje kalbama apie apsipirkimą internetu. Sutampa tik pavienė frazė „one of the most important“."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.93,
+   "summary": "Rasti du trumpi ir atsitiktiniai sutapimai. Pirmasis – įprasta hipotezės formuluotė („health consciousness has a positive impact on…“), kurios turinys skiriasi. Antrasis – bendra frazė, vartojama skirtinguose kontekstuose: disertacijoje tai skalės teiginys apie religiją, šaltinyje – apie apsipirkimą internetu. Požymių, kad iš šio šaltinio būtų perimtas tekstas ar mintys be nuorodų, nėra. Šaltinio data nežinoma, tačiau tai vertinimo nekeičia.",
+   "usage_types": [],
+   "llm": true
+  },
+  "49ac01b29f83a8a0": {
+   "pairs": [
+    {
+     "id": 149,
+     "label": "klaidingas_sutapimas",
+     "note": "Bendra tema (sveikatos sąmoningumas, požiūris), tačiau formuluotės ir kontekstas skiriasi; sutampa tik pavienės frazės."
+    },
+    {
+     "id": 1583,
+     "label": "bendrine_fraze",
+     "note": "Standartinė statistinių rezultatų aprašymo frazė „The results are consistent with...“; turinys skiriasi."
+    },
+    {
+     "id": 1590,
+     "label": "bendrine_fraze",
+     "note": "Ta pati standartinė frazė, kartojama faktorinės analizės aprašymuose; šaltinio turinys neperimtas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Šaltinis (Chen, 2009) yra disertacijos literatūros sąraše. Rasti sutapimai trumpi (3 sakiniai, apie 0,06 % teksto) ir apsiriboja bendrinėmis frazėmis bei bendra tema. Pažodinio ar perfrazuoto šaltinio teksto perėmimo nenustatyta. Vertinta pagal santrauką ir fragmentus, todėl išvada gana patikima, bet ne absoliuti.",
+   "usage_types": [],
+   "llm": true
+  },
+  "a86a27b6035f6285": {
+   "pairs": [
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (Eye-opener); šis klausimynas yra plačiai paplitusi standartizuota priemonė, sutapimas pavienis, šaltinio data nežinoma."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Vienintelis sutampantis sakinys (psl. 122) yra standartinio CAGE klausimyno ketvirtasis klausimas. Tai plačiai naudojama priemonė, kurios formuluotės yra įprastos ir perimamos be pakeitimų, todėl tai nelaikytina plagiatu. Šaltinio data nepatikima, o sutapimas apima vieną sakinį (0,06 % teksto). Reikšmingai šis šaltinis nepanaudotas.",
+   "usage_types": [],
+   "llm": true
+  },
+  "f04f8e6558caa6b7": {
+   "pairs": [
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno ketvirtasis teiginys (Eye-opener); tai plačiai naudojama standartizuota priemonė, o ne originalus šaltinio tekstas (psl. 122)."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Vienintelis sutapimas (psl. 122) yra standartinis CAGE klausimyno ketvirtasis klausimas apie rytinį gurkšnį („eye-opener“). Tai visuotinai naudojama validuota priemonė, o ne savitas šaltinio tekstas. Gretimi disertacijos klausimai atitinka standartinę CAGE formuluotę. Šio šaltinio negalima laikyti plagiato šaltiniu. Lieka tik klausimas, ar disertacijoje nurodytas originalus CAGE autorius (Ewing, 1984). Tai nėra šio tinklalapio panaudojimo požymis.",
+   "usage_types": [],
+   "llm": true
+  },
+  "0f365d6e2862c9de": {
+   "pairs": [
+    {
+     "id": 1539,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno ketvirtasis punktas (Eye opener); įprasta formuluotė, o ne šaltinio autorinis tekstas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Vienintelis sutapimas (psl. 122) yra standartinis CAGE klausimyno klausimas. Jo formuluotė plačiai paplitusi ir šiam šaltiniui nepriklauso. Ištisinio teksto perėmimo ar struktūros kopijavimo požymių nėra. Šaltinis plagiato šaltiniu nelaikytinas, nors būtų tikslinga nurodyti originalų CAGE autorių.",
+   "usage_types": [],
+   "llm": true
+  },
+  "87f9fe4ffaa4bb19": {
+   "pairs": [
+    {
+     "id": 193,
+     "label": "bendrine_fraze",
+     "note": "Trumpas, bendro pobūdžio sakinys apie alkoholio vartojimo pagrindų tyrimo svarbą; sutampa tik keli bendri žodžiai, formuluotė skiriasi."
+    },
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys skirtas modeliui ir planuoto elgesio teorijai, o šaltinio fragmentas yra literatūros sąrašo įrašas; tekstinio sutapimo nėra, sutampa tik teorijos pavadinimas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Šaltinis su disertacija sutampa tik dviem sakiniais (26 žodžiai, apie 0,06 % teksto). Sakinys psl. 23 yra bendro pobūdžio ir pažodžiui nesutampa. Sakinys psl. 92 sutampa tik su šaltinio literatūros sąrašo įrašu, nes abiejuose minimas tas pats teorijos pavadinimas. Požymių, kad šaltinio tekstas būtų plagijuotas, nėra.",
+   "usage_types": [],
+   "llm": true
+  },
+  "d5d6d69edf35c8b8": {
+   "pairs": [
+    {
+     "id": 1286,
+     "label": "pazodinis_su_nuoroda_be_kabuciu",
+     "note": "Sakinys psl. 98 beveik pažodžiui sutampa su Schwarzer ir Luszczynska fragmentu (pakeistas tik žodis „risk“ į „risky“). Autoriai minimi, bet kabučių nėra; vertinti reikia atsargiai, nes turimas tik fragmentas."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.55,
+   "summary": "Šaltinis yra disertacijos literatūros sąraše, o autoriai minimi tekste. Vienas sakinys psl. 98 (apie 25 žodžius) beveik pažodžiui sutampa su šaltinio fragmentu – su nedideliu žodžio pakeitimu ir be kabučių. Tai pavienis, trumpas sutapimas, todėl didelio masto plagiatu jo laikyti negalima. Vis dėlto ši formuluotė turėjo būti pateikta kabutėse arba aiškiai perfrazuota. Turimas tik paieškos fragmentas, todėl pasitikėjimas sumažintas.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "ade54f874fd0d4eb": {
+   "pairs": [
+    {
+     "id": 1685,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Disertacijos sakinys (psl. 156) beveik sutampa su Vargas įvado sakiniu; nurodyta pasaulinė sveikatos ataskaita (2007), bet ne Vargas. Pakeitimai nedideli, sutapimas vienintelis."
+    }
+   ],
+   "verdict": "naudotas_dalinai_be_nuorodu",
+   "confidence": 0.6,
+   "summary": "Rastas vienintelis sutapimas (psl. 156): sakinys apie tai, kad alkoholis 2000 m. lėmė 4 % ligų naštos ir 3,2 % mirčių, beveik atitinka Vargas (2012) įvado sakinį. Disertacijoje cituojama pirminė ataskaita (2007), o Vargas, nors ir įtrauktas į literatūros sąrašą, prie šio sakinio nenurodytas. Tai trumpas faktinis teiginys iš pasaulinės ataskaitos, todėl pažeidimas nedidelis, tačiau tikėtina, kad perimta antrinio šaltinio formuluotė. Platesnio šio šaltinio naudojimo nerasta.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "902fc7c98aceac4d": {
+   "pairs": [
+    {
+     "id": 813,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Sakinys beveik sutampa su šaltinio fraze, tačiau disertacijoje nurodyti Kiuru ir kt. (2010) – tikėtina, kad tai ir yra šis šaltinis; kabučių nėra, bet autoriai įvardyti."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Rastas vienintelis trumpas sutapimas (psl. 63): disertacijos sakinys su nedideliais pakeitimais atkartoja šaltinio teiginį apie bendraamžių grupių panašumą. Disertacijoje nurodyti Kiuru ir kt. (2010), o šaltinis – 2010 m. publikacija – greičiausiai ir yra šis straipsnis (Journal of Adolescence, ScienceDirect), todėl nuoroda iš esmės tinkama, nors formuluotė labai artima originalui ir pateikta be kabučių. Reikšmingo plagiato nėra, nes sutapimas sudaro tik 0,05 % teksto. Pasitikėjimas sumažintas, nes šaltinio autoriai nenustatyti.",
+   "llm": true
+  },
+  "41180b436f44f836": {
+   "pairs": [
+    {
+     "id": 1220,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos sakinys – apie pasiūlyto modelio ryšį su TPB; šaltinio sakinys – apie TPB prognozinę galią alkoholio vartojimo atveju. Bendras tik terminas, turinys skiriasi (psl. 92)."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "TPB komponentų (nuostatų, subjektyvių normų, suvokiamos elgesio kontrolės) išvardijimas – standartinė teorijos formuluotė; šaltinio sakinyje pateikiami rezultatai, o ne apibrėžimas (psl. 114)."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Šaltinis (Conner ir kt., 1999) yra disertacijos literatūros sąraše, o tekste minimi Conner ir Close. Abu rasti sutapimai trumpi (25 žodžiai, apie 0,06 % teksto) ir susiję su standartine planuoto elgesio teorijos (TPB) terminija. Pirmasis sutapimas atsitiktinis, antrasis – bendrinis teorijos komponentų išvardijimas. Nenustatyta, kad būtų perimtas šaltinio tekstas, jo struktūra ar argumentų seka. Vertinimas remiasi tik šaltinio santrauka, todėl pasitikėjimas šiek tiek sumažintas.",
+   "usage_types": [],
+   "llm": true
+  },
+  "e0cf706e571dacf1": {
+   "pairs": [
+    {
+     "id": 1250,
+     "label": "klaidingas_sutapimas",
+     "note": "Disertacijos hipotezę (psl. 95) su šaltiniu sieja tik terminas „susceptibility to interpersonal influence“; šaltinio sakinys skiriasi, perimto teksto nėra."
+    },
+    {
+     "id": 1375,
+     "label": "bendrine_fraze",
+     "note": "Trumpas standartinės skalės (susceptibility to interpersonal influence) teiginio fragmentas (psl. 105); tai klausimyno teiginys, o ne autorinis tekstas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutapimai minimalūs: 2 sakiniai (24 žodžiai). Pirmajame (psl. 95) sutampa tik bendras terminas hipotezės formuluotėje, o šaltinio sakinys skiriasi. Antrasis (psl. 105) – standartinės jautrumo tarpasmeninei įtakai skalės teiginio dalis, kurią naudoja daugelis tyrėjų. Šaltinio data nežinoma, tačiau sutapimų nepakanka plagiato išvadai. Šaltinis nelaikytinas reikšmingu teksto šaltiniu.",
+   "usage_types": [],
+   "llm": true
+  },
+  "2cc8b65ce18dd2c5": {
+   "pairs": [
+    {
+     "id": 593,
+     "label": "bendrine_fraze",
+     "note": "Sutampa tik bendra frazė apie planuoto elgesio teoriją; turinys skiriasi (disertacijoje – prototipai ir patirtis, šaltinyje – susijusios teorijos). Sutapimas atsitiktinis ir nereikšmingas."
+    },
+    {
+     "id": 1474,
+     "label": "bendrine_fraze",
+     "note": "Standartinis TPB komponentų (nuostatų, subjektyvių normų, suvokiamos elgesio kontrolės) išvardijimas; tai trumpas, įprastas teorijos aprašymas. Be to, šaltinis vėlesnis už disertaciją."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Šaltinis (2021 m. tinklalapis apie planuoto elgesio teoriją) yra vėlesnis už 2015 m. disertaciją, todėl negali būti jos šaltinis. Rasti tik du trumpi sutapimai (psl. 50 ir 114), susiję su standartiniu TPB komponentų išvardijimu ir bendra teorijos apibūdinimo fraze. Ilgiausia ištisinė sutampanti atkarpa tėra 14 žodžių, o bendras sutapimas sudaro apie 0,05 % teksto. Plagiato požymių nėra.",
+   "usage_types": [],
+   "llm": true
+  },
+  "45be0b766000a83b": {
+   "pairs": [
+    {
+     "id": 681,
+     "label": "tinkamas_citavimas",
+     "note": "Pažodinė citata kabutėse su nuoroda į Room (1993, psl. 4); šaltinis nurodytas ir cituojamas tinkamai."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.8,
+   "summary": "Rastas vienintelis sutapimas (psl. 56): disertacijos autorius kabutėse pažodžiui pateikia Room teksto frazę ir nurodo autorių bei metus (Room 1993, psl. 4). Tai tinkamas citavimas. Kitų sutapimų nėra, todėl plagiato požymių šiame šaltinyje nematyti. Nežinoma tik tai, ar Room (1993) yra literatūros sąraše, tačiau nuoroda tekste aiški.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "73d6086db6549ac8": {
+   "pairs": [
+    {
+     "id": 142,
+     "label": "atvirkstinis",
+     "note": "Sutampa literatūros sąrašo įrašo fragmentas (straipsnio pavadinimas). Šaltinis vėlesnis (2016) ir yra paties disertacijos autoriaus darbas; tai bibliografinė nuoroda, o ne plagiatas."
+    },
+    {
+     "id": 147,
+     "label": "atvirkstinis",
+     "note": "Tai to paties straipsnio pavadinimo dalis literatūros sąraše. Šaltinis vėlesnis ir parašytas paties autoriaus; sutampa tik pavadinimas, o ne tekstas."
+    }
+   ],
+   "verdict": "autoriaus_darbas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik straipsnio pavadinimo fragmentai, esantys disertacijos literatūros sąraše (psl. 20), t. y. bibliografinis įrašas. Šaltinis paskelbtas 2016 m., po disertacijos, o jo autorius Sinkevičius yra pats disertacijos autorius. Plagiato požymių nėra, disertacijos tekstas iš šio šaltinio neperimtas.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "9b27bbf73b16680a": {
+   "pairs": [
+    {
+     "id": 150,
+     "label": "bendrine_fraze",
+     "note": "Konferencijos pavadinimas autoriaus publikacijų ir pranešimų sąraše (psl. 20); tai bibliografinė informacija, o ne perimtas tekstas. Šaltinis vėlesnis."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Vienintelis sutapimas (psl. 20) – tarptautinės konferencijos pavadinimas, pateiktas disertacijos autoriaus pranešimų sąraše. Tai faktinė bibliografinė informacija, o ne iš šaltinio perimtas tekstas. Be to, LSU tinklalapis paskelbtas vėliau (2018 m.) nei disertacija (2015 m.), todėl jis negalėjo būti naudojamas kaip šaltinis. Plagiato požymių nenustatyta.",
+   "llm": true
+  },
+  "cf09ccc8427f70d8": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Tai standartinis CAGE klausimyno punktas, plačiai naudojamas daugelyje šaltinių. Sutampa tik trumpa, įprasta klausimo formuluotė, todėl tai nėra pakankamas įrodymas, kad perimtas būtent šio šaltinio tekstas (psl. 122)."
+    },
+    {
+     "id": 1538,
+     "label": "bendrine_fraze",
+     "note": "Tai standartinis CAGE klausimyno punktas apie kaltės jausmą. Formuluotė įprasta, o sutampa tik trumpa frazė, todėl tai nėra reikšmingas plagiatas (psl. 122)."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik du disertacijos sakiniai (psl. 122), ir abu yra standartinio CAGE klausimyno punktai. Tokie klausimai plačiai skelbiami įvairiuose šaltiniuose, o disertacijos formuluotės šiek tiek skiriasi nuo šaltinio. Šaltinio data nežinoma, o tekstas nėra išskirtinis. Reikšmingo teksto perėmimo iš šio šaltinio nenustatyta. Vis dėlto reikėtų patikrinti, ar disertacijoje yra nuoroda į pirminį CAGE klausimyno autorių.",
+   "usage_types": [],
+   "llm": true
+  },
+  "35f2683629ffe11e": {
+   "pairs": [
+    {
+     "id": 1639,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2021) vėlesnis už disertaciją (2015). Sutampa tik trumpa standartinė frazė apie chi kvadrato testo jautrumą imties dydžiui – tai bendrai žinoma statistikos informacija."
+    },
+    {
+     "id": 1641,
+     "label": "atvirkstinis",
+     "note": "Šaltinis vėlesnis; sutapimas tik dalinis – laisvės laipsnių sąvoka yra standartinis statistikos terminas, o tekstai skirtingi."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2021 m., t. y. vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltinis. Sutampa tik du trumpi fragmentai (psl. 149) apie chi kvadrato testo jautrumą imties dydžiui ir laisvės laipsnius. Tai standartinė statistikos terminija, o formuluotės iš esmės skiriasi. Plagiato požymių nematyti.",
+   "usage_types": [],
+   "llm": true
+  },
+  "07d06ada3a073a90": {
+   "pairs": [
+    {
+     "id": 1428,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Sakinys beveik sutampa su šaltinio santrauka, tačiau nurodyti autoriai ir metai (Benda, Pope, Kelleher 2006); tai pirminio šaltinio referavimas su nuoroda."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Vienas sakinys (psl. 110) beveik sutampa su šaltinio santraukos teiginiu – pakeistas tik terminas „religiousness“ į „religiosity“. Disertacijoje aiškiai nurodyti šaltinio autoriai ir metai, todėl tai laikytina tinkamu referavimu su nuoroda, nors formuluotė labai artima originalui. Literatūros sąraše šio darbo pavadinimo nerasta, tačiau autorių pavardės ten yra, todėl tikėtina, kad šaltinis nurodytas kitaip suformuluotu pavadinimu. Vertinta tik pagal santrauką, todėl vertinimo patikimumas vidutinis; plagiato požymių nėra.",
+   "usage_types": [
+    "kopijavimas su nedideliais pakeitimais"
+   ],
+   "llm": true
+  },
+  "0df83b8069502bee": {
+   "pairs": [
+    {
+     "id": 1374,
+     "label": "bendrine_fraze",
+     "note": "Standartinis klausimyno (tarpasmeninės įtakos jautrumo skalės, angl. susceptibility to interpersonal influence) teiginys; ištrauka trumpa ir nėra autorinis tekstas."
+    },
+    {
+     "id": 1375,
+     "label": "bendrine_fraze",
+     "note": "Standartinis skalės teiginys iš klausimyno; sutapimas trumpas ir yra matavimo instrumento dalis."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutampa tik du trumpi sakinių fragmentai (16 žodžių, psl. 104–105), kurie yra standartinės tarpasmeninės įtakos jautrumo skalės klausimyno teiginiai. Tai matavimo instrumento elementai, o ne autorinis tekstas. Šaltinio data nežinoma, be to, jis tik pateikia plačiai paplitusią skalę. Reikšmingo plagiato požymių nėra.",
+   "llm": true
+  },
+  "36409c1a7bbeec36": {
+   "pairs": [
+    {
+     "id": 1583,
+     "label": "bendrine_fraze",
+     "note": "Trumpa standartinė frazė „results are consistent with“; likusi šaltinio sakinio dalis nepanaudota."
+    },
+    {
+     "id": 1590,
+     "label": "bendrine_fraze",
+     "note": "Tas pats trumpas bendrinis sakinys kaip ir ankstesnėje poroje; reikšmingo perėmimo nėra."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.93,
+   "summary": "Sutapimai apima tik du trumpus bendrinius sakinius (apie 16 žodžių, ilgiausia atkarpa – 8 žodžiai) disertacijos psl. 133–134. Tai įprasta statistinių rezultatų aprašymo frazė („rezultatai atitinka...“). Šaltinio turinys, argumentai ar struktūra neperimti. Šaltinis yra literatūros sąraše, plagiato požymių nematyti.",
+   "usage_types": [],
+   "llm": true
+  },
+  "85636ba5805a7e7e": {
+   "pairs": [
+    {
+     "id": 1411,
+     "label": "tinkamas_citavimas",
+     "note": "Citata pateikta kabutėse, prieš ją nurodyta „According to Statistics Lithuania“ ir pateikta 2 išnaša – tai oficiali statistika. Sutampa vienas sakinys (psl. 109); šaltinis tik perteikia tuos pačius surašymo duomenis."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.75,
+   "summary": "Sutapimas apima vieną 18 žodžių sakinį apie gyventojų religinę priklausomybę (psl. 109). Tai Lietuvos statistikos departamento surašymo duomenys, kurie disertacijoje pateikti kabutėse, nurodant „Statistics Lithuania“ ir išnašą. „Baltic Times“ straipsnis greičiausiai tik perteikia šiuos duomenis, todėl reikšmingo plagiato nėra. Galimas nedidelis priekaištas: neaišku, ar autorius tiesiogiai naudojo oficialų šaltinį, ar žiniasklaidos pranešimą. Sutapimas vienkartinis ir nereikšmingas.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "740b5bef6a0adb15": {
+   "pairs": [
+    {
+     "id": 1446,
+     "label": "perfrazuota_su_nuoroda",
+     "note": "Sakinys perfrazuotas su nedideliais pakeitimais, aiškiai nurodyti Bucholz ir Robins (1989); šaltinis yra literatūros sąraše. Tai tik vienas trumpas sakinys, todėl nuorodos pakanka."
+    }
+   ],
+   "verdict": "naudotas_su_nuorodomis",
+   "confidence": 0.6,
+   "summary": "Vienintelis sutapimas (psl. 112) – vienas sakinys apie tai, kad alkoholio reklama nukreipta į vyrus. Disertacijoje aiškiai nurodyti Bucholz ir Robins (1989), šaltinis yra literatūros sąraše. Sakinio formuluotė artima, tačiau tai trumpas perfrazuotas teiginys su nuoroda; plagiato požymių nėra. Vertinimas remiasi tik santrauka ir fragmentais, todėl jo patikimumas vidutinis.",
+   "usage_types": [
+    "perfrazavimas"
+   ],
+   "llm": true
+  },
+  "fe4277b7dd05d200": {
+   "pairs": [
+    {
+     "id": 1374,
+     "label": "bendrine_fraze",
+     "note": "Standartinio klausimyno (informacinės įtakos skalės) teiginys; disertacijoje tai skalės punktas, o ne autorinis tekstas. Sutapimas trumpas, atkarpa fragmentiška."
+    },
+    {
+     "id": 1375,
+     "label": "bendrine_fraze",
+     "note": "Normatyvinės įtakos skalės klausimyno teiginys; tai standartinis instrumento elementas, o ne perimta šaltinio argumentacija."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa tik du trumpi sakiniai (apie 16 žodžių, 0,04 % teksto) disertacijos psl. 104–105. Jie yra standartinės vartotojų tarpasmeninės įtakos skalės (informacinės ir normatyvinės įtakos) klausimyno teiginiai. Šaltinis juos pateikia kaip pavyzdžius, o disertacijoje tai tėra to paties instrumento elementai. Struktūros ar argumentų perėmimo nematyti. Esminio plagiato nėra, nors nuoroda į skalės originalo autorius turėtų būti pateikta kitoje vietoje.",
+   "usage_types": [],
+   "llm": true
+  },
+  "3e7a2a718158a58c": {
+   "pairs": [
+    {
+     "id": 482,
+     "label": "bendrine_fraze",
+     "note": "Trumpa dažna formuluotė „what sets this theory apart from others is its focus on…“; turinys skirtingas (disertacijoje – deviantinis elgesys, šaltinyje – vadovavimo kintamieji), temos nesusijusios."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.9,
+   "summary": "Vienintelis sutapimas (psl. 42) yra trumpa, įprasta kelių žodžių pereinamoji formuluotė apie tai, kuo teorija skiriasi nuo kitų. Šaltinis yra tinklalapis apie vadovavimą (Leadership Grid), o disertacijos fragmentas – apie diferencinės asociacijos teoriją ir deviantinį elgesį. Turinio, argumentų ar struktūros perėmimo nėra. Šaltinio data nepatikima, tačiau vertinimui tai įtakos neturi. Plagiato šio šaltinio atžvilgiu nenustatyta.",
+   "usage_types": [],
+   "llm": true
+  },
+  "3fce3fc1275f21a8": {
+   "pairs": [
+    {
+     "id": 555,
+     "label": "atvirkstinis",
+     "note": "Šaltinis paskelbtas 2024 m., vėliau už disertaciją (2015); sutapimas trumpas, bendrinis ir nesuteikia pagrindo įtarti plagiato."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.95,
+   "summary": "Šaltinis paskelbtas 2024 m., t. y. gerokai vėliau nei disertacija (2015 m.), todėl negalėjo būti jos plagiato šaltiniu. Vienintelis sutapimas (psl. 47) – trumpa bendrinė frazė apie asmeninių ir išorinių veiksnių sąveiką, be pažodinio sutapimo ir be turinio perėmimo požymių. Vertinant disertacijos originalumą, šis šaltinis nereikšmingas.",
+   "usage_types": [],
+   "llm": true
+  },
+  "5dc580ffe6354a4e": {
+   "pairs": [
+    {
+     "id": 644,
+     "label": "atvirkstinis",
+     "note": "Šaltinis (2019) vėlesnis už disertaciją (2015); sutampa tik trumpa bendrinė frazė apie pastangas mažinti žalingą alkoholio vartojimą."
+    }
+   ],
+   "verdict": "velesnis_saltinis",
+   "confidence": 0.9,
+   "summary": "Šaltinis paskelbtas 2019 m., t. y. vėliau nei disertacija (2015 m.), todėl negali būti jos plagiato šaltiniu. Sutampa vienas trumpas sakinys (psl. 54), kurio dalis yra bendrinė frazė apie pastangas mažinti žalingą alkoholio vartojimą. Esminio teksto perėmimo nėra.",
+   "llm": true
+  },
+  "f8f96af6d4173d3c": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (1 klausimas); disertacijoje aprašomi keturi CAGE veiksniai, tad tai nėra savarankiškas teksto perėmimas."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Sutapo vienas 12 žodžių sakinys (psl. 122) – pirmasis standartinio CAGE klausimyno klausimas. Tai standartizuota, plačiai naudojama instrumento formuluotė, o ne autorinis tekstas. Šaltinis yra tik klausimyno forma, todėl tekstinio plagiato įrodymų nėra. Vertinimas pagrįstas paieškos fragmentu, tačiau sutapimas aiškiai yra bendrinio pobūdžio.",
+   "usage_types": [
+    "citavimas"
+   ],
+   "llm": true
+  },
+  "c9696183d185d70e": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Pirmasis standartinio CAGE klausimyno klausimas (psl. 122); tai įprastas instrumento teiginys, o ne autoriaus tekstas. Sutampa tik vienas sakinys."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.85,
+   "summary": "Sutampa vienintelis sakinys – pirmasis standartinio CAGE klausimyno klausimas, pateiktas disertacijos psl. 122 kaip keturių veiksnių sąrašo dalis. Tai plačiai žinomas patikros instrumentas, o jo klausimų formuluotė yra standartizuota. Platesnio teksto, argumentų ar struktūros perėmimo iš šio šaltinio nėra. Plagiato požymių nenustatyta, nors instrumentą derėtų cituoti nurodant pirminį šaltinį (Ewing, 1984). Vertinimas atsargus, nes turima tik šaltinio santrauka.",
+   "usage_types": [],
+   "llm": true
+  },
+  "00c20dc52b45e268": {
+   "pairs": [
+    {
+     "id": 1536,
+     "label": "bendrine_fraze",
+     "note": "Standartinis CAGE klausimyno teiginys (Cut down), plačiai paplitęs instrumentas; sutapimas vienas ir trumpas, plagiato iš šio šaltinio nerodo."
+    }
+   ],
+   "verdict": "nereiksmingas",
+   "confidence": 0.8,
+   "summary": "Vienintelis sutapimas (psl. 122) yra pirmasis standartinio CAGE klausimyno teiginys apie gėrimo mažinimą. Tai visuotinai naudojamas instrumentas, o ne šaltinio autorinis tekstas. Sutampa vienas 12 žodžių sakinys (apie 0,03 % disertacijos), todėl šaltinio panaudojimo įrodymų nėra. Vertinimas remiasi tik paieškos fragmentu, o šaltinio data nežinoma.",
+   "usage_types": [],
+   "llm": true
+  }
+ },
+ "stats": {
+  "total_words": 43730,
+  "sentences": 1907,
+  "matched_sentences": 177,
+  "matched_words": 3875,
+  "matched_pct": 8.86,
+  "relevant_sources": 110,
+  "sentence_labels": {
+   "91": "pazodinis_be_nuorodos",
+   "573": "perfrazuota_be_nuorodos",
+   "576": "bendrine_fraze",
+   "1098": "perfrazuota_be_nuorodos",
+   "1220": "atvirkstinis",
+   "1263": "bendrine_fraze",
+   "1283": "pazodinis_su_nuoroda_be_kabuciu",
+   "1284": "pazodinis_be_nuorodos",
+   "1285": "pazodinis_be_nuorodos",
+   "1286": "pazodinis_be_nuorodos",
+   "1287": "pazodinis_be_nuorodos",
+   "1288": "pazodinis_be_nuorodos",
+   "1289": "pazodinis_be_nuorodos",
+   "1290": "pazodinis_be_nuorodos",
+   "1291": "perfrazuota_be_nuorodos",
+   "1293": "pazodinis_su_nuoroda_be_kabuciu",
+   "1294": "pazodinis_be_nuorodos",
+   "1319": "bendrine_fraze",
+   "1323": "perfrazuota_su_nuoroda",
+   "1342": "bendrine_fraze",
+   "1344": "pazodinis_be_nuorodos",
+   "1345": "pazodinis_be_nuorodos",
+   "1346": "pazodinis_be_nuorodos",
+   "1347": "pazodinis_be_nuorodos",
+   "1348": "pazodinis_be_nuorodos",
+   "1349": "pazodinis_be_nuorodos",
+   "1474": "perfrazuota_be_nuorodos",
+   "1476": "tinkamas_citavimas",
+   "1292": "pazodinis_be_nuorodos",
+   "6": "perfrazuota_su_nuoroda",
+   "83": "pazodinis_be_nuorodos",
+   "84": "pazodinis_su_nuoroda_be_kabuciu",
+   "85": "pazodinis_be_nuorodos",
+   "132": "perfrazuota_be_nuorodos",
+   "133": "pazodinis_su_nuoroda_be_kabuciu",
+   "134": "pazodinis_be_nuorodos",
+   "135": "pazodinis_be_nuorodos",
+   "269": "pazodinis_be_nuorodos",
+   "566": "pazodinis_be_nuorodos",
+   "567": "pazodinis_su_nuoroda_be_kabuciu",
+   "568": "pazodinis_be_nuorodos",
+   "574": "perfrazuota_su_nuoroda",
+   "583": "klaidingas_sutapimas",
+   "593": "atvirkstinis",
+   "1276": "tinkamas_citavimas",
+   "1295": "tinkamas_citavimas",
+   "1308": "perfrazuota_be_nuorodos",
+   "1469": "perfrazuota_be_nuorodos",
+   "1475": "perfrazuota_be_nuorodos",
+   "1477": "klaidingas_sutapimas",
+   "828": "pazodinis_be_nuorodos",
+   "829": "pazodinis_be_nuorodos",
+   "830": "pazodinis_be_nuorodos",
+   "831": "pazodinis_be_nuorodos",
+   "832": "pazodinis_be_nuorodos",
+   "833": "pazodinis_be_nuorodos",
+   "834": "pazodinis_be_nuorodos",
+   "835": "perfrazuota_be_nuorodos",
+   "1239": "perfrazuota_be_nuorodos",
+   "1445": "pazodinis_be_nuorodos",
+   "1455": "pazodinis_be_nuorodos",
+   "270": "pazodinis_be_nuorodos",
+   "271": "pazodinis_be_nuorodos",
+   "272": "pazodinis_be_nuorodos",
+   "1306": "perfrazuota_be_nuorodos",
+   "1337": "bendrine_fraze",
+   "57": "pazodinis_be_nuorodos",
+   "58": "pazodinis_be_nuorodos",
+   "59": "pazodinis_be_nuorodos",
+   "61": "pazodinis_be_nuorodos",
+   "62": "pazodinis_be_nuorodos",
+   "63": "klaidingas_sutapimas",
+   "64": "atvirkstinis",
+   "644": "atvirkstinis",
+   "1060": "pazodinis_be_nuorodos",
+   "1061": "pazodinis_be_nuorodos",
+   "1063": "atvirkstinis",
+   "93": "perfrazuota_su_nuoroda",
+   "572": "bendrine_fraze",
+   "1386": "klaidingas_sutapimas",
+   "1876": "klaidingas_sutapimas",
+   "1454": "pazodinis_be_nuorodos",
+   "54": "pazodinis_be_nuorodos",
+   "56": "pazodinis_su_nuoroda_be_kabuciu",
+   "112": "klaidingas_sutapimas",
+   "590": "pazodinis_be_nuorodos",
+   "591": "pazodinis_be_nuorodos",
+   "882": "bendrine_fraze",
+   "1550": "klaidingas_sutapimas",
+   "1038": "atvirkstinis",
+   "1133": "atvirkstinis",
+   "1796": "atvirkstinis",
+   "1831": "atvirkstinis",
+   "1837": "atvirkstinis",
+   "730": "klaidingas_sutapimas",
+   "853": "perfrazuota_be_nuorodos",
+   "1009": "klaidingas_sutapimas",
+   "1026": "klaidingas_sutapimas",
+   "1090": "perfrazuota_be_nuorodos",
+   "1415": "klaidingas_sutapimas",
+   "609": "perfrazuota_be_nuorodos",
+   "610": "pazodinis_be_nuorodos",
+   "611": "perfrazuota_be_nuorodos",
+   "612": "pazodinis_be_nuorodos",
+   "613": "pazodinis_be_nuorodos",
+   "614": "pazodinis_be_nuorodos",
+   "628": "perfrazuota_be_nuorodos",
+   "28": "autoriaus_darbas",
+   "29": "autoriaus_darbas",
+   "31": "autoriaus_darbas",
+   "53": "autoriaus_darbas",
+   "142": "autoriaus_darbas",
+   "147": "autoriaus_darbas",
+   "592": "perfrazuota_su_nuoroda",
+   "258": "perfrazuota_be_nuorodos",
+   "1326": "perfrazuota_be_nuorodos",
+   "5": "tinkamas_citavimas",
+   "1408": "tinkamas_citavimas",
+   "3": "perfrazuota_be_nuorodos",
+   "183": "tinkamas_citavimas",
+   "1173": "klaidingas_sutapimas",
+   "41": "klaidingas_sutapimas",
+   "289": "klaidingas_sutapimas",
+   "1122": "pazodinis_be_nuorodos",
+   "176": "atvirkstinis",
+   "1084": "atvirkstinis",
+   "1096": "atvirkstinis",
+   "1250": "klaidingas_sutapimas",
+   "1256": "bendrine_fraze",
+   "1374": "bendrine_fraze",
+   "1375": "bendrine_fraze",
+   "1458": "klaidingas_sutapimas",
+   "1601": "bendrine_fraze",
+   "1779": "klaidingas_sutapimas",
+   "1104": "bendrine_fraze",
+   "1": "pazodinis_su_nuoroda_be_kabuciu",
+   "180": "tinkamas_citavimas",
+   "1265": "atvirkstinis",
+   "1266": "atvirkstinis",
+   "1623": "bendrine_fraze",
+   "1536": "atvirkstinis",
+   "1537": "atvirkstinis",
+   "1538": "atvirkstinis",
+   "1539": "atvirkstinis",
+   "813": "perfrazuota_be_nuorodos",
+   "814": "pazodinis_be_nuorodos",
+   "1583": "bendrine_fraze",
+   "1590": "bendrine_fraze",
+   "1489": "klaidingas_sutapimas",
+   "1576": "klaidingas_sutapimas",
+   "1598": "bendrine_fraze",
+   "1614": "bendrine_fraze",
+   "36": "pazodinis_be_nuorodos",
+   "284": "pazodinis_be_nuorodos",
+   "1473": "atvirkstinis",
+   "596": "perfrazuota_be_nuorodos",
+   "819": "pazodinis_be_nuorodos",
+   "821": "klaidingas_sutapimas",
+   "327": "perfrazuota_be_nuorodos",
+   "329": "perfrazuota_su_nuoroda",
+   "624": "atvirkstinis",
+   "1530": "bendrine_fraze",
+   "0": "atvirkstinis",
+   "1066": "bendrine_fraze",
+   "1437": "klaidingas_sutapimas",
+   "149": "klaidingas_sutapimas",
+   "193": "bendrine_fraze",
+   "1685": "perfrazuota_su_nuoroda",
+   "681": "tinkamas_citavimas",
+   "1639": "atvirkstinis",
+   "1641": "atvirkstinis",
+   "150": "bendrine_fraze",
+   "1428": "perfrazuota_su_nuoroda",
+   "1411": "tinkamas_citavimas",
+   "1446": "perfrazuota_su_nuoroda",
+   "482": "bendrine_fraze",
+   "555": "atvirkstinis"
+  },
+  "sentence_source": {
+   "91": "1a60755ceeb76055",
+   "573": "1a60755ceeb76055",
+   "576": "1a60755ceeb76055",
+   "1098": "1a60755ceeb76055",
+   "1220": "f41c8ff4b356d0ec",
+   "1263": "1a60755ceeb76055",
+   "1283": "1a60755ceeb76055",
+   "1284": "1a60755ceeb76055",
+   "1285": "1a60755ceeb76055",
+   "1286": "1a60755ceeb76055",
+   "1287": "1a60755ceeb76055",
+   "1288": "1a60755ceeb76055",
+   "1289": "1a60755ceeb76055",
+   "1290": "1a60755ceeb76055",
+   "1291": "1a60755ceeb76055",
+   "1293": "1a60755ceeb76055",
+   "1294": "1a60755ceeb76055",
+   "1319": "1a60755ceeb76055",
+   "1323": "1a60755ceeb76055",
+   "1342": "1a60755ceeb76055",
+   "1344": "1a60755ceeb76055",
+   "1345": "1a60755ceeb76055",
+   "1346": "1a60755ceeb76055",
+   "1347": "1a60755ceeb76055",
+   "1348": "1a60755ceeb76055",
+   "1349": "1a60755ceeb76055",
+   "1474": "1a60755ceeb76055",
+   "1476": "1a60755ceeb76055",
+   "1292": "1a60755ceeb76055",
+   "6": "35e11d9e4ee968fa",
+   "83": "35e11d9e4ee968fa",
+   "84": "35e11d9e4ee968fa",
+   "85": "35e11d9e4ee968fa",
+   "132": "35e11d9e4ee968fa",
+   "133": "35e11d9e4ee968fa",
+   "134": "35e11d9e4ee968fa",
+   "135": "290418dabace52f6",
+   "269": "1fd1e46e372904c8",
+   "566": "35e11d9e4ee968fa",
+   "567": "35e11d9e4ee968fa",
+   "568": "35e11d9e4ee968fa",
+   "574": "35e11d9e4ee968fa",
+   "583": "35e11d9e4ee968fa",
+   "593": "65b38d64901b1875",
+   "1276": "35e11d9e4ee968fa",
+   "1295": "35e11d9e4ee968fa",
+   "1308": "35e11d9e4ee968fa",
+   "1469": "35e11d9e4ee968fa",
+   "1475": "290418dabace52f6",
+   "1477": "35e11d9e4ee968fa",
+   "828": "c387ff6809e64da7",
+   "829": "c387ff6809e64da7",
+   "830": "c387ff6809e64da7",
+   "831": "c387ff6809e64da7",
+   "832": "c387ff6809e64da7",
+   "833": "c387ff6809e64da7",
+   "834": "c387ff6809e64da7",
+   "835": "c387ff6809e64da7",
+   "1239": "c387ff6809e64da7",
+   "1445": "4c6333dadd0149d8",
+   "1455": "4c6333dadd0149d8",
+   "270": "1fd1e46e372904c8",
+   "271": "1fd1e46e372904c8",
+   "272": "1fd1e46e372904c8",
+   "1306": "1fd1e46e372904c8",
+   "1337": "1fd1e46e372904c8",
+   "57": "b5510ec63947c5e7",
+   "58": "b5510ec63947c5e7",
+   "59": "b5510ec63947c5e7",
+   "61": "b5510ec63947c5e7",
+   "62": "b5510ec63947c5e7",
+   "63": "b5510ec63947c5e7",
+   "64": "cdf82858b2e96e9d",
+   "644": "5dc580ffe6354a4e",
+   "1060": "b5510ec63947c5e7",
+   "1061": "b5510ec63947c5e7",
+   "1063": "cdf82858b2e96e9d",
+   "93": "c031c79621257c84",
+   "572": "c031c79621257c84",
+   "1386": "c031c79621257c84",
+   "1876": "c031c79621257c84",
+   "1454": "4c6333dadd0149d8",
+   "54": "56a489f72181877a",
+   "56": "ce4691590ae30ebe",
+   "112": "df423cca454e945e",
+   "590": "56a489f72181877a",
+   "591": "df423cca454e945e",
+   "882": "df423cca454e945e",
+   "1550": "df423cca454e945e",
+   "1038": "5b8030aa4f5c610b",
+   "1133": "5b8030aa4f5c610b",
+   "1796": "5b8030aa4f5c610b",
+   "1831": "5b8030aa4f5c610b",
+   "1837": "5b8030aa4f5c610b",
+   "730": "b18fa14d844f7a53",
+   "853": "b18fa14d844f7a53",
+   "1009": "b18fa14d844f7a53",
+   "1026": "b18fa14d844f7a53",
+   "1090": "b18fa14d844f7a53",
+   "1415": "b18fa14d844f7a53",
+   "609": "33a07c93f742ebf8",
+   "610": "33a07c93f742ebf8",
+   "611": "33a07c93f742ebf8",
+   "612": "33a07c93f742ebf8",
+   "613": "33a07c93f742ebf8",
+   "614": "33a07c93f742ebf8",
+   "628": "33a07c93f742ebf8",
+   "28": "211c18e36283c7d6",
+   "29": "211c18e36283c7d6",
+   "31": "211c18e36283c7d6",
+   "53": "211c18e36283c7d6",
+   "142": "211c18e36283c7d6",
+   "147": "211c18e36283c7d6",
+   "592": "56a489f72181877a",
+   "258": "2e932c18cb529d41",
+   "1326": "2e932c18cb529d41",
+   "5": "feb566028245f8a3",
+   "1408": "feb566028245f8a3",
+   "3": "c01a7cd4ca4af4f5",
+   "183": "c01a7cd4ca4af4f5",
+   "1173": "cbeea989d14a9b55",
+   "41": "b9e5c002af337063",
+   "289": "b9e5c002af337063",
+   "1122": "b9e5c002af337063",
+   "176": "cdf82858b2e96e9d",
+   "1084": "cdf82858b2e96e9d",
+   "1096": "41ffd2987095ac68",
+   "1250": "e1e910bb4f71e6ab",
+   "1256": "e1e910bb4f71e6ab",
+   "1374": "e1e910bb4f71e6ab",
+   "1375": "e1e910bb4f71e6ab",
+   "1458": "e1e910bb4f71e6ab",
+   "1601": "e1e910bb4f71e6ab",
+   "1779": "e1e910bb4f71e6ab",
+   "1104": "73c4a577b692264d",
+   "1": "f29817b06b92edb2",
+   "180": "f29817b06b92edb2",
+   "1265": "75017a262e32c0b8",
+   "1266": "75017a262e32c0b8",
+   "1623": "75017a262e32c0b8",
+   "1536": "859a4fdc4fb67ee9",
+   "1537": "859a4fdc4fb67ee9",
+   "1538": "859a4fdc4fb67ee9",
+   "1539": "859a4fdc4fb67ee9",
+   "813": "aef6cf97341d8b3d",
+   "814": "70a3202d63c01296",
+   "1583": "aef6cf97341d8b3d",
+   "1590": "aef6cf97341d8b3d",
+   "1489": "4a293f02b656b906",
+   "1576": "fef57ddabe4b24b8",
+   "1598": "fef57ddabe4b24b8",
+   "1614": "fef57ddabe4b24b8",
+   "36": "cc7bdc0f63d17257",
+   "284": "cc7bdc0f63d17257",
+   "1473": "1d9a0ffcbe85aa35",
+   "596": "affddfc005f908b2",
+   "819": "7a1d9a986d40b5c6",
+   "821": "7a1d9a986d40b5c6",
+   "327": "7606caa21c962736",
+   "329": "7606caa21c962736",
+   "624": "466f0ed7e4aefd21",
+   "1530": "466f0ed7e4aefd21",
+   "0": "7d5b04b5eb15471a",
+   "1066": "7d5b04b5eb15471a",
+   "1437": "531297d4881f1db6",
+   "149": "49ac01b29f83a8a0",
+   "193": "87f9fe4ffaa4bb19",
+   "1685": "ade54f874fd0d4eb",
+   "681": "45be0b766000a83b",
+   "1639": "35f2683629ffe11e",
+   "1641": "35f2683629ffe11e",
+   "150": "9b27bbf73b16680a",
+   "1428": "07d06ada3a073a90",
+   "1411": "85636ba5805a7e7e",
+   "1446": "740b5bef6a0adb15",
+   "482": "3e7a2a718158a58c",
+   "555": "3fce3fc1275f21a8"
+  },
+  "by_label": {
+   "pazodinis_be_nuorodos": {
+    "sentences": 55,
+    "words": 1349,
+    "pct": 3.08
+   },
+   "perfrazuota_be_nuorodos": {
+    "sentences": 22,
+    "words": 492,
+    "pct": 1.13
+   },
+   "bendrine_fraze": {
+    "sentences": 22,
+    "words": 318,
+    "pct": 0.73
+   },
+   "atvirkstinis": {
+    "sentences": 25,
+    "words": 449,
+    "pct": 1.03
+   },
+   "pazodinis_su_nuoroda_be_kabuciu": {
+    "sentences": 7,
+    "words": 180,
+    "pct": 0.41
+   },
+   "perfrazuota_su_nuoroda": {
+    "sentences": 9,
+    "words": 209,
+    "pct": 0.48
+   },
+   "tinkamas_citavimas": {
+    "sentences": 9,
+    "words": 332,
+    "pct": 0.76
+   },
+   "klaidingas_sutapimas": {
+    "sentences": 22,
+    "words": 387,
+    "pct": 0.88
+   },
+   "autoriaus_darbas": {
+    "sentences": 6,
+    "words": 159,
+    "pct": 0.36
+   }
+  },
+  "problem_words": 2021,
+  "problem_pct": 4.62,
+  "problem_pages": [
+   10,
+   13,
+   14,
+   16,
+   19,
+   28,
+   29,
+   33,
+   48,
+   50,
+   51,
+   52,
+   53,
+   63,
+   64,
+   65,
+   66,
+   81,
+   83,
+   86,
+   94,
+   97,
+   98,
+   99,
+   100,
+   103,
+   112,
+   113,
+   114
+  ],
+  "by_verdict": {
+   "naudotas_be_nuorodu": 7,
+   "naudotas_dalinai_be_nuorodu": 23,
+   "velesnis_saltinis": 15,
+   "nereiksmingas": 49,
+   "autoriaus_darbas": 2,
+   "naudotas_su_nuorodomis": 14
+  }
+ },
+ "final": {
+  "risk_level": "aukšta",
+  "headline": "Teorinėje disertacijos dalyje yra kelios ištisos pastraipos, beveik pažodžiui perimtos iš ankstesnių šaltinių be kabučių ir be nuorodų į juos (ypač psl. 14, 28, 52–53, 64–65, 81, 97–98 ir 103). Bendra probleminė apimtis nedidelė (apie 4,6 % teksto), tačiau perėmimai pasikartoja daugelyje šaltinių ir skyrių.",
+  "conclusion": "Patikrinus 1907 disertacijos sakinius (43 730 žodžių), probleminiu pažymėtas 2021 žodis (4,62 % teksto). Iš jų 3,08 % yra pažodinis arba beveik pažodinis tekstas be nuorodos į tikrąjį šaltinį, 1,13 % – artimas perfrazavimas be nuorodos, 0,41 % – pažodinis tekstas su nurodytu autoriumi, bet be kabučių. Bendras procentas nėra didelis. Rizika vis dėlto vertinama kaip aukšta dėl perėmimo pobūdžio: perkeliamos ištisos kelių sakinių pastraipos, dažnai iš šaltinių, kurių nėra literatūros sąraše. Perimtas tekstas pateikiamas kaip paties autoriaus parašytas. Kai kuriose vietose kartu perkeliamos ir šaltinio vidinės nuorodos į pirminius autorius, o pats antrinis šaltinis nenurodomas. Tie patys fragmentai kartojami keliuose skyriuose, šiek tiek pritaikius juos alkoholio temai (pvz., „smokers“ pakeista į „drinkers“, „UK“ – į „European Union“). Toks perėmimas rodo sistemingą rašymo praktiką, o ne pavienius neapsižiūrėjimus.\n\nĮrodyti (aiškūs) atvejai:\n1. Psl. 64–65: beveik visas NCI svetainės skyrius „The Construct of Social Influence“ (Wills, Ainette, Walker; 2008 m. archyvinė kopija). Tai apie 241 žodžio ištisinė atkarpa, perimta pažodžiui, be kabučių ir be nuorodos. Šaltinio literatūros sąraše nėra. Pritaikytos to paties teksto formuluotės kartojamos psl. 94, 112 ir 113.\n2. Psl. 97–98 ir 103: saviveiksmingumo skyrius sudėtas iš kelių šaltinių. Iš Schwarzer ir Luszczynska (2005; FU Berlin PDF) perimta apie 270 žodžių kartu su šaltinyje cituojamais Unger, Li, Aung ir kt. Iš tų pačių autorių NCI santraukos „Perceived Self-Efficacy“ (2008) – apie 160 žodžių. Iš Kelly, Zyzanski ir Alemagno (1991) – apie 160 žodžių. Iš Wikipedia straipsnio „Self-efficacy“ – keli sakiniai apie savireguliacinius įsitikinimus. Schwarzer ir Luszczynska vieną kartą paminėti, tačiau tolesni sakiniai pateikti be kabučių, o NCI tekstas, Kelly ir kt. bei Wikipedia visai nenurodyti.\n3. Psl. 28: kontrolės lokuso apibrėžimas. Keturi iš eilės einantys sakiniai perimti iš Luszczynska ir Schwarzer (2005, „hloc“) ir NCI teksto be nuorodos; šaltinio vidinės nuorodos (Rotter, Waller & Bates) praleistos.\n4. Psl. 14 ir pakartotinai psl. 81: keturios–penkios pastraipos iš tinklaraščio „Alcohol use around the globe: new data trends“ (epianalysis, 2012): epidemiologinių tyrimų kintamieji, bendro suvartojimo duomenys, Estijos ir Lietuvos rodiklių augimas 1997–2011 m. Perimta beveik pažodžiui, šaltinis nenurodytas, literatūros sąraše jo nėra.\n5. Psl. 52–53: apie 120 žodžių pastraipa iš „Drinking to belong“ (2010). Perkeltos ir šaltinio nuorodos (Breakwell ir kt., 2007; Coghill ir kt., 2009), o pats šaltinis nenurodytas.\n6. Psl. 16, 19, 48 (ir iš dalies psl. 114): Ajzen (2002) „Perceived Behavioral Control…“ sakinių blokas apie vidinius ir išorinius elgesio veiksnius. Jis kartojamas kelis kartus be kabučių, nuoroda pateikiama tik į Ajzen (1985) ir Weiner. Tame pačiame kontekste pasikartoja Ajzen (2006) apibrėžimo perfrazė, perimta per Aertsens ir kt. (2009).\n7. Psl. 14 ir 50: sakiniai iš van Lettow ir kt. (2014) bei Cooke ir kt. (2014) apie geriančiųjų prototipus perimti beveik pažodžiui be kabučių. Vietomis jie pateikti kaip paties autoriaus išvados („it was observed“), nors šaltiniai yra literatūros sąraše.\n8. Mažesni pavieniai atvejai: psl. 63 – Kiuru ir kt. (2010), du pažodiniai sakiniai, antrasis be nuorodos; psl. 63 – artima 2008 m. Jyväskylä apžvalgos perfrazė; psl. 64 – vienas pažodinis sakinys iš prancūzų studentų tyrimo (BMC Public Health, 2010), šaltinio literatūros sąraše nėra; psl. 13 ir 29 – Previte ir kt. (2014) santraukos sakinys be kabučių; psl. 33 – Dawson ir kt. (2005), artima perfrazė be kabučių.\n\nAbejotini atvejai (data nežinoma arba nepatikima, sutapimai trumpi, galimas bendras pirminis šaltinis): diva-portal.org darbas apie stresą ir TPB (psl. 16, 19, 48, 114); Psynso puslapis (psl. 97–98) – to paties bloko tekstas, kurį abu galėjo perimti iš bendro šaltinio; Lumen Learning vadovėlis (psl. 86); Utrechto magistro darbas (psl. 98); SuSanA ir Stanford tinklalapiai bei Bandura (1977) formuluotė (psl. 97); Emerald skyrius (psl. 98); Vargas (2012) (psl. 156); psl. 51 – French ir Cooke (2012) perfrazė; 2021 m. Springer straipsnio sakinys apie atsakomybės priskyrimą, kurio pirminis šaltinis nenustatytas. Formalūs trūkumai: glosarijuje (psl. 10) PSO „harmful use of alcohol“ ir Bandura apibrėžimai pateikti be kabučių; prie CAGE klausimyno (psl. 122) reikėtų patikrinti, ar nurodytas Ewing (1984).\n\nPažeidimais nelaikomi: religijos ir dvasingumo apibrėžimai (psl. 10, 108) – tinkama citata kabutėse su nuoroda į Fife et al.; Room (1993) citata (psl. 56); standartiniai CAGE ir tarpasmeninės įtakos skalių teiginiai; bendroji TPB terminija. Vėlesni šaltiniai (econstor 2016, 2018–2025 m. publikacijos, 2025 m. laisvadienis.lt straipsnis) negali būti plagiato šaltiniai. Laisvadienis.lt straipsnis tik nepriklausomai patvirtina psl. 64, 94, 112–113 perėmimą iš Wills ir kt. Psl. 12 ir 14 sutapimai su paties autoriaus straipsniu „Intention to Purchase Alcohol…“ laikytini savo teksto pakartojimu, o ne svetimo darbo plagijavimu. Straipsnio datos nesutampa (2016 m. ir 2008 m.), todėl neaišku, kuris tekstas ankstesnis.",
+  "key_findings": [
+   "Probleminis tekstas sudaro 2021 žodį (4,62 %): 3,08 % – pažodinis be nuorodos į šaltinį, 1,13 % – artimas perfrazavimas, 0,41 % – pažodinis su nurodytu autoriumi, bet be kabučių.",
+   "Psl. 64–65: apie 241 žodžio NCI „Social Influence“ (Wills, Ainette, Walker, 2008) skyrius perimtas pažodžiui be nuorodos; pritaikytos jo formuluotės kartojamos psl. 94, 112 ir 113.",
+   "Psl. 97–98 ir 103: saviveiksmingumo skyrius sudėtas iš pažodžiui perimtų Schwarzer ir Luszczynska (2005), NCI santraukos (2008), Kelly ir kt. (1991) bei Wikipedia fragmentų, be kabučių ir be nuorodų į tikruosius šaltinius.",
+   "Psl. 28: kontrolės lokuso apibrėžimas – keturi iš eilės einantys sakiniai iš Luszczynska ir Schwarzer (2005) bei NCI teksto be nuorodos.",
+   "Psl. 14 ir 81: kelios pastraipos iš 2012 m. tinklaraščio „epianalysis“ apie alkoholio vartojimo tendencijas (įskaitant Lietuvos ir Estijos duomenis) perimtos be nuorodos; šaltinio literatūros sąraše nėra.",
+   "Psl. 52–53: apie 120 žodžių pastraipa iš „Drinking to belong“ (2010) perimta kartu su joje cituojamais pirminiais autoriais; tai antrinio šaltinio nuslėpimas.",
+   "Psl. 16, 19, 48 ir 114: pasikartojantis Ajzen (2002) sakinių blokas be kabučių, nuoroda pateikta tik į Ajzen (1985); papildomai – Ajzen (2006) perfrazė, perimta per Aertsens ir kt. (2009).",
+   "Psl. 14, 50, 63, 13, 29 ir 33: pažodiniai ar labai artimi sakiniai iš literatūros sąraše esančių darbų (van Lettow ir kt., Cooke ir kt., Kiuru ir kt., Previte ir kt., Dawson ir kt.) pateikti be kabučių, vietomis – kaip paties autoriaus išvados.",
+   "Tinkamai cituota: religijos ir dvasingumo apibrėžimai (psl. 10, 108), Room (1993) (psl. 56); standartiniai klausimynų (CAGE, psl. 122) ir skalių teiginiai pažeidimu nelaikomi.",
+   "Vėlesni šaltiniai (2016–2025 m.) ir paties autoriaus straipsnis (psl. 12, 14) plagiato šaltiniais nelaikomi."
+  ],
+  "limitations": [
+   "Palyginimas atliktas tik su internete laisvai prieinamais šaltiniais; mokami leidiniai, knygos ir lietuviški šaltiniai galėjo būti nepatikrinti, todėl tikroji perėmimo apimtis gali būti didesnė.",
+   "Keli šaltiniai turi tą patį tekstą (pvz., NCI HTML ir PDF versijos, Ajzen 2002 kopijos academia.edu ir umass.edu svetainėse), todėl atskirų šaltinių procentai persidengia ir jų sumuoti negalima; remtis reikia bendru 4,62 % rodikliu.",
+   "Dalies šaltinių datos nenustatytos arba nepatikimos (diva-portal, Psynso, Lumen Learning, Utrechto darbas, SuSanA), todėl negalima atmesti galimybės, kad jie tekstą perėmė iš kito šaltinio ar iš disertacijos.",
+   "Kai kurie vertinimai pagrįsti tik santraukomis ar paieškos fragmentais (Previte ir kt., Dawson ir kt., Emerald skyrius), todėl jų patikimumas mažesnis.",
+   "Paties autoriaus straipsnio datos prieštaringos (2016 m. ir 2008 m.), todėl psl. 12 ir 14 sutapimų kryptis neaiški.",
+   "Metodas nustato tekstinius sutapimus, tačiau neaptinka verstinio plagiato ir idėjų ar struktūros perėmimo, kai formuluotės smarkiai pakeistos.",
+   "Puslapių numeriai nurodyti pagal tikrintą disertacijos versiją ir gali nežymiai skirtis nuo spausdintinio leidimo."
+  ]
+ },
+ "model": "claude-sonnet-5-5",
+ "usage": {
+  "input": 440832,
+  "output": 89215
+ }
+}
