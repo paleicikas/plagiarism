@@ -1,6 +1,0 @@
-This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
-Quantitative Structure-Property Relationship (QSPR) of Plant Phenolic Compounds in Rapeseed Oil and Comparison of Antioxidant Measurement Methods
-Platzer, M.; Kiese, S.; Asam, T.; Schneider, F.; Tybussek, T.; Herfellner, T.; Schweiggert-Weisz, U.; Eisner, P. Quantitative Structure-Property Relationship (QSPR) of Plant Phenolic Compounds in Rapeseed Oil and Comparison of Antioxidant Measurement Methods. Processes 2022, 10, 1281. https://doi.org/10.3390/pr10071281
-Platzer M, Kiese S, Asam T, Schneider F, Tybussek T, Herfellner T, Schweiggert-Weisz U, Eisner P. Quantitative Structure-Property Relationship (QSPR) of Plant Phenolic Compounds in Rapeseed Oil and Comparison of Antioxidant Measurement Methods. Processes. 2022; 10(7):1281. https://doi.org/10.3390/pr10071281
-Chicago/Turabian Style
-Platzer, Melanie, Sandra Kiese, Tobias Asam, Franziska Schneider, Thorsten Tybussek, Thomas Herfellner, Ute Schweiggert-Weisz, and Peter Eisner. 2022. "Quantitative Structure-Property Relationship (QSPR) of Plant Phenolic Compounds in Rapeseed Oil and Comparison of Antioxidant Measurement Methods" Processes 10, no. 7: 1281. https://doi.org/10.3390/pr10071281

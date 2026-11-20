@@ -9,6 +9,8 @@ from difflib import SequenceMatcher
 from .config import Config
 import threading
 
+from .errors import PipelineError
+from .progress import checkpoint, activity, warn
 from .search import BACKENDS, CreditsExhausted, SearchError, backend_names, get_backends
 from .util import (KVCache, Progress, clean_text, domain, log, norm_url, read_json, sha1, tokens,
                    write_json)
@@ -100,14 +102,15 @@ def cached_results(cache: KVCache, cfg: Config, names: list[str], q: str):
     return None
 
 
-def run(cfg: Config, limit: int | None = None, dry: bool = False, yes: bool = False):
+def plan_queries(cfg: Config, limit: int | None = None) -> dict:
+    """Queries for the current segments: all of them, those not cached yet and those that will run now
+    (SEARCH_BUDGET). Used both by `run` and by the cost estimate."""
     seg = read_json(cfg.path("segments.json"))
     if not seg:
-        raise SystemExit("Run this first: python run.py extract")
+        raise PipelineError("data.missing", "Run this first: python run.py extract", step="extract")
     queries = build_queries(cfg, seg["sentences"])
     if limit:
         queries = queries[:limit]
-    write_json(cfg.path("queries.json"), queries)
     names = backend_names(cfg)
     cache = KVCache(cfg.path("cache_search.sqlite"))
     # results from any previously used engine are acceptable (e.g. started with serper, continued with ddg)
@@ -115,27 +118,47 @@ def run(cfg: Config, limit: int | None = None, dry: bool = False, yes: bool = Fa
     todo = [q for q in queries if cached_results(cache, cfg, all_names, q["q"]) is None]
     # first window of each sentence first, then the rest (with a limited budget the whole text still gets covered)
     todo.sort(key=lambda q: (q["win"], q["mode"] != "loose", q["sid"]))
+    n_new = len(todo)
     if cfg.search_budget and len(todo) > cfg.search_budget:
-        log(f"SEARCH_BUDGET={cfg.search_budget}: running {cfg.search_budget} of {len(todo)} queries this time "
-            f"(the rest can be run later – completed ones are not repeated)")
         todo = todo[:cfg.search_budget]
+    return dict(seg=seg, queries=queries, todo=todo, n_new=n_new, names=names, all_names=all_names, cache=cache)
+
+
+def run(cfg: Config, limit: int | None = None, dry: bool = False, yes: bool = False, confirm=None):
+    """`confirm(n_queries, engines) -> bool` is asked before paid queries are made (unless `yes`)."""
+    pq = plan_queries(cfg, limit)
+    seg, queries, todo, names, all_names, cache = (pq["seg"], pq["queries"], pq["todo"], pq["names"],
+                                                    pq["all_names"], pq["cache"])
+    write_json(cfg.path("queries.json"), queries)
+    if len(todo) < pq["n_new"]:
+        log(f"SEARCH_BUDGET={cfg.search_budget}: running {len(todo)} of {pq['n_new']} queries this time "
+            f"(the rest can be run later – completed ones are not repeated)")
+        warn("search.budget_limited", f"Search budget limits this run to {len(todo)} of {pq['n_new']} queries",
+             run=len(todo), total=pq["n_new"])
     backends = get_backends(cfg) if names[0] != "none" else []
     if names[0] != "none":
         names = [b.name for b in backends]
     log(f"Queries: {len(queries)}, new (not cached): {len(todo)}; search: {' → '.join(names)}"
         + (f" (Serper: fits within the free 2,500 if the account is new)" if names[0] == "serper" and len(todo) <= 2500 else ""))
     if dry:
-        return
+        return None
     if todo and names[0] != "none" and not yes:
-        ans = input(f"Run {len(todo)} search queries? [t/N]: ").strip().lower()
-        if ans not in ("t", "taip", "y", "yes"):
-            raise SystemExit("Aborted.")
+        if confirm is None:
+            def confirm(n, engines):
+                ans = input(f"Run {n} search queries? [t/N]: ").strip().lower()
+                return ans in ("t", "taip", "y", "yes")
+        if not confirm(len(todo), names):
+            raise PipelineError("aborted", "Aborted.")
 
     state = {"i": 0, "errors": 0, "stop": False}
     lock = threading.Lock()
-    prog = Progress(len(todo), "Search")
+    prog = Progress(len(todo), "Search", phase="search.queries")
+    used: dict[str, int] = {}
+    prog.set(counters={"cached": len(queries) - pq["n_new"], "queries": 0, "results": 0, "errors": 0},
+             cost={"search": {}, "budget": cfg.search_budget or None, "engine": names[0] if names else None})
 
     def do(q):
+        checkpoint()
         while True:
             with lock:
                 if state["stop"] or state["i"] >= len(backends):
@@ -144,6 +167,7 @@ def run(cfg: Config, limit: int | None = None, dry: bool = False, yes: bool = Fa
             b = backends[i]
             if b.name == "none":
                 return None
+            prog.set(current=activity("search", engine=b.name, query=q["plain"][:90]))
             try:
                 res = b.search(q["q"])
             except CreditsExhausted as e:
@@ -153,35 +177,55 @@ def run(cfg: Config, limit: int | None = None, dry: bool = False, yes: bool = Fa
                         nxt = backends[state["i"]].name if state["i"] < len(backends) else None
                         log(f"{b.name}: credits/limit exhausted ({str(e)[:120]}). "
                             + (f"Switching to: {nxt}" if nxt else "No more engines – stopping."))
+                        if nxt:
+                            warn("search.engine_switched", f"{b.name} credits exhausted, switching to {nxt}",
+                                 old=b.name, new=nxt)
+                            prog.set(cost={"engine": nxt})
+                        else:
+                            warn("search.engines_exhausted", f"{b.name} credits exhausted, no more search engines",
+                                 old=b.name)
                 continue
             cache.set(_key(b.name, cfg, q["q"]), res)
+            with lock:
+                used[b.name] = used.get(b.name, 0) + 1
+            prog.count("results", len(res))
             return res
 
     if todo and names[0] != "none":
         with ThreadPoolExecutor(max_workers=cfg.search_workers) as ex:
             futs = [ex.submit(do, q) for q in todo]
             for f in as_completed(futs):
+                ok = True
                 try:
                     f.result()
                 except SearchError as e:
+                    ok = False
                     with lock:
                         state["errors"] += 1
                     log("ERROR:", str(e)[:200])
                 except Exception as e:
+                    ok = False
                     with lock:
                         state["errors"] += 1
                     log("ERROR:", repr(e)[:200])
-                prog.tick()
+                prog.set(cost={"search": dict(used)})
+                prog.tick(count="queries" if ok else "errors")
                 if state["errors"] >= 15 and state["errors"] > 0.3 * prog.done:
                     state["stop"] = True
                     log("Too many search errors – stopping. Check the API key / internet connection.")
+                    warn("search.too_many_errors", "Too many search errors – stopping. "
+                                                   "Check the API key / internet connection.")
                     for x in futs:
                         x.cancel()
                     break
-    left = sum(1 for q in queries if cached_results(cache, cfg, all_names, q["q"]) is None)
+    left = sum(1 for q in queries if cached_results(cache, cfg, all_names, q["q"]) is None) \
+        if names[0] != "none" else 0
     if left:
         log(f"Queries not completed: {left}. Running 'search' again will resume from here.")
-    aggregate(cfg, seg, queries, cache, all_names)
+        warn("search.incomplete", f"{left} queries not completed; running again resumes from here", left=left)
+    cands = aggregate(cfg, seg, queries, cache, all_names)
+    return dict(queries=len(queries), ran=sum(used.values()), used=used, left=left, candidates=len(cands),
+                selected=sum(c["selected"] for c in cands), errors=state["errors"])
 
 
 def aggregate(cfg: Config, seg: dict, queries: list[dict], cache: KVCache, names: list[str]):

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Plagiarism
+Name[lt]=Plagiatas
+GenericName=Plagiarism checker
+GenericName[lt]=Plagiato patikra
+Comment=Check a thesis PDF for text taken from online sources without references
+Comment[lt]=Patikrinkite disertacijos PDF dėl be nuorodų perimto teksto iš interneto šaltinių
+Exec=Plagiarism %F
+Icon=plagcheck
+Terminal=false
+Categories=Office;Education;
+MimeType=application/pdf;

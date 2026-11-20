@@ -86,7 +86,8 @@ class Config:
     llm_final_model: str = _env("LLM_FINAL_MODEL", "")       # empty -> same as llm_model
     llm_workers: int = _env("LLM_WORKERS", 4, int)
     llm_max_pairs: int = _env("LLM_MAX_PAIRS", 40, int)
-    llm_lang: str = _env("LLM_LANG", "lietuvių")
+    # Language of the report and of the LLM-written conclusions (a locale code from plagcheck/locales)
+    report_lang: str = _env("REPORT_LANG", "lt")
 
     extra: dict = field(default_factory=dict)
 
@@ -105,3 +106,32 @@ class Config:
             if k.endswith("_key") and d[k]:
                 d[k] = "***"
         return d
+
+    @classmethod
+    def blank(cls, **overrides) -> "Config":
+        """A configuration that ignores .env / environment values (used by the desktop app, which keeps its own
+        settings); `overrides` set the fields explicitly."""
+        import dataclasses
+        c = cls()
+        for f in dataclasses.fields(cls):
+            if f.name == "extra":
+                continue
+            # recompute the default as if no environment variable were set
+            default = _BLANK_DEFAULTS.get(f.name, f.default)
+            setattr(c, f.name, default)
+        for k, v in overrides.items():
+            if not hasattr(c, k):
+                raise AttributeError(f"Unknown config field: {k}")
+            setattr(c, k, v)
+        return c
+
+
+_BLANK_DEFAULTS = dict(
+    pdf="original.pdf", work="work", doc_title="", doc_author="", doc_date="", author_markers="", body_pages="",
+    ref_pages="", search_backend="ddg", search_budget=0, serper_key="", serpapi_key="", brave_key="",
+    tavily_key="", google_key="", google_cx="", search_gl="us", search_hl="en", search_num=10, search_workers=6,
+    query_mode="loose", query_max_words=30, query_min_words=9, exclude_domains="", fetch_workers=8,
+    fetch_timeout=30, max_sources=900, unpaywall_email="", use_wayback=True, local_sources="local_sources",
+    seeds_file="", overrides_file="", llm_provider="none", anthropic_key="", openai_key="", openai_base_url="",
+    llm_model="claude-sonnet-5-5", llm_final_model="", llm_workers=4, llm_max_pairs=40, report_lang="en",
+)

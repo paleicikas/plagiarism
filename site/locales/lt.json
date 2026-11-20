@@ -1,0 +1,164 @@
+{
+  "_meta": {"name": "Lietuvių", "english_name": "Lithuanian", "locale": "lt-LT"},
+  "meta": {
+    "title": "Plagiatas – nemokama disertacijų plagiato patikra Windows, macOS ir Linux",
+    "description": "Patikrinkite disertacijos ar baigiamojo darbo PDF dėl be nuorodų nukopijuoto ar perfrazuoto teksto iš interneto šaltinių. Darbalaukio programa, veikia jūsų kompiuteryje, interaktyvi ataskaita, eksportas į HTML/PDF/CSV."
+  },
+  "nav": {
+    "how": "Kaip veikia", "features": "Galimybės", "start": "Pradžia", "keys": "API raktai", "cost": "Kaina",
+    "report": "Ataskaita", "faq": "DUK", "download": "Atsisiųsti", "theme": "Perjungti šviesią / tamsią temą", "menu": "Meniu"
+  },
+  "hero": {
+    "kicker": "Darbalaukio programa · Windows · macOS · Linux",
+    "title": "Plagiatas neliks <em>nepastebėtas</em>",
+    "lead": "Įkelkite darbo PDF ir spauskite „Pradėti“. „Plagiatas“ ieško internete, atsisiunčia šaltinius, kiekvieną jų palygina su visu tekstu, DI modelis įvertina kiekvieną sutapimą, o rezultatas pateikiamas aiškioje interaktyvioje ataskaitoje.",
+    "download": "Atsisiųsti {os} versiją",
+    "download_generic": "Atsisiųsti",
+    "other": "Kitos sistemos",
+    "demo": "Ataskaitos pavyzdys",
+    "version": "Versija {version} · {date}",
+    "no_release": "Pirmoji versija dar ruošiama – po kelių minučių užsukite į leidimų puslapį.",
+    "free": "Nemokama · veikia jūsų kompiuteryje · anglų ir lietuvių kalbomis",
+    "shot_alt": "Programos „Plagiatas“ eigos langas patikros metu"
+  },
+  "os": {"windows": "Windows", "mac": "macOS", "mac_arm": "macOS (Apple silicon)", "mac_intel": "macOS (Intel)", "linux": "Linux"},
+  "dl": {
+    "title": "Visi failai",
+    "windows_setup": "Diegimo programa (.exe)", "windows_zip": "Be diegimo (.zip)", "mac_arm": "Apple silicon (.dmg)",
+    "mac_intel": "Intel (.dmg)", "linux": "AppImage", "checksums": "SHA-256 kontrolinės sumos", "all": "Visi leidimai"
+  },
+  "how": {
+    "title": "Kaip tai veikia",
+    "lead": "Šeši automatiniai žingsniai. Kiekvieną jų matote eigos lange realiu laiku ir bet kada galite pristabdyti, tęsti ar atšaukti.",
+    "s1": {"t": "Išgavimas", "d": "Nuskaito PDF ir palieka tik pagrindinį tekstą: turinys, lentelės, antraštės ir literatūros sąrašas praleidžiami. Pažymimos citatos ir nuorodos."},
+    "s2": {"t": "Paieška", "d": "Sakinius paverčia paieškos užklausomis ir ieško jų internete (Google per Serper, Tavily arba DuckDuckGo). Jau atliktos užklausos išsaugomos."},
+    "s3": {"t": "Atsisiuntimas", "d": "Atsisiunčia kandidatus šaltinius ir nustato jų datas. Užblokuotų leidėjų tekstai gaunami per atviros prieigos kopijas, Europe PMC, OpenAlex/Crossref ir Wayback archyvą."},
+    "s4": {"t": "Palyginimas", "d": "Kiekvienas šaltinis palyginamas su visu tekstu, ne tik su ieškotu sakiniu, todėl randamos ištisos nukopijuotos pastraipos ir perfrazavimai."},
+    "s5": {"t": "Vertinimas", "d": "DI modelis kiekvienam sutapimui priskiria žymą (pažodinis, perfrazuotas, tinkama citata, bendrinė frazė…) ir patikrina, ar šaltinis cituojamas šalia. Tada parašo bendrą išvadą."},
+    "s6": {"t": "Ataskaita", "d": "Interaktyvi ataskaita su bendra rizika, puslapių žemėlapiu, visais šaltiniais ir sakinių poromis greta. Eksportas į HTML, PDF, CSV, JSON arba ZIP."}
+  },
+  "feat": {
+    "title": "Sukurta tikriems darbams",
+    "f1": {"t": "Lyginamas visas tekstas", "d": "Kiekvienas šaltinis lyginamas su visais darbo sakiniais, todėl nukopijuotos pastraipos randamos net jei ieškota tik vieno sakinio."},
+    "f2": {"t": "Šaltiniai datuojami", "d": "Publikavimo datos imamos iš Crossref, OpenAlex, puslapių metaduomenų ir Wayback archyvo. Už darbą naujesni šaltiniai žymimi kaip „atvirkštiniai“ ir neskaičiuojami."},
+    "f3": {"t": "Tikrinamos nuorodos", "d": "Ar šaltinis yra literatūros sąraše? Ar jo autorius cituojamas šalia sakinio? Ar yra kabutės? Tinkamos citatos problemomis nelaikomos."},
+    "f4": {"t": "Ne tik kopijos, bet ir perfrazavimai", "d": "Bendri retesni žodžiai ir žodžių sekos atskleidžia tekstus, kuriuose pakeista tik keletas žodžių."},
+    "f5": {"t": "Apimtis, kurią galima nurodyti", "d": "Žodžiai, teksto procentas, puslapiai ir ilgiausios ištisinės ištraukos – kiekvienam šaltiniui ir bendrai."},
+    "f6": {"t": "Paties autoriaus darbai atskiriami", "d": "Paties darbo kopijos internete ir autoriaus straipsniai atpažįstami ir pateikiami atskirai."},
+    "f7": {"t": "Išsami eiga realiu laiku", "d": "Kiekvienas žingsnis su skaitikliais, dabartinis veiksmas, išleista suma, likęs laikas, įspėjimai ir visas žurnalas. Nutraukta patikra tęsiama nuo tos vietos, kur sustojo."},
+    "f8": {"t": "Privatumas", "d": "Viskas vykdoma ir saugoma jūsų kompiuteryje. Raktai laikomi sistemos slaptažodžių saugykloje."}
+  },
+  "gallery": {
+    "title": "Kaip atrodo programa",
+    "wizard": "Pirmas paleidimas: kalba ir API raktai, kiekvienas su mygtuku „Tikrinti“",
+    "setup": "Prieš pradedant: atpažintas pavadinimas ir autorius, parinktys ir kainos sąmata",
+    "progress": "Kiekvieno žingsnio eiga realiu laiku, įspėjimai ir žurnalas",
+    "report": "Interaktyvi ataskaita programoje su eksportu",
+    "close": "Uždaryti", "prev": "Ankstesnis", "next": "Kitas"
+  },
+  "start": {
+    "title": "Pradėkite trimis žingsniais",
+    "s1": {"t": "Atsisiųskite ir įdiekite", "d": "Viršuje pasirinkite failą savo sistemai."},
+    "win": "<b>Windows:</b> paleiskite diegimo programą. Jei SmartScreen rodo „Windows apsaugojo jūsų kompiuterį“, spauskite <b>Daugiau informacijos → Vis tiek paleisti</b> (programa nepasirašyta kodo parašu).",
+    "mac": "<b>macOS:</b> atidarykite .dmg ir nutempkite Plagiarism.app į „Applications“. Pirmą kartą spustelėkite programą dešiniuoju pelės mygtuku → <b>Open</b> → <b>Open</b> (arba System Settings → Privacy &amp; Security → <b>Open Anyway</b>).",
+    "linux": "<b>Linux:</b> <code>chmod +x Plagiarism-*.AppImage</code> ir paleiskite. Jei nepasileidžia, įdiekite FUSE 2: <code>sudo apt install libfuse2</code>.",
+    "s2": {"t": "Įveskite API raktus", "d": "Pirmo paleidimo vedlys jų paprašys ir kiekvieną patikrins. Galite praleisti ir pirma išbandyti demonstraciją be interneto – kur gauti raktus, rasite žemiau."},
+    "s3": {"t": "Įkelkite PDF ir spauskite „Pradėti“", "d": "Patikrinkite atpažintą pavadinimą ir puslapius, peržiūrėkite sąmatą ir pradėkite. Kai ataskaita bus paruošta, gausite pranešimą."}
+  },
+  "keys": {
+    "title": "API raktai: ko reikia",
+    "lead": "Raktai programoje įvedami vieną kartą ir saugomi Windows Credential Manager, macOS Keychain arba Linux Secret Service. Visai be raktų programa gali naudoti nemokamą DuckDuckGo paiešką ir automatinius rodiklius be DI.",
+    "need": "Rekomenduojama", "optional": "Nebūtina", "free_tag": "Nemokama",
+    "open": "Atidaryti {site}",
+    "serper": {"t": "Serper – paieška internete", "d": "Google rezultatai per API. Geriausia aprėptis šiai užduočiai.", "price": "Naujai paskyrai 2 500 nemokamų užklausų (užtenka ~200 puslapių darbui), toliau apie 1 $ už 1 000.",
+      "steps": "Užsiregistruokite serper.dev → valdymo skydelyje <b>API key</b> → nukopijuokite į programą „Plagiatas“."},
+    "tavily": {"t": "Tavily – atsarginė paieška", "d": "Naudojama automatiškai, kai baigiasi Serper kreditai.", "price": "1 000 nemokamų užklausų kas mėnesį.",
+      "steps": "Užsiregistruokite tavily.com → nukopijuokite raktą, prasidedantį <code>tvly-</code>."},
+    "anthropic": {"t": "Anthropic (Claude) – DI vertinimas", "d": "Priskiria sutapimams žymas ir parašo išvadą. Numatytasis modelis – Claude Sonnet.", "price": "Mokama pagal naudojimą; apie 0,50–1,50 $ už 200 puslapių darbą.",
+      "steps": "console.anthropic.com → <b>Billing</b>: papildykite sąskaitą → <b>API keys</b> → <b>Create key</b>."},
+    "openai": {"t": "OpenAI – DI vertinimas (alternatyva)", "d": "Galima naudoti vietoje Anthropic. Nustatymuose galima nurodyti bet kurį su OpenAI suderinamą adresą.", "price": "Mokama pagal naudojimą; GPT-5 mini kainuoja gerokai mažiau nei 1 $ už darbą.",
+      "steps": "platform.openai.com → <b>Billing</b>: papildykite sąskaitą → <b>API keys</b> → <b>Create new secret key</b>."},
+    "unpaywall": {"t": "Unpaywall – atviros prieigos PDF", "d": "Randa nemokamas teisėtas straipsnių kopijas, todėl mažiau šaltinių lieka „nepasiekiami“.", "price": "Nemokama – tik jūsų el. pašto adresas, registracija nereikalinga.",
+      "steps": "Tiesiog įveskite savo el. pašto adresą programoje „Plagiatas“."},
+    "safety": "Niekada nesidalykite raktais ir neįklijuokite jų į dokumentus. Raktą bet kada galite atšaukti paslaugos svetainėje."
+  },
+  "cost": {
+    "title": "Kiek kainuoja patikra?",
+    "lead": "Tos pačios formulės kaip sąmatos, kurią programa rodo prieš pradedant (programos skaičius tikslesnis – ji suskaičiuoja tikrus sakinius).",
+    "pages": "Pagrindinio teksto puslapiai", "wpp": "Žodžių puslapyje", "engine": "Paieška", "fresh": "Nauja Serper paskyra (2 500 nemokamų užklausų)",
+    "model": "DI modelis", "none": "Be DI (tik automatiniai rodikliai)",
+    "queries": "Paieškos užklausos", "search_cost": "Paieška", "ai_cost": "DI", "total": "Iš viso", "time": "Trukmė",
+    "free": "nemokamai", "about": "apie {v}", "range": "{low} – {high}", "minutes": "{n} min.", "hours": "{h} val. {m} min.",
+    "sources": "≈ {n} šaltinių vertins DI",
+    "note": "Pakartotinė patikra beveik nieko nekainuoja: paieškos ir DI rezultatai išsaugomi."
+  },
+  "legend": {
+    "title": "Kaip skaityti ataskaitą",
+    "lead": "Kiekvienam sutapimui pagal teksto palyginimą priskiriama automatinė kategorija, o įjungus DI – ir žyma, kuri atsižvelgia į nuorodas. Problemomis laikomos tik pirmosios trys žymos.",
+    "cats": "Automatinės kategorijos",
+    "c_identical": "<b>Pažodinis</b> – bent 90 % sakinio žodžių yra bendrose su šaltiniu žodžių sekose.",
+    "c_minor": "<b>Nežymiai pakeistas</b> – 60–90 %: sakinys nukopijuotas ir pakeisti keli žodžiai.",
+    "c_partial": "<b>Dalinis</b> – 35–60 % ir bendra bent 6 žodžių seka.",
+    "c_para": "<b>Galimas perfrazavimas</b> – bent 60 % bendrų turinio žodžių (retesni žodžiai sveria daugiau).",
+    "labels": "DI žymos",
+    "try": "Išbandykite: pasirinkite pavyzdį",
+    "ex1": "Pažodinis", "ex2": "Nežymiai pakeistas", "ex3": "Perfrazavimas", "ex4": "Tinkama citata",
+    "doc": "Darbas", "src": "Šaltinis", "shared": "Paryškintos bendros žodžių sekos.",
+    "verbatim": "Pažodinis sutapimas", "content": "Bendri turinio žodžiai", "category": "Kategorija", "label": "DI žyma",
+    "sample": "Atidaryti visą ataskaitos pavyzdį"
+  },
+  "cat": {"identical": "pažodinis", "minor_edit": "nežymiai pakeistas", "partial": "dalinis", "paraphrase": "galimas perfrazavimas", "none": "nėra"},
+  "label": {
+    "pazodinis_be_nuorodos": "Paimta pažodžiui ar beveik pažodžiui be nuorodos",
+    "pazodinis_su_nuoroda_be_kabuciu": "Paimta pažodžiui be kabučių (autorius nurodytas)",
+    "perfrazuota_be_nuorodos": "Artimai perfrazuota be nuorodos",
+    "perfrazuota_su_nuoroda": "Perfrazuota su nuoroda (priimtina)",
+    "tinkamas_citavimas": "Tinkamai cituota (kabutės ir nuoroda)",
+    "bendrine_fraze": "Bendrinė frazė, terminas ar klausimyno teiginys",
+    "atvirkstinis": "Šaltinis vėlesnis už darbą",
+    "autoriaus_darbas": "Kitas autoriaus darbas",
+    "klaidingas_sutapimas": "Atsitiktinis sutapimas"
+  },
+  "examples": {
+    "e1": {"doc": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja darbuotoją su organizacija ir mažina tikimybę ją palikti.", "src": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja darbuotoją su organizacija ir mažina tikimybę ją palikti."},
+    "e2": {"doc": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja dirbantįjį su organizacija ir mažina riziką ją palikti.", "src": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja darbuotoją su organizacija ir mažina tikimybę ją palikti."},
+    "e3": {"doc": "Psichologinis ryšys, kuris darbuotoją sieja su organizacija, mažina tikimybę, kad jis ją paliks – tai ir yra organizacinis įsipareigojimas.", "src": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja darbuotoją su organizacija ir mažina tikimybę ją palikti."},
+    "e4": {"doc": "Pasak Meyer ir Allen (1991), įsipareigojimas yra „psichologinis ryšys, kuris sieja darbuotoją su organizacija“.", "src": "Organizacinis įsipareigojimas yra psichologinis ryšys, kuris sieja darbuotoją su organizacija ir mažina tikimybę ją palikti."}
+  },
+  "privacy": {
+    "title": "Privatumas",
+    "p1": "PDF, atsisiųsti šaltiniai ir ataskaitos lieka jūsų kompiuteryje. Programa „Plagiatas“ neturi jokio serverio ir paskyrų.",
+    "p2": "Paieškos paslaugai siunčiamos tik trumpos frazės (užklausos), o jūsų pasirinktam DI teikėjui – sutapusių sakinių poros. Tai daroma su jūsų API raktais ir pagal tų paslaugų sąlygas.",
+    "p3": "API raktai saugomi operacinės sistemos slaptažodžių saugykloje, niekada ne projekto failuose ar ataskaitose.",
+    "p4": "Nei programoje, nei šioje svetainėje nėra analitikos ar sekimo."
+  },
+  "limits": {
+    "title": "Ribojimai – perskaitykite",
+    "l1": "Paieška internete neranda neindeksuotų, mokamų ar tik spausdintų šaltinių. Tokius failus pridėkite kaip vietinius šaltinius (PDF/TXT/HTML).",
+    "l2": "Laisvas perfrazavimas ir vertimas iš kitos kalbos aptinkami tik iš dalies.",
+    "l3": "DI žymos gali būti klaidingos. Rezultatas yra pagalbinė priemonė: galutinį sprendimą turi priimti žmogus, peržiūrėjęs sakinių poras ataskaitoje."
+  },
+  "faq": {
+    "title": "Dažnai užduodami klausimai",
+    "q1": {"q": "Kiek laiko trunka patikra?", "a": "Su Serper 200 puslapių darbas paprastai užtrunka 20–40 minučių, su nemokama DuckDuckGo paieška – iki valandos ar ilgiau. Prieš pradedant rodoma sąmata parodo numatomą trukmę jūsų dokumentui."},
+    "q2": {"q": "Kas bus, jei patikra nutrūks?", "a": "Atidarykite ją skiltyje <b>Patikros</b> ir spauskite <b>Tęsti</b>. Paieškos užklausos, atsisiuntimai ir DI atsakymai išsaugomi, todėl kas jau padaryta, nekartojama ir antrą kartą neapmokama."},
+    "q3": {"q": "Kodėl kai kurie šaltiniai „nepasiekiami“?", "a": "Kai kurie leidėjai blokuoja automatinį atsisiuntimą. Tada „Plagiatas“ bando atviros prieigos kopijas, Europe PMC, Crossref/OpenAlex ir Wayback archyvą; jei nepavyksta, mažesniu patikimumu vertinami paieškos fragmentai ar santrauka. Straipsnį galite pridėti kaip vietinį šaltinį."},
+    "q4": {"q": "Kas yra vietiniai šaltiniai?", "a": "Failai, kuriuos pridedate patys, pvz., mokami straipsniai iš literatūros sąrašo. Į failo pavadinimą įrašykite metus (<code>Smith_2002_review.pdf</code>), kad būtų galima patikrinti ir datą."},
+    "q5": {"q": "Ar galima naudoti be API raktų?", "a": "Taip. Nustatymuose įjunkite nemokamą DuckDuckGo paiešką ir pasirinkite „be DI“: gausite automatines kategorijas ir procentus be DI žymų. Įdiegta demonstracija veikia visai be interneto."},
+    "q6": {"q": "Kokios kalbos palaikomos?", "a": "Sąsaja ir ataskaitos – anglų ir lietuvių kalbomis. Tikrinami dokumentai gali būti bet kuria kalba, kurioje žodžiai skiriami tarpais; DI išvada rašoma ataskaitos kalba. Naujai kalbai pridėti užtenka vieno išversto JSON failo."},
+    "q7": {"q": "Ar ataskaita veikia be programos?", "a": "Taip. Eksportuota HTML ataskaita yra vienas failas, veikiantis bet kurioje naršyklėje be interneto ir turintis savo kalbos perjungiklį. Taip pat yra spausdinama PDF suvestinė ir CSV/JSON duomenys."},
+    "q8": {"q": "Ar saugu diegti?", "a": "Paketus automatiškai sukuria GitHub Actions iš viešo kodo; kiekviename leidime pateikiamos SHA-256 kontrolinės sumos. Jie dar nepasirašyti kodo parašu, todėl Windows ir macOS pirmą kartą rodo įspėjimą."}
+  },
+  "dev": {
+    "title": "Kūrėjams",
+    "lead": "Programa „Plagiatas“ parašyta Python kalba. Tas pats variklis veikia ir iš komandinės eilutės, o kiekvienas pakeitimas pagrindinėje šakoje automatiškai sukuria ir paskelbia naujus diegimo paketus.",
+    "cli": "Komandinė eilutė", "build": "Paleidimas iš kodo ir kompiliavimas", "lang": "Naujos kalbos pridėjimas",
+    "lang_d": "Nukopijuokite <code>plagcheck/locales/en.json</code> į <code>&lt;kodas&gt;.json</code>, išverskite reikšmes ir paleiskite testus – programa, ataskaitos ir eksportai naują kalbą pasiims automatiškai.",
+    "readme": "Kūrėjo vadovas"
+  },
+  "footer": {
+    "made": "„Plagiatas“ – įrankis, padedantis vertintojams, bet jų nepakeičiantis.",
+    "source": "Programos kodas", "releases": "Leidimai", "issues": "Pranešti apie problemą", "build": "Kompiliavimo būsena",
+    "lang": "Kalba"
+  }
+}

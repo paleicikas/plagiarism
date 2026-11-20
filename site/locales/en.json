@@ -1,0 +1,164 @@
+{
+  "_meta": {"name": "English", "english_name": "English", "locale": "en-GB"},
+  "meta": {
+    "title": "Plagiarism – free thesis plagiarism checker for Windows, macOS and Linux",
+    "description": "Check a dissertation or thesis PDF for text copied or paraphrased from online sources without references. Desktop app, runs on your computer, interactive report, HTML/PDF/CSV export."
+  },
+  "nav": {
+    "how": "How it works", "features": "Features", "start": "Get started", "keys": "API keys", "cost": "Cost",
+    "report": "Report", "faq": "FAQ", "download": "Download", "theme": "Switch light / dark theme", "menu": "Menu"
+  },
+  "hero": {
+    "kicker": "Desktop app · Windows · macOS · Linux",
+    "title": "Plagiarism won't go <em>unnoticed</em>",
+    "lead": "Add a thesis PDF and press Start. Plagiarism searches the web, downloads the sources, compares each of them with the whole text, lets an AI model judge every match and shows a clear, interactive report.",
+    "download": "Download for {os}",
+    "download_generic": "Download",
+    "other": "Other systems",
+    "demo": "See a sample report",
+    "version": "Version {version} · {date}",
+    "no_release": "The first build is being prepared – check the releases page in a few minutes.",
+    "free": "Free · runs on your computer · English and Lithuanian",
+    "shot_alt": "Plagiarism progress screen during a check"
+  },
+  "os": {"windows": "Windows", "mac": "macOS", "mac_arm": "macOS (Apple silicon)", "mac_intel": "macOS (Intel)", "linux": "Linux"},
+  "dl": {
+    "title": "All downloads",
+    "windows_setup": "Installer (.exe)", "windows_zip": "Portable (.zip)", "mac_arm": "Apple silicon (.dmg)",
+    "mac_intel": "Intel (.dmg)", "linux": "AppImage", "checksums": "SHA-256 checksums", "all": "All releases"
+  },
+  "how": {
+    "title": "How it works",
+    "lead": "Six automatic steps. You see each of them live on the progress screen and can pause, resume or cancel at any time.",
+    "s1": {"t": "Extract", "d": "Reads the PDF and keeps only the main text: the table of contents, tables, headings and the reference list are left out. Quotations and citations are marked."},
+    "s2": {"t": "Search", "d": "Turns sentences into search queries and looks for them on the web (Google via Serper, Tavily or DuckDuckGo). Already made queries are cached."},
+    "s3": {"t": "Fetch", "d": "Downloads the candidate sources and dates them. Blocked publishers are reached through open-access copies, Europe PMC, OpenAlex/Crossref and the Wayback archive."},
+    "s4": {"t": "Align", "d": "Compares every source with the entire text – not just the sentence that was searched – so whole copied passages and paraphrases are found."},
+    "s5": {"t": "Verify", "d": "An AI model labels each match (verbatim, paraphrase, proper quotation, common phrase…) and checks whether the source is cited nearby. Then it writes an overall conclusion."},
+    "s6": {"t": "Report", "d": "An interactive report with the overall risk, a page map, every source and side-by-side sentence pairs. Export to HTML, PDF, CSV, JSON or ZIP."}
+  },
+  "feat": {
+    "title": "Built for real theses",
+    "f1": {"t": "Whole-text comparison", "d": "Each source is compared with all sentences of the thesis, so copied paragraphs are found even when only one sentence was searched."},
+    "f2": {"t": "Sources are dated", "d": "Publication dates come from Crossref, OpenAlex, page metadata and the Wayback archive. Sources newer than the thesis are marked as “reverse” and not counted."},
+    "f3": {"t": "Citations are checked", "d": "Is the source in the reference list? Is its author cited next to the sentence? Are there quotation marks? Proper quotations are not counted as problems."},
+    "f4": {"t": "Paraphrases, not only copies", "d": "Rare shared words and word sequences reveal texts rewritten with a few words changed."},
+    "f5": {"t": "Extent you can quote", "d": "Words, percentage of the text, pages and the longest continuous passages – per source and in total."},
+    "f6": {"t": "Your own work is separated", "d": "Online copies of the thesis itself and the author's own articles are detected and reported separately."},
+    "f7": {"t": "Detailed live progress", "d": "Every step with counters, the current activity, cost so far, time left, warnings and a full log. Interrupted checks resume where they stopped."},
+    "f8": {"t": "Private by design", "d": "Everything runs and is stored on your computer. Keys are kept in the system's credential store."}
+  },
+  "gallery": {
+    "title": "A look inside",
+    "wizard": "First start: language and API keys, each with a Test button",
+    "setup": "Before starting: detected title and author, options and a cost estimate",
+    "progress": "Live progress of every step, warnings and the log",
+    "report": "The interactive report inside the app, with export",
+    "close": "Close", "prev": "Previous", "next": "Next"
+  },
+  "start": {
+    "title": "Get started in three steps",
+    "s1": {"t": "Download and install", "d": "Choose the file for your system above."},
+    "win": "<b>Windows:</b> run the installer. If SmartScreen says “Windows protected your PC”, click <b>More info → Run anyway</b> (the app is not code-signed).",
+    "mac": "<b>macOS:</b> open the .dmg and drag Plagiarism to Applications. The first time, right-click the app → <b>Open</b> → <b>Open</b> (or System Settings → Privacy &amp; Security → <b>Open Anyway</b>).",
+    "linux": "<b>Linux:</b> <code>chmod +x Plagiarism-*.AppImage</code> and run it. If it does not start, install FUSE 2: <code>sudo apt install libfuse2</code>.",
+    "s2": {"t": "Enter API keys", "d": "The first-start wizard asks for them and tests each one. You can skip it and try the offline demo first – see the guide below for where to get the keys."},
+    "s3": {"t": "Add a PDF and press Start", "d": "Check the detected title and pages, look at the estimate and start. You will get a notification when the report is ready."}
+  },
+  "keys": {
+    "title": "API keys: what you need",
+    "lead": "Keys are entered once in the app and stored in Windows Credential Manager, macOS Keychain or the Linux Secret Service. With no keys at all, the app can still use free DuckDuckGo search and automatic metrics without AI.",
+    "need": "Recommended", "optional": "Optional", "free_tag": "Free",
+    "open": "Open {site}",
+    "serper": {"t": "Serper – web search", "d": "Google results through an API. The best coverage for this task.", "price": "2,500 free queries for a new account (enough for a ~200-page thesis), then about $1 per 1,000.",
+      "steps": "Sign up at serper.dev → <b>API key</b> on the dashboard → copy it into Plagiarism."},
+    "tavily": {"t": "Tavily – backup search", "d": "Used automatically when Serper credits run out.", "price": "1,000 free queries every month.",
+      "steps": "Sign up at tavily.com → copy the key that starts with <code>tvly-</code>."},
+    "anthropic": {"t": "Anthropic (Claude) – AI judgement", "d": "Labels the matches and writes the conclusion. Claude Sonnet is the default.", "price": "Pay as you go; about $0.50–1.50 per 200-page thesis.",
+      "steps": "console.anthropic.com → <b>Billing</b>: add credit → <b>API keys</b> → <b>Create key</b>."},
+    "openai": {"t": "OpenAI – AI judgement (alternative)", "d": "Use instead of Anthropic if you prefer. Any OpenAI-compatible endpoint can be set in Settings.", "price": "Pay as you go; GPT-5 mini costs well under $1 per thesis.",
+      "steps": "platform.openai.com → <b>Billing</b>: add credit → <b>API keys</b> → <b>Create new secret key</b>."},
+    "unpaywall": {"t": "Unpaywall – open-access PDFs", "d": "Finds free legal copies of journal articles, so fewer sources are “unreachable”.", "price": "Free – only your e-mail address, no sign-up.",
+      "steps": "Just enter your e-mail address in Plagiarism."},
+    "safety": "Never share your keys or paste them into documents. You can revoke a key on the service's website at any time."
+  },
+  "cost": {
+    "title": "How much does a check cost?",
+    "lead": "The same formulas as the estimate the app shows before starting (the app's figure is more precise – it counts the real sentences).",
+    "pages": "Pages of main text", "wpp": "Words per page", "engine": "Search", "fresh": "New Serper account (2,500 free queries)",
+    "model": "AI model", "none": "No AI (automatic metrics only)",
+    "queries": "Search queries", "search_cost": "Search", "ai_cost": "AI", "total": "Total", "time": "Duration",
+    "free": "free", "about": "about {v}", "range": "{low} – {high}", "minutes": "{n} min", "hours": "{h} h {m} min",
+    "sources": "≈ {n} sources assessed by AI",
+    "note": "Repeating a check costs almost nothing: search and AI results are cached."
+  },
+  "legend": {
+    "title": "Reading the report",
+    "lead": "Every match gets an automatic category from the text comparison and, with AI enabled, a label that takes citations into account. Only the first three labels count as problems.",
+    "cats": "Automatic categories",
+    "c_identical": "<b>Verbatim</b> – at least 90 % of the sentence's words are in word sequences shared with the source.",
+    "c_minor": "<b>Minor edits</b> – 60–90 %: the sentence was copied and a few words changed.",
+    "c_partial": "<b>Partial</b> – 35–60 % and a shared sequence of at least 6 words.",
+    "c_para": "<b>Possible paraphrase</b> – at least 60 % shared content words (rare words weigh more).",
+    "labels": "AI labels",
+    "try": "Try it: choose an example",
+    "ex1": "Verbatim", "ex2": "Minor edits", "ex3": "Paraphrase", "ex4": "Proper quotation",
+    "doc": "Thesis", "src": "Source", "shared": "Shared word sequences are highlighted.",
+    "verbatim": "Verbatim match", "content": "Shared content words", "category": "Category", "label": "AI label",
+    "sample": "Open the full sample report"
+  },
+  "cat": {"identical": "verbatim", "minor_edit": "minor edits", "partial": "partial", "paraphrase": "possible paraphrase", "none": "none"},
+  "label": {
+    "pazodinis_be_nuorodos": "Taken verbatim or nearly verbatim without a reference",
+    "pazodinis_su_nuoroda_be_kabuciu": "Taken verbatim without quotation marks (author cited)",
+    "perfrazuota_be_nuorodos": "Closely paraphrased without a reference",
+    "perfrazuota_su_nuoroda": "Paraphrased with a reference (acceptable)",
+    "tinkamas_citavimas": "Properly quoted (quotation marks and reference)",
+    "bendrine_fraze": "Common phrase, term or questionnaire item",
+    "atvirkstinis": "Source is later than the thesis",
+    "autoriaus_darbas": "Another work by the author",
+    "klaidingas_sutapimas": "Coincidental match"
+  },
+  "examples": {
+    "e1": {"doc": "Organisational commitment is the psychological bond that links an employee to the organisation and reduces the likelihood of leaving it.", "src": "Organisational commitment is the psychological bond that links an employee to the organisation and reduces the likelihood of leaving it."},
+    "e2": {"doc": "Organisational commitment is the psychological bond that links a worker to the organisation and reduces the chance of leaving it.", "src": "Organisational commitment is the psychological bond that links an employee to the organisation and reduces the likelihood of leaving it."},
+    "e3": {"doc": "When employees feel a psychological bond with their organisation, the likelihood of leaving it is reduced – this is organisational commitment.", "src": "Organisational commitment is the psychological bond that links an employee to the organisation and reduces the likelihood of leaving it."},
+    "e4": {"doc": "According to Meyer and Allen (1991), commitment is “the psychological bond that links an employee to the organisation”.", "src": "Organisational commitment is the psychological bond that links an employee to the organisation and reduces the likelihood of leaving it."}
+  },
+  "privacy": {
+    "title": "Privacy",
+    "p1": "The PDF, the downloaded sources and the reports stay on your computer. There is no Plagiarism server and no account.",
+    "p2": "Only short phrases (search queries) are sent to the search service, and the matched sentence pairs to the AI provider you chose – under your own API keys and their terms.",
+    "p3": "API keys are stored in the operating system's credential store, never in project files or reports.",
+    "p4": "No analytics or tracking in the app or on this website."
+  },
+  "limits": {
+    "title": "Limits – please read",
+    "l1": "Web search does not find unindexed, paywalled or print-only sources. Add such files as local sources (PDF/TXT/HTML).",
+    "l2": "Free paraphrasing and translation from another language are only partly detected.",
+    "l3": "AI labels can be wrong. The result is an aid: the final decision must be made by a person who has reviewed the sentence pairs in the report."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": {"q": "How long does a check take?", "a": "Usually 20–40 minutes for a 200-page thesis with Serper; up to an hour or more with free DuckDuckGo search. The estimate before starting shows the expected time for your document."},
+    "q2": {"q": "What if the check is interrupted?", "a": "Open it from <b>Checks</b> and press <b>Resume</b>. Search queries, downloads and AI answers are cached, so nothing that was already done is repeated or paid for twice."},
+    "q3": {"q": "Why are some sources “unreachable”?", "a": "Some publishers block automatic downloads. Plagiarism then tries open-access copies, Europe PMC, Crossref/OpenAlex and the Wayback archive; if all fail, the search snippets or the abstract are assessed with lower confidence. You can add the article as a local source."},
+    "q4": {"q": "What are local sources?", "a": "Files you add yourself – for example paywalled articles from the reference list. Put the year in the file name (<code>Smith_2002_review.pdf</code>) so the date can be checked too."},
+    "q5": {"q": "Can I use it without API keys?", "a": "Yes. Enable free DuckDuckGo search in Settings and choose “no AI”: you get the automatic categories and percentages without AI labels. The built-in demo runs completely offline."},
+    "q6": {"q": "Which languages are supported?", "a": "The interface and reports are in English and Lithuanian. The checked documents can be in any language that uses spaces between words; the AI conclusion is written in the report language. Adding a language takes one translated JSON file."},
+    "q7": {"q": "Does the report work without the app?", "a": "Yes. The exported HTML report is a single file that works offline in any browser and has its own language switch. There is also a printable PDF summary and CSV/JSON data."},
+    "q8": {"q": "Is it safe to install?", "a": "The builds are made automatically by GitHub Actions from the public source code; every release lists SHA-256 checksums. They are not code-signed yet, which is why Windows and macOS show a warning the first time."}
+  },
+  "dev": {
+    "title": "For developers",
+    "lead": "Plagiarism is written in Python. The same engine runs from the command line, and every push to the main branch builds and publishes new installers.",
+    "cli": "Command line", "build": "Run from source and build", "lang": "Add a language",
+    "lang_d": "Copy <code>plagcheck/locales/en.json</code> to <code>&lt;code&gt;.json</code>, translate the values and run the tests – the app, the reports and the exports pick it up automatically.",
+    "readme": "Read the developer guide"
+  },
+  "footer": {
+    "made": "Plagiarism – a tool that helps reviewers, not a replacement for them.",
+    "source": "Source code", "releases": "Releases", "issues": "Report a problem", "build": "Build status",
+    "lang": "Language"
+  }
+}

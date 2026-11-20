@@ -6,6 +6,7 @@ import time
 import requests
 
 from .config import Config
+from .errors import PipelineError
 
 
 class SearchError(Exception):
@@ -172,7 +173,7 @@ class DDG(Backend):
         try:
             from ddgs import DDGS
         except ImportError:
-            raise SystemExit("Install: pip install ddgs")
+            raise PipelineError("search.ddgs_missing", "Install: pip install ddgs")
         self.DDGS = DDGS
         self.lock = __import__("threading").Lock()
         self.last = 0.0
@@ -214,7 +215,9 @@ def backend_names(cfg: Config) -> list[str]:
     names = [n.strip().lower() for n in cfg.search_backend.split(",") if n.strip()]
     for n in names:
         if n not in BACKENDS:
-            raise SystemExit(f"Unknown SEARCH_BACKEND '{n}'. Available: {', '.join(BACKENDS)}")
+            raise PipelineError("search.unknown_backend",
+                                f"Unknown SEARCH_BACKEND '{n}'. Available: {', '.join(BACKENDS)}",
+                                name=n, available=", ".join(BACKENDS))
     return names or ["none"]
 
 
@@ -231,8 +234,8 @@ def get_backends(cfg: Config) -> list[Backend]:
             continue
         out.append(BACKENDS[n](cfg))
     if not out:
-        raise SystemExit("No API key is configured for any search engine (.env). "
-                         "Set SERPER_API_KEY or use SEARCH_BACKEND=ddg.")
+        raise PipelineError("search.no_key", "No API key is configured for any search engine (.env). "
+                            "Set SERPER_API_KEY or use SEARCH_BACKEND=ddg.")
     return out
 
 

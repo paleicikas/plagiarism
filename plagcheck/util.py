@@ -14,27 +14,22 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 # ---------------------------------------------------------------- logging
 
-def log(*args, **kw):
+def log(*args, _event: bool = True, **kw):
     ts = time.strftime("%H:%M:%S")
-    print(f"[{ts}]", *args, **kw, file=sys.stderr, flush=True)
+    msg = " ".join(str(a) for a in args)
+    try:
+        print(f"[{ts}]", msg, **kw, file=sys.stderr, flush=True)
+    except (AttributeError, OSError, ValueError):   # windowed app without a console
+        pass
+    if not _event:
+        return
+    from .progress import emit
+    low = msg[:12].lower()
+    level = "error" if low.startswith("error") else "warning" if low.startswith("warning") else "info"
+    emit("log", level=level, message=msg)
 
 
-class Progress:
-    def __init__(self, total: int, label: str, every: float = 2.0):
-        self.total, self.label, self.every = total, label, every
-        self.done = 0
-        self.t0 = self.last = time.time()
-        self.lock = threading.Lock()
-
-    def tick(self, n: int = 1, extra: str = ""):
-        with self.lock:
-            self.done += n
-            now = time.time()
-            if now - self.last >= self.every or self.done >= self.total:
-                self.last = now
-                rate = self.done / max(now - self.t0, 1e-6)
-                eta = (self.total - self.done) / rate if rate > 0 else 0
-                log(f"{self.label}: {self.done}/{self.total} ({rate:.1f}/s, ~{eta/60:.1f} min left) {extra}")
+from .progress import Progress  # noqa: E402  (re-exported for the step modules)
 
 
 # ---------------------------------------------------------------- JSON I/O

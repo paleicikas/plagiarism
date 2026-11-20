@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="lt">
+<html lang="__LANG__">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Plagiato patikra – __TITLE__</title>
+<title>__TITLE__</title>
 <style>
 :root{
   --page:#f9f9f7; --surface:#fcfcfb; --card:#ffffff; --ink:#0b0b0b; --ink2:#52514e; --ink3:#7a7974;
@@ -23,19 +23,22 @@ html{scroll-behavior:smooth}
 body{margin:0;background:var(--page);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .wrap{max-width:1240px;margin:0 auto;padding:28px 24px 80px}
+header{display:flex;gap:16px;justify-content:space-between;align-items:flex-start}
 header .kicker{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3)}
 header h1{font-size:26px;line-height:1.25;margin:6px 0 4px;font-weight:650}
 header .meta{color:var(--ink2);font-size:14px}
+.langsel{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--ink3);white-space:nowrap}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px}
 section{margin-top:22px}
 h2{font-size:17px;margin:0 0 12px;font-weight:650}
 .muted{color:var(--ink2)} .small{font-size:13px} .tiny{font-size:12px;color:var(--ink3)}
+.textlang{font-size:12px;color:var(--ink3);margin-top:8px;font-style:italic}
 /* verdict */
 .verdict{display:grid;grid-template-columns:1fr;gap:16px}
 .risk{display:inline-flex;align-items:center;gap:8px;font-weight:650;font-size:13px;padding:4px 12px;border-radius:999px}
-.risk.aukšta{background:var(--copy-t);color:var(--copy)} .risk.vidutinė{background:var(--noquote-t);color:#9a6700}
-.risk.žema{background:var(--ok-t);color:var(--ok)}
-@media (prefers-color-scheme: dark){.risk.vidutinė{color:var(--noquote)}}
+.risk.high{background:var(--copy-t);color:var(--copy)} .risk.medium{background:var(--noquote-t);color:#9a6700}
+.risk.low{background:var(--ok-t);color:var(--ok)}
+@media (prefers-color-scheme: dark){.risk.medium{color:var(--noquote)}}
 .headline{font-size:19px;font-weight:600;margin:10px 0 8px;line-height:1.35}
 .conclusion p{margin:0 0 10px}
 .cols{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:6px}
@@ -62,8 +65,8 @@ h2{font-size:17px;margin:0 0 12px;font-weight:650}
   padding:8px 10px;font-size:12.5px;box-shadow:0 6px 24px rgba(0,0,0,.12);z-index:50;display:none;max-width:280px}
 .tip .row{display:flex;justify-content:space-between;gap:14px} .tip .row span:last-child{font-variant-numeric:tabular-nums}
 /* tabs */
-.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:28px;position:sticky;top:0;background:var(--page);z-index:20;padding-top:6px}
-.tab{border:0;background:none;color:var(--ink2);font:inherit;font-weight:550;padding:10px 14px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:28px;position:sticky;top:0;background:var(--page);z-index:20;padding-top:6px;overflow-x:auto}
+.tab{border:0;background:none;color:var(--ink2);font:inherit;font-weight:550;padding:10px 14px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
 .tab.on{color:var(--ink);border-bottom-color:var(--ink)}
 .tab .n{font-size:12px;color:var(--ink3);margin-left:4px}
 .pane{display:none;padding-top:16px} .pane.on{display:block}
@@ -125,134 +128,169 @@ td.num{text-align:right;font-variant-numeric:tabular-nums}
 td .dom{color:var(--ink3);font-size:12px;word-break:break-all}
 .method p,.method li{max-width:880px}
 .empty{padding:30px;text-align:center;color:var(--ink3)}
-@media (max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)} .cols,.side{grid-template-columns:1fr}}
-@media print{.tabs,.toolbar,.drawer,button.more{display:none!important} .pane{display:block!important} .pairs{display:block!important}}
+footer{margin-top:40px;font-size:12px;color:var(--ink3)}
+@media (max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)} .cols,.side{grid-template-columns:1fr} header{flex-direction:column}}
+@media print{.tabs,.toolbar,.drawer,button.more,.langsel{display:none!important} .pane{display:block!important} .pairs{display:block!important}}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <div class="kicker">Plagiato patikros ataskaita</div>
-    <h1 id="doctitle"></h1>
+    <div>
+      <div class="kicker" data-t="report.kicker"></div>
+      <h1 id="doctitle"></h1>
+      <div class="meta" id="docmeta"></div>
+    </div>
+    <label class="langsel"><span data-t="report.language"></span> <select id="lang"></select></label>
   </header>
 
   <section class="card verdict" id="verdict"></section>
   <section class="kpis" id="kpis"></section>
 
   <section class="card">
-    <h2>Disertacijos teksto pasiskirstymas pagal sutapimų pobūdį</h2>
+    <h2 data-t="report.composition_title"></h2>
     <div class="comp" id="comp"></div>
     <div class="legend" id="legend"></div>
   </section>
 
   <section class="card">
-    <h2>Sutapimai pagal puslapius <span class="tiny">– stulpelio aukštis rodo, kokia puslapio teksto dalis sutampa su šaltiniais; spustelėjus atveriamas puslapio tekstas</span></h2>
-    <svg id="pagemap" role="img" aria-label="Sutapimai pagal puslapius"></svg>
+    <h2><span data-t="report.pagemap_title"></span> <span class="tiny" data-t="report.pagemap_hint"></span></h2>
+    <svg id="pagemap" role="img"></svg>
   </section>
 
   <div class="tabs" id="tabs">
-    <button class="tab on" data-t="sources">Šaltiniai<span class="n" id="n-sources"></span></button>
-    <button class="tab" data-t="doc">Disertacijos tekstas</button>
-    <button class="tab" data-t="others">Kiti rasti šaltiniai<span class="n" id="n-others"></span></button>
-    <button class="tab" data-t="method">Metodika</button>
+    <button class="tab on" data-tab="sources"><span data-t="report.tab_sources"></span><span class="n" id="n-sources"></span></button>
+    <button class="tab" data-tab="doc"><span data-t="report.tab_doc"></span></button>
+    <button class="tab" data-tab="others"><span data-t="report.tab_others"></span><span class="n" id="n-others"></span></button>
+    <button class="tab" data-tab="method"><span data-t="report.tab_method"></span></button>
   </div>
 
   <div class="pane on" id="pane-sources">
     <div class="toolbar">
-      <input type="search" id="q" placeholder="Ieškoti pagal šaltinio pavadinimą, svetainę ar tekstą…">
-      <select id="fv"><option value="">Visi vertinimai</option></select>
-      <label class="chk"><input type="checkbox" id="onlyprob"> tik šaltiniai su pažeidimais</label>
+      <input type="search" id="q" data-tp="report.search_placeholder">
+      <select id="fv"></select>
+      <label class="chk"><input type="checkbox" id="onlyprob"> <span data-t="report.only_problem"></span></label>
     </div>
     <div id="srclist"></div>
   </div>
 
   <div class="pane" id="pane-doc">
     <div class="toolbar">
-      <label class="chk"><input type="checkbox" id="onlymatched" checked> rodyti tik puslapius su sutapimais</label>
-      <select id="fsrc"><option value="">Visi šaltiniai</option></select>
-      <span class="tiny">Spustelėjus pažymėtą sakinį, apačioje parodomas atitinkamas šaltinio tekstas.</span>
+      <label class="chk"><input type="checkbox" id="onlymatched" checked> <span data-t="report.only_matched_pages"></span></label>
+      <select id="fsrc"></select>
+      <span class="tiny" data-t="report.doc_hint"></span>
     </div>
     <div id="doc"></div>
   </div>
 
   <div class="pane" id="pane-others">
-    <p class="muted small">Čia pateikiamos internete rastos pačios disertacijos kopijos ir paties autoriaus publikacijos, parengtos pagal
-      disertaciją (į sutapimų apimtį jos neįskaičiuojamos), taip pat šaltiniai, kuriuose, palyginus visą tekstą, reikšmingų sutapimų
-      nerasta, ir šaltiniai, kurių teksto gauti nepavyko, o paieškos fragmentų įvertinti nepakako. <span id="unsel"></span></p>
+    <p class="muted small"><span data-t="report.others_intro"></span> <span id="unsel"></span></p>
     <div id="others"></div>
   </div>
 
   <div class="pane method" id="pane-method"></div>
+  <footer id="footer"></footer>
 </div>
 
 <div class="tip" id="tip"></div>
-<div class="drawer" id="drawer"><button class="x" aria-label="Uždaryti">×</button><div class="in" id="drawerin"></div></div>
+<div class="drawer" id="drawer"><button class="x" id="drawerx">×</button><div class="in" id="drawerin"></div></div>
 
 <script>
 const D = /*__DATA__*/null;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmt = (n, d=0) => Number(n||0).toLocaleString("lt-LT", {minimumFractionDigits:d, maximumFractionDigits:d});
-const CL = Object.fromEntries(D.classes.map(([k,l,c]) => [k, {label:l, color:c}]));
+const LANGS = Object.keys(D.locales);
+let LANG = (() => { if (D.force_lang && D.locales[D.lang]) return D.lang; try { const q = new URLSearchParams(location.search).get("lang"); if (q && D.locales[q]) return q;
+  const s = localStorage.getItem("plagcheck.report.lang"); if (s && D.locales[s]) return s; } catch(e){} return D.lang; })();
+function look(d, k){ let c = d; for (const p of k.split(".")) { if (c == null || typeof c !== "object") return null; c = c[p]; } return typeof c === "string" ? c : null; }
+function t(k, p){ let s = look(D.locales[LANG], k) ?? look(D.locales.en || {}, k) ?? k;
+  if (p) for (const [a,b] of Object.entries(p)) s = s.split("{"+a+"}").join(String(b)); return s; }
+const loc = () => (D.locales[LANG]._meta || {}).locale || LANG;
+const fmt = (n, d=0) => Number(n||0).toLocaleString(loc(), {minimumFractionDigits:d, maximumFractionDigits:d});
 const classColor = k => `var(--${k})`;
+const clsLabel = k => t("class."+k);
+const labLabel = l => l ? t("label."+l) : t("report.unrated");
+const verdictLabel = v => t("verdict."+v);
+const titleOf = s => s.tk ? t(s.tk.k, s.tk.p) : s.title;
+const fmtDate = d => !d ? "" : (d.slice(5) === "01-01" || d.length === 4) ? t("report.year", {y: d.slice(0,4)}) : d;
 const SRC = Object.fromEntries(D.sources.map(s => [s.id, s]));
 const VERDICT_CLASS = {naudotas_be_nuorodu:"copy", naudotas_dalinai_be_nuorodu:"para", naudotas_su_nuorodomis:"ok",
   velesnis_saltinis:"na", autoriaus_darbas:"na", nereiksmingas:"na"};
 const tw = D.stats.total_words;
+const pairIndex = {};
+D.sources.forEach(s => s.pairs.forEach(p => (pairIndex[p.sid] ||= []).push({s, p})));
+let docRendered = false;
 
-/* header */
-$("#doctitle").textContent = D.meta.title || "Disertacija";
+function applyStatic(){
+  document.documentElement.lang = LANG;
+  document.querySelectorAll("[data-t]").forEach(el => el.textContent = t(el.dataset.t));
+  document.querySelectorAll("[data-tp]").forEach(el => el.placeholder = t(el.dataset.tp));
+  $("#pagemap").setAttribute("aria-label", t("report.pagemap_title"));
+  $("#drawerx").setAttribute("aria-label", t("report.close"));
+}
 
-/* verdict */
-(function(){
-  const f = D.final;
+function renderHeader(){
+  $("#doctitle").textContent = D.meta.title || t("report.untitled");
+  const bits = [];
+  if (D.meta.author) bits.push(esc(D.meta.author));
+  if (D.meta.date) bits.push(esc(t("report.doc_date", {date: D.meta.date})));
+  bits.push(esc(t("report.generated", {date: D.generated})));
+  $("#docmeta").innerHTML = bits.join(" · ");
+  document.title = t("report.html_title", {title: D.meta.title || t("report.untitled")});
+}
+
+function renderVerdict(){
+  const f = D.final.auto ? Object.assign({}, D.final, {
+      headline: t("auto.final_headline", {pct: fmt(D.stats.problem_pct, 2)}), conclusion: t("auto.final_conclusion"),
+      limitations: [t("auto.final_limitation")]}) : D.final;
   const paras = String(f.conclusion||"").split(/\n\s*\n|\n/).filter(x=>x.trim()).map(p=>`<p>${esc(p)}</p>`).join("");
+  const note = !f.auto && D.text_lang && D.text_lang !== LANG ? `<div class="textlang">${esc(t("report.text_lang_note", {lang: (D.locales[D.text_lang]||{_meta:{}})._meta.name || D.text_lang}))}</div>` : "";
   $("#verdict").innerHTML = `
-    <div><span class="risk ${esc(f.risk_level)}">● Plagiato rizika: ${esc(f.risk_level)}</span>
+    <div><span class="risk ${esc(f.risk)}">● ${esc(t("report.risk", {level: t("risk."+f.risk)}))}</span>
     <div class="headline">${esc(f.headline)}</div>
-    <div class="conclusion">${paras}</div></div>
+    <div class="conclusion">${paras}</div>${note}</div>
     <div class="cols">
-      <div><h3>Pagrindinės išvados</h3><ul>${(f.key_findings||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>
-      <div><h3>Patikros ribotumai</h3><ul>${(f.limitations||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>
+      ${(f.key_findings||[]).length || !f.auto ? `<div><h3>${esc(t("report.key_findings"))}</h3><ul>${(f.key_findings||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>` : ""}
+      <div><h3>${esc(t("report.limitations"))}</h3><ul>${(f.limitations||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>
     </div>`;
-})();
+}
 
-/* KPIs */
-(function(){
-  const t = D.totals, st = D.stats;
+function renderKpis(){
+  const T = D.totals, st = D.stats;
   const pct = w => fmt(100*w/Math.max(tw,1), 1) + " %";
-  const prob = (t.copy||0)+(t.para||0)+(t.noquote||0);
+  const prob = (T.copy||0)+(T.para||0)+(T.noquote||0);
   const k = [
-    {v: fmt(st.sentences), l:"patikrinta sakinių", s: fmt(tw)+" žodžių"},
-    {v: pct(Object.values(t).reduce((a,b)=>a+b,0)), l:"teksto sutampa su šaltiniais", s: fmt(st.matched_sentences)+" sakinių"},
-    {v: pct(prob), l:"teksto perimta be tinkamų nuorodų", s: fmt(prob)+" žodžių · "+(st.problem_pages||[]).length+" psl.", alert: prob>0},
-    {v: fmt(st.n_problem_sources), l:"šaltiniai panaudoti be tinkamų nuorodų", s: "iš "+D.sources.length+" šaltinių su reikšmingais sutapimais", alert: st.n_problem_sources>0},
-    {v: fmt(st.n_candidates), l:"interneto adresų rado paieška", s: fmt(st.n_fetched)+" šaltinių palyginta su visu tekstu"},
+    {v: fmt(st.sentences), l: t("report.kpi_sentences"), s: t("report.kpi_sentences_sub", {words: fmt(tw)})},
+    {v: pct(Object.values(T).reduce((a,b)=>a+b,0)), l: t("report.kpi_matched"), s: t("report.kpi_matched_sub", {n: fmt(st.matched_sentences)})},
+    {v: pct(prob), l: t("report.kpi_problem"), s: t("report.kpi_problem_sub", {words: fmt(prob), pages: (st.problem_pages||[]).length}), alert: prob>0},
+    {v: fmt(st.n_problem_sources), l: t("report.kpi_problem_sources"), s: t("report.kpi_problem_sources_sub", {n: D.sources.length}), alert: st.n_problem_sources>0},
+    {v: fmt(st.n_candidates), l: t("report.kpi_candidates"), s: t("report.kpi_candidates_sub", {n: fmt(st.n_fetched)})},
   ];
   $("#kpis").innerHTML = k.map(x=>`<div class="kpi ${x.alert?"alert":""}"><div class="v">${x.v}</div><div class="l">${esc(x.l)}</div><div class="s">${esc(x.s)}</div></div>`).join("");
-})();
+}
 
-/* composition */
-(function(){
-  const t = D.totals; let used = 0;
-  const parts = D.classes.map(([k]) => { used += t[k]||0; return [k, t[k]||0]; });
+function renderComposition(){
+  const T = D.totals; let used = 0;
+  const parts = D.classes.map(([k]) => { used += T[k]||0; return [k, T[k]||0]; });
   parts.push(["clean", Math.max(tw-used,0)]);
+  const name = k => k==="clean" ? t("report.no_matches") : clsLabel(k);
   $("#comp").innerHTML = parts.filter(p=>p[1]>0).map(([k,w]) =>
-    `<div style="flex:${w};background:${classColor(k)}" title="${esc(k==="clean"?"Sutapimų nerasta":CL[k].label)}: ${fmt(100*w/tw,1)} %"></div>`).join("");
+    `<div style="flex:${w};background:${classColor(k)}" title="${esc(name(k))}: ${fmt(100*w/tw,1)} %"></div>`).join("");
   $("#legend").innerHTML = parts.map(([k,w]) =>
-    `<span><span class="sw" style="background:${classColor(k)}"></span>${esc(k==="clean"?"Sutapimų nerasta":CL[k].label)} <b>${fmt(100*w/tw,1)} %</b></span>`).join("");
-})();
+    `<span><span class="sw" style="background:${classColor(k)}"></span>${esc(name(k))} <b>${fmt(100*w/tw,1)} %</b></span>`).join("");
+}
 
 /* page map */
 const tip = $("#tip");
-function showTip(e, html){ tip.innerHTML = html; tip.style.display="block";
+function showTip(e, h){ tip.innerHTML = h; tip.style.display="block";
   const x = Math.min(e.clientX+14, innerWidth-300), y = Math.min(e.clientY+14, innerHeight-160);
   tip.style.left = x+"px"; tip.style.top = y+"px"; }
 function hideTip(){ tip.style.display="none"; }
 function drawMap(){
   const svg = $("#pagemap"), W = svg.clientWidth || 1100, H = 150, padL = 34, padB = 22, padT = 6;
-  const P = D.pages, n = P.length, bw = (W-padL-4)/n, gap = bw>4 ? 1.2 : 0.3;
+  const P = D.pages, n = Math.max(P.length, 1), bw = (W-padL-4)/n, gap = bw>4 ? 1.2 : 0.3;
   const y = v => padT + (H-padT-padB)*(1-v);
+  const every = n > 120 ? 20 : n > 50 ? 10 : 5;
   let g = `<line x1="${padL}" x2="${W}" y1="${y(0)}" y2="${y(0)}" stroke="var(--axis)"/>`;
   [0.5,1].forEach(v => g += `<line x1="${padL}" x2="${W}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)" stroke-dasharray="2 3"/>
     <text x="${padL-6}" y="${y(v)+4}" font-size="11" text-anchor="end" fill="var(--ink3)">${v*100}%</text>`);
@@ -262,102 +300,106 @@ function drawMap(){
       const v = w/p.w, h = (H-padT-padB)*v;
       g += `<rect x="${x+gap/2}" y="${y(acc+v)}" width="${Math.max(bw-gap,0.6)}" height="${Math.max(h,0.8)}" fill="${classColor(k)}" rx="${bw>6?1.5:0}"/>`;
       acc += v; });
-    if (p.p % 10 === 0) g += `<text x="${x+bw/2}" y="${H-6}" font-size="11" text-anchor="middle" fill="var(--ink3)">${p.p}</text>`;
+    if (p.p % every === 0) g += `<text x="${x+bw/2}" y="${H-6}" font-size="11" text-anchor="middle" fill="var(--ink3)">${p.p}</text>`;
     g += `<rect class="hit" data-i="${i}" x="${x}" y="0" width="${bw}" height="${H-padB}"/>`;
   });
   svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.innerHTML = g;
   svg.querySelectorAll("rect.hit").forEach(r => {
     const p = P[+r.dataset.i];
     r.addEventListener("mousemove", e => {
-      const rows = D.classes.filter(([k]) => (p.c||{})[k]).map(([k,l]) =>
-        `<div class="row"><span><span class="sw" style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${classColor(k)};margin-right:5px"></span>${esc(l)}</span><span>${fmt(100*p.c[k]/Math.max(p.w,1))} %</span></div>`).join("");
-      showTip(e, `<b>Puslapis ${p.p}</b> <span class="tiny">(${fmt(p.w)} žodž.)</span>${rows || '<div class="tiny">Sutapimų nerasta</div>'}`); });
+      const rows = D.classes.filter(([k]) => (p.c||{})[k]).map(([k]) =>
+        `<div class="row"><span><span class="sw" style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${classColor(k)};margin-right:5px"></span>${esc(clsLabel(k))}</span><span>${fmt(100*p.c[k]/Math.max(p.w,1))} %</span></div>`).join("");
+      showTip(e, `<b>${esc(t("report.page", {n: p.p}))}</b> <span class="tiny">(${esc(t("report.words_short", {n: fmt(p.w)}))})</span>${rows || `<div class="tiny">${esc(t("report.no_matches"))}</div>`}`); });
     r.addEventListener("mouseleave", hideTip);
     r.addEventListener("click", () => gotoPage(p.p));
   });
 }
-drawMap(); addEventListener("resize", drawMap);
+addEventListener("resize", drawMap);
 
 /* tabs */
-function setTab(t){ document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("on", b.dataset.t===t));
-  document.querySelectorAll(".pane").forEach(p=>p.classList.toggle("on", p.id==="pane-"+t));
-  if (t==="doc" && !docRendered) renderDoc(); }
-document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => setTab(b.dataset.t)));
+function setTab(tb){ document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("on", b.dataset.tab===tb));
+  document.querySelectorAll(".pane").forEach(p=>p.classList.toggle("on", p.id==="pane-"+tb));
+  if (tb==="doc" && !docRendered) renderDoc(); }
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
 
 /* sources */
-$("#n-sources").textContent = D.sources.length;
-const verdicts = [...new Set(D.sources.map(s=>s.verdict))];
-$("#fv").innerHTML += verdicts.map(v => `<option value="${esc(v)}">${esc((D.sources.find(s=>s.verdict===v)||{}).verdict_lt||v)}</option>`).join("");
-function badgeDate(s){ const c = s.date_status==="after" ? "warn" : s.date_status==="before" ? "" : "";
-  const y = s.date ? s.date.slice(0,4)+" m." : "";
-  const t = s.date_status==="before" ? `išleistas anksčiau už disertaciją${y?" ("+y+")":""}`
-          : s.date_status==="after" ? `išleistas vėliau už disertaciją${y?" ("+y+")":""}`
-          : s.date_status==="same_year" ? `išleistas tais pačiais metais${y?" ("+y+")":""}` : "išleidimo data nenustatyta";
-  return `<span class="badge ${c}" title="${esc(s.date_note||"")}">${esc(t)}</span>`; }
+function fillFilters(){
+  const fv = $("#fv"), cur = fv.value;
+  const verdicts = [...new Set(D.sources.map(s=>s.verdict))];
+  fv.innerHTML = `<option value="">${esc(t("report.all_verdicts"))}</option>` + verdicts.map(v => `<option value="${esc(v)}">${esc(verdictLabel(v))}</option>`).join("");
+  fv.value = cur;
+  const fs = $("#fsrc"), cs = fs.value;
+  fs.innerHTML = `<option value="">${esc(t("report.all_sources"))}</option>` + D.sources.map((s,i)=>`<option value="${s.id}">#${i+1} ${esc(titleOf(s).slice(0,90))}</option>`).join("");
+  fs.value = cs;
+}
+function badgeDate(s){
+  const y = s.date ? s.date.slice(0,4) : "";
+  const key = {before:"report.date_before", after:"report.date_after", same_year:"report.date_same_year"}[s.date_status];
+  const txt = key ? t(key) + (y ? ` (${y})` : "") : t("report.date_unknown");
+  return `<span class="badge ${s.date_status==="after"?"warn":""}" title="${esc(s.date_note||"")}">${esc(txt)}</span>`; }
 function pairHTML(p){
   const k = D.class_of[p.label] || "na";
+  const note = p.auto ? t("report.auto_label") : p.note;
   return `<div class="pair">
-    <div class="ph"><span class="lab ${k}">${esc(D.labels[p.label]||p.label||"nevertinta")}</span>
-      <span>disertacijos psl. ${p.page}</span><span title="Kokia disertacijos sakinio žodžių dalis sutampa ištisinėmis sekomis">· pažodžiui sutampa ${fmt(p.cov*100)} %</span><span title="Kokia reikšminių žodžių dalis bendra abiem tekstams">· bendrų reikšminių žodžių ${fmt(p.cont*100)} %</span>
-      ${p.ev==="snippet"?'<span class="badge warn">tik paieškos fragmentas</span>':""}</div>
-    <div class="side"><div><div class="h">Disertacija</div>${p.d}</div><div><div class="h">Šaltinis</div>${p.s}</div></div>
-    ${p.note?`<div class="note">${esc(p.note)}</div>`:""}</div>`;
+    <div class="ph"><span class="lab ${k}">${esc(labLabel(p.label))}</span>
+      <span>${esc(t("report.doc_page", {n: p.page}))}</span><span title="${esc(t("report.cov_hint"))}">· ${esc(t("report.cov", {pct: fmt(p.cov*100)}))}</span><span title="${esc(t("report.cont_hint"))}">· ${esc(t("report.cont", {pct: fmt(p.cont*100)}))}</span>
+      ${p.ev==="snippet"?`<span class="badge warn">${esc(t("report.snippet_only"))}</span>`:""}</div>
+    <div class="side"><div><div class="h">${esc(t("report.side_doc"))}</div>${p.d}</div><div><div class="h">${esc(t("report.side_src"))}</div>${p.s}</div></div>
+    ${note?`<div class="note">${esc(note)}</div>`:""}</div>`;
 }
 function srcCard(s, i){
   const vc = VERDICT_CLASS[s.verdict] || "na";
-  const mini = D.classes.map(([k]) => s.cls_words[k] ? `<div style="flex:${s.cls_words[k]};background:${classColor(k)}" title="${esc(CL[k].label)}: ${s.cls_words[k]} žodž."></div>` : "").join("");
+  const mini = D.classes.map(([k]) => s.cls_words[k] ? `<div style="flex:${s.cls_words[k]};background:${classColor(k)}" title="${esc(clsLabel(k))}: ${esc(t("report.words_short", {n: s.cls_words[k]}))}"></div>` : "").join("");
   const pages = s.pages.slice(0,40).map(p=>`<button class="chip" data-page="${p}">${p}</button>`).join("") + (s.pages.length>40?" …":"");
   const vbad = vc==="copy"?"bad":vc==="para"?"warn":vc==="ok"?"good":"";
+  const ev = s.evidence==="snippet" ? "report.ev_snippet" : s.evidence==="abstract" ? "report.ev_abstract" : "report.ev_fulltext";
+  const summary = s.auto_summary ? t("report.auto_summary") : s.summary;
   return `<div class="src" style="--vc:${classColor(vc)}" data-id="${s.id}">
     <div class="top"><div>
       <div class="rank">#${i+1}</div>
-      <div class="ttl">${s.local ? esc(s.title) : `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>`}</div>
-      <div class="dom">${esc(s.local ? "Lokalus failas" : s.url)}</div></div></div>
+      <div class="ttl">${s.local ? esc(titleOf(s)) : `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(titleOf(s))}</a>`}</div>
+      <div class="dom">${esc(s.local ? t("report.local_file") : s.url)}</div></div></div>
     <div class="badges">
-      <span class="badge v ${vbad}">${esc(s.verdict_lt)}</span>
-      ${s.confidence!=null?`<span class="badge">vertinimo patikimumas ${fmt(s.confidence*100)} %</span>`:""}
+      <span class="badge v ${vbad}">${esc(verdictLabel(s.verdict))}</span>
+      ${s.confidence!=null?`<span class="badge">${esc(t("report.confidence", {pct: fmt(s.confidence*100)}))}</span>`:""}
       ${badgeDate(s)}
-      <span class="badge ${s.evidence!=="fulltext"?"warn":""}">${s.evidence==="snippet"?"palyginta tik su paieškos fragmentais":s.evidence==="abstract"?"palyginta tik su santrauka ir paieškos fragmentais":"palygintas visas šaltinio tekstas"}</span>
-      ${(s.ref_match||[]).length?`<span class="badge good" title="${esc(s.ref_match.join(" | "))}">šaltinis yra literatūros sąraše</span>`
-        : (s.in_refs||[]).length?`<span class="badge">šaltinio autorių pavardės yra literatūros sąraše: ${esc(s.in_refs.join(", "))}</span>`
-        : '<span class="badge warn" title="automatinė patikra pagal pavadinimą ir autorių pavardes">literatūros sąraše šaltinis nerastas</span>'}
-      ${s.mentions_author?'<span class="badge">šaltinyje minimas disertacijos autorius (tai ne jo publikacija)</span>':""}
-      ${(s.usage||[]).map(u=>`<span class="badge">${esc(u)}</span>`).join("")}
+      <span class="badge ${s.evidence!=="fulltext"?"warn":""}">${esc(t(ev))}</span>
+      ${(s.ref_match||[]).length?`<span class="badge good" title="${esc(s.ref_match.join(" | "))}">${esc(t("report.in_refs"))}</span>`
+        : (s.in_refs||[]).length?`<span class="badge">${esc(t("report.authors_in_refs", {names: s.in_refs.join(", ")}))}</span>`
+        : `<span class="badge warn" title="${esc(t("report.not_in_refs_hint"))}">${esc(t("report.not_in_refs"))}</span>`}
+      ${s.mentions_author?`<span class="badge">${esc(t("report.mentions_author"))}</span>`:""}
+      ${(s.usage||[]).map(u=>`<span class="badge">${esc(t("usage."+u))}</span>`).join("")}
     </div>
     <div class="metrics">
-      <span>Sutampančių sakinių: <b>${s.n_pairs}</b></span>
-      <span>Žodžių: <b>${fmt(s.words)}</b> (<b>${fmt(s.pct,2)} %</b> disertacijos teksto)</span>
-      <span>Iš jų be tinkamų nuorodų: <b>${fmt(s.prob_pct,2)} %</b></span>
-      <span>Ilgiausia ištisinė sutampanti atkarpa: <b>${fmt(s.longest)}</b> žodž.</span>
+      <span>${esc(t("report.m_sentences"))}: <b>${s.n_pairs}</b></span>
+      <span>${esc(t("report.m_words"))}: <b>${fmt(s.words)}</b> (<b>${fmt(s.pct,2)} %</b> ${esc(t("report.m_of_text"))})</span>
+      <span>${esc(t("report.m_problem"))}: <b>${fmt(s.prob_pct,2)} %</b></span>
+      <span>${esc(t("report.m_longest"))}: <b>${fmt(s.longest)}</b> ${esc(t("report.words_unit"))}</span>
     </div>
     <div class="mini">${mini}</div>
-    ${s.summary?`<div class="summary">${esc(s.summary)}</div>`:""}
-    <div class="metrics"><span>Disertacijos puslapiai: <span class="chips">${pages}</span></span></div>
-    <button class="more">Rodyti sutapimus (${s.pairs.length})</button>
+    ${summary?`<div class="summary">${esc(summary)}</div>`:""}
+    <div class="metrics"><span>${esc(t("report.m_pages"))}: <span class="chips">${pages}</span></span></div>
+    <button class="more">${esc(t("report.show_pairs", {n: s.pairs.length}))}</button>
     <div class="pairs"></div></div>`;
 }
 function renderSources(){
   const q = $("#q").value.trim().toLowerCase(), fv = $("#fv").value, op = $("#onlyprob").checked;
   const list = D.sources.filter(s => (!fv || s.verdict===fv) && (!op || s.prob_words>0) &&
-    (!q || (s.title+" "+s.url+" "+s.summary+" "+s.pairs.map(p=>p.d).join(" ")).toLowerCase().includes(q)));
-  $("#srclist").innerHTML = list.length ? list.map((s,i)=>srcCard(s, D.sources.indexOf(s))).join("") : '<div class="empty">Pagal pasirinktus filtrus šaltinių nerasta.</div>';
+    (!q || (titleOf(s)+" "+s.url+" "+s.summary+" "+s.pairs.map(p=>p.d).join(" ")).toLowerCase().includes(q)));
+  $("#srclist").innerHTML = list.length ? list.map(s=>srcCard(s, D.sources.indexOf(s))).join("") : `<div class="empty">${esc(t("report.no_sources_filtered"))}</div>`;
 }
 $("#srclist").addEventListener("click", e => {
   const b = e.target.closest("button.more");
   if (b){ const card = b.closest(".src"), box = card.querySelector(".pairs"), s = SRC[card.dataset.id];
     if (!box.innerHTML) box.innerHTML = s.pairs.map(pairHTML).join("");
-    box.classList.toggle("on"); b.textContent = (box.classList.contains("on")?"Slėpti":"Rodyti")+` sutapimus (${s.pairs.length})`; return; }
+    box.classList.toggle("on");
+    b.textContent = t(box.classList.contains("on") ? "report.hide_pairs" : "report.show_pairs", {n: s.pairs.length}); return; }
   const c = e.target.closest(".chip");
   if (c){ const card = c.closest(".src"); $("#fsrc").value = card.dataset.id; docRendered=false; gotoPage(+c.dataset.page, true); }
 });
 ["#q","#fv","#onlyprob"].forEach(s => $(s).addEventListener("input", renderSources));
-renderSources();
 
 /* document */
-let docRendered = false;
-$("#fsrc").innerHTML += D.sources.map((s,i)=>`<option value="${s.id}">#${i+1} ${esc(s.title.slice(0,90))}</option>`).join("");
-const pairIndex = {};   // sid -> [{src, pair}]
-D.sources.forEach(s => s.pairs.forEach(p => (pairIndex[p.sid] ||= []).push({s, p})));
 function renderDoc(){
   const only = $("#onlymatched").checked, fs = $("#fsrc").value;
   const byPage = {};
@@ -367,14 +409,14 @@ function renderDoc(){
     const arr = byPage[p];
     const has = arr.some(x => fs ? (pairIndex[x.i]||[]).some(o=>o.s.id===fs) : x.l);
     if (only && !has) return;
-    h += `<div class="docpage" id="pg-${p}"><div class="pn"><span>Puslapis ${p}</span></div><p>` +
+    h += `<div class="docpage" id="pg-${p}"><div class="pn"><span>${esc(t("report.page", {n: p}))}</span></div><p>` +
       arr.map(x => {
         let cls = x.l;
         if (fs){ const o = (pairIndex[x.i]||[]).find(o=>o.s.id===fs); cls = o ? (D.class_of[o.p.label]||"na") : ""; }
         return cls ? `<span class="s ${cls}" data-i="${x.i}">${esc(x.t)}</span> ` : esc(x.t)+" ";
       }).join("") + `</p></div>`;
   });
-  $("#doc").innerHTML = h || '<div class="empty">Nėra puslapių su sutapimais.</div>';
+  $("#doc").innerHTML = h || `<div class="empty">${esc(t("report.no_matched_pages"))}</div>`;
   docRendered = true;
 }
 ["#onlymatched","#fsrc"].forEach(s => $(s).addEventListener("input", renderDoc));
@@ -389,53 +431,47 @@ $("#doc").addEventListener("click", e => {
   const fs = $("#fsrc").value;
   let list = (pairIndex[+sp.dataset.i]||[]); if (fs) list = list.filter(o=>o.s.id===fs);
   list = list.slice().sort((a,b) => (b.p.cov+b.p.cont) - (a.p.cov+a.p.cont));
-  $("#drawerin").innerHTML = list.map(o => `<div style="margin-bottom:6px"><b>${esc(o.s.title)}</b>
-     <span class="tiny">${esc(o.s.domain)} · ${esc(o.s.verdict_lt)}</span></div>${pairHTML(o.p)}`).join("<hr style='border:0;border-top:1px solid var(--line)'>")
-     || '<div class="muted">Šiam sakiniui atitinkančio šaltinio teksto nėra.</div>';
+  $("#drawerin").innerHTML = list.map(o => `<div style="margin-bottom:6px"><b>${esc(titleOf(o.s))}</b>
+     <span class="tiny">${esc(o.s.domain)} · ${esc(verdictLabel(o.s.verdict))}</span></div>${pairHTML(o.p)}`).join("<hr style='border:0;border-top:1px solid var(--line)'>")
+     || `<div class="muted">${esc(t("report.no_source_text"))}</div>`;
   $("#drawer").classList.add("on");
 });
-$("#drawer .x").addEventListener("click", () => $("#drawer").classList.remove("on"));
+$("#drawerx").addEventListener("click", () => $("#drawer").classList.remove("on"));
 addEventListener("keydown", e => { if (e.key==="Escape") $("#drawer").classList.remove("on"); });
 
 /* others */
-$("#n-others").textContent = D.others.length;
-$("#unsel").textContent = D.stats.n_unselected ? `Dar ${fmt(D.stats.n_unselected)} paieškos rezultatų atmesta neparsisiuntus, nes jų fragmentai su disertacijos tekstu sutapo per mažai.` : "";
-$("#others").innerHTML = D.others.length ? `<table><thead><tr><th>Šaltinis</th><th>Teksto gavimas</th><th>Išleidimo data</th><th class="num">Rasta paieškoje kartų</th><th class="num">Sutampančių sakinių</th><th>Kodėl neįtrauktas</th></tr></thead><tbody>` +
-  D.others.map(o => `<tr><td><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.title.slice(0,110))}</a><div class="dom">${esc(o.domain)}</div></td>
-    <td>${esc(D.status_lt[o.status]||o.status)}</td><td>${esc(o.date||"nenustatyta")}${o.date && o.date_status!=="unknown" ? `<div class="tiny">${esc(D.date_lt[o.date_status]||"")}</div>` : ""}</td>
-    <td class="num">${o.hits}</td><td class="num">${o.pairs}</td><td>${esc(o.reason)}</td></tr>`).join("") + "</tbody></table>"
-  : '<div class="empty">Nėra.</div>';
+function renderOthers(){
+  $("#n-sources").textContent = D.sources.length;
+  $("#n-others").textContent = D.others.length;
+  $("#unsel").textContent = D.stats.n_unselected ? t("report.unselected", {n: fmt(D.stats.n_unselected)}) : "";
+  $("#others").innerHTML = D.others.length ? `<table><thead><tr><th>${esc(t("report.th_source"))}</th><th>${esc(t("report.th_status"))}</th><th>${esc(t("report.th_date"))}</th><th class="num">${esc(t("report.th_hits"))}</th><th class="num">${esc(t("report.th_pairs"))}</th><th>${esc(t("report.th_reason"))}</th></tr></thead><tbody>` +
+    D.others.map(o => `<tr><td>${o.local ? esc(titleOf(o).slice(0,110)) : `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(titleOf(o).slice(0,110))}</a>`}<div class="dom">${esc(o.domain)}</div></td>
+      <td>${esc(t("status."+o.status))}</td><td>${esc(fmtDate(o.date) || t("date.unknown"))}${o.date && o.date_status && o.date_status!=="unknown" ? `<div class="tiny">${esc(t("date."+o.date_status))}</div>` : ""}</td>
+      <td class="num">${o.hits}</td><td class="num">${o.pairs}</td><td>${esc(t("reason."+o.reason, {n: o.pairs}))}</td></tr>`).join("") + "</tbody></table>"
+    : `<div class="empty">${esc(t("report.none"))}</div>`;
+}
 
 /* method */
-$("#pane-method").innerHTML = `<div class="card">
-<h2>Kaip atlikta patikra</h2>
-<ol>
-<li><b>Teksto parengimas.</b> Iš disertacijos PDF failo paimtas pagrindinis tekstas (psl. ${D.meta.body_pages[0]}–${D.meta.body_pages[1]}),
- be turinio, antraščių, lentelių, paveikslų pavadinimų ir literatūros sąrašo. Tekstas suskaidytas į ${fmt(D.stats.sentences)} sakinius.
- Literatūros sąrašas analizuotas atskirai – pagal jį tikrinta, ar šaltinis ir jo autoriai disertacijoje nurodyti.</li>
-<li><b>Šaltinių paieška.</b> Kiekvienas sakinys (ilgesni – persidengiančiomis iki 30 žodžių dalimis) ieškotas interneto paieškos
- sistemoje. Paieškos rezultatų fragmentai palyginti su sakiniu; šaltiniai, kuriuose rasta ilga bendra žodžių seka arba keli sutapimai,
- atsisiųsti. Jei svetainė prieigą blokavo, tekstas ieškotas atvirose mokslo duomenų bazėse (Europe PMC, Crossref, Unpaywall)
- ir interneto archyve (Wayback Machine).</li>
-<li><b>Literatūros sąrašo šaltiniai.</b> Visi literatūros sąrašo įrašai papildomai ieškoti mokslo duomenų bazėse; rasti tekstai
- ar santraukos palyginti su visa disertacija.</li>
-<li><b>Viso teksto palyginimas.</b> Kiekvienas atsisiųstas šaltinis palygintas su <i>visais</i> disertacijos sakiniais, o ne tik su tais,
- kuriuos rado paieška. Sutapimai skirstyti taip: pažodinis (≥90 % sakinio žodžių sutampa ištisinėmis sekomis), su nedideliais pakeitimais
- (60–90 %), dalinis (35–60 %, kai yra bent 6 žodžių bendra seka), galimas perfrazavimas (≥60 % bendrų reikšminių žodžių).</li>
-<li><b>Išleidimo datos patikra.</b> Šaltinio išleidimo data nustatyta pagal Crossref duomenis, puslapio metaduomenis, adresą, paieškos
- sistemos duomenis ir interneto archyvą. Už disertaciją vėlesni šaltiniai negali būti plagiato šaltiniai – dažniausiai jie patys
- perėmė tekstą iš disertacijos. Kai kurių šaltinių autorystė ir datos patikrintos rankiniu būdu (pvz., NCI „Health Behavior Constructs“
- archyvinės kopijos).</li>
-<li><b>Turinio vertinimas.</b> Kiekviena sutapimų pora įvertinta atsižvelgiant į kontekstą: ar tekstas perimtas pažodžiui be nuorodos,
- ar autorius nurodytas, bet nėra kabučių, ar tai perfrazavimas, tinkama citata, bendrinė frazė ar atsitiktinis sutapimas. Parengtos
- kiekvieno šaltinio ir bendra išvados.</li>
-</ol>
-<h2>Patikros ribotumai</h2>
-<ul>
-<li>Patikrinti tik internete prieinami šaltiniai: mokami straipsniai, knygos ir neskaitmeninti leidiniai galėjo likti nepatikrinti.</li>
-<li>Laisvas perfrazavimas ir vertimas iš kitos kalbos aptinkami tik iš dalies.</li>
-<li>Galutinį sprendimą dėl plagiato turi priimti žmogus, peržiūrėjęs pateiktas sutapimų poras.</li>
-</ul></div>`;
+function renderMethod(){
+  const p = {from: D.meta.body_pages[0], to: D.meta.body_pages[1], sentences: fmt(D.stats.sentences)};
+  $("#pane-method").innerHTML = `<div class="card">
+<h2>${esc(t("report.method_title"))}</h2>
+<ol>${["m1","m2","m3","m4","m5","m6"].map(k => `<li><b>${esc(t("report.method."+k+"_title"))}</b> ${esc(t("report.method."+k, p))}</li>`).join("")}</ol>
+<h2>${esc(t("report.limitations"))}</h2>
+<ul>${["l1","l2","l3"].map(k => `<li>${esc(t("report.method."+k))}</li>`).join("")}</ul></div>`;
+  $("#footer").textContent = t("report.footer", {version: D.version || "", date: D.generated});
+}
+
+function renderAll(){
+  applyStatic(); renderHeader(); renderVerdict(); renderKpis(); renderComposition(); drawMap();
+  fillFilters(); renderSources(); renderOthers(); renderMethod();
+  if (docRendered) renderDoc();
+}
+$("#lang").innerHTML = LANGS.map(c => `<option value="${c}">${esc((D.locales[c]._meta||{}).name || c)}</option>`).join("");
+$("#lang").value = LANG;
+if (D.embedded) $(".langsel").style.display = "none";
+$("#lang").addEventListener("change", e => { LANG = e.target.value; try { localStorage.setItem("plagcheck.report.lang", LANG); } catch(err){} renderAll(); });
+renderAll();
 </script>
 </body>
 </html>

@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title data-t="meta.title">Plagiarism – free thesis plagiarism checker for Windows, macOS and Linux</title>
+<meta name="description" data-ta="content:meta.description" content="Check a dissertation or thesis PDF for text copied or paraphrased from online sources without references. Desktop app, runs on your computer, interactive report, HTML/PDF/CSV export.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#4f5ff0">
+<link rel="canonical" href="https://paleicikas.github.io/plagiarism/">
+<link rel="alternate" hreflang="en" href="https://paleicikas.github.io/plagiarism/?lang=en">
+<link rel="alternate" hreflang="lt" href="https://paleicikas.github.io/plagiarism/?lang=lt">
+<link rel="alternate" hreflang="x-default" href="https://paleicikas.github.io/plagiarism/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Plagiarism">
+<meta property="og:title" content="Plagiarism – thesis plagiarism checker">
+<meta property="og:description" content="Add a thesis PDF, press Start, get an interactive report of text taken from online sources without references. Windows, macOS, Linux.">
+<meta property="og:url" content="https://paleicikas.github.io/plagiarism/">
+<meta property="og:image" content="https://paleicikas.github.io/plagiarism/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/icon-512.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="stylesheet" href="styles.css">
+<script>
+  (function () {   /* theme before first paint – no flash */
+    var t = null;
+    try { t = localStorage.getItem("plagcheck-theme"); } catch (e) {}
+    if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
+  })();
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Plagiarism",
+ "applicationCategory": "EducationalApplication", "operatingSystem": "Windows, macOS, Linux",
+ "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+ "url": "https://paleicikas.github.io/plagiarism/", "downloadUrl": "https://github.com/paleicikas/plagiarism/releases/latest"}
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="top" id="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#top"><span>Plagiarism</span></a>
+    <nav class="nav" id="nav" aria-label="Main">
+      <a href="#how" data-t="nav.how">How it works</a>
+      <a href="#features" data-t="nav.features">Features</a>
+      <a href="#start" data-t="nav.start">Get started</a>
+      <a href="#keys" data-t="nav.keys">API keys</a>
+      <a href="#cost" data-t="nav.cost">Cost</a>
+      <a href="#report" data-t="nav.report">Report</a>
+      <a href="#faq" data-t="nav.faq">FAQ</a>
+    </nav>
+    <div class="top-tools">
+      <div class="langsw" role="group" aria-label="Language" data-ta="aria-label:footer.lang"></div>
+      <button class="icon-btn" id="theme" type="button" title="Switch light / dark theme" data-ta="title:nav.theme,aria-label:nav.theme" aria-label="Switch light / dark theme">
+        <svg class="i-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="currentColor"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></g></svg>
+        <svg class="i-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M20.5 14.6A8.5 8.5 0 0 1 9.4 3.5a8.5 8.5 0 1 0 11.1 11.1z"/></svg>
+      </button>
+      <a class="btn small primary hide-sm" href="#download" data-t="nav.download">Download</a>
+      <button class="icon-btn show-sm" id="menu" type="button" aria-controls="nav" aria-expanded="false" data-ta="aria-label:nav.menu" aria-label="Menu">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<section class="hero" id="download">
+  <div class="wrap hero-in">
+    <div class="hero-text">
+      <p class="kicker" data-t="hero.kicker">Desktop app · Windows · macOS · Linux</p>
+      <h1 data-th="hero.title">Plagiarism won't go <em>unnoticed</em></h1>
+      <p class="lead" data-t="hero.lead">Add a thesis PDF and press Start. Plagiarism searches the web, downloads the sources, compares each of them with the whole text, lets an AI model judge every match and shows a clear, interactive report.</p>
+      <div class="cta">
+        <a class="btn primary big" id="dl-main" href="https://github.com/paleicikas/plagiarism/releases/latest">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M4 20h16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span id="dl-main-label" data-t="hero.download_generic">Download</span>
+        </a>
+        <a class="btn big" href="demo/report.html" target="_blank" rel="noopener" data-t="hero.demo">See a sample report</a>
+      </div>
+      <p class="dl-meta"><span id="dl-version"></span> <a href="#all-downloads" id="dl-other" data-t="hero.other">Other systems</a></p>
+      <p class="muted small" data-t="hero.free">Free · runs on your computer · English and Lithuanian</p>
+    </div>
+    <figure class="hero-shot">
+      <img data-shot="progress" src="assets/screens/en/progress.png" width="1320" height="880" alt="Plagiarism progress screen during a check" data-ta="alt:hero.shot_alt">
+    </figure>
+  </div>
+
+  <div class="wrap">
+    <details class="downloads" id="all-downloads">
+      <summary data-t="dl.title">All downloads</summary>
+      <div class="dl-grid">
+        <div class="dl-card"><h3>Windows</h3>
+          <a data-asset="windows-x64-setup.exe" data-t="dl.windows_setup" href="https://github.com/paleicikas/plagiarism/releases/latest">Installer (.exe)</a>
+          <a data-asset="windows-x64-portable.zip" data-t="dl.windows_zip" href="https://github.com/paleicikas/plagiarism/releases/latest">Portable (.zip)</a></div>
+        <div class="dl-card"><h3>macOS</h3>
+          <a data-asset="macos-arm64.dmg" data-t="dl.mac_arm" href="https://github.com/paleicikas/plagiarism/releases/latest">Apple silicon (.dmg)</a>
+          <a data-asset="macos-x64.dmg" data-t="dl.mac_intel" href="https://github.com/paleicikas/plagiarism/releases/latest">Intel (.dmg)</a></div>
+        <div class="dl-card"><h3>Linux</h3>
+          <a data-asset=".AppImage" data-t="dl.linux" href="https://github.com/paleicikas/plagiarism/releases/latest">AppImage</a></div>
+        <div class="dl-card"><h3>&nbsp;</h3>
+          <a data-asset="SHA256SUMS.txt" data-t="dl.checksums" href="https://github.com/paleicikas/plagiarism/releases/latest">SHA-256 checksums</a>
+          <a href="https://github.com/paleicikas/plagiarism/releases" data-t="dl.all">All releases</a></div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="sec" id="how">
+  <div class="wrap">
+    <h2 data-t="how.title">How it works</h2>
+    <p class="sec-lead" data-t="how.lead">Six automatic steps. You see each of them live on the progress screen and can pause, resume or cancel at any time.</p>
+    <ol class="steps">
+      <li><span class="num">1</span><h3 data-t="how.s1.t">Extract</h3><p data-t="how.s1.d">Reads the PDF and keeps only the main text: the table of contents, tables, headings and the reference list are left out. Quotations and citations are marked.</p></li>
+      <li><span class="num">2</span><h3 data-t="how.s2.t">Search</h3><p data-t="how.s2.d">Turns sentences into search queries and looks for them on the web (Google via Serper, Tavily or DuckDuckGo). Already made queries are cached.</p></li>
+      <li><span class="num">3</span><h3 data-t="how.s3.t">Fetch</h3><p data-t="how.s3.d">Downloads the candidate sources and dates them. Blocked publishers are reached through open-access copies, Europe PMC, OpenAlex/Crossref and the Wayback archive.</p></li>
+      <li><span class="num">4</span><h3 data-t="how.s4.t">Align</h3><p data-t="how.s4.d">Compares every source with the entire text – not just the sentence that was searched – so whole copied passages and paraphrases are found.</p></li>
+      <li><span class="num">5</span><h3 data-t="how.s5.t">Verify</h3><p data-t="how.s5.d">An AI model labels each match (verbatim, paraphrase, proper quotation, common phrase…) and checks whether the source is cited nearby. Then it writes an overall conclusion.</p></li>
+      <li><span class="num">6</span><h3 data-t="how.s6.t">Report</h3><p data-t="how.s6.d">An interactive report with the overall risk, a page map, every source and side-by-side sentence pairs. Export to HTML, PDF, CSV, JSON or ZIP.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="sec alt" id="features">
+  <div class="wrap">
+    <h2 data-t="feat.title">Built for real theses</h2>
+    <div class="cards">
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h10v2H4z"/></svg></div><h3 data-t="feat.f1.t">Whole-text comparison</h3><p data-t="feat.f1.d">Each source is compared with all sentences of the thesis, so copied paragraphs are found even when only one sentence was searched.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg></div><h3 data-t="feat.f2.t">Sources are dated</h3><p data-t="feat.f2.d">Publication dates come from Crossref, OpenAlex, page metadata and the Wayback archive. Sources newer than the thesis are marked as “reverse” and not counted.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 17h3l2-4V7H5v6h3zm8 0h3l2-4V7h-6v6h3z"/></svg></div><h3 data-t="feat.f3.t">Citations are checked</h3><p data-t="feat.f3.d">Is the source in the reference list? Is its author cited next to the sentence? Are there quotation marks? Proper quotations are not counted as problems.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.01 14H2v2h7.01v3L13 15l-3.99-4v3zm5.98-1v-3H22V8h-7.01V5L11 9l3.99 4z"/></svg></div><h3 data-t="feat.f4.t">Paraphrases, not only copies</h3><p data-t="feat.f4.d">Rare shared words and word sequences reveal texts rewritten with a few words changed.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7.5 11C9.43 11 11 9.43 11 7.5S9.43 4 7.5 4 4 5.57 4 7.5 5.57 11 7.5 11zm0-5C8.33 6 9 6.67 9 7.5S8.33 9 7.5 9 6 8.33 6 7.5 6.67 6 7.5 6zM4 18.6 18.6 4 20 5.4 5.4 20zM16.5 13c-1.93 0-3.5 1.57-3.5 3.5s1.57 3.5 3.5 3.5 3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5zm0 5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg></div><h3 data-t="feat.f5.t">Extent you can quote</h3><p data-t="feat.f5.d">Words, percentage of the text, pages and the longest continuous passages – per source and in total.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg></div><h3 data-t="feat.f6.t">Your own work is separated</h3><p data-t="feat.f6.d">Online copies of the thesis itself and the author's own articles are detected and reported separately.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 18.49l6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99z"/></svg></div><h3 data-t="feat.f7.t">Detailed live progress</h3><p data-t="feat.f7.d">Every step with counters, the current activity, cost so far, time left, warnings and a full log. Interrupted checks resume where they stopped.</p></article>
+      <article class="card"><div class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM9 8V6c0-1.66 1.34-3 3-3s3 1.34 3 3v2H9z"/></svg></div><h3 data-t="feat.f8.t">Private by design</h3><p data-t="feat.f8.d">Everything runs and is stored on your computer. Keys are kept in the system's credential store.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="gallery">
+  <div class="wrap">
+    <h2 data-t="gallery.title">A look inside</h2>
+    <div class="gallery">
+      <figure><button type="button" class="shot" data-i="0"><img data-shot="wizard" src="assets/screens/en/wizard.png" width="1320" height="880" loading="lazy" alt="" data-ta="alt:gallery.wizard"></button><figcaption data-t="gallery.wizard">First start: language and API keys, each with a Test button</figcaption></figure>
+      <figure><button type="button" class="shot" data-i="1"><img data-shot="setup" src="assets/screens/en/setup.png" width="1320" height="880" loading="lazy" alt="" data-ta="alt:gallery.setup"></button><figcaption data-t="gallery.setup">Before starting: detected title and author, options and a cost estimate</figcaption></figure>
+      <figure><button type="button" class="shot" data-i="2"><img data-shot="progress" src="assets/screens/en/progress.png" width="1320" height="880" loading="lazy" alt="" data-ta="alt:gallery.progress"></button><figcaption data-t="gallery.progress">Live progress of every step, warnings and the log</figcaption></figure>
+      <figure><button type="button" class="shot" data-i="3"><img data-shot="report" src="assets/screens/en/report.png" width="1320" height="880" loading="lazy" alt="" data-ta="alt:gallery.report"></button><figcaption data-t="gallery.report">The interactive report inside the app, with export</figcaption></figure>
+    </div>
+  </div>
+  <dialog class="lightbox" id="lightbox">
+    <img alt="">
+    <p class="lb-cap"></p>
+    <button type="button" class="icon-btn lb-close" data-ta="aria-label:gallery.close" aria-label="Close">✕</button>
+    <button type="button" class="icon-btn lb-prev" data-ta="aria-label:gallery.prev" aria-label="Previous">‹</button>
+    <button type="button" class="icon-btn lb-next" data-ta="aria-label:gallery.next" aria-label="Next">›</button>
+  </dialog>
+</section>
+
+<section class="sec alt" id="start">
+  <div class="wrap">
+    <h2 data-t="start.title">Get started in three steps</h2>
+    <ol class="three">
+      <li>
+        <span class="num">1</span><h3 data-t="start.s1.t">Download and install</h3>
+        <p data-t="start.s1.d">Choose the file for your system above.</p>
+        <ul class="os-notes">
+          <li data-os="windows" data-th="start.win"><b>Windows:</b> run the installer. If SmartScreen says “Windows protected your PC”, click <b>More info → Run anyway</b> (the app is not code-signed).</li>
+          <li data-os="mac" data-th="start.mac"><b>macOS:</b> open the .dmg and drag Plagiarism to Applications. The first time, right-click the app → <b>Open</b> → <b>Open</b> (or System Settings → Privacy &amp; Security → <b>Open Anyway</b>).</li>
+          <li data-os="linux" data-th="start.linux"><b>Linux:</b> <code>chmod +x Plagiarism-*.AppImage</code> and run it. If it does not start, install FUSE 2: <code>sudo apt install libfuse2</code>.</li>
+        </ul>
+      </li>
+      <li><span class="num">2</span><h3 data-t="start.s2.t">Enter API keys</h3><p data-t="start.s2.d">The first-start wizard asks for them and tests each one. You can skip it and try the offline demo first – see the guide below for where to get the keys.</p></li>
+      <li><span class="num">3</span><h3 data-t="start.s3.t">Add a PDF and press Start</h3><p data-t="start.s3.d">Check the detected title and pages, look at the estimate and start. You will get a notification when the report is ready.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="sec" id="keys">
+  <div class="wrap">
+    <h2 data-t="keys.title">API keys: what you need</h2>
+    <p class="sec-lead" data-t="keys.lead">Keys are entered once in the app and stored in Windows Credential Manager, macOS Keychain or the Linux Secret Service. With no keys at all, the app can still use free DuckDuckGo search and automatic metrics without AI.</p>
+    <div class="keys">
+      <article class="key"><header><h3 data-t="keys.serper.t">Serper – web search</h3><span class="tag rec" data-t="keys.need">Recommended</span></header>
+        <p data-t="keys.serper.d">Google results through an API. The best coverage for this task.</p>
+        <p class="price" data-t="keys.serper.price">2,500 free queries for a new account (enough for a ~200-page thesis), then about $1 per 1,000.</p>
+        <p class="how" data-th="keys.serper.steps">Sign up at serper.dev → <b>API key</b> on the dashboard → copy it into Plagiarism.</p>
+        <a class="ext" href="https://serper.dev" target="_blank" rel="noopener">serper.dev ↗</a></article>
+      <article class="key"><header><h3 data-t="keys.anthropic.t">Anthropic (Claude) – AI judgement</h3><span class="tag rec" data-t="keys.need">Recommended</span></header>
+        <p data-t="keys.anthropic.d">Labels the matches and writes the conclusion. Claude Sonnet is the default.</p>
+        <p class="price" data-t="keys.anthropic.price">Pay as you go; about $0.50–1.50 per 200-page thesis.</p>
+        <p class="how" data-th="keys.anthropic.steps">console.anthropic.com → <b>Billing</b>: add credit → <b>API keys</b> → <b>Create key</b>.</p>
+        <a class="ext" href="https://console.anthropic.com" target="_blank" rel="noopener">console.anthropic.com ↗</a></article>
+      <article class="key"><header><h3 data-t="keys.unpaywall.t">Unpaywall – open-access PDFs</h3><span class="tag free" data-t="keys.free_tag">Free</span></header>
+        <p data-t="keys.unpaywall.d">Finds free legal copies of journal articles, so fewer sources are “unreachable”.</p>
+        <p class="price" data-t="keys.unpaywall.price">Free – only your e-mail address, no sign-up.</p>
+        <p class="how" data-th="keys.unpaywall.steps">Just enter your e-mail address in Plagiarism.</p>
+        <a class="ext" href="https://unpaywall.org/products/api" target="_blank" rel="noopener">unpaywall.org ↗</a></article>
+      <article class="key"><header><h3 data-t="keys.tavily.t">Tavily – backup search</h3><span class="tag" data-t="keys.optional">Optional</span></header>
+        <p data-t="keys.tavily.d">Used automatically when Serper credits run out.</p>
+        <p class="price" data-t="keys.tavily.price">1,000 free queries every month.</p>
+        <p class="how" data-th="keys.tavily.steps">Sign up at tavily.com → copy the key that starts with <code>tvly-</code>.</p>
+        <a class="ext" href="https://tavily.com" target="_blank" rel="noopener">tavily.com ↗</a></article>
+      <article class="key"><header><h3 data-t="keys.openai.t">OpenAI – AI judgement (alternative)</h3><span class="tag" data-t="keys.optional">Optional</span></header>
+        <p data-t="keys.openai.d">Use instead of Anthropic if you prefer. Any OpenAI-compatible endpoint can be set in Settings.</p>
+        <p class="price" data-t="keys.openai.price">Pay as you go; GPT-5 mini costs well under $1 per thesis.</p>
+        <p class="how" data-th="keys.openai.steps">platform.openai.com → <b>Billing</b>: add credit → <b>API keys</b> → <b>Create new secret key</b>.</p>
+        <a class="ext" href="https://platform.openai.com/api-keys" target="_blank" rel="noopener">platform.openai.com ↗</a></article>
+    </div>
+    <p class="note" data-t="keys.safety">Never share your keys or paste them into documents. You can revoke a key on the service's website at any time.</p>
+  </div>
+</section>
+
+<section class="sec alt" id="cost">
+  <div class="wrap">
+    <h2 data-t="cost.title">How much does a check cost?</h2>
+    <p class="sec-lead" data-t="cost.lead">The same formulas as the estimate the app shows before starting (the app's figure is more precise – it counts the real sentences).</p>
+    <div class="calc">
+      <form class="calc-in" id="calc" onsubmit="return false">
+        <label><span data-t="cost.pages">Pages of main text</span>
+          <span class="range"><input type="range" id="c-pages" min="20" max="500" step="5" value="165"><output id="c-pages-out">165</output></span></label>
+        <label><span data-t="cost.wpp">Words per page</span>
+          <input type="number" id="c-wpp" min="100" max="700" step="5" value="265"></label>
+        <label><span data-t="cost.engine">Search</span>
+          <select id="c-engine"><option value="serper">Serper (Google)</option><option value="tavily">Tavily</option><option value="ddg">DuckDuckGo</option></select></label>
+        <label class="check"><input type="checkbox" id="c-fresh" checked> <span data-t="cost.fresh">New Serper account (2,500 free queries)</span></label>
+        <label><span data-t="cost.model">AI model</span>
+          <select id="c-model">
+            <option value="claude-sonnet-5-5">Claude Sonnet</option><option value="claude-opus">Claude Opus</option>
+            <option value="claude-haiku">Claude Haiku</option><option value="gpt-5-mini">GPT-5 mini</option>
+            <option value="gpt-5">GPT-5</option><option value="none" data-t="cost.none">No AI (automatic metrics only)</option>
+          </select></label>
+      </form>
+      <div class="calc-out" aria-live="polite">
+        <div class="kv"><span data-t="cost.queries">Search queries</span><b id="o-queries">–</b></div>
+        <div class="kv"><span data-t="cost.search_cost">Search</span><b id="o-search">–</b></div>
+        <div class="kv"><span data-t="cost.ai_cost">AI</span><b id="o-ai">–</b></div>
+        <div class="kv total"><span data-t="cost.total">Total</span><b id="o-total">–</b></div>
+        <div class="kv"><span data-t="cost.time">Duration</span><b id="o-time">–</b></div>
+        <p class="muted small" id="o-sources"></p>
+        <p class="muted small" data-t="cost.note">Repeating a check costs almost nothing: search and AI results are cached.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="report">
+  <div class="wrap">
+    <h2 data-t="legend.title">Reading the report</h2>
+    <p class="sec-lead" data-t="legend.lead">Every match gets an automatic category from the text comparison and, with AI enabled, a label that takes citations into account. Only the first three labels count as problems.</p>
+    <div class="legend">
+      <div>
+        <h3 data-t="legend.cats">Automatic categories</h3>
+        <ul class="cats">
+          <li><i class="sw copy"></i><span data-th="legend.c_identical"><b>Verbatim</b> – at least 90 % of the sentence's words are in word sequences shared with the source.</span></li>
+          <li><i class="sw para"></i><span data-th="legend.c_minor"><b>Minor edits</b> – 60–90 %: the sentence was copied and a few words changed.</span></li>
+          <li><i class="sw noquote"></i><span data-th="legend.c_partial"><b>Partial</b> – 35–60 % and a shared sequence of at least 6 words.</span></li>
+          <li><i class="sw ok"></i><span data-th="legend.c_para"><b>Possible paraphrase</b> – at least 60 % shared content words (rare words weigh more).</span></li>
+        </ul>
+        <h3 data-t="legend.labels">AI labels</h3>
+        <ol class="labels">
+          <li class="bad" data-t="label.pazodinis_be_nuorodos">Taken verbatim or nearly verbatim without a reference</li>
+          <li class="bad" data-t="label.pazodinis_su_nuoroda_be_kabuciu">Taken verbatim without quotation marks (author cited)</li>
+          <li class="bad" data-t="label.perfrazuota_be_nuorodos">Closely paraphrased without a reference</li>
+          <li data-t="label.perfrazuota_su_nuoroda">Paraphrased with a reference (acceptable)</li>
+          <li data-t="label.tinkamas_citavimas">Properly quoted (quotation marks and reference)</li>
+          <li data-t="label.bendrine_fraze">Common phrase, term or questionnaire item</li>
+          <li data-t="label.atvirkstinis">Source is later than the thesis</li>
+          <li data-t="label.autoriaus_darbas">Another work by the author</li>
+          <li data-t="label.klaidingas_sutapimas">Coincidental match</li>
+        </ol>
+      </div>
+      <div class="pair-demo">
+        <h3 data-t="legend.try">Try it: choose an example</h3>
+        <div class="seg" role="tablist" id="ex-tabs">
+          <button type="button" role="tab" data-ex="e1" data-t="legend.ex1" aria-selected="true">Verbatim</button>
+          <button type="button" role="tab" data-ex="e2" data-t="legend.ex2">Minor edits</button>
+          <button type="button" role="tab" data-ex="e3" data-t="legend.ex3">Paraphrase</button>
+          <button type="button" role="tab" data-ex="e4" data-t="legend.ex4">Proper quotation</button>
+        </div>
+        <div class="pair">
+          <div><span class="side" data-t="legend.doc">Thesis</span><p id="ex-doc"></p></div>
+          <div><span class="side" data-t="legend.src">Source</span><p id="ex-src"></p></div>
+        </div>
+        <p class="muted small" data-t="legend.shared">Shared word sequences are highlighted.</p>
+        <dl class="metrics">
+          <div><dt data-t="legend.verbatim">Verbatim match</dt><dd id="ex-cov">–</dd></div>
+          <div><dt data-t="legend.content">Shared content words</dt><dd id="ex-cont">–</dd></div>
+          <div><dt data-t="legend.category">Category</dt><dd id="ex-cat">–</dd></div>
+          <div><dt data-t="legend.label">AI label</dt><dd id="ex-label">–</dd></div>
+        </dl>
+        <a class="btn" href="demo/report.html" target="_blank" rel="noopener" data-t="legend.sample">Open the full sample report</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec alt" id="privacy">
+  <div class="wrap two">
+    <div>
+      <h2 data-t="privacy.title">Privacy</h2>
+      <ul class="ticks">
+        <li data-t="privacy.p1">The PDF, the downloaded sources and the reports stay on your computer. There is no Plagiarism server and no account.</li>
+        <li data-t="privacy.p2">Only short phrases (search queries) are sent to the search service, and the matched sentence pairs to the AI provider you chose – under your own API keys and their terms.</li>
+        <li data-t="privacy.p3">API keys are stored in the operating system's credential store, never in project files or reports.</li>
+        <li data-t="privacy.p4">No analytics or tracking in the app or on this website.</li>
+      </ul>
+    </div>
+    <div>
+      <h2 data-t="limits.title">Limits – please read</h2>
+      <ul class="warns">
+        <li data-t="limits.l1">Web search does not find unindexed, paywalled or print-only sources. Add such files as local sources (PDF/TXT/HTML).</li>
+        <li data-t="limits.l2">Free paraphrasing and translation from another language are only partly detected.</li>
+        <li data-t="limits.l3">AI labels can be wrong. The result is an aid: the final decision must be made by a person who has reviewed the sentence pairs in the report.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="faq">
+  <div class="wrap narrow">
+    <h2 data-t="faq.title">Frequently asked questions</h2>
+    <div class="faq">
+      <details><summary data-t="faq.q1.q">How long does a check take?</summary><p data-th="faq.q1.a">Usually 20–40 minutes for a 200-page thesis with Serper; up to an hour or more with free DuckDuckGo search. The estimate before starting shows the expected time for your document.</p></details>
+      <details><summary data-t="faq.q2.q">What if the check is interrupted?</summary><p data-th="faq.q2.a">Open it from <b>Checks</b> and press <b>Resume</b>. Search queries, downloads and AI answers are cached, so nothing that was already done is repeated or paid for twice.</p></details>
+      <details><summary data-t="faq.q3.q">Why are some sources “unreachable”?</summary><p data-th="faq.q3.a">Some publishers block automatic downloads. Plagiarism then tries open-access copies, Europe PMC, Crossref/OpenAlex and the Wayback archive; if all fail, the search snippets or the abstract are assessed with lower confidence. You can add the article as a local source.</p></details>
+      <details><summary data-t="faq.q4.q">What are local sources?</summary><p data-th="faq.q4.a">Files you add yourself – for example paywalled articles from the reference list. Put the year in the file name (<code>Smith_2002_review.pdf</code>) so the date can be checked too.</p></details>
+      <details><summary data-t="faq.q5.q">Can I use it without API keys?</summary><p data-th="faq.q5.a">Yes. Enable free DuckDuckGo search in Settings and choose “no AI”: you get the automatic categories and percentages without AI labels. The built-in demo runs completely offline.</p></details>
+      <details><summary data-t="faq.q6.q">Which languages are supported?</summary><p data-th="faq.q6.a">The interface and reports are in English and Lithuanian. The checked documents can be in any language that uses spaces between words; the AI conclusion is written in the report language. Adding a language takes one translated JSON file.</p></details>
+      <details><summary data-t="faq.q7.q">Does the report work without the app?</summary><p data-th="faq.q7.a">Yes. The exported HTML report is a single file that works offline in any browser and has its own language switch. There is also a printable PDF summary and CSV/JSON data.</p></details>
+      <details><summary data-t="faq.q8.q">Is it safe to install?</summary><p data-th="faq.q8.a">The builds are made automatically by GitHub Actions from the public source code; every release lists SHA-256 checksums. They are not code-signed yet, which is why Windows and macOS show a warning the first time.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="sec alt" id="dev">
+  <div class="wrap">
+    <h2 data-t="dev.title">For developers</h2>
+    <p class="sec-lead" data-t="dev.lead">Plagiarism is written in Python. The same engine runs from the command line, and every push to the main branch builds and publishes new installers.</p>
+    <div class="dev-grid">
+      <div><h3 data-t="dev.cli">Command line</h3>
+<pre><code>pip install -r requirements.txt
+python run.py estimate --pdf thesis.pdf
+python run.py all -y --pdf thesis.pdf --lang en
+python run.py verify --llm none   # no AI</code></pre></div>
+      <div><h3 data-t="dev.build">Run from source and build</h3>
+<pre><code>python -m app.main                # desktop app
+python -m pytest
+pip install -r requirements-dev.txt
+pyinstaller packaging/plagcheck.spec</code></pre></div>
+      <div><h3 data-t="dev.lang">Add a language</h3>
+        <p data-th="dev.lang_d">Copy <code>plagcheck/locales/en.json</code> to <code>&lt;code&gt;.json</code>, translate the values and run the tests – the app, the reports and the exports pick it up automatically.</p>
+        <a class="btn" href="https://github.com/paleicikas/plagiarism#for-developers" target="_blank" rel="noopener" data-t="dev.readme">Read the developer guide</a></div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <div class="foot-brand"><b>Plagiarism</b> <span class="muted" id="foot-version">Artūras Paleičikas</span>
+      <p class="muted small" data-t="footer.made">Plagiarism – a tool that helps reviewers, not a replacement for them.</p></div>
+    <nav class="foot-links">
+      <a href="https://github.com/paleicikas/plagiarism" target="_blank" rel="noopener" data-t="footer.source">Source code</a>
+      <a href="https://github.com/paleicikas/plagiarism/releases" target="_blank" rel="noopener" data-t="footer.releases">Releases</a>
+      <a href="https://github.com/paleicikas/plagiarism/issues" target="_blank" rel="noopener" data-t="footer.issues">Report a problem</a>
+      <a href="https://github.com/paleicikas/plagiarism/actions/workflows/build.yml" target="_blank" rel="noopener" class="badge-link">
+        <img src="https://github.com/paleicikas/plagiarism/actions/workflows/build.yml/badge.svg" alt="Build status" data-ta="alt:footer.build" height="20" loading="lazy"></a>
+    </nav>
+    <div class="langsw" role="group" aria-label="Language" data-ta="aria-label:footer.lang"></div>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

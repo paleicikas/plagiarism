@@ -1,0 +1,39 @@
+[project]
+name = "plagcheck"
+# Major.minor of the app. CI appends the build number: 1.0.<run number> (see .github/workflows/build.yml).
+version = "1.0"
+description = "Plagiarism check for theses and other long PDF documents against online sources – desktop app and CLI"
+readme = "README.md"
+authors = [{name = "Artūras Paleičikas"}]
+requires-python = ">=3.10"
+dependencies = [
+  "pymupdf>=1.24",
+  "requests>=2.31",
+  "beautifulsoup4>=4.12",
+  "trafilatura>=1.8",
+  "rapidfuzz>=3.0",
+  "anthropic>=0.40",
+  "python-dotenv>=1.0",
+  "ddgs>=9.0",
+]
+
+[project.optional-dependencies]
+app = ["pywebview>=5.3", "platformdirs>=4.0", "keyring>=25.0"]
+dev = ["pytest>=8.0", "pyinstaller>=6.10", "pillow>=10.0"]
+
+[project.urls]
+Homepage = "https://paleicikas.github.io/plagiarism/"
+Source = "https://github.com/paleicikas/plagiarism"
+
+[project.gui-scripts]
+plagcheck-app = "app.main:main"
+
+[tool.setuptools]
+packages = ["plagcheck", "app"]
+
+[tool.setuptools.package-data]
+plagcheck = ["template.html", "locales/*.json"]
+app = ["ui/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

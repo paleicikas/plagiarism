@@ -10,6 +10,8 @@ from collections import Counter
 from datetime import datetime
 
 from .config import Config, parse_pages
+from .errors import PipelineError
+from .progress import Progress, activity
 from .util import clean_text, split_sentences, word_count, write_json, log, tokens
 
 BODY_START_RE = re.compile(r"^\s*(KEY DEFINITIONS|INTRODUCTION|ĮVADAS|PAGRINDINĖS SĄVOKOS|SĄVOKOS|"
@@ -94,7 +96,7 @@ def detect_ranges(doc):
     return list(range(body_start, body_end + 1)), refs
 
 
-def extract_body(doc, pages: list[int]):
+def extract_body(doc, pages: list[int], prog=None):
     paragraphs = []      # list of dict(section, pieces=[(text, page)])
     section = ""
     cur = None
@@ -108,6 +110,8 @@ def extract_body(doc, pages: list[int]):
         cur = None
 
     for pno in pages:
+        if prog:
+            prog.tick(current=activity("extract", page=pno, pages=len(doc)))
         page = doc[pno - 1]
         lines = _page_lines(page)
         if not lines:
@@ -213,42 +217,75 @@ def parse_references(doc, pages):
     return out
 
 
-def run(cfg: Config):
+def open_pdf(path):
     import pymupdf
-    doc = pymupdf.open(cfg.pdf)
+    try:
+        doc = pymupdf.open(path)
+    except Exception as e:
+        raise PipelineError("pdf.open_failed", f"Cannot open PDF {path}: {e}", path=str(path), detail=str(e))
+    if doc.needs_pass:
+        raise PipelineError("pdf.encrypted", f"PDF is password-protected: {path}", path=str(path))
+    if len(doc) == 0:
+        raise PipelineError("pdf.empty", f"PDF has no pages: {path}", path=str(path))
+    return doc
+
+
+def guess_metadata(doc) -> dict:
+    """Title, author, date and page ranges guessed from the PDF (shown in the app for the user to correct)."""
+    meta = doc.metadata or {}
+    m = re.match(r"D:(\d{4})(\d{2})(\d{2})", meta.get("creationDate", "") or "")
+    doc_date = f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else ""
+    first_page = clean_text(doc[0].get_text())
+    runs, run_ = [], []   # longest run of consecutive upper-case lines that is not the university name
+    for ln in first_page.splitlines():
+        ln = ln.strip()
+        if ln and ln.isupper() and len(ln) > 3:
+            run_.append(ln)
+        elif run_:
+            runs.append(" ".join(run_)); run_ = []
+    if run_:
+        runs.append(" ".join(run_))
+    runs = [r for r in runs if not re.search(r"UNIVERSIT|ACADEMY|INSTITUT|AKADEMIJA|DISSERTATION|DISERTACIJA", r)]
+    title = max(runs, key=len) if runs else ""
+    if not title and (meta.get("title") or "").strip() and not re.search(r"\.docx?$|^microsoft word", meta["title"], re.I):
+        title = meta["title"].strip()
+    author = next((ln.strip() for ln in first_page.splitlines()[:12] if re.fullmatch(
+        r"[A-ZĄČĘĖĮŠŲŪŽ][a-ząčęėįšųūž]+(?: [A-ZĄČĘĖĮŠŲŪŽ][a-ząčęėįšųūž]+){1,2}", ln.strip())), "")
+    if not author and (meta.get("author") or "").strip():
+        author = meta["author"].strip()
+    body, refs = detect_ranges(doc)
+    return dict(pages=len(doc), title=title, author=author, date=doc_date,
+                body_pages=f"{body[0]}-{body[-1]}" if body else "",
+                ref_pages=f"{refs[0]}-{refs[-1]}" if refs else "")
+
+
+def inspect_pdf(path) -> dict:
+    doc = open_pdf(path)
+    try:
+        return guess_metadata(doc)
+    finally:
+        doc.close()
+
+
+def run(cfg: Config):
+    doc = open_pdf(cfg.pdf)
     auto_body, auto_refs = detect_ranges(doc)
-    body = parse_pages(cfg.body_pages) or auto_body
-    refs = parse_pages(cfg.ref_pages) if cfg.ref_pages else auto_refs
+    body = [p for p in (parse_pages(cfg.body_pages) or auto_body) if 1 <= p <= len(doc)] or auto_body
+    refs = [p for p in (parse_pages(cfg.ref_pages) if cfg.ref_pages else auto_refs) if 1 <= p <= len(doc)]
     log(f"PDF: {cfg.pdf}, {len(doc)} pages. Checking pages {body[0]}–{body[-1]}; references: "
         f"{(str(refs[0]) + '–' + str(refs[-1])) if refs else 'not found'}")
 
-    meta = doc.metadata or {}
-    doc_date = cfg.doc_date
-    if not doc_date:
-        m = re.match(r"D:(\d{4})(\d{2})(\d{2})", meta.get("creationDate", "") or "")
-        doc_date = f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else ""
-    first_page = clean_text(doc[0].get_text())
-    title = cfg.doc_title
-    if not title:     # longest run of consecutive upper-case lines that is not the university name
-        runs, cur = [], []
-        for ln in first_page.splitlines():
-            ln = ln.strip()
-            if ln and ln.isupper() and len(ln) > 3:
-                cur.append(ln)
-            elif cur:
-                runs.append(" ".join(cur)); cur = []
-        if cur:
-            runs.append(" ".join(cur))
-        runs = [r for r in runs if not re.search(r"UNIVERSIT|ACADEMY|INSTITUT|AKADEMIJA|DISSERTATION|DISERTACIJA", r)]
-        title = max(runs, key=len) if runs else ""
-    author = cfg.doc_author or next((ln.strip() for ln in first_page.splitlines()[:12] if re.fullmatch(
-        r"[A-ZĄČĘĖĮŠŲŪŽ][a-ząčęėįšųūž]+(?: [A-ZĄČĘĖĮŠŲŪŽ][a-ząčęėįšųūž]+){1,2}", ln.strip())), "")
+    guess = guess_metadata(doc)
+    doc_date = cfg.doc_date or guess["date"]
+    title = cfg.doc_title or guess["title"]
+    author = cfg.doc_author or guess["author"]
     markers = [m.strip() for m in cfg.author_markers.split(",") if m.strip()]
     if not markers and author:
         from .util import strip_accents
         markers = [author.split()[-1], strip_accents(author.split()[-1])]
 
-    paragraphs = extract_body(doc, body)
+    prog = Progress(len(body), "Reading PDF", phase="extract.pages")
+    paragraphs = extract_body(doc, body, prog)
     sentences = []
     for pi, para in enumerate(paragraphs):
         text, offs = _join_pieces(para["pieces"])
@@ -265,6 +302,9 @@ def run(cfg: Config):
                 id=len(sentences), page=_page_at(offs, k), para=pi, section=para["section"], text=s,
                 words=wc, cite=bool(CITE_RE.search(s)), quote='"' in s,
                 search=ok and wc >= cfg.query_min_words, align=ok and wc >= 5))
+    if not any(s["align"] for s in sentences):
+        raise PipelineError("pdf.no_text", "No text could be extracted from the PDF (scanned image?). "
+                                           "Use a PDF with a text layer.")
     references = parse_references(doc, refs) if refs else []
     total_words = sum(s["words"] for s in sentences if s["align"])
     out = dict(meta=dict(pdf=str(cfg.pdf), pages=len(doc), body_pages=[body[0], body[-1]],

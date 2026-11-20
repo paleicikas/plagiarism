@@ -15,6 +15,7 @@ from urllib.parse import quote
 
 from .config import Config
 from .fetch import _get, unpaywall_pdf
+from .progress import checkpoint, activity
 from .util import KVCache, Progress, log, read_json, write_json, tokens
 
 CACHE_V = "v2|"
@@ -135,6 +136,9 @@ def lookup(ref: dict, email: str) -> dict:
 
 def run(cfg: Config):
     seg = read_json(cfg.path("segments.json"))
+    if not seg:
+        from .errors import PipelineError
+        raise PipelineError("data.missing", "Run this first: python run.py extract", step="extract")
     refs = seg.get("references", [])
     cache = KVCache(cfg.path("cache_refs.sqlite"))
     out, todo = [], []
@@ -145,23 +149,32 @@ def run(cfg: Config):
         elif hit:
             out.append(hit)
     log(f"Reference list entries: {len(refs)}; to look up (OpenAlex → Crossref): {len(todo)}")
-    prog = Progress(len(todo), "Reference sources")
+    prog = Progress(len(todo), "Reference sources", phase="refs.lookup")
+    prog.set(counters={"cached": len(refs) - len(todo), "found": 0, "not_found": 0, "errors": 0})
     failed = 0
+
+    def work(r):
+        checkpoint()
+        prog.set(current=activity("refs", ref=r["raw"][:120]))
+        return lookup(r, cfg.unpaywall_email)
+
     with ThreadPoolExecutor(max_workers=3) as ex:
-        futs = {ex.submit(lookup, r, cfg.unpaywall_email): r for r in todo}
+        futs = {ex.submit(work, r): r for r in todo}
         for f in as_completed(futs):
             r = futs[f]
+            kind = "errors"
             try:
                 res = f.result()
                 cache.set(CACHE_V + r["raw"], res)
                 if res:
                     out.append(res)
+                kind = "found" if res else "not_found"
             except Transient:
                 failed += 1            # not cached – will be retried next time
             except Exception as e:
                 failed += 1
                 log("Error:", repr(e)[:150])
-            prog.tick()
+            prog.tick(count=kind)
     write_json(cfg.path("ref_seeds.json"), out)
     log(f"Found: {len(out)} of {len(refs)} (OpenAlex {sum(o.get('via') == 'openalex' for o in out)}, "
         f"Crossref {sum(o.get('via') == 'crossref' for o in out)}; open-access PDFs: {sum(o['oa'] for o in out)}). "

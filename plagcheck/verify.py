@@ -10,7 +10,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
+import threading
+
 from .config import Config
+from .errors import PipelineError
+from .estimate import llm_cost
+from .i18n import english_name, t
+from .progress import checkpoint, activity, warn
 from .util import KVCache, Progress, log, read_json, sha1, write_json
 
 PAIR_LABELS = {
@@ -36,37 +42,50 @@ SOURCE_VERDICTS = {
 CAT_LT = {"identical": "pažodinis", "minor_edit": "nedideli pakeitimai", "partial": "dalinis sutapimas",
           "paraphrase": "galimas perfrazavimas"}
 
-SOURCE_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "pairs": {"type": "array", "items": {"type": "object", "properties": {
-            "id": {"type": "integer"},
-            "label": {"type": "string", "enum": list(PAIR_LABELS)},
-            "note": {"type": "string", "description": "Short explanation in Lithuanian (up to 25 words)"}},
-            "required": ["id", "label"]}},
-        "verdict": {"type": "string", "enum": list(SOURCE_VERDICTS)},
-        "confidence": {"type": "number", "description": "0..1"},
-        "usage_types": {"type": "array", "items": {"type": "string", "enum": [
-            "pažodinis kopijavimas", "kopijavimas su nedideliais pakeitimais", "perfrazavimas",
-            "struktūros / argumentų sekos perėmimas", "citavimas"]}},
-        "summary": {"type": "string", "description": "2–5 sentence conclusion about this source, in Lithuanian"},
-    },
-    "required": ["pairs", "verdict", "confidence", "summary"],
-}
+# Internal ids of usage types and risk levels (kept stable so cached LLM answers stay valid);
+# their display texts are in the locale files (usage.*, risk.*).
+USAGE_TYPES = ["pažodinis kopijavimas", "kopijavimas su nedideliais pakeitimais", "perfrazavimas",
+               "struktūros / argumentų sekos perėmimas", "citavimas"]
+RISK_LEVELS = ["žema", "vidutinė", "aukšta"]
 
-FINAL_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "risk_level": {"type": "string", "enum": ["žema", "vidutinė", "aukšta"]},
-        "headline": {"type": "string", "description": "One-sentence conclusion, in Lithuanian"},
-        "conclusion": {"type": "string", "description": "Detailed conclusion, 2–4 paragraphs, in Lithuanian"},
-        "key_findings": {"type": "array", "items": {"type": "string"}},
-        "limitations": {"type": "array", "items": {"type": "string"}},
-    },
-    "required": ["risk_level", "headline", "conclusion", "key_findings", "limitations"],
-}
 
-SYSTEM = """You are an academic integrity expert checking a doctoral dissertation for plagiarism.
+def source_schema(lang: str) -> dict:
+    return {
+        "type": "object",
+        "properties": {
+            "pairs": {"type": "array", "items": {"type": "object", "properties": {
+                "id": {"type": "integer"},
+                "label": {"type": "string", "enum": list(PAIR_LABELS)},
+                "note": {"type": "string", "description": f"Short explanation in {lang} (up to 25 words)"}},
+                "required": ["id", "label"]}},
+            "verdict": {"type": "string", "enum": list(SOURCE_VERDICTS)},
+            "confidence": {"type": "number", "description": "0..1"},
+            "usage_types": {"type": "array", "items": {"type": "string", "enum": USAGE_TYPES}},
+            "summary": {"type": "string", "description": f"2–5 sentence conclusion about this source, in {lang}"},
+        },
+        "required": ["pairs", "verdict", "confidence", "summary"],
+    }
+
+
+def final_schema(lang: str) -> dict:
+    return {
+        "type": "object",
+        "properties": {
+            "risk_level": {"type": "string", "enum": RISK_LEVELS},
+            "headline": {"type": "string", "description": f"One-sentence conclusion, in {lang}"},
+            "conclusion": {"type": "string", "description": f"Detailed conclusion, 2–4 paragraphs, in {lang}"},
+            "key_findings": {"type": "array", "items": {"type": "string"}},
+            "limitations": {"type": "array", "items": {"type": "string"}},
+        },
+        "required": ["risk_level", "headline", "conclusion", "key_findings", "limitations"],
+    }
+
+
+def system_prompt(lang: str) -> str:
+    return SYSTEM_TPL.replace("{lang}", lang)
+
+
+SYSTEM_TPL = """You are an academic integrity expert checking a doctoral dissertation for plagiarism.
 You are given automatically detected pairs of matching text between the dissertation and one external source.
 Task: assign a label to each pair and assess whether, how and to what extent the source was used.
 
@@ -84,7 +103,7 @@ Important rules:
 - Be strict but fair: do not overrate isolated short matches; however, several consecutive matching phrases from the
   same source are strong evidence.
 - If only a search fragment (snippet) is available, assess more cautiously and lower your confidence.
-Write your answers in Lithuanian, as an expert reviewer; do not mention artificial intelligence, language models, or that the assessment is automated.
+Write your answers in {lang}, as an expert reviewer; do not mention artificial intelligence, language models, or that the assessment is automated.
 Refer to locations by page numbers (not by internal sentence numbers)."""
 
 
@@ -96,14 +115,24 @@ class LLM:
         self.cache = KVCache(cfg.path("cache_llm.sqlite"))
         self.provider = cfg.llm_provider
         self.usage = {"input": 0, "output": 0}
+        self.lock = threading.Lock()
         if self.provider == "anthropic":
             if not cfg.anthropic_key:
-                raise SystemExit("ANTHROPIC_API_KEY is not set (or set LLM_PROVIDER=none)")
+                raise PipelineError("llm.no_key", "ANTHROPIC_API_KEY is not set (or set LLM_PROVIDER=none)",
+                                    provider="Anthropic")
             import anthropic
             self.client = anthropic.Anthropic(api_key=cfg.anthropic_key, max_retries=5)
         elif self.provider == "openai":
             if not cfg.openai_key:
-                raise SystemExit("OPENAI_API_KEY is not set")
+                raise PipelineError("llm.no_key", "OPENAI_API_KEY is not set", provider="OpenAI")
+        else:
+            raise PipelineError("llm.unknown_provider", f"Unknown LLM_PROVIDER '{self.provider}'",
+                                provider=self.provider)
+
+    def _add_usage(self, i: int, o: int):
+        with self.lock:
+            self.usage["input"] += i
+            self.usage["output"] += o
 
     def json(self, system: str, user: str, schema: dict, model: str, max_tokens: int = 8000) -> dict:
         key = sha1(json.dumps([self.provider, model, system, user, schema], ensure_ascii=False))
@@ -120,8 +149,7 @@ class LLM:
                     messages=[{"role": "user", "content": user}],
                     tools=[{"name": "submit", "description": "Submit the assessment", "input_schema": schema}],
                     tool_choice={"type": "auto"})
-                self.usage["input"] += resp.usage.input_tokens
-                self.usage["output"] += resp.usage.output_tokens
+                self._add_usage(resp.usage.input_tokens, resp.usage.output_tokens)
                 out = next((b.input for b in resp.content if b.type == "tool_use"), None)
                 if out is None:       # replied with text – try to extract JSON
                     txt = "".join(getattr(b, "text", "") for b in resp.content)
@@ -146,8 +174,7 @@ class LLM:
             r.raise_for_status()
             j = r.json()
             u = j.get("usage", {})
-            self.usage["input"] += u.get("prompt_tokens", 0)
-            self.usage["output"] += u.get("completion_tokens", 0)
+            self._add_usage(u.get("prompt_tokens", 0), u.get("completion_tokens", 0))
             out = json.loads(j["choices"][0]["message"]["content"])
         self.cache.set(key, out)
         return out
@@ -236,7 +263,7 @@ def heuristic_source(src: dict, labels: dict) -> dict:
         v = "naudotas_dalinai_be_nuorodu"
     else:
         v = "naudotas_su_nuorodomis"
-    return dict(verdict=v, confidence=0.4, usage_types=[], summary="Automatinis įvertinimas pagal sutapimų metrikas.")
+    return dict(verdict=v, confidence=0.4, usage_types=[], summary="", auto=True)
 
 
 # ---------------------------------------------------------------- run
@@ -244,18 +271,31 @@ def heuristic_source(src: dict, labels: dict) -> dict:
 def run(cfg: Config, only_top: int | None = None):
     seg = read_json(cfg.path("segments.json"))
     mt = read_json(cfg.path("matches.json"))
+    if not (seg and mt):
+        raise PipelineError("data.missing", "Run extract, search, fetch and align first.", step="align")
     sents, meta = seg["sentences"], seg["meta"]
     rel = [s for s in mt["sources"] if s["relevant"]]
     if only_top:
         rel = rel[:only_top]
     use_llm = cfg.llm_provider != "none"
     llm = LLM(cfg) if use_llm else None
+    lang = english_name(cfg.report_lang)
+    system = system_prompt(lang)
     log(f"Sources to assess: {len(rel)} ({'LLM ' + cfg.llm_model if use_llm else 'heuristics'})")
     verdicts = {}
     fatal_errors = []
-    prog = Progress(len(rel), "LLM assessment")
+    prog = Progress(len(rel), "LLM assessment", phase="verify.sources")
+    prog.set(counters={"pairs": 0, "problem_pairs": 0, "problem_sources": 0, "llm_errors": 0},
+             cost={"model": cfg.llm_model if use_llm else None, "input": 0, "output": 0, "usd": 0.0})
+
+    def track_cost():
+        if llm:
+            prog.set(cost=dict(llm.usage, usd=llm_cost(cfg.llm_model, llm.usage)))
 
     def judge(src):
+        checkpoint()
+        prog.set(current=activity("verify", domain=src.get("domain", ""), title=(src.get("title") or "")[:100],
+                             pairs=len(src["pairs"])))
         pairs = pick_pairs(src["pairs"], cfg.llm_max_pairs)
         if not use_llm:
             labels = {p["sid"]: heuristic_pair(p, src) for p in pairs}
@@ -263,7 +303,7 @@ def run(cfg: Config, only_top: int | None = None):
             out["pairs"] = [dict(id=k, label=v, note="") for k, v in labels.items()]
             out["llm"] = False
             return out
-        out = llm.json(SYSTEM, source_prompt(src, pairs, sents, meta), SOURCE_SCHEMA, cfg.llm_model)
+        out = llm.json(system, source_prompt(src, pairs, sents, meta), source_schema(lang), cfg.llm_model)
         out = dict(out)
         out["llm"] = True
         valid = {p["sid"] for p in pairs}
@@ -281,7 +321,7 @@ def run(cfg: Config, only_top: int | None = None):
         got = {p["id"] for p in clean}
         for p in pairs:              # LLM skipped a pair -> heuristic label
             if p["sid"] not in got:
-                out.setdefault("pairs", []).append(dict(id=p["sid"], label=heuristic_pair(p, src), note="(automatinė žyma)"))
+                out.setdefault("pairs", []).append(dict(id=p["sid"], label=heuristic_pair(p, src), note="", auto=True))
         return out
 
     with ThreadPoolExecutor(max_workers=cfg.llm_workers if use_llm else 1) as ex:
@@ -293,12 +333,17 @@ def run(cfg: Config, only_top: int | None = None):
             except Exception as e:
                 msg = str(getattr(e, "message", "") or e)
                 log(f"LLM error ({s['domain']}): {type(e).__name__}: {msg[:500]}")
+                prog.count("llm_errors")
                 fatal_errors.append(msg)
                 if len(fatal_errors) >= 3 and len(set(m[:80] for m in fatal_errors[-3:])) == 1 and \
                         not any(v.get("llm") for v in verdicts.values()):
                     ex.shutdown(cancel_futures=True)
-                    raise SystemExit("LLM requests keep failing (same error) – stopping. "
-                                     "Check the API key, model name (LLM_MODEL) and credit balance.")
+                    raise PipelineError("llm.repeated_failure",
+                                        "LLM requests keep failing (same error) – stopping. "
+                                        "Check the API key, model name (LLM_MODEL) and credit balance.",
+                                        detail=msg[:300])
+                if len(fatal_errors) == 1:
+                    warn("llm.error", f"LLM error: {msg[:200]}", detail=msg[:200])
                 pairs = pick_pairs(s["pairs"], cfg.llm_max_pairs)
                 labels = {p["sid"]: heuristic_pair(p, s) for p in pairs}
                 v = heuristic_source(s, labels)
@@ -306,6 +351,13 @@ def run(cfg: Config, only_top: int | None = None):
                 v["llm"] = False
                 v["error"] = repr(e)[:300]
                 verdicts[s["sid"]] = v
+            v = verdicts[s["sid"]]
+            n_prob = sum(p["label"] in PROBLEM_LABELS for p in v["pairs"])
+            prog.count("pairs", len(v["pairs"]))
+            prog.count("problem_pairs", n_prob)
+            if v.get("verdict") in ("naudotas_be_nuorodu", "naudotas_dalinai_be_nuorodu"):
+                prog.count("problem_sources")
+            track_cost()
             prog.tick()
 
     # pairs not sent to LLM (beyond llm_max_pairs) inherit heuristic labels
@@ -314,20 +366,26 @@ def run(cfg: Config, only_top: int | None = None):
         have = {int(p["id"]) for p in v["pairs"]}
         for p in s["pairs"]:
             if p["sid"] not in have:
-                v["pairs"].append(dict(id=p["sid"], label=heuristic_pair(p, s), note="(automatinė žyma)"))
+                v["pairs"].append(dict(id=p["sid"], label=heuristic_pair(p, s), note="", auto=True))
 
     stats = summarize(rel, verdicts, sents, mt["stats"])
     final = None
     if use_llm:
+        pf = Progress(1, "Final conclusion", phase="verify.final")
+        pf.set(current=activity("final", model=cfg.llm_final_model or cfg.llm_model))
         try:
-            final = llm.json(SYSTEM, final_prompt(rel, verdicts, stats, meta), FINAL_SCHEMA,
+            final = llm.json(system, final_prompt(rel, verdicts, stats, meta, lang), final_schema(lang),
                              cfg.llm_final_model or cfg.llm_model, max_tokens=6000)
         except Exception as e:
             log(f"Final conclusion error: {e!r}"[:300])
+            warn("llm.final_failed", f"Final conclusion failed: {e!r}"[:300])
+        track_cost()
+        pf.tick()
     if not final:
-        final = heuristic_final(stats)
+        final = heuristic_final(stats, cfg.report_lang)
     out = dict(verdicts=verdicts, stats=stats, final=final, model=cfg.llm_model if use_llm else None,
-               usage=llm.usage if llm else None)
+               usage=llm.usage if llm else None, lang=cfg.report_lang,
+               usd=llm_cost(cfg.llm_model, llm.usage) if llm else 0.0)
     write_json(cfg.path("verdicts.json"), out)
     if llm:
         log(f"LLM tokens: input {llm.usage['input']}, output {llm.usage['output']}")
@@ -369,7 +427,7 @@ def summarize(rel, verdicts, sents, base_stats):
                 problem_pages=pages, by_verdict=by_verdict)
 
 
-def final_prompt(rel, verdicts, stats, meta) -> str:
+def final_prompt(rel, verdicts, stats, meta, lang: str = "Lithuanian") -> str:
     L = [f"DISSERTATION: „{meta.get('title', '')}“, {meta.get('author', '')}, {meta.get('date', '')}. "
          f"Checked {stats['sentences']} sentences, {stats['total_words']} words.",
          "", "SUMMARY BY LABEL (sentences / words / % of the dissertation text):"]
@@ -384,18 +442,17 @@ def final_prompt(rel, verdicts, stats, meta) -> str:
         L.append(f"- {s.get('title') or s['domain']} | {s['url']} | {v['verdict']} ({v.get('confidence')}) | "
                  f"{s['n_pairs']} sent., {s['pct']} %, problematic pairs {prob} | date: {s.get('date_note')} | "
                  f"{v.get('summary', '')[:600]}")
-    L.append("\nWrite an overall conclusion in Lithuanian: whether the dissertation likely uses external sources without proper references, "
+    L.append(f"\nWrite an overall conclusion in {lang}: whether the dissertation likely uses external sources without proper references, "
              "which sources, in what way (verbatim, with modifications, by paraphrasing) and to what extent (percentages, "
              "pages). Clearly separate proven cases from doubtful ones. State the limitations of the method. "
              "Refer to locations by page numbers – do NOT cite internal sentence numbers (IDs).")
     return "\n".join(L)
 
 
-def heuristic_final(stats) -> dict:
+def heuristic_final(stats, lang: str = "lt") -> dict:
     p = stats["problem_pct"]
     risk = "aukšta" if p >= 5 else "vidutinė" if p >= 1 else "žema"
-    return dict(risk_level=risk,
-                headline=f"Be tinkamų nuorodų sutampa apie {p} % disertacijos teksto (preliminarus automatinis įvertinimas).",
-                conclusion="Ši išvada remiasi tik automatinėmis sutapimų metrikomis. "
-                           "Rekomenduojama sutapimus peržiūrėti rankiniu būdu.",
-                key_findings=[], limitations=["Automatinis vertinimas neatskiria bendrinių frazių ir citavimo niuansų."])
+    return dict(risk_level=risk, auto=True,
+                headline=t("auto.final_headline", lang, pct=p),
+                conclusion=t("auto.final_conclusion", lang),
+                key_findings=[], limitations=[t("auto.final_limitation", lang)])

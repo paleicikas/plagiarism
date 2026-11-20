@@ -16,6 +16,7 @@ from urllib.parse import quote, unquote, urlsplit
 import requests
 
 from .config import Config
+from .progress import checkpoint, activity
 from .util import KVCache, Progress, YEAR_RE, clean_text, log, norm_url, read_json, sha1, write_json, domain
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -657,6 +658,9 @@ def load_local_sources(cfg: Config) -> list[dict]:
 
 def run(cfg: Config):
     seg = read_json(cfg.path("segments.json"))
+    if not seg:
+        from .errors import PipelineError
+        raise PipelineError("data.missing", "Run this first: python run.py extract", step="extract")
     cands = read_json(cfg.path("candidates.json"), [])
     doc_date = seg["meta"].get("date") or ""
     sel = [c for c in cands if c.get("selected")]
@@ -676,9 +680,16 @@ def run(cfg: Config):
         else:
             todo.append(c)
     log(f"Sources selected: {len(sel)}, already downloaded: {len(sources)}, remaining: {len(todo)}")
-    prog = Progress(len(todo), "Downloading")
+    prog = Progress(len(todo), "Downloading", phase="fetch.download")
+    prog.set(counters={"cached": len(sources), "ok": 0, "blocked": 0, "error": 0, "fallback": 0, "partial": 0})
+
+    def work(c):
+        checkpoint()
+        prog.set(current=activity("fetch", domain=c["domain"], url=c["url"][:160]))
+        return fetch_one(c, cfg, doc_date)
+
     with ThreadPoolExecutor(max_workers=cfg.fetch_workers) as ex:
-        futs = {ex.submit(fetch_one, c, cfg, doc_date): c for c in todo}
+        futs = {ex.submit(work, c): c for c in todo}
         for f in as_completed(futs):
             c = futs[f]
             try:
@@ -692,12 +703,19 @@ def run(cfg: Config):
                 (src_dir / f"{s['sid']}.txt").write_text(text, encoding="utf-8")
             cache.set(c["nurl"], s)
             sources.append(s)
-            prog.tick(extra=f"{s['status']} {s['domain']}")
+            via = str(s.get("via") or "")
+            if s["status"] == "ok" and via and not via.startswith(("direct", "http")):
+                prog.count("fallback")
+                if s.get("partial"):
+                    prog.count("partial")
+            prog.tick(extra=f"{s['status']} {s['domain']}", count=s["status"])
     if todo_meta:
         log(f"Additional metadata (dates) for {len(todo_meta)} already downloaded sources...")
-        pm = Progress(len(todo_meta), "Metadata")
+        pm = Progress(len(todo_meta), "Metadata", phase="fetch.metadata")
 
         def em(s):
+            checkpoint()
+            pm.set(current=activity("metadata", domain=s.get("domain", "")))
             enrich_meta(s, cfg, True)
             s.pop("_abstract", None)
             s.pop("_pmcid", None)

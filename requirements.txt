@@ -1,3 +1,4 @@
+# check engine (CLI: python run.py ...)
 pymupdf>=1.24
 requests>=2.31
 beautifulsoup4>=4.12
@@ -6,3 +7,8 @@ rapidfuzz>=3.0
 anthropic>=0.40
 python-dotenv>=1.0
 ddgs>=9.0        # free search without a key (SEARCH_BACKEND=ddg)
+
+# desktop app (python -m app.main)
+pywebview>=5.3
+platformdirs>=4.0
+keyring>=25.0

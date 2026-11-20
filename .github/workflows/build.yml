@@ -1,0 +1,163 @@
+name: Build
+
+# Every push to main builds the app for Windows, macOS (Apple silicon + Intel) and Linux and publishes
+# a GitHub release (marked "latest" – the website's download buttons point at it).
+# Pull requests only build and upload the files as workflow artifacts.
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["site/**", "**.md", "docs/**", ".github/workflows/pages.yml"]
+  pull_request:
+    paths-ignore: ["site/**", "**.md", "docs/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+permissions:
+  contents: read
+
+env:
+  PYTHON_VERSION: "3.12"
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.v.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: v
+        run: |
+          base=$(python3 -c "import tomllib; print(tomllib.load(open('pyproject.toml','rb'))['project']['version'])")
+          echo "version=${base}.${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - run: python -m pytest -q
+
+  build:
+    needs: [version, test]
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { os: windows-latest, target: windows-x64 }
+          - { os: macos-latest, target: macos-arm64 }
+          - { os: macos-15-intel, target: macos-x64 }
+          - { os: ubuntu-22.04, target: linux-x86_64 }
+    runs-on: ${{ matrix.os }}
+    env:
+      VERSION: ${{ needs.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Linux system libraries (Qt WebEngine)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libegl1 libgl1 libxkbcommon-x11-0 libxcb-cursor0 \
+            libxcb-icccm4 libxcb-keysyms1 libxcb-shape0 libxcb-xinerama0 libxcb-randr0 libxcb-render-util0 \
+            libxcb-image0 libnss3 libxcomposite1 libxdamage1 libxrandr2 libxtst6 libasound2 libfuse2 file
+
+      - name: Python packages
+        shell: bash
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+          if [ "$RUNNER_OS" = "Linux" ]; then pip install "pywebview[qt]" PyQt6-WebEngine; fi
+
+      - name: Stamp version
+        shell: bash
+        run: echo "__version__ = \"$VERSION\"" > plagcheck/_version.py
+
+      - name: PyInstaller
+        run: pyinstaller packaging/plagcheck.spec --noconfirm
+
+      - name: Self-test (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $env:PLAGCHECK_SELFTEST_LOG = "$env:RUNNER_TEMP\selftest.txt"
+          $p = Start-Process dist\Plagiarism\Plagiarism.exe -ArgumentList "--selftest" -Wait -PassThru
+          Get-Content $env:PLAGCHECK_SELFTEST_LOG
+          if ($p.ExitCode -ne 0) { exit $p.ExitCode }
+      - name: Self-test (macOS)
+        if: runner.os == 'macOS'
+        run: dist/Plagiarism.app/Contents/MacOS/Plagiarism --selftest
+      - name: Self-test (Linux)
+        if: runner.os == 'Linux'
+        run: dist/Plagiarism/Plagiarism --selftest
+
+      - name: Package (Windows installer + portable zip)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force release | Out-Null
+          if (-not (Get-Command iscc -ErrorAction SilentlyContinue)) {
+            if (Test-Path "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe") { $env:PATH += ";${env:ProgramFiles(x86)}\Inno Setup 6" }
+            else { choco install innosetup -y --no-progress; $env:PATH += ";${env:ProgramFiles(x86)}\Inno Setup 6" }
+          }
+          iscc /DAppVersion=$env:VERSION "/DSourceDir=$PWD\dist\Plagiarism" "/DOutputDir=$PWD\release" packaging\windows\plagcheck.iss
+          Compress-Archive -Path dist\Plagiarism -DestinationPath "release\Plagiarism-$env:VERSION-windows-x64-portable.zip"
+      - name: Package (macOS dmg)
+        if: runner.os == 'macOS'
+        run: bash packaging/macos/build_dmg.sh "$VERSION" "${{ matrix.target == 'macos-arm64' && 'arm64' || 'x64' }}" release
+      - name: Package (Linux AppImage)
+        if: runner.os == 'Linux'
+        run: bash packaging/linux/build_appimage.sh "$VERSION" release
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Plagiarism-${{ matrix.target }}
+          path: release/*
+          if-no-files-found: error
+          retention-days: 14
+
+  release:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: [version, build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      VERSION: ${{ needs.version.outputs.version }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: release
+          merge-multiple: true
+      - name: Checksums
+        run: cd release && sha256sum * > SHA256SUMS.txt && cat SHA256SUMS.txt
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.VERSION }}
+          name: Plagiarism ${{ env.VERSION }}
+          target_commitish: ${{ github.sha }}
+          generate_release_notes: true
+          make_latest: "true"
+          files: release/*
+          body: |
+            **Download:** Windows – `…-windows-x64-setup.exe` (or the portable `.zip`) · macOS – `…-macos-arm64.dmg` (Apple silicon) or `…-macos-x64.dmg` (Intel) · Linux – `….AppImage`.
+
+            The builds are not code-signed: Windows SmartScreen may show "Windows protected your PC" (click *More info → Run anyway*); on macOS right-click the app and choose *Open* the first time. See the [guide](https://paleicikas.github.io/plagiarism/#start).
+      - name: Keep only the 10 newest releases
+        run: |
+          gh release list --repo "$GITHUB_REPOSITORY" --limit 200 --json tagName,createdAt \
+            --jq 'sort_by(.createdAt) | reverse | .[10:] | .[].tagName' |
+          while read -r tag; do
+            [ -n "$tag" ] && gh release delete "$tag" --repo "$GITHUB_REPOSITORY" --yes --cleanup-tag
+          done

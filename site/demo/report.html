@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Physical Activity And Wellbeing Among University Students</title>
+<style>
+:root{
+  --page:#f9f9f7; --surface:#fcfcfb; --card:#ffffff; --ink:#0b0b0b; --ink2:#52514e; --ink3:#7a7974;
+  --line:#e1e0d9; --axis:#c3c2b7; --accent:#2a78d6;
+  --copy:#d03b3b; --para:#ec835a; --noquote:#fab219; --ok:#2a78d6; --na:#a3a29b; --clean:#ecebe6;
+  --copy-t:rgba(208,59,59,.16); --para-t:rgba(236,131,90,.20); --noquote-t:rgba(250,178,25,.24);
+  --ok-t:rgba(42,120,214,.13); --na-t:rgba(163,162,155,.20); --mark:rgba(208,59,59,.20);
+}
+@media (prefers-color-scheme: dark){
+  :root{ --page:#0d0d0d; --surface:#1a1a19; --card:#161615; --ink:#f0efec; --ink2:#c3c2b7; --ink3:#8d8c85;
+    --line:#2c2c2a; --axis:#383835; --accent:#3987e5; --ok:#3987e5; --clean:#262624; --na:#6f6e69;
+    --copy-t:rgba(208,59,59,.30); --para-t:rgba(236,131,90,.28); --noquote-t:rgba(250,178,25,.25);
+    --ok-t:rgba(57,135,229,.25); --na-t:rgba(140,140,135,.22); --mark:rgba(230,103,103,.35);}
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--page);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+.wrap{max-width:1240px;margin:0 auto;padding:28px 24px 80px}
+header{display:flex;gap:16px;justify-content:space-between;align-items:flex-start}
+header .kicker{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3)}
+header h1{font-size:26px;line-height:1.25;margin:6px 0 4px;font-weight:650}
+header .meta{color:var(--ink2);font-size:14px}
+.langsel{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--ink3);white-space:nowrap}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px}
+section{margin-top:22px}
+h2{font-size:17px;margin:0 0 12px;font-weight:650}
+.muted{color:var(--ink2)} .small{font-size:13px} .tiny{font-size:12px;color:var(--ink3)}
+.textlang{font-size:12px;color:var(--ink3);margin-top:8px;font-style:italic}
+/* verdict */
+.verdict{display:grid;grid-template-columns:1fr;gap:16px}
+.risk{display:inline-flex;align-items:center;gap:8px;font-weight:650;font-size:13px;padding:4px 12px;border-radius:999px}
+.risk.high{background:var(--copy-t);color:var(--copy)} .risk.medium{background:var(--noquote-t);color:#9a6700}
+.risk.low{background:var(--ok-t);color:var(--ok)}
+@media (prefers-color-scheme: dark){.risk.medium{color:var(--noquote)}}
+.headline{font-size:19px;font-weight:600;margin:10px 0 8px;line-height:1.35}
+.conclusion p{margin:0 0 10px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:6px}
+.cols h3{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink3);margin:0 0 6px}
+.cols ul{margin:0;padding-left:18px} .cols li{margin-bottom:4px}
+/* kpis */
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.kpi .v{font-size:28px;font-weight:650;line-height:1.1;font-variant-numeric:tabular-nums}
+.kpi .l{font-size:13px;color:var(--ink2);margin-top:4px}
+.kpi .s{font-size:12px;color:var(--ink3)}
+.kpi.alert .v{color:var(--copy)}
+/* composition */
+.comp{display:flex;height:22px;border-radius:6px;overflow:hidden;gap:2px;background:var(--surface)}
+.comp div{height:100%;min-width:2px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:10px;font-size:13px;color:var(--ink2)}
+.legend span.sw{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.legend b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+/* page map */
+#pagemap{width:100%;height:150px;display:block}
+#pagemap rect.hit{fill:transparent;cursor:pointer}
+#pagemap rect.hit:hover{fill:rgba(127,127,127,.12)}
+.tip{position:fixed;pointer-events:none;background:var(--card);border:1px solid var(--line);border-radius:8px;
+  padding:8px 10px;font-size:12.5px;box-shadow:0 6px 24px rgba(0,0,0,.12);z-index:50;display:none;max-width:280px}
+.tip .row{display:flex;justify-content:space-between;gap:14px} .tip .row span:last-child{font-variant-numeric:tabular-nums}
+/* tabs */
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:28px;position:sticky;top:0;background:var(--page);z-index:20;padding-top:6px;overflow-x:auto}
+.tab{border:0;background:none;color:var(--ink2);font:inherit;font-weight:550;padding:10px 14px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
+.tab.on{color:var(--ink);border-bottom-color:var(--ink)}
+.tab .n{font-size:12px;color:var(--ink3);margin-left:4px}
+.pane{display:none;padding-top:16px} .pane.on{display:block}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}
+input[type=search],select{font:inherit;font-size:14px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+input[type=search]{min-width:260px}
+label.chk{font-size:14px;color:var(--ink2);display:flex;gap:6px;align-items:center}
+/* source cards */
+.src{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px 14px 20px;margin-bottom:12px;position:relative;overflow:hidden}
+.src::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--vc,var(--na))}
+.src .top{display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+.src .rank{font-size:12px;color:var(--ink3);font-variant-numeric:tabular-nums}
+.src .ttl{font-weight:600;font-size:15.5px;line-height:1.3;word-break:break-word}
+.src .dom{font-size:12.5px;color:var(--ink3);word-break:break-all}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.badge{font-size:12px;padding:2px 9px;border-radius:999px;background:var(--clean);color:var(--ink2);white-space:nowrap}
+.badge.v{font-weight:600;color:var(--ink)}
+.badge.warn{background:var(--noquote-t)} .badge.bad{background:var(--copy-t)} .badge.good{background:var(--ok-t)}
+.metrics{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:10px;font-size:13px;color:var(--ink2)}
+.metrics b{color:var(--ink);font-variant-numeric:tabular-nums;font-weight:600}
+.mini{display:flex;height:8px;border-radius:4px;overflow:hidden;gap:2px;margin-top:10px;max-width:420px;background:var(--surface)}
+.summary{margin-top:10px;font-size:14.5px}
+.chips{display:inline-flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:12px;padding:0 6px;border:1px solid var(--line);border-radius:5px;cursor:pointer;color:var(--ink2);background:none}
+.chip:hover{border-color:var(--ink3);color:var(--ink)}
+button.more{margin-top:10px;font:inherit;font-size:13.5px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 12px;border-radius:8px;cursor:pointer}
+.pairs{margin-top:12px;display:none} .pairs.on{display:block}
+.pair{border-top:1px solid var(--line);padding:12px 0}
+.pair .ph{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12.5px;color:var(--ink3);margin-bottom:6px}
+.lab{font-size:12px;font-weight:600;padding:1px 8px;border-radius:5px}
+.lab.copy{background:var(--copy-t);color:var(--copy)} .lab.para{background:var(--para-t);color:#b4532a}
+.lab.noquote{background:var(--noquote-t);color:#8a5d00} .lab.ok{background:var(--ok-t);color:var(--ok)} .lab.na{background:var(--na-t);color:var(--ink2)}
+@media (prefers-color-scheme: dark){.lab.para{color:var(--para)} .lab.noquote{color:var(--noquote)}}
+.side{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.side > div{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:14px}
+.side .h{font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink3);margin-bottom:4px}
+mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
+.note{font-size:13px;color:var(--ink2);margin-top:6px;font-style:italic}
+/* document */
+.docpage{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 22px 16px;margin-bottom:10px}
+.docpage .pn{font-size:12px;color:var(--ink3);margin-bottom:6px;display:flex;justify-content:space-between}
+.docpage p{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:15.5px;line-height:1.7}
+.s{border-radius:3px;padding:1px 0}
+.s.copy{background:var(--copy-t);box-shadow:inset 0 -2px 0 var(--copy)} .s.para{background:var(--para-t);box-shadow:inset 0 -2px 0 var(--para)}
+.s.noquote{background:var(--noquote-t);box-shadow:inset 0 -2px 0 var(--noquote)} .s.ok{background:var(--ok-t)} .s.na{background:var(--na-t)}
+.s.copy,.s.para,.s.noquote,.s.ok,.s.na{cursor:pointer}
+.s.dim{background:none;box-shadow:none}
+.s.sel{outline:2px solid var(--ink);outline-offset:1px}
+.drawer{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);box-shadow:0 -8px 30px rgba(0,0,0,.12);
+  padding:16px 24px 20px;max-height:46vh;overflow:auto;z-index:40;display:none}
+.drawer.on{display:block}
+.drawer .x{position:absolute;right:18px;top:10px;font-size:22px;border:0;background:none;color:var(--ink2);cursor:pointer}
+.drawer .in{max-width:1190px;margin:0 auto}
+/* table */
+table{width:100%;border-collapse:collapse;font-size:13.5px;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink3);font-weight:600;background:var(--surface)}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+td .dom{color:var(--ink3);font-size:12px;word-break:break-all}
+.method p,.method li{max-width:880px}
+.empty{padding:30px;text-align:center;color:var(--ink3)}
+footer{margin-top:40px;font-size:12px;color:var(--ink3)}
+@media (max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)} .cols,.side{grid-template-columns:1fr} header{flex-direction:column}}
+@media print{.tabs,.toolbar,.drawer,button.more,.langsel{display:none!important} .pane{display:block!important} .pairs{display:block!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="kicker" data-t="report.kicker"></div>
+      <h1 id="doctitle"></h1>
+      <div class="meta" id="docmeta"></div>
+    </div>
+    <label class="langsel"><span data-t="report.language"></span> <select id="lang"></select></label>
+  </header>
+
+  <section class="card verdict" id="verdict"></section>
+  <section class="kpis" id="kpis"></section>
+
+  <section class="card">
+    <h2 data-t="report.composition_title"></h2>
+    <div class="comp" id="comp"></div>
+    <div class="legend" id="legend"></div>
+  </section>
+
+  <section class="card">
+    <h2><span data-t="report.pagemap_title"></span> <span class="tiny" data-t="report.pagemap_hint"></span></h2>
+    <svg id="pagemap" role="img"></svg>
+  </section>
+
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-tab="sources"><span data-t="report.tab_sources"></span><span class="n" id="n-sources"></span></button>
+    <button class="tab" data-tab="doc"><span data-t="report.tab_doc"></span></button>
+    <button class="tab" data-tab="others"><span data-t="report.tab_others"></span><span class="n" id="n-others"></span></button>
+    <button class="tab" data-tab="method"><span data-t="report.tab_method"></span></button>
+  </div>
+
+  <div class="pane on" id="pane-sources">
+    <div class="toolbar">
+      <input type="search" id="q" data-tp="report.search_placeholder">
+      <select id="fv"></select>
+      <label class="chk"><input type="checkbox" id="onlyprob"> <span data-t="report.only_problem"></span></label>
+    </div>
+    <div id="srclist"></div>
+  </div>
+
+  <div class="pane" id="pane-doc">
+    <div class="toolbar">
+      <label class="chk"><input type="checkbox" id="onlymatched" checked> <span data-t="report.only_matched_pages"></span></label>
+      <select id="fsrc"></select>
+      <span class="tiny" data-t="report.doc_hint"></span>
+    </div>
+    <div id="doc"></div>
+  </div>
+
+  <div class="pane" id="pane-others">
+    <p class="muted small"><span data-t="report.others_intro"></span> <span id="unsel"></span></p>
+    <div id="others"></div>
+  </div>
+
+  <div class="pane method" id="pane-method"></div>
+  <footer id="footer"></footer>
+</div>
+
+<div class="tip" id="tip"></div>
+<div class="drawer" id="drawer"><button class="x" id="drawerx">×</button><div class="in" id="drawerin"></div></div>
+
+<script>
+const D = {"meta": {"pdf": "C:\\Users\\P-Mac\\AppData\\Local\\Temp\\plagcheck-demo-bvzjra4w\\demo-thesis.pdf", "pages": 9, "body_pages": [4, 8], "ref_pages": [9, 9], "title": "Physical Activity And Wellbeing Among University Students", "author": "Laura Mitchell", "date": "2015-06-01", "extracted": "2026-11-19T15:21:13", "words": 427, "author_markers": ["Mitchell", "Mitchell"]}, "generated": "2026-11-19 15:21", "version": "1.0.0-dev", "lang": "en", "text_lang": "en", "llm": null, "final": {"risk_level": "aukšta", "auto": true, "headline": "About 39.58 % of the document text matches sources without proper references (preliminary automatic assessment).", "conclusion": "This conclusion is based on automatic match metrics only. Reviewing the matches manually is recommended.", "key_findings": [], "limitations": ["The automatic assessment does not distinguish common phrases and the nuances of citation."], "risk": "high"}, "stats": {"total_words": 427, "sentences": 23, "matched_sentences": 12, "matched_words": 244, "matched_pct": 57.14, "relevant_sources": 2, "sentence_labels": {"1": "pazodinis_be_nuorodos", "2": "pazodinis_be_nuorodos", "3": "pazodinis_be_nuorodos", "4": "pazodinis_be_nuorodos", "6": "pazodinis_be_nuorodos", "7": "pazodinis_be_nuorodos", "11": "tinkamas_citavimas", "12": "pazodinis_su_nuoroda_be_kabuciu", "20": "pazodinis_be_nuorodos", "13": "atvirkstinis", "17": "atvirkstinis", "19": "atvirkstinis"}, "sentence_source": {"1": "local_d996bc04a8", "2": "local_d996bc04a8", "3": "local_d996bc04a8", "4": "local_d996bc04a8", "6": "local_d996bc04a8", "7": "local_d996bc04a8", "11": "local_d996bc04a8", "12": "local_d996bc04a8", "20": "local_d996bc04a8", "13": "local_5d73076e6f", "17": "local_5d73076e6f", "19": "local_5d73076e6f"}, "by_label": {"pazodinis_be_nuorodos": {"sentences": 7, "words": 146, "pct": 34.19}, "tinkamas_citavimas": {"sentences": 1, "words": 37, "pct": 8.67}, "pazodinis_su_nuoroda_be_kabuciu": {"sentences": 1, "words": 23, "pct": 5.39}, "atvirkstinis": {"sentences": 3, "words": 38, "pct": 8.9}}, "problem_words": 169, "problem_pct": 39.58, "problem_pages": [4, 5, 7], "by_verdict": {"naudotas_be_nuorodu": 1, "velesnis_saltinis": 1}, "n_problem_sources": 1, "n_candidates": 0, "n_fetched": 3, "n_unselected": 0}, "totals": {"copy": 146, "ok": 37, "noquote": 23, "na": 38}, "classes": [["copy", "#d03b3b"], ["para", "#ec835a"], ["noquote", "#fab219"], ["ok", "#2a78d6"], ["na", "#a3a29b"]], "class_of": {"pazodinis_be_nuorodos": "copy", "perfrazuota_be_nuorodos": "para", "pazodinis_su_nuoroda_be_kabuciu": "noquote", "perfrazuota_su_nuoroda": "ok", "tinkamas_citavimas": "ok", "autoriaus_darbas": "na", "atvirkstinis": "na", "bendrine_fraze": "na", "klaidingas_sutapimas": "na"}, "problem_labels": ["pazodinis_be_nuorodos", "pazodinis_su_nuoroda_be_kabuciu", "perfrazuota_be_nuorodos"], "sources": [{"id": "local_d996bc04a8", "url": "file:///C:/Users/P-Mac/AppData/Local/Temp/plagcheck-demo-bvzjra4w/local_sources/Smith_Clark_2008_review.txt", "title": "Smith_Clark_2008_review", "tk": null, "domain": "(lokalus)", "status": "ok", "via": "local", "evidence": "fulltext", "date": "2008-01-01", "date_status": "before", "date_note": "2008-01-01 (failo pavadinimas)", "self": false, "in_refs": ["smith", "clark"], "surnames": ["Smith", "Clark"], "mentions_author": false, "ref_match": ["Smith, J., & Clark, R. (2008). Physical activity and mental health in young adults: a review."], "n_pairs": 9, "words": 206, "pct": 48.24, "longest": 134, "pages": [4, 5, 7], "verdict": "naudotas_be_nuorodu", "confidence": 0.4, "usage": [], "summary": "", "auto_summary": true, "prob_words": 169, "prob_pct": 39.58, "cls_words": {"copy": 146, "ok": 37, "noquote": 23}, "pairs": [{"sid": 1, "page": 4, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>Regular physical activity is associated with lower levels of anxiety and depressive symptoms in young adults across a wide range of cultural settings.<\/mark>", "s": "<mark>Regular physical activity is associated with lower levels of anxiety and depressive symptoms in young adults across a wide range of cultural settings.<\/mark>", "ev": "fulltext"}, {"sid": 2, "page": 4, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>The protective effect appears to be strongest when exercise is performed at moderate intensity for at least thirty minutes on most days of the week.<\/mark>", "s": "<mark>The protective effect appears to be strongest when exercise is performed at moderate intensity for at least thirty minutes on most days of the week.<\/mark>", "ev": "fulltext"}, {"sid": 3, "page": 4, "cat": "minor_edit", "cov": 0.739, "cont": 0.875, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>University students<\/mark> are <mark>a particularly vulnerable group because the<\/mark> move <mark>to higher education often disrupts established routines of sleep, diet and<\/mark> physical exercise.", "s": "<mark>University students<\/mark> represent <mark>a particularly vulnerable group because the<\/mark> transition <mark>to higher education often disrupts established routines of sleep, diet and<\/mark> exercise.", "ev": "fulltext"}, {"sid": 4, "page": 4, "cat": "identical", "cov": 0.958, "cont": 0.941, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>Several longitudinal studies have shown that students who<\/mark> stay <mark>physically active during their first academic year report higher life satisfaction than their inactive peers.<\/mark>", "s": "<mark>Several longitudinal studies have shown that students who<\/mark> remain <mark>physically active during their first academic year report higher life satisfaction than their inactive peers.<\/mark>", "ev": "fulltext"}, {"sid": 6, "page": 5, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>The mechanisms linking exercise and wellbeing are not fully understood, but they are likely to involve both physiological and psychological pathways.<\/mark>", "s": "<mark>The mechanisms linking exercise and wellbeing are not fully understood, but they are likely to involve both physiological and psychological pathways.<\/mark>", "ev": "fulltext"}, {"sid": 7, "page": 5, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>Physiological explanations emphasise the release of endorphins, improved sleep quality and the regulation of the stress hormone cortisol.<\/mark>", "s": "<mark>Physiological explanations emphasise the release of endorphins, improved sleep quality and the regulation of the stress hormone cortisol.<\/mark>", "ev": "fulltext"}, {"sid": 11, "page": 5, "cat": "minor_edit", "cov": 0.757, "cont": 0.833, "label": "tinkamas_citavimas", "note": "", "auto": false, "d": "As Smith and Clark (2008) put it, <mark>&quot;interventions that combine information about the benefits of exercise with practical support, such as free access to sports facilities, tend to be more effective than information campaigns alone&quot;<\/mark> (p. 14).", "s": "<mark>Interventions that combine information about the benefits of exercise with practical support, such as free access to sports facilities, tend to be more effective than information campaigns alone.<\/mark>", "ev": "fulltext"}, {"sid": 12, "page": 5, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_su_nuoroda_be_kabuciu", "note": "", "auto": false, "d": "<mark>Barriers most frequently mentioned by students include lack of time, academic pressure, cost of membership and a lack of companions to exercise with.<\/mark>", "s": "<mark>Barriers most frequently mentioned by students include lack of time, academic pressure, cost of membership and a lack of companions to exercise with.<\/mark>", "ev": "fulltext"}, {"sid": 20, "page": 7, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "pazodinis_be_nuorodos", "note": "", "auto": false, "d": "<mark>Future research should examine how digital tools, such as activity trackers and<\/mark>", "s": "<mark>Future research should examine how digital tools, such as activity trackers and<\/mark> smartphone applications, can be used to sustain motivation over longer periods.", "ev": "fulltext"}], "local": true}, {"id": "local_5d73076e6f", "url": "file:///C:/Users/P-Mac/AppData/Local/Temp/plagcheck-demo-bvzjra4w/local_sources/Campus_blog_2021.txt", "title": "Campus_blog_2021", "tk": null, "domain": "(lokalus)", "status": "ok", "via": "local", "evidence": "fulltext", "date": "2021-01-01", "date_status": "after", "date_note": "2021-01-01 (failo pavadinimas)", "self": false, "in_refs": [], "surnames": [], "mentions_author": false, "ref_match": [], "n_pairs": 3, "words": 38, "pct": 8.9, "longest": 25, "pages": [6, 7], "verdict": "velesnis_saltinis", "confidence": 0.4, "usage": [], "summary": "", "auto_summary": true, "prob_words": 0, "prob_pct": 0.0, "cls_words": {"na": 38}, "pairs": [{"sid": 13, "page": 6, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "atvirkstinis", "note": "", "auto": false, "d": "<mark>In this study a questionnaire survey of 412 undergraduate students from three faculties<\/mark>", "s": "<mark>In this study a questionnaire survey of 412 undergraduate students from three faculties<\/mark> was carried out in the spring semester.", "ev": "fulltext"}, {"sid": 17, "page": 7, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "atvirkstinis", "note": "", "auto": false, "d": "<mark>Students who met the recommended level of weekly activity reported significantly<\/mark>", "s": "<mark>Students who met the recommended level of weekly activity reported significantly<\/mark> better sleep and lower perceived stress than students who did not.", "ev": "fulltext"}, {"sid": 19, "page": 7, "cat": "identical", "cov": 1.0, "cont": 1.0, "label": "atvirkstinis", "note": "", "auto": false, "d": "<mark>The results suggest that universities should treat physical activity as an integral part of<\/mark>", "s": "<mark>The results suggest that universities should treat physical activity as an integral part of<\/mark> student support services rather than as a leisure option.", "ev": "fulltext"}], "local": true}], "others": [{"url": "file:///C:/Users/P-Mac/AppData/Local/Temp/plagcheck-demo-bvzjra4w/local_sources/Brown_2012_article.txt", "title": "Brown_2012_article", "tk": null, "domain": "(lokalus)", "local": true, "status": "ok", "date": "2012-01-01", "date_status": "before", "hits": 0, "pairs": 0, "reason": "no_matches", "kind": "normal"}], "pages": [{"p": 4, "w": 134, "c": {"copy": 95}}, {"p": 5, "w": 169, "c": {"copy": 39, "ok": 37, "noquote": 23}}, {"p": 6, "w": 49, "c": {"na": 13}}, {"p": 7, "w": 49, "c": {"na": 25, "copy": 12}}, {"p": 8, "w": 26, "c": {}}], "doc": [{"i": 0, "p": 4, "t": "Student wellbeing has become an increasingly important topic for universities, policy makers and health professionals.", "l": "", "lab": "", "src": ""}, {"i": 1, "p": 4, "t": "Regular physical activity is associated with lower levels of anxiety and depressive symptoms in young adults across a wide range of cultural settings.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 2, "p": 4, "t": "The protective effect appears to be strongest when exercise is performed at moderate intensity for at least thirty minutes on most days of the week.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 3, "p": 4, "t": "University students are a particularly vulnerable group because the move to higher education often disrupts established routines of sleep, diet and physical exercise.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 4, "p": 4, "t": "Several longitudinal studies have shown that students who stay physically active during their first academic year report higher life satisfaction than their inactive peers.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 5, "p": 4, "t": "The aim of this thesis is to examine how physical activity relates to wellbeing among university students and which factors help students stay active.", "l": "", "lab": "", "src": ""}, {"i": 6, "p": 5, "t": "The mechanisms linking exercise and wellbeing are not fully understood, but they are likely to involve both physiological and psychological pathways.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 7, "p": 5, "t": "Physiological explanations emphasise the release of endorphins, improved sleep quality and the regulation of the stress hormone cortisol.", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 8, "p": 5, "t": "Psychological accounts, on the other hand, stress that organised exercise gives people a feeling of mastery, opportunities for social contact and a break from everyday worries.", "l": "", "lab": "", "src": ""}, {"i": 9, "p": 5, "t": "According to Brown (2012), people who exercise because they genuinely value or enjoy the activity keep exercising far longer than those who are pushed by outside pressure or guilt.", "l": "", "lab": "", "src": ""}, {"i": 10, "p": 5, "t": "For this reason, programmes offering choice and enjoyment usually keep their participants longer (Brown, 2012).", "l": "", "lab": "", "src": ""}, {"i": 11, "p": 5, "t": "As Smith and Clark (2008) put it, \"interventions that combine information about the benefits of exercise with practical support, such as free access to sports facilities, tend to be more effective than information campaigns alone\" (p. 14).", "l": "ok", "lab": "tinkamas_citavimas", "src": "local_d996bc04a8"}, {"i": 12, "p": 5, "t": "Barriers most frequently mentioned by students include lack of time, academic pressure, cost of membership and a lack of companions to exercise with.", "l": "noquote", "lab": "pazodinis_su_nuoroda_be_kabuciu", "src": "local_d996bc04a8"}, {"i": 13, "p": 6, "t": "In this study a questionnaire survey of 412 undergraduate students from three faculties", "l": "na", "lab": "atvirkstinis", "src": "local_5d73076e6f"}, {"i": 14, "p": 6, "t": "Physical activity was measured with a short self-report instrument covering walking,", "l": "", "lab": "", "src": ""}, {"i": 15, "p": 6, "t": "Wellbeing was assessed with a validated life satisfaction scale and a short measure of", "l": "", "lab": "", "src": ""}, {"i": 16, "p": 6, "t": "Participation was voluntary and anonymous, and all students gave informed consent", "l": "", "lab": "", "src": ""}, {"i": 17, "p": 7, "t": "Students who met the recommended level of weekly activity reported significantly", "l": "na", "lab": "atvirkstinis", "src": "local_5d73076e6f"}, {"i": 18, "p": 7, "t": "The association remained significant after controlling for gender, year of study and", "l": "", "lab": "", "src": ""}, {"i": 19, "p": 7, "t": "The results suggest that universities should treat physical activity as an integral part of", "l": "na", "lab": "atvirkstinis", "src": "local_5d73076e6f"}, {"i": 20, "p": 7, "t": "Future research should examine how digital tools, such as activity trackers and", "l": "copy", "lab": "pazodinis_be_nuorodos", "src": "local_d996bc04a8"}, {"i": 21, "p": 8, "t": "Physical activity is clearly related to the wellbeing of university students in the sample", "l": "", "lab": "", "src": ""}, {"i": 22, "p": 8, "t": "Support measures that reduce practical barriers and make exercise enjoyable are likely", "l": "", "lab": "", "src": ""}], "locales": {"en": {"_meta": {"name": "English", "english_name": "English", "locale": "en-GB"}, "report": {"kicker": "Plagiarism check report", "language": "Language", "html_title": "Plagiarism check – {title}", "untitled": "Document", "doc_date": "dated {date}", "generated": "report generated {date}", "composition_title": "Document text by type of match", "pagemap_title": "Matches by page", "pagemap_hint": "– bar height shows how much of the page text matches sources; click to open the page text", "tab_sources": "Sources", "tab_doc": "Document text", "tab_others": "Other sources found", "tab_method": "Method", "search_placeholder": "Search by source title, website or text…", "only_problem": "only sources with violations", "only_matched_pages": "show only pages with matches", "doc_hint": "Click a highlighted sentence to see the matching source text below.", "others_intro": "Listed here: copies of the document itself found online and the author's own publications based on it (not counted in the extent of matches), sources in which no significant matches were found after comparing the full text, and sources whose text could not be obtained while the search fragments were insufficient for assessment.", "close": "Close", "text_lang_note": "The conclusions above are shown in the language they were written in ({lang}).", "risk": "Plagiarism risk: {level}", "key_findings": "Key findings", "limitations": "Limitations of the check", "kpi_sentences": "sentences checked", "kpi_sentences_sub": "{words} words", "kpi_matched": "of the text matches sources", "kpi_matched_sub": "{n} sentences", "kpi_problem": "of the text taken without proper references", "kpi_problem_sub": "{words} words · {pages} pages", "kpi_problem_sources": "sources used without proper references", "kpi_problem_sources_sub": "of {n} sources with significant matches", "kpi_candidates": "web addresses found by the search", "kpi_candidates_sub": "{n} sources compared with the full text", "no_matches": "No matches found", "page": "Page {n}", "words_short": "{n} words", "words_unit": "words", "year": "{y}", "all_verdicts": "All verdicts", "all_sources": "All sources", "date_before": "published before the document", "date_after": "published after the document", "date_same_year": "published in the same year", "date_unknown": "publication date unknown", "auto_label": "(automatic label)", "auto_summary": "Automatic assessment based on match metrics.", "unrated": "not assessed", "doc_page": "document p. {n}", "cov": "verbatim match {pct} %", "cov_hint": "Share of the document sentence's words that match in continuous sequences", "cont": "shared content words {pct} %", "cont_hint": "Share of content words common to both texts", "snippet_only": "search fragment only", "side_doc": "Document", "side_src": "Source", "ev_snippet": "compared with search fragments only", "ev_abstract": "compared with the abstract and search fragments only", "ev_fulltext": "full source text compared", "local_file": "Local file", "confidence": "assessment confidence {pct} %", "in_refs": "source is in the reference list", "authors_in_refs": "source author surnames are in the reference list: {names}", "not_in_refs": "source not found in the reference list", "not_in_refs_hint": "automatic check by title and author surnames", "mentions_author": "the source mentions the document's author (not their publication)", "m_sentences": "Matching sentences", "m_words": "Words", "m_of_text": "of the document text", "m_problem": "Of which without proper references", "m_longest": "Longest continuous matching passage", "m_pages": "Document pages", "show_pairs": "Show matches ({n})", "hide_pairs": "Hide matches ({n})", "no_sources_filtered": "No sources match the selected filters.", "no_matched_pages": "No pages with matches.", "no_source_text": "There is no matching source text for this sentence.", "unselected": "Another {n} search results were discarded without downloading because their fragments matched the document text too little.", "th_source": "Source", "th_status": "Text retrieval", "th_date": "Publication date", "th_hits": "Found in search (times)", "th_pairs": "Matching sentences", "th_reason": "Why not included", "none": "None.", "title_copy": "Document text (copy online)", "title_on_site": "Document on {domain}", "method_title": "How the check was done", "method": {"m1_title": "Text preparation.", "m1": "The main text was taken from the PDF (pp. {from}–{to}), without the table of contents, headings, tables, figure captions and the reference list, and split into {sentences} sentences. The reference list was analysed separately – it was used to check whether a source and its authors are cited in the document.", "m2_title": "Source search.", "m2": "Each sentence (longer ones in overlapping parts of up to 30 words) was searched in a web search engine. The result fragments were compared with the sentence; sources with a long shared word sequence or several matches were downloaded. If a website blocked access, the text was looked for in open scholarly databases (Europe PMC, Crossref, Unpaywall) and in the web archive (Wayback Machine).", "m3_title": "Reference list sources.", "m3": "When enabled, every entry of the reference list was additionally looked up in scholarly databases; the texts or abstracts found were compared with the entire document.", "m4_title": "Full-text comparison.", "m4": "Each downloaded source was compared with all sentences of the document, not only those found by the search. Matches are classified as: verbatim (≥90 % of the sentence's words match in continuous sequences), minor edits (60–90 %), partial (35–60 % with a shared sequence of at least 6 words), possible paraphrase (≥60 % shared content words).", "m5_title": "Publication date check.", "m5": "The publication date of each source was determined from Crossref data, page metadata, the address, search engine data and the web archive. Sources later than the document cannot be plagiarism sources – usually they took the text from the document themselves.", "m6_title": "Content assessment.", "m6": "Each pair of matches was assessed in context: whether the text was taken verbatim without a reference, whether the author is cited but quotation marks are missing, or whether it is a paraphrase, a proper quotation, a common phrase or a coincidental match. Conclusions were drawn for each source and overall.", "l1": "Only sources available online were checked: paywalled articles, books and non-digitised publications may have remained unchecked.", "l2": "Free paraphrasing and translation from another language are detected only partly.", "l3": "The final decision on plagiarism must be made by a person who has reviewed the match pairs presented."}, "footer": "Generated by Plagiarism {version} · {date}"}, "label": {"pazodinis_be_nuorodos": "Taken verbatim or nearly verbatim without a reference to the source", "pazodinis_su_nuoroda_be_kabuciu": "Taken verbatim without quotation marks (author cited)", "perfrazuota_be_nuorodos": "Closely paraphrased without a reference", "perfrazuota_su_nuoroda": "Paraphrased with a reference (acceptable)", "tinkamas_citavimas": "Properly quoted (quotation marks and reference)", "bendrine_fraze": "Common phrase, term or questionnaire item", "atvirkstinis": "Source is later than the document (the text was probably taken from it)", "autoriaus_darbas": "Another work by the author", "klaidingas_sutapimas": "Coincidental match"}, "verdict": {"naudotas_be_nuorodu": "Used without proper references (possible plagiarism)", "naudotas_dalinai_be_nuorodu": "Partly used without proper references", "naudotas_su_nuorodomis": "Used properly (with references)", "velesnis_saltinis": "Later than the document – cannot be a plagiarism source", "autoriaus_darbas": "The author's own work", "nereiksmingas": "Matches are insignificant"}, "class": {"copy": "Taken verbatim without a reference", "para": "Paraphrased without a reference", "noquote": "Taken verbatim without quotation marks (author cited)", "ok": "Quoted properly or with a reference", "na": "Not plagiarism (later source, common phrase, author's work, coincidental match)"}, "usage": {"verbatim": "verbatim copying", "minor_edits": "copying with minor changes", "paraphrase": "paraphrasing", "structure": "taking over structure and line of argument", "quotation": "quotation"}, "risk": {"low": "low", "medium": "medium", "high": "high"}, "status": {"ok": "text obtained", "blocked": "access blocked", "error": "download failed"}, "date": {"before": "earlier than the document", "after": "later than the document", "same_year": "same year", "unknown": "unknown"}, "cat": {"identical": "verbatim", "minor_edit": "minor edits", "partial": "partial match", "paraphrase": "possible paraphrase"}, "reason": {"copy": "a copy of the document itself online ({n} sent.) – not counted", "self": "the author's own publication based on the document ({n} sent.) – not counted", "not_fetched": "the text could not be obtained and the search fragments match too little", "no_matches": "no significant matches after comparing the full text"}, "auto": {"final_headline": "About {pct} % of the document text matches sources without proper references (preliminary automatic assessment).", "final_conclusion": "This conclusion is based on automatic match metrics only. Reviewing the matches manually is recommended.", "final_limitation": "The automatic assessment does not distinguish common phrases and the nuances of citation."}}, "lt": {"_meta": {"name": "Lietuvių", "english_name": "Lithuanian", "locale": "lt-LT"}, "report": {"kicker": "Plagiato patikros ataskaita", "language": "Kalba", "html_title": "Plagiato patikra – {title}", "untitled": "Dokumentas", "doc_date": "data {date}", "generated": "ataskaita sugeneruota {date}", "composition_title": "Dokumento teksto pasiskirstymas pagal sutapimų pobūdį", "pagemap_title": "Sutapimai pagal puslapius", "pagemap_hint": "– stulpelio aukštis rodo, kokia puslapio teksto dalis sutampa su šaltiniais; spustelėjus atveriamas puslapio tekstas", "tab_sources": "Šaltiniai", "tab_doc": "Dokumento tekstas", "tab_others": "Kiti rasti šaltiniai", "tab_method": "Metodika", "search_placeholder": "Ieškoti pagal šaltinio pavadinimą, svetainę ar tekstą…", "only_problem": "tik šaltiniai su pažeidimais", "only_matched_pages": "rodyti tik puslapius su sutapimais", "doc_hint": "Spustelėjus pažymėtą sakinį, apačioje parodomas atitinkamas šaltinio tekstas.", "others_intro": "Čia pateikiamos internete rastos paties dokumento kopijos ir paties autoriaus publikacijos, parengtos pagal jį (į sutapimų apimtį jos neįskaičiuojamos), taip pat šaltiniai, kuriuose, palyginus visą tekstą, reikšmingų sutapimų nerasta, ir šaltiniai, kurių teksto gauti nepavyko, o paieškos fragmentų įvertinti nepakako.", "close": "Uždaryti", "text_lang_note": "Aukščiau pateiktos išvados rodomos ta kalba, kuria buvo parašytos ({lang}).", "risk": "Plagiato rizika: {level}", "key_findings": "Pagrindinės išvados", "limitations": "Patikros ribotumai", "kpi_sentences": "patikrinta sakinių", "kpi_sentences_sub": "{words} žodžių", "kpi_matched": "teksto sutampa su šaltiniais", "kpi_matched_sub": "{n} sakinių", "kpi_problem": "teksto perimta be tinkamų nuorodų", "kpi_problem_sub": "{words} žodžių · {pages} psl.", "kpi_problem_sources": "šaltiniai panaudoti be tinkamų nuorodų", "kpi_problem_sources_sub": "iš {n} šaltinių su reikšmingais sutapimais", "kpi_candidates": "interneto adresų rado paieška", "kpi_candidates_sub": "{n} šaltinių palyginta su visu tekstu", "no_matches": "Sutapimų nerasta", "page": "Puslapis {n}", "words_short": "{n} žodž.", "words_unit": "žodž.", "year": "{y} m.", "all_verdicts": "Visi vertinimai", "all_sources": "Visi šaltiniai", "date_before": "išleistas anksčiau už dokumentą", "date_after": "išleistas vėliau už dokumentą", "date_same_year": "išleistas tais pačiais metais", "date_unknown": "išleidimo data nenustatyta", "auto_label": "(automatinė žyma)", "auto_summary": "Automatinis įvertinimas pagal sutapimų metrikas.", "unrated": "nevertinta", "doc_page": "dokumento psl. {n}", "cov": "pažodžiui sutampa {pct} %", "cov_hint": "Kokia dokumento sakinio žodžių dalis sutampa ištisinėmis sekomis", "cont": "bendrų reikšminių žodžių {pct} %", "cont_hint": "Kokia reikšminių žodžių dalis bendra abiem tekstams", "snippet_only": "tik paieškos fragmentas", "side_doc": "Dokumentas", "side_src": "Šaltinis", "ev_snippet": "palyginta tik su paieškos fragmentais", "ev_abstract": "palyginta tik su santrauka ir paieškos fragmentais", "ev_fulltext": "palygintas visas šaltinio tekstas", "local_file": "Lokalus failas", "confidence": "vertinimo patikimumas {pct} %", "in_refs": "šaltinis yra literatūros sąraše", "authors_in_refs": "šaltinio autorių pavardės yra literatūros sąraše: {names}", "not_in_refs": "literatūros sąraše šaltinis nerastas", "not_in_refs_hint": "automatinė patikra pagal pavadinimą ir autorių pavardes", "mentions_author": "šaltinyje minimas dokumento autorius (tai ne jo publikacija)", "m_sentences": "Sutampančių sakinių", "m_words": "Žodžių", "m_of_text": "dokumento teksto", "m_problem": "Iš jų be tinkamų nuorodų", "m_longest": "Ilgiausia ištisinė sutampanti atkarpa", "m_pages": "Dokumento puslapiai", "show_pairs": "Rodyti sutapimus ({n})", "hide_pairs": "Slėpti sutapimus ({n})", "no_sources_filtered": "Pagal pasirinktus filtrus šaltinių nerasta.", "no_matched_pages": "Nėra puslapių su sutapimais.", "no_source_text": "Šiam sakiniui atitinkančio šaltinio teksto nėra.", "unselected": "Dar {n} paieškos rezultatų atmesta neparsisiuntus, nes jų fragmentai su dokumento tekstu sutapo per mažai.", "th_source": "Šaltinis", "th_status": "Teksto gavimas", "th_date": "Išleidimo data", "th_hits": "Rasta paieškoje kartų", "th_pairs": "Sutampančių sakinių", "th_reason": "Kodėl neįtrauktas", "none": "Nėra.", "title_copy": "Dokumento tekstas (kopija internete)", "title_on_site": "Dokumentas svetainėje {domain}", "method_title": "Kaip atlikta patikra", "method": {"m1_title": "Teksto parengimas.", "m1": "Iš PDF failo paimtas pagrindinis tekstas (psl. {from}–{to}), be turinio, antraščių, lentelių, paveikslų pavadinimų ir literatūros sąrašo, ir suskaidytas į {sentences} sakinius. Literatūros sąrašas analizuotas atskirai – pagal jį tikrinta, ar šaltinis ir jo autoriai dokumente nurodyti.", "m2_title": "Šaltinių paieška.", "m2": "Kiekvienas sakinys (ilgesni – persidengiančiomis iki 30 žodžių dalimis) ieškotas interneto paieškos sistemoje. Paieškos rezultatų fragmentai palyginti su sakiniu; šaltiniai, kuriuose rasta ilga bendra žodžių seka arba keli sutapimai, atsisiųsti. Jei svetainė prieigą blokavo, tekstas ieškotas atvirose mokslo duomenų bazėse (Europe PMC, Crossref, Unpaywall) ir interneto archyve (Wayback Machine).", "m3_title": "Literatūros sąrašo šaltiniai.", "m3": "Įjungus šią parinktį, visi literatūros sąrašo įrašai papildomai ieškoti mokslo duomenų bazėse; rasti tekstai ar santraukos palyginti su visu dokumentu.", "m4_title": "Viso teksto palyginimas.", "m4": "Kiekvienas atsisiųstas šaltinis palygintas su visais dokumento sakiniais, o ne tik su tais, kuriuos rado paieška. Sutapimai skirstyti taip: pažodinis (≥90 % sakinio žodžių sutampa ištisinėmis sekomis), su nedideliais pakeitimais (60–90 %), dalinis (35–60 %, kai yra bent 6 žodžių bendra seka), galimas perfrazavimas (≥60 % bendrų reikšminių žodžių).", "m5_title": "Išleidimo datos patikra.", "m5": "Šaltinio išleidimo data nustatyta pagal Crossref duomenis, puslapio metaduomenis, adresą, paieškos sistemos duomenis ir interneto archyvą. Už dokumentą vėlesni šaltiniai negali būti plagiato šaltiniai – dažniausiai jie patys perėmė tekstą iš dokumento.", "m6_title": "Turinio vertinimas.", "m6": "Kiekviena sutapimų pora įvertinta atsižvelgiant į kontekstą: ar tekstas perimtas pažodžiui be nuorodos, ar autorius nurodytas, bet nėra kabučių, ar tai perfrazavimas, tinkama citata, bendrinė frazė ar atsitiktinis sutapimas. Parengtos kiekvieno šaltinio ir bendra išvados.", "l1": "Patikrinti tik internete prieinami šaltiniai: mokami straipsniai, knygos ir neskaitmeninti leidiniai galėjo likti nepatikrinti.", "l2": "Laisvas perfrazavimas ir vertimas iš kitos kalbos aptinkami tik iš dalies.", "l3": "Galutinį sprendimą dėl plagiato turi priimti žmogus, peržiūrėjęs pateiktas sutapimų poras."}, "footer": "Sugeneruota programa „Plagiatas“ {version} · {date}"}, "label": {"pazodinis_be_nuorodos": "Perimta pažodžiui ar beveik pažodžiui be nuorodos į šaltinį", "pazodinis_su_nuoroda_be_kabuciu": "Perimta pažodžiui be kabučių (autorius nurodytas)", "perfrazuota_be_nuorodos": "Artimai perfrazuota be nuorodos", "perfrazuota_su_nuoroda": "Perfrazuota su nuoroda (priimtina)", "tinkamas_citavimas": "Tinkamai cituota (kabutės ir nuoroda)", "bendrine_fraze": "Bendrinė frazė, terminas ar klausimyno teiginys", "atvirkstinis": "Šaltinis vėlesnis už dokumentą (tikėtina, tekstą perėmė iš jo)", "autoriaus_darbas": "Paties autoriaus kitas darbas", "klaidingas_sutapimas": "Atsitiktinis sutapimas"}, "verdict": {"naudotas_be_nuorodu": "Panaudotas be tinkamų nuorodų (galimas plagiatas)", "naudotas_dalinai_be_nuorodu": "Iš dalies panaudotas be tinkamų nuorodų", "naudotas_su_nuorodomis": "Panaudotas tinkamai (su nuorodomis)", "velesnis_saltinis": "Vėlesnis už dokumentą – negali būti plagiato šaltinis", "autoriaus_darbas": "Paties autoriaus darbas", "nereiksmingas": "Sutapimai nereikšmingi"}, "class": {"copy": "Perimta pažodžiui be nuorodos", "para": "Perfrazuota be nuorodos", "noquote": "Perimta pažodžiui be kabučių (autorius nurodytas)", "ok": "Cituota tinkamai arba su nuoroda", "na": "Ne plagiatas (vėlesnis šaltinis, bendrinė frazė, autoriaus darbas, atsitiktinis sutapimas)"}, "usage": {"verbatim": "pažodinis perėmimas", "minor_edits": "perėmimas su nedideliais pakeitimais", "paraphrase": "perfrazavimas", "structure": "struktūros ir argumentų sekos perėmimas", "quotation": "citavimas"}, "risk": {"low": "žema", "medium": "vidutinė", "high": "aukšta"}, "status": {"ok": "tekstas gautas", "blocked": "prieiga užblokuota", "error": "nepavyko atsisiųsti"}, "date": {"before": "anksčiau už dokumentą", "after": "vėliau už dokumentą", "same_year": "tais pačiais metais", "unknown": "nenustatyta"}, "cat": {"identical": "pažodinis", "minor_edit": "nedideli pakeitimai", "partial": "dalinis sutapimas", "paraphrase": "galimas perfrazavimas"}, "reason": {"copy": "paties dokumento kopija internete ({n} sak.) – neįskaičiuojama", "self": "paties autoriaus publikacija, parengta pagal dokumentą ({n} sak.) – neįskaičiuojama", "not_fetched": "teksto gauti nepavyko, o paieškos fragmentuose sutapimų per mažai", "no_matches": "palyginus visą tekstą, reikšmingų sutapimų nerasta"}, "auto": {"final_headline": "Be tinkamų nuorodų sutampa apie {pct} % dokumento teksto (preliminarus automatinis įvertinimas).", "final_conclusion": "Ši išvada remiasi tik automatinėmis sutapimų metrikomis. Rekomenduojama sutapimus peržiūrėti rankiniu būdu.", "final_limitation": "Automatinis vertinimas neatskiria bendrinių frazių ir citavimo niuansų."}}}};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const LANGS = Object.keys(D.locales);
+let LANG = (() => { if (D.force_lang && D.locales[D.lang]) return D.lang; try { const q = new URLSearchParams(location.search).get("lang"); if (q && D.locales[q]) return q;
+  const s = localStorage.getItem("plagcheck.report.lang"); if (s && D.locales[s]) return s; } catch(e){} return D.lang; })();
+function look(d, k){ let c = d; for (const p of k.split(".")) { if (c == null || typeof c !== "object") return null; c = c[p]; } return typeof c === "string" ? c : null; }
+function t(k, p){ let s = look(D.locales[LANG], k) ?? look(D.locales.en || {}, k) ?? k;
+  if (p) for (const [a,b] of Object.entries(p)) s = s.split("{"+a+"}").join(String(b)); return s; }
+const loc = () => (D.locales[LANG]._meta || {}).locale || LANG;
+const fmt = (n, d=0) => Number(n||0).toLocaleString(loc(), {minimumFractionDigits:d, maximumFractionDigits:d});
+const classColor = k => `var(--${k})`;
+const clsLabel = k => t("class."+k);
+const labLabel = l => l ? t("label."+l) : t("report.unrated");
+const verdictLabel = v => t("verdict."+v);
+const titleOf = s => s.tk ? t(s.tk.k, s.tk.p) : s.title;
+const fmtDate = d => !d ? "" : (d.slice(5) === "01-01" || d.length === 4) ? t("report.year", {y: d.slice(0,4)}) : d;
+const SRC = Object.fromEntries(D.sources.map(s => [s.id, s]));
+const VERDICT_CLASS = {naudotas_be_nuorodu:"copy", naudotas_dalinai_be_nuorodu:"para", naudotas_su_nuorodomis:"ok",
+  velesnis_saltinis:"na", autoriaus_darbas:"na", nereiksmingas:"na"};
+const tw = D.stats.total_words;
+const pairIndex = {};
+D.sources.forEach(s => s.pairs.forEach(p => (pairIndex[p.sid] ||= []).push({s, p})));
+let docRendered = false;
+
+function applyStatic(){
+  document.documentElement.lang = LANG;
+  document.querySelectorAll("[data-t]").forEach(el => el.textContent = t(el.dataset.t));
+  document.querySelectorAll("[data-tp]").forEach(el => el.placeholder = t(el.dataset.tp));
+  $("#pagemap").setAttribute("aria-label", t("report.pagemap_title"));
+  $("#drawerx").setAttribute("aria-label", t("report.close"));
+}
+
+function renderHeader(){
+  $("#doctitle").textContent = D.meta.title || t("report.untitled");
+  const bits = [];
+  if (D.meta.author) bits.push(esc(D.meta.author));
+  if (D.meta.date) bits.push(esc(t("report.doc_date", {date: D.meta.date})));
+  bits.push(esc(t("report.generated", {date: D.generated})));
+  $("#docmeta").innerHTML = bits.join(" · ");
+  document.title = t("report.html_title", {title: D.meta.title || t("report.untitled")});
+}
+
+function renderVerdict(){
+  const f = D.final.auto ? Object.assign({}, D.final, {
+      headline: t("auto.final_headline", {pct: fmt(D.stats.problem_pct, 2)}), conclusion: t("auto.final_conclusion"),
+      limitations: [t("auto.final_limitation")]}) : D.final;
+  const paras = String(f.conclusion||"").split(/\n\s*\n|\n/).filter(x=>x.trim()).map(p=>`<p>${esc(p)}</p>`).join("");
+  const note = !f.auto && D.text_lang && D.text_lang !== LANG ? `<div class="textlang">${esc(t("report.text_lang_note", {lang: (D.locales[D.text_lang]||{_meta:{}})._meta.name || D.text_lang}))}</div>` : "";
+  $("#verdict").innerHTML = `
+    <div><span class="risk ${esc(f.risk)}">● ${esc(t("report.risk", {level: t("risk."+f.risk)}))}</span>
+    <div class="headline">${esc(f.headline)}</div>
+    <div class="conclusion">${paras}</div>${note}</div>
+    <div class="cols">
+      ${(f.key_findings||[]).length || !f.auto ? `<div><h3>${esc(t("report.key_findings"))}</h3><ul>${(f.key_findings||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>` : ""}
+      <div><h3>${esc(t("report.limitations"))}</h3><ul>${(f.limitations||[]).map(x=>`<li>${esc(x)}</li>`).join("") || "<li class='muted'>–</li>"}</ul></div>
+    </div>`;
+}
+
+function renderKpis(){
+  const T = D.totals, st = D.stats;
+  const pct = w => fmt(100*w/Math.max(tw,1), 1) + " %";
+  const prob = (T.copy||0)+(T.para||0)+(T.noquote||0);
+  const k = [
+    {v: fmt(st.sentences), l: t("report.kpi_sentences"), s: t("report.kpi_sentences_sub", {words: fmt(tw)})},
+    {v: pct(Object.values(T).reduce((a,b)=>a+b,0)), l: t("report.kpi_matched"), s: t("report.kpi_matched_sub", {n: fmt(st.matched_sentences)})},
+    {v: pct(prob), l: t("report.kpi_problem"), s: t("report.kpi_problem_sub", {words: fmt(prob), pages: (st.problem_pages||[]).length}), alert: prob>0},
+    {v: fmt(st.n_problem_sources), l: t("report.kpi_problem_sources"), s: t("report.kpi_problem_sources_sub", {n: D.sources.length}), alert: st.n_problem_sources>0},
+    {v: fmt(st.n_candidates), l: t("report.kpi_candidates"), s: t("report.kpi_candidates_sub", {n: fmt(st.n_fetched)})},
+  ];
+  $("#kpis").innerHTML = k.map(x=>`<div class="kpi ${x.alert?"alert":""}"><div class="v">${x.v}</div><div class="l">${esc(x.l)}</div><div class="s">${esc(x.s)}</div></div>`).join("");
+}
+
+function renderComposition(){
+  const T = D.totals; let used = 0;
+  const parts = D.classes.map(([k]) => { used += T[k]||0; return [k, T[k]||0]; });
+  parts.push(["clean", Math.max(tw-used,0)]);
+  const name = k => k==="clean" ? t("report.no_matches") : clsLabel(k);
+  $("#comp").innerHTML = parts.filter(p=>p[1]>0).map(([k,w]) =>
+    `<div style="flex:${w};background:${classColor(k)}" title="${esc(name(k))}: ${fmt(100*w/tw,1)} %"></div>`).join("");
+  $("#legend").innerHTML = parts.map(([k,w]) =>
+    `<span><span class="sw" style="background:${classColor(k)}"></span>${esc(name(k))} <b>${fmt(100*w/tw,1)} %</b></span>`).join("");
+}
+
+/* page map */
+const tip = $("#tip");
+function showTip(e, h){ tip.innerHTML = h; tip.style.display="block";
+  const x = Math.min(e.clientX+14, innerWidth-300), y = Math.min(e.clientY+14, innerHeight-160);
+  tip.style.left = x+"px"; tip.style.top = y+"px"; }
+function hideTip(){ tip.style.display="none"; }
+function drawMap(){
+  const svg = $("#pagemap"), W = svg.clientWidth || 1100, H = 150, padL = 34, padB = 22, padT = 6;
+  const P = D.pages, n = Math.max(P.length, 1), bw = (W-padL-4)/n, gap = bw>4 ? 1.2 : 0.3;
+  const y = v => padT + (H-padT-padB)*(1-v);
+  const every = n > 120 ? 20 : n > 50 ? 10 : 5;
+  let g = `<line x1="${padL}" x2="${W}" y1="${y(0)}" y2="${y(0)}" stroke="var(--axis)"/>`;
+  [0.5,1].forEach(v => g += `<line x1="${padL}" x2="${W}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)" stroke-dasharray="2 3"/>
+    <text x="${padL-6}" y="${y(v)+4}" font-size="11" text-anchor="end" fill="var(--ink3)">${v*100}%</text>`);
+  P.forEach((p,i) => {
+    const x = padL + i*bw; let acc = 0;
+    D.classes.forEach(([k]) => { const w = (p.c||{})[k]||0; if(!w || !p.w) return;
+      const v = w/p.w, h = (H-padT-padB)*v;
+      g += `<rect x="${x+gap/2}" y="${y(acc+v)}" width="${Math.max(bw-gap,0.6)}" height="${Math.max(h,0.8)}" fill="${classColor(k)}" rx="${bw>6?1.5:0}"/>`;
+      acc += v; });
+    if (p.p % every === 0) g += `<text x="${x+bw/2}" y="${H-6}" font-size="11" text-anchor="middle" fill="var(--ink3)">${p.p}</text>`;
+    g += `<rect class="hit" data-i="${i}" x="${x}" y="0" width="${bw}" height="${H-padB}"/>`;
+  });
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.innerHTML = g;
+  svg.querySelectorAll("rect.hit").forEach(r => {
+    const p = P[+r.dataset.i];
+    r.addEventListener("mousemove", e => {
+      const rows = D.classes.filter(([k]) => (p.c||{})[k]).map(([k]) =>
+        `<div class="row"><span><span class="sw" style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${classColor(k)};margin-right:5px"></span>${esc(clsLabel(k))}</span><span>${fmt(100*p.c[k]/Math.max(p.w,1))} %</span></div>`).join("");
+      showTip(e, `<b>${esc(t("report.page", {n: p.p}))}</b> <span class="tiny">(${esc(t("report.words_short", {n: fmt(p.w)}))})</span>${rows || `<div class="tiny">${esc(t("report.no_matches"))}</div>`}`); });
+    r.addEventListener("mouseleave", hideTip);
+    r.addEventListener("click", () => gotoPage(p.p));
+  });
+}
+addEventListener("resize", drawMap);
+
+/* tabs */
+function setTab(tb){ document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("on", b.dataset.tab===tb));
+  document.querySelectorAll(".pane").forEach(p=>p.classList.toggle("on", p.id==="pane-"+tb));
+  if (tb==="doc" && !docRendered) renderDoc(); }
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
+
+/* sources */
+function fillFilters(){
+  const fv = $("#fv"), cur = fv.value;
+  const verdicts = [...new Set(D.sources.map(s=>s.verdict))];
+  fv.innerHTML = `<option value="">${esc(t("report.all_verdicts"))}</option>` + verdicts.map(v => `<option value="${esc(v)}">${esc(verdictLabel(v))}</option>`).join("");
+  fv.value = cur;
+  const fs = $("#fsrc"), cs = fs.value;
+  fs.innerHTML = `<option value="">${esc(t("report.all_sources"))}</option>` + D.sources.map((s,i)=>`<option value="${s.id}">#${i+1} ${esc(titleOf(s).slice(0,90))}</option>`).join("");
+  fs.value = cs;
+}
+function badgeDate(s){
+  const y = s.date ? s.date.slice(0,4) : "";
+  const key = {before:"report.date_before", after:"report.date_after", same_year:"report.date_same_year"}[s.date_status];
+  const txt = key ? t(key) + (y ? ` (${y})` : "") : t("report.date_unknown");
+  return `<span class="badge ${s.date_status==="after"?"warn":""}" title="${esc(s.date_note||"")}">${esc(txt)}</span>`; }
+function pairHTML(p){
+  const k = D.class_of[p.label] || "na";
+  const note = p.auto ? t("report.auto_label") : p.note;
+  return `<div class="pair">
+    <div class="ph"><span class="lab ${k}">${esc(labLabel(p.label))}</span>
+      <span>${esc(t("report.doc_page", {n: p.page}))}</span><span title="${esc(t("report.cov_hint"))}">· ${esc(t("report.cov", {pct: fmt(p.cov*100)}))}</span><span title="${esc(t("report.cont_hint"))}">· ${esc(t("report.cont", {pct: fmt(p.cont*100)}))}</span>
+      ${p.ev==="snippet"?`<span class="badge warn">${esc(t("report.snippet_only"))}</span>`:""}</div>
+    <div class="side"><div><div class="h">${esc(t("report.side_doc"))}</div>${p.d}</div><div><div class="h">${esc(t("report.side_src"))}</div>${p.s}</div></div>
+    ${note?`<div class="note">${esc(note)}</div>`:""}</div>`;
+}
+function srcCard(s, i){
+  const vc = VERDICT_CLASS[s.verdict] || "na";
+  const mini = D.classes.map(([k]) => s.cls_words[k] ? `<div style="flex:${s.cls_words[k]};background:${classColor(k)}" title="${esc(clsLabel(k))}: ${esc(t("report.words_short", {n: s.cls_words[k]}))}"></div>` : "").join("");
+  const pages = s.pages.slice(0,40).map(p=>`<button class="chip" data-page="${p}">${p}</button>`).join("") + (s.pages.length>40?" …":"");
+  const vbad = vc==="copy"?"bad":vc==="para"?"warn":vc==="ok"?"good":"";
+  const ev = s.evidence==="snippet" ? "report.ev_snippet" : s.evidence==="abstract" ? "report.ev_abstract" : "report.ev_fulltext";
+  const summary = s.auto_summary ? t("report.auto_summary") : s.summary;
+  return `<div class="src" style="--vc:${classColor(vc)}" data-id="${s.id}">
+    <div class="top"><div>
+      <div class="rank">#${i+1}</div>
+      <div class="ttl">${s.local ? esc(titleOf(s)) : `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(titleOf(s))}</a>`}</div>
+      <div class="dom">${esc(s.local ? t("report.local_file") : s.url)}</div></div></div>
+    <div class="badges">
+      <span class="badge v ${vbad}">${esc(verdictLabel(s.verdict))}</span>
+      ${s.confidence!=null?`<span class="badge">${esc(t("report.confidence", {pct: fmt(s.confidence*100)}))}</span>`:""}
+      ${badgeDate(s)}
+      <span class="badge ${s.evidence!=="fulltext"?"warn":""}">${esc(t(ev))}</span>
+      ${(s.ref_match||[]).length?`<span class="badge good" title="${esc(s.ref_match.join(" | "))}">${esc(t("report.in_refs"))}</span>`
+        : (s.in_refs||[]).length?`<span class="badge">${esc(t("report.authors_in_refs", {names: s.in_refs.join(", ")}))}</span>`
+        : `<span class="badge warn" title="${esc(t("report.not_in_refs_hint"))}">${esc(t("report.not_in_refs"))}</span>`}
+      ${s.mentions_author?`<span class="badge">${esc(t("report.mentions_author"))}</span>`:""}
+      ${(s.usage||[]).map(u=>`<span class="badge">${esc(t("usage."+u))}</span>`).join("")}
+    </div>
+    <div class="metrics">
+      <span>${esc(t("report.m_sentences"))}: <b>${s.n_pairs}</b></span>
+      <span>${esc(t("report.m_words"))}: <b>${fmt(s.words)}</b> (<b>${fmt(s.pct,2)} %</b> ${esc(t("report.m_of_text"))})</span>
+      <span>${esc(t("report.m_problem"))}: <b>${fmt(s.prob_pct,2)} %</b></span>
+      <span>${esc(t("report.m_longest"))}: <b>${fmt(s.longest)}</b> ${esc(t("report.words_unit"))}</span>
+    </div>
+    <div class="mini">${mini}</div>
+    ${summary?`<div class="summary">${esc(summary)}</div>`:""}
+    <div class="metrics"><span>${esc(t("report.m_pages"))}: <span class="chips">${pages}</span></span></div>
+    <button class="more">${esc(t("report.show_pairs", {n: s.pairs.length}))}</button>
+    <div class="pairs"></div></div>`;
+}
+function renderSources(){
+  const q = $("#q").value.trim().toLowerCase(), fv = $("#fv").value, op = $("#onlyprob").checked;
+  const list = D.sources.filter(s => (!fv || s.verdict===fv) && (!op || s.prob_words>0) &&
+    (!q || (titleOf(s)+" "+s.url+" "+s.summary+" "+s.pairs.map(p=>p.d).join(" ")).toLowerCase().includes(q)));
+  $("#srclist").innerHTML = list.length ? list.map(s=>srcCard(s, D.sources.indexOf(s))).join("") : `<div class="empty">${esc(t("report.no_sources_filtered"))}</div>`;
+}
+$("#srclist").addEventListener("click", e => {
+  const b = e.target.closest("button.more");
+  if (b){ const card = b.closest(".src"), box = card.querySelector(".pairs"), s = SRC[card.dataset.id];
+    if (!box.innerHTML) box.innerHTML = s.pairs.map(pairHTML).join("");
+    box.classList.toggle("on");
+    b.textContent = t(box.classList.contains("on") ? "report.hide_pairs" : "report.show_pairs", {n: s.pairs.length}); return; }
+  const c = e.target.closest(".chip");
+  if (c){ const card = c.closest(".src"); $("#fsrc").value = card.dataset.id; docRendered=false; gotoPage(+c.dataset.page, true); }
+});
+["#q","#fv","#onlyprob"].forEach(s => $(s).addEventListener("input", renderSources));
+
+/* document */
+function renderDoc(){
+  const only = $("#onlymatched").checked, fs = $("#fsrc").value;
+  const byPage = {};
+  D.doc.forEach(x => (byPage[x.p] ||= []).push(x));
+  let h = "";
+  Object.keys(byPage).map(Number).sort((a,b)=>a-b).forEach(p => {
+    const arr = byPage[p];
+    const has = arr.some(x => fs ? (pairIndex[x.i]||[]).some(o=>o.s.id===fs) : x.l);
+    if (only && !has) return;
+    h += `<div class="docpage" id="pg-${p}"><div class="pn"><span>${esc(t("report.page", {n: p}))}</span></div><p>` +
+      arr.map(x => {
+        let cls = x.l;
+        if (fs){ const o = (pairIndex[x.i]||[]).find(o=>o.s.id===fs); cls = o ? (D.class_of[o.p.label]||"na") : ""; }
+        return cls ? `<span class="s ${cls}" data-i="${x.i}">${esc(x.t)}</span> ` : esc(x.t)+" ";
+      }).join("") + `</p></div>`;
+  });
+  $("#doc").innerHTML = h || `<div class="empty">${esc(t("report.no_matched_pages"))}</div>`;
+  docRendered = true;
+}
+["#onlymatched","#fsrc"].forEach(s => $(s).addEventListener("input", renderDoc));
+function gotoPage(p, keepFilter){
+  if (!keepFilter) $("#fsrc").value = "";
+  $("#onlymatched").checked = false; setTab("doc"); renderDoc();
+  const el = document.getElementById("pg-"+p); if (el) el.scrollIntoView({behavior:"smooth", block:"start"});
+}
+$("#doc").addEventListener("click", e => {
+  const sp = e.target.closest(".s"); if (!sp) return;
+  document.querySelectorAll(".s.sel").forEach(x=>x.classList.remove("sel")); sp.classList.add("sel");
+  const fs = $("#fsrc").value;
+  let list = (pairIndex[+sp.dataset.i]||[]); if (fs) list = list.filter(o=>o.s.id===fs);
+  list = list.slice().sort((a,b) => (b.p.cov+b.p.cont) - (a.p.cov+a.p.cont));
+  $("#drawerin").innerHTML = list.map(o => `<div style="margin-bottom:6px"><b>${esc(titleOf(o.s))}</b>
+     <span class="tiny">${esc(o.s.domain)} · ${esc(verdictLabel(o.s.verdict))}</span></div>${pairHTML(o.p)}`).join("<hr style='border:0;border-top:1px solid var(--line)'>")
+     || `<div class="muted">${esc(t("report.no_source_text"))}</div>`;
+  $("#drawer").classList.add("on");
+});
+$("#drawerx").addEventListener("click", () => $("#drawer").classList.remove("on"));
+addEventListener("keydown", e => { if (e.key==="Escape") $("#drawer").classList.remove("on"); });
+
+/* others */
+function renderOthers(){
+  $("#n-sources").textContent = D.sources.length;
+  $("#n-others").textContent = D.others.length;
+  $("#unsel").textContent = D.stats.n_unselected ? t("report.unselected", {n: fmt(D.stats.n_unselected)}) : "";
+  $("#others").innerHTML = D.others.length ? `<table><thead><tr><th>${esc(t("report.th_source"))}</th><th>${esc(t("report.th_status"))}</th><th>${esc(t("report.th_date"))}</th><th class="num">${esc(t("report.th_hits"))}</th><th class="num">${esc(t("report.th_pairs"))}</th><th>${esc(t("report.th_reason"))}</th></tr></thead><tbody>` +
+    D.others.map(o => `<tr><td>${o.local ? esc(titleOf(o).slice(0,110)) : `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(titleOf(o).slice(0,110))}</a>`}<div class="dom">${esc(o.domain)}</div></td>
+      <td>${esc(t("status."+o.status))}</td><td>${esc(fmtDate(o.date) || t("date.unknown"))}${o.date && o.date_status && o.date_status!=="unknown" ? `<div class="tiny">${esc(t("date."+o.date_status))}</div>` : ""}</td>
+      <td class="num">${o.hits}</td><td class="num">${o.pairs}</td><td>${esc(t("reason."+o.reason, {n: o.pairs}))}</td></tr>`).join("") + "</tbody></table>"
+    : `<div class="empty">${esc(t("report.none"))}</div>`;
+}
+
+/* method */
+function renderMethod(){
+  const p = {from: D.meta.body_pages[0], to: D.meta.body_pages[1], sentences: fmt(D.stats.sentences)};
+  $("#pane-method").innerHTML = `<div class="card">
+<h2>${esc(t("report.method_title"))}</h2>
+<ol>${["m1","m2","m3","m4","m5","m6"].map(k => `<li><b>${esc(t("report.method."+k+"_title"))}</b> ${esc(t("report.method."+k, p))}</li>`).join("")}</ol>
+<h2>${esc(t("report.limitations"))}</h2>
+<ul>${["l1","l2","l3"].map(k => `<li>${esc(t("report.method."+k))}</li>`).join("")}</ul></div>`;
+  $("#footer").textContent = t("report.footer", {version: D.version || "", date: D.generated});
+}
+
+function renderAll(){
+  applyStatic(); renderHeader(); renderVerdict(); renderKpis(); renderComposition(); drawMap();
+  fillFilters(); renderSources(); renderOthers(); renderMethod();
+  if (docRendered) renderDoc();
+}
+$("#lang").innerHTML = LANGS.map(c => `<option value="${c}">${esc((D.locales[c]._meta||{}).name || c)}</option>`).join("");
+$("#lang").value = LANG;
+if (D.embedded) $(".langsel").style.display = "none";
+$("#lang").addEventListener("change", e => { LANG = e.target.value; try { localStorage.setItem("plagcheck.report.lang", LANG); } catch(err){} renderAll(); });
+renderAll();
+</script>
+</body>
+</html>

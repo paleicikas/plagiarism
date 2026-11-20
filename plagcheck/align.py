@@ -17,6 +17,8 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from .config import Config
+from .errors import PipelineError
+from .progress import activity
 from .util import (KVCache, Progress, content_tokens, log, ngrams, read_json, split_sentences, strip_accents,
                    tokens, write_json)
 
@@ -147,6 +149,8 @@ def _surnames(src: dict) -> list[str]:
 
 def run(cfg: Config):
     seg = read_json(cfg.path("segments.json"))
+    if not seg:
+        raise PipelineError("data.missing", "Run this first: python run.py extract", step="extract")
     sources = read_json(cfg.path("sources.json"), [])
     cands = {c["nurl"]: c for c in read_json(cfg.path("candidates.json"), [])}
     sents = seg["sentences"]
@@ -185,9 +189,10 @@ def run(cfg: Config):
                 src["manual"] = {"date": o.get("date"), "note": o.get("note", "")}
                 from .fetch import resolve_dates as _rd
                 _rd(src, doc_date)
-    prog = Progress(len(sources), "Comparing")
+    prog = Progress(len(sources), "Comparing", phase="align.compare")
+    prog.set(counters={"relevant": 0, "cat_identical": 0, "cat_minor_edit": 0, "cat_partial": 0, "cat_paraphrase": 0})
     for src in sources:
-        prog.tick()
+        prog.tick(current=activity("align", domain=src.get("domain", ""), title=(src.get("title") or "")[:100]))
         evidence = "fulltext"
         text = ""
         p = cfg.path("sources") / f"{src['sid']}.txt"
@@ -280,6 +285,10 @@ def run(cfg: Config):
         r["passages"] = passages(r["pairs"], sents)
         r["longest"] = max((ps["words"] for ps in r["passages"]), default=0)
         results.append(r)
+        if r["relevant"]:
+            prog.count("relevant")
+            for p in pairs:
+                prog.count("cat_" + p["cat"])
 
     # Wayback first capture for relevant sources without a reliable "before" date
     cache = KVCache(cfg.path("cache_fetch.sqlite"))
@@ -287,7 +296,9 @@ def run(cfg: Config):
     if need and cfg.use_wayback:
         from .fetch import wayback_first_capture, resolve_dates
         log(f"Checking archive (Wayback) dates for {len(need)} sources...")
+        pw = Progress(len(need), "Archive dates", phase="align.wayback")
         for r in need:
+            pw.tick(current=activity("wayback", domain=r.get("domain", "")))
             key = "cdx|" + r["url"]
             wb = cache.get(key)
             if wb is None:
