@@ -31,7 +31,6 @@ Get the newest build from **[Releases](https://github.com/paleicikas/plagiarism/
 |---|---|---|
 | Windows 10/11 | `Plagiarism-…-windows-x64-setup.exe` | Installs for the current user, no admin rights needed. A portable `.zip` is also available. |
 | macOS 11+ (Apple silicon) | `Plagiarism-…-macos-arm64.dmg` | Drag *Plagiarism* to *Applications*. |
-| macOS 11+ (Intel) | `Plagiarism-…-macos-x64.dmg` | Same as above. |
 | Linux (x86-64) | `Plagiarism-…-linux-x86_64.AppImage` | `chmod +x Plagiarism-*.AppImage` and run it. |
 
 The builds are not code-signed, so the system warns the first time:
@@ -156,7 +155,7 @@ seeds file. Thresholds: `plagcheck/align.py` (`categorize`) and `plagcheck/colle
 ### Builds and releases
 
 `.github/workflows/build.yml` runs on every push to `main`: tests, then PyInstaller builds on Windows, macOS
-(Apple silicon and Intel) and Linux, a `--selftest` of every build, packaging (Inno Setup installer + portable zip,
+(Apple silicon) and Linux, a `--selftest` of every build, packaging (Inno Setup installer + portable zip,
 dmg, AppImage) and a GitHub release `v<X.Y>.<run number>` (X.Y from `pyproject.toml`) marked as latest. Only the 10
 newest releases are kept. Pull requests build the same files as workflow artifacts. Changes only to `site/` or
 Markdown files do not trigger a build; they deploy the website through `.github/workflows/pages.yml`.

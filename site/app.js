@@ -174,6 +174,7 @@
     $$("[data-asset]").forEach(function (el) {
       var x = asset(el.dataset.asset);
       el.href = x ? x.url : RELEASES + "/latest";
+      el.hidden = !!release && !x;           // e.g. no Intel macOS build in this release
       var old = $(".size", el); if (old) old.remove();
       if (x && x.size > 2e6) { var s = document.createElement("span"); s.className = "size"; s.textContent = " · " + mb(x.size); el.appendChild(s); }
     });

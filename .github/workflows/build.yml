@@ -1,6 +1,6 @@
 name: Build
 
-# Every push to main builds the app for Windows, macOS (Apple silicon + Intel) and Linux and publishes
+# Every push to main builds the app for Windows, macOS (Apple silicon) and Linux and publishes
 # a GitHub release (marked "latest" – the website's download buttons point at it).
 # Pull requests only build and upload the files as workflow artifacts.
 on:
@@ -52,7 +52,7 @@ jobs:
         include:
           - { os: windows-latest, target: windows-x64 }
           - { os: macos-latest, target: macos-arm64 }
-          - { os: macos-15-intel, target: macos-x64 }
+          # Intel macOS (macos-15-intel, target macos-x64) is not built: its runner is too slow.
           - { os: ubuntu-22.04, target: linux-x86_64 }
     runs-on: ${{ matrix.os }}
     env:
@@ -151,7 +151,7 @@ jobs:
           make_latest: "true"
           files: release/*
           body: |
-            **Download:** Windows – `…-windows-x64-setup.exe` (or the portable `.zip`) · macOS – `…-macos-arm64.dmg` (Apple silicon) or `…-macos-x64.dmg` (Intel) · Linux – `….AppImage`.
+            **Download:** Windows – `…-windows-x64-setup.exe` (or the portable `.zip`) · macOS – `…-macos-arm64.dmg` (Apple silicon) · Linux – `….AppImage`.
 
             The builds are not code-signed: Windows SmartScreen may show "Windows protected your PC" (click *More info → Run anyway*); on macOS right-click the app and choose *Open* the first time. See the [guide](https://paleicikas.github.io/plagiarism/#start).
       - name: Keep only the 10 newest releases
